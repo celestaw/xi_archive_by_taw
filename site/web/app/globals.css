@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-:root { color-scheme: light; --paper: #f5f4ef; --ink: #242622; --muted: #626973; --line: #d6d7cf; --accent: #1059B5; --accent-border: #1059B5; --surface: #e9eef5; --selection-bg: #1059B5; --selection-ink: #fff; --sans: Arial, "Helvetica Neue", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif; --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+:root { color-scheme: light; --paper: #f5f4ef; --ink: #242622; --muted: #626973; --line: #d6d7cf; --accent: #1059B5; --accent-border: #1059B5; --surface: #e9eef5; --selection-bg: #1059B5; --selection-ink: #fff; --sans: "Segoe UI Variable", "Segoe UI", "Hiragino Sans", "Yu Gothic UI", "Yu Gothic", Meiryo, sans-serif; --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
 :root[data-theme="dark"] { color-scheme: dark; --paper: #101722; --ink: #e5eaf1; --muted: #b3bdcb; --line: #3c4b60; --accent: #0FAAFD; --accent-border: #0FAAFD; --surface: #182333; }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme]) { color-scheme: dark; --paper: #101722; --ink: #e5eaf1; --muted: #b3bdcb; --line: #3c4b60; --accent: #0FAAFD; --accent-border: #0FAAFD; --surface: #182333; }
@@ -72,7 +72,7 @@ p, h1, h2, h3, h4 { margin-top: 0; }
 .year-index h1 { font-size: 22px; font-weight: 600; margin-bottom: 20px; }
 .index-description { font-size: 12px; line-height: 1.9; color: var(--muted); margin-bottom: 25px; }
 .year-links { display: grid; grid-template-columns: 1fr 1fr; column-gap: 14px; }
-.year-links button { min-height: 34px; padding: 8px 4px; font: 12px var(--mono); display: flex; justify-content: space-between; border-bottom: 1px solid var(--line); }
+.year-links button { min-height: 34px; padding: 8px 4px; font: 700 13px var(--sans); font-variant-numeric: tabular-nums; display: flex; justify-content: space-between; border-bottom: 1px solid var(--line); }
 .year-links button:first-child, .year-links button:last-child { grid-column: 1 / -1; font-family: var(--sans); font-size: 11px; padding-block: 12px; }
 .year-links button span { font-size: 9px; opacity: .55; }
 .year-links button[aria-pressed="true"], .year-links button:hover { color: var(--accent); border-color: var(--accent); }
@@ -100,16 +100,16 @@ p, h1, h2, h3, h4 { margin-top: 0; }
 .results-heading { display: flex; justify-content: space-between; align-items: baseline; color: var(--muted); font-size: 12px; padding-bottom: 18px; gap: 12px; }
 .results-heading span:last-child { font: 10px var(--sans); }
 .year-heading { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; border-bottom: 1px solid var(--ink); padding-bottom: 6px; }
-.year-heading h2 { font-size: 22px; font-weight: 500; margin: 0; }
+.year-heading h2 { font-size: 22px; font-weight: 700; font-variant-numeric: tabular-nums; margin: 0; }
 .year-heading span { font-size: 11px; color: var(--muted); }
 .year-group + .year-group { margin-top: 20px; }
 .work-list { list-style: none; margin: 0; padding: 0; }
 .work-list > li { border-bottom: 1px solid var(--line); }
 .work-row { display: grid; grid-template-columns: 92px minmax(0,1fr) 20px; gap: 12px; min-height: 48px; padding: 6px 2px; align-items: center; }
 .work-date { padding-top: 0; }
-.work-date time { font: 12px var(--mono); }
+.work-date time { font: 600 12px var(--sans); font-variant-numeric: tabular-nums; }
 .work-date > span { display: block; font: 8px var(--mono); color: var(--muted); margin-top: 2px; }
-.work-info h3 { font-size: 16px; font-weight: 500; line-height: 1.4; margin: 0 0 2px; overflow-wrap: anywhere; }
+.work-info h3 { font-size: 16px; font-weight: 600; line-height: 1.4; margin: 0 0 2px; overflow-wrap: anywhere; }
 .work-info > p { display: inline; font-size: 11px; color: var(--muted); line-height: 1.6; margin: 0; }
 .date-kind { display: inline; font-size: 11px; line-height: 1.6; color: var(--muted); }
 .work-info .date-kind::before { content: " / "; }
@@ -229,7 +229,7 @@ p, h1, h2, h3, h4 { margin-top: 0; }
   .year-index h1 { font-size: 22px; margin-bottom: 14px; }
   .index-description, .index-footnote { display: none; }
   .year-links { display: flex; gap: 20px; overflow-x: auto; padding: 3px 4px 10px; margin-inline: -4px; scrollbar-width: thin; }
-  .year-links button, .year-links button:first-child, .year-links button:last-child { flex-shrink: 0; min-height: 44px; padding: 10px 0; font-size: 12px; gap: 10px; }
+  .year-links button, .year-links button:first-child, .year-links button:last-child { flex-shrink: 0; min-height: 44px; padding: 10px 0; font-size: 13px; gap: 10px; }
   .year-links button span { display: none; }
   .floating-years { display: block; position: fixed; inset: 0 0 auto; z-index: 30; padding: env(safe-area-inset-top) 24px 0; background: var(--paper); border-bottom: 1px solid var(--line); transform: translateY(-100%); visibility: hidden; transition: transform 280ms cubic-bezier(.16, 1, .3, 1), visibility 280ms; }
   .floating-years.is-visible { transform: translateY(0); visibility: visible; }
