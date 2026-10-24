@@ -24,8 +24,8 @@ export function CollectionRecord({ kind, id }: { kind: CollectionKind; id: strin
         {kind === "album" && <span className="collection-track-number" aria-label={track.track_number === null ? "曲順未確認" : `${track.disc ? `Disc ${track.disc} ` : ""}第${track.track_number}曲`}>{track.disc ? `${track.disc}.` : ""}{track.track_number?.toString().padStart(2, "0") ?? "—"}</span>}
         <div className="collection-track-info">
           <h3>{track.work_id ? <Link href={`/works/${track.work_id}`}>{track.title}</Link> : track.title}</h3>
-          <p>{track.credited_name}{track.role.startsWith("他者") && <> / {track.role}</>}{track.work_id && track.attribution === "unverified" && <span className="inline-label unverified">帰属未確認</span>}</p>
-          <details><summary>出典・担当</summary><p>{track.evidence}</p>{track.role && track.role !== "担当未確認" && <p>担当：{track.role}</p>}{track.note && <p>{track.note}</p>}<p>資料確認日：{track.checked_on.replaceAll("-", ".")}</p><a href={track.source_url} target="_blank" rel="noopener noreferrer">資料を開く<span className="sr-only">（新しいタブ）</span></a></details>
+          <p>{track.credited_name}{track.role.startsWith("他者") && <> / {track.role}</>}{track.listing_kind !== "収録" && <span className="inline-label">{track.listing_kind}</span>}{track.work_id && track.attribution === "unverified" && <span className="inline-label unverified">帰属未確認</span>}</p>
+          <details><summary>出典・担当</summary><p>{track.evidence}</p>{track.edition && <p>版・収録先：{track.edition}</p>}{track.role && track.role !== "担当未確認" && <p>担当：{track.role}</p>}{track.note && <p>{track.note}</p>}<p>資料確認日：{track.checked_on.replaceAll("-", ".")}</p><a href={track.source_url} target="_blank" rel="noopener noreferrer">資料を開く<span className="sr-only">（新しいタブ）</span></a></details>
         </div>
         {track.listening && <a className="collection-listen" href={track.listening.url} target="_blank" rel="noopener noreferrer" aria-label={`${track.title}の公式試聴（新しいタブ）`}>試聴</a>}
       </li>)}</ol>

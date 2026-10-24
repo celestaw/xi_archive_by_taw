@@ -41,15 +41,25 @@
     "release-99d25ee801"
   ],
   "games": [
+    "arcaea",
+    "bms",
     "chunithm",
+    "cytus",
+    "cytus2",
     "deemo2",
     "in-falsus",
+    "music-diver",
     "museca",
     "sdvx",
     "iidx",
     "maimai",
+    "osu",
     "ongeki",
+    "chrono-circle",
+    "groove-coaster-switch",
+    "groove-coaster",
     "sdvx-konaste",
+    "project-sekai",
     "danmaku"
   ]
 }

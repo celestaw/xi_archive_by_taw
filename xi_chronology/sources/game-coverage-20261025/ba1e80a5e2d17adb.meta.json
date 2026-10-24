@@ -1,0 +1,13 @@
+{
+  "url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+  "key": "ba1e80a5e2d17adb",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+  "sha256": "33ee5a190c13b9475fd6944be5861f3d2d5da8e7d27f3d622d39ed00fdf9ae38",
+  "bytes": 219326,
+  "title": "",
+  "links": [],
+  "read_limit_reached": false
+}

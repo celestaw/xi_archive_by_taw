@@ -1,11 +1,11 @@
 {
   "meta": {
     "schema_version": 1,
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "total_entries": 251,
-    "credited_entries": 159,
-    "dated_entries": 139,
-    "undated_entries": 112,
+    "credited_entries": 161,
+    "dated_entries": 140,
+    "undated_entries": 111,
     "years": [
       2005,
       2006,
@@ -60,6 +60,7 @@
       "HARDCORE CHALLENGE",
       "LOSTAIR EP",
       "League The k4sen Original Sound Track",
+      "MUSIC DIVER",
       "MÚSECA 1+1/2",
       "P.D.M.[β] -brillante-",
       "Parousia",
@@ -77,6 +78,7 @@
       "TuneCore",
       "WBC:DAIDA",
       "World Fragments",
+      "YouTube（taitochannel / MUSIC DIVER）",
       "YouTube（xi Official）",
       "maimai ALL PERFECT COLLECTiON RELEASE PARTY",
       "muzie",
@@ -20797,15 +20799,26 @@
       "id": "XI-214",
       "title": "Qualia Crystal",
       "aliases": [],
-      "credited_name": "名義未確認",
-      "role": "担当未確認",
-      "attribution": "unverified",
-      "earliest_record": null,
-      "has_official_listening": false,
+      "credited_name": "xi",
+      "role": "アーティスト表記：xi（個別の制作分担は未確認）",
+      "attribution": "credited",
+      "earliest_record": {
+        "id": "GAME-COVERAGE-XI-214-VIDEO",
+        "date": "2025-04-27",
+        "precision": "day",
+        "kind": "ゲーム運営の紹介動画公開日（初収録日ではない）",
+        "medium": "YouTube（taitochannel / MUSIC DIVER）",
+        "source_url": "https://www.youtube.com/watch?v=_02OtxIa0xM",
+        "evidence": "保存した公式動画メタデータのpublishDate 2025-04-26T20:00:38-07:00を日本時間へ換算。楽曲の初公開日・ゲーム初収録日とは確定しない。",
+        "version": "公式楽曲紹介映像",
+        "checked_on": "2026-10-25",
+        "true_first_publication_confirmed": false
+      },
+      "has_official_listening": true,
       "is_variant": false,
       "attribution_basis": {
-        "verdict": "unverified",
-        "summary": "xiの作品と判断できる一次資料は未確認。入力資料に掲載された調査候補として残している。",
+        "verdict": "primary_credit",
+        "summary": "追加調査で曲別の一次クレジットを確認。名義は『xi』。タイトー公式の公開楽曲一覧データ（music_id=5）に曲名とartist_name: xiを確認。",
         "inclusion": [
           {
             "kind": "input",
@@ -20820,6 +20833,26 @@
         ],
         "sources": [
           {
+            "kind": "primary",
+            "label": "MUSIC DIVER公式・公開曲目データ",
+            "url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+            "locator": "music_id=5 / music_title / artist_name / artist_id=51",
+            "credit": "xi",
+            "summary": "タイトー公式の公開楽曲一覧データ（music_id=5）に曲名とartist_name: xiを確認。",
+            "identity_note": "公式一覧の同一artist_id=51に既知のFREEDOM DiVE↓・Halcyonと掲載。Qualia Crystalの公式紹介動画は本人xi Officialへリンク。",
+            "checked_on": "2026-10-25"
+          },
+          {
+            "kind": "primary",
+            "label": "タイトー公式MUSIC DIVER楽曲紹介Part3",
+            "url": "https://www.youtube.com/watch?v=_02OtxIa0xM",
+            "locator": "videoDetails / channelId / 使用楽曲・アーティスト・本人リンク",
+            "credit": "xi",
+            "summary": "taitochannelの説明欄に使用楽曲Qualia Crystal、アーティストxiとxi Officialへのリンクを確認。",
+            "identity_note": "説明欄のwww.youtube.com/c/xiOfficialと既知の本人チャンネルを照合。同名表記だけで判断していない。",
+            "checked_on": "2026-10-25"
+          },
+          {
             "kind": "lead",
             "label": "補助Excelに記載された探索先（未検証）",
             "url": "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1",
@@ -20831,22 +20864,43 @@
           }
         ],
         "limitations": [
-          "本人・レーベル・ゲーム運営・当時の登録資料で曲名と担当を確認する必要がある。未確認は誤情報との確定を意味しない。"
+          "資料の確認日は各出典に表示。追加資料は個別に確認したが、それ以前の全出典を再検証したことは意味しない。",
+          "MUSIC DIVER公開曲目の内部日付2021-01-01は初収録日として不採用。より早い公開記録を追加調査する。"
         ],
         "reviewed_on": "2026-10-24"
       },
       "comment": "",
-      "records": [],
+      "records": [
+        {
+          "id": "GAME-COVERAGE-XI-214-VIDEO",
+          "date": "2025-04-27",
+          "precision": "day",
+          "kind": "ゲーム運営の紹介動画公開日（初収録日ではない）",
+          "medium": "YouTube（taitochannel / MUSIC DIVER）",
+          "source_url": "https://www.youtube.com/watch?v=_02OtxIa0xM",
+          "evidence": "保存した公式動画メタデータのpublishDate 2025-04-26T20:00:38-07:00を日本時間へ換算。楽曲の初公開日・ゲーム初収録日とは確定しない。",
+          "version": "公式楽曲紹介映像",
+          "checked_on": "2026-10-25",
+          "true_first_publication_confirmed": false
+        }
+      ],
       "creation_records": [],
-      "listening": [],
+      "listening": [
+        {
+          "url": "https://www.youtube.com/watch?v=_02OtxIa0xM",
+          "label": "タイトー公式YouTube",
+          "version": "公式楽曲紹介映像",
+          "official_basis": "taitochannelのMUSIC DIVER紹介。説明欄にタイトー著作権表記・ゲーム公式サイト・xi本人チャンネルへのリンク。",
+          "officialness_source_url": "https://musicdiver.jp/",
+          "availability": "紹介映像の掲載を確認。全曲フル尺の公開とはしない。"
+        }
+      ],
       "relationships": [],
       "issues": [
-        "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
         "真の初公開日は未確定。作曲日は未確認。",
-        "日付未確認。曲を削除せず保留。",
-        "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+        "MUSIC DIVER公開曲目の内部日付2021-01-01は初収録日として不採用。より早い公開記録を追加調査する。"
       ],
-      "checked_on": "2026-10-23"
+      "checked_on": "2026-10-25"
     },
     {
       "id": "XI-215",
@@ -21404,15 +21458,15 @@
       "id": "XI-223",
       "title": "Solar Storm",
       "aliases": [],
-      "credited_name": "名義未確認",
-      "role": "担当未確認",
-      "attribution": "unverified",
+      "credited_name": "xi",
+      "role": "アーティスト表記：xi（個別の制作分担は未確認）",
+      "attribution": "credited",
       "earliest_record": null,
       "has_official_listening": false,
       "is_variant": false,
       "attribution_basis": {
-        "verdict": "unverified",
-        "summary": "xiの作品と判断できる一次資料は未確認。入力資料に掲載された調査候補として残している。",
+        "verdict": "primary_credit",
+        "summary": "追加調査で曲別の一次クレジットを確認。名義は『xi』。タイトー公式の公開楽曲一覧データ（music_id=204）に曲名とartist_name: xiを確認。",
         "inclusion": [
           {
             "kind": "input",
@@ -21437,6 +21491,16 @@
         ],
         "sources": [
           {
+            "kind": "primary",
+            "label": "MUSIC DIVER公式・公開曲目データ",
+            "url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+            "locator": "music_id=204 / music_title / artist_name / artist_id=51",
+            "credit": "xi",
+            "summary": "タイトー公式の公開楽曲一覧データ（music_id=204）に曲名とartist_name: xiを確認。",
+            "identity_note": "公式一覧の同一artist_id=51に既知のFREEDOM DiVE↓・Halcyonと掲載。Qualia Crystalの公式紹介動画は本人xi Officialへリンク。",
+            "checked_on": "2026-10-25"
+          },
+          {
             "kind": "lead",
             "label": "補助Excelに記載された探索先（未検証）",
             "url": "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1",
@@ -21448,22 +21512,34 @@
           }
         ],
         "limitations": [
-          "本人・レーベル・ゲーム運営・当時の登録資料で曲名と担当を確認する必要がある。未確認は誤情報との確定を意味しない。"
+          "資料の確認日は各出典に表示。追加資料は個別に確認したが、それ以前の全出典を再検証したことは意味しない。"
         ],
         "reviewed_on": "2026-10-24"
       },
       "comment": "",
-      "records": [],
+      "records": [
+        {
+          "id": "GAME-COVERAGE-XI-223-CREDIT",
+          "date": null,
+          "precision": null,
+          "kind": "ゲーム公式曲目への掲載確認（初収録日未確認）",
+          "medium": "MUSIC DIVER",
+          "source_url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+          "evidence": "タイトー公式の公開楽曲一覧データ（music_id=204）に曲名とartist_name: xiを確認。",
+          "version": "ゲーム収録版（他媒体との音源同一性は未同定）",
+          "checked_on": "2026-10-25",
+          "true_first_publication_confirmed": false
+        }
+      ],
       "creation_records": [],
       "listening": [],
       "relationships": [],
       "issues": [
-        "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
         "真の初公開日は未確定。作曲日は未確認。",
         "日付未確認。曲を削除せず保留。",
         "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
       ],
-      "checked_on": "2026-10-23"
+      "checked_on": "2026-10-25"
     },
     {
       "id": "XI-224",

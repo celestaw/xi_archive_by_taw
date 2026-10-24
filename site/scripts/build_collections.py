@@ -22,6 +22,7 @@ GAME_NAMES = {
     "sdvx-konaste": "コナステ SOUND VOLTEX III", "sdvx": "SOUND VOLTEX",
     "museca": "MÚSECA 1+1/2", "iidx": "beatmania IIDX", "deemo2": "DEEMO II",
     "danmaku": "東方ダンマクカグラ ファンタジア・ロスト", "in-falsus": "In Falsus",
+    "bms": "BMS", "osu": "osu!",
 }
 SEGA_GAMES = {"maimai.sega.jp": "maimai", "chunithm.sega.jp": "chunithm", "ongeki.sega.jp": "ongeki"}
 
@@ -161,7 +162,23 @@ def build():
             release_records(medium=title), "このアーカイブで確認できたxi関連の収録曲を掲載。")
 
     games = {}
+    game_notes = {
+        "bms": "BMSイベントへの作品登録を掲載。市販ゲームの収録曲や現在の配布状況を示すものではありません。",
+        "osu": "Featured Artistの公式許諾曲一覧。標準搭載曲や公式譜面の一覧とは異なります。",
+    }
     for work in works:
+        for record in work["records"]:
+            medium = record["medium"]
+            if medium not in {"BMSイベント", "osu! Featured Artist"}:
+                continue
+            id = "bms" if medium == "BMSイベント" else "osu"
+            item = track(work, work["title"], work["credited_name"], record["source_url"],
+                record["evidence"], record["checked_on"],
+                listening=next((link for link in work["listening"] if link["url"] == record["source_url"]), None))
+            item["listing_kind"] = "BMS登録" if id == "bms" else "公式許諾曲"
+            item["note"] = (f"資料上の{record['kind']}：{record['date']}。作曲日・真の初公開日とは断定しない。"
+                if id == "bms" else "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。")
+            games.setdefault(id, {}).setdefault(work["id"], item)
         for source in work["attribution_basis"]["sources"]:
             if source["kind"] != "primary" or not source["url"]:
                 continue
@@ -200,10 +217,28 @@ def build():
                 games.setdefault(id, {}).setdefault(work["id"], track(work, work["title"], source["credit"], url,
                     evidence, source["checked_on"], note="ゲームの初収録日・現在の配信状況は未確認。",
                     listening=next((link for link in work["listening"] if link["url"] == url), None)))
+    additions = json.loads((ROOT / "xi_chronology/data/game_research.json").read_text(encoding="utf-8"))
+    by_id = {w["id"]: w for w in works}
+    for game in additions["games"]:
+        id = game["id"]
+        GAME_NAMES[id] = game["title"]
+        game_notes[id] = game["note"]
+        for source in game["tracks"]:
+            work = by_id[source["work_id"]]
+            note = source["note"]
+            if work["attribution"] == "unverified":
+                note += " " + (source["identity_note"] or "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。")
+            item = track(work, source["title"], source["credited_name"], source["source_url"],
+                source["evidence"], source["checked_on"], role=source["role"] or None,
+                listening=source["listening"], note=note.strip())
+            item.update(listing_kind=source["listing_kind"], edition=source["edition"])
+            games.setdefault(id, {}).setdefault(work["id"], item)
+    review["held"].extend(additions["candidates"])
+    review["rules"].extend(additions["limitations"])
     for id, members in sorted(games.items(), key=lambda item: GAME_NAMES[item[0]]):
         tracks = sorted(members.values(), key=lambda t: norm(t["title"]))
         add_collection(id, "game", GAME_NAMES[id], "ゲーム", tracks[0]["source_url"], tracks,
-            note="既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。")
+            note=game_notes.get(id, "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"))
 
     if len({(c["kind"], c["id"]) for c in collections}) != len(collections):
         raise ValueError("Duplicate collection IDs")

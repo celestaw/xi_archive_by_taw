@@ -919,6 +919,23 @@
           "note": {
             "type": "string",
             "title": "Note"
+          },
+          "listing_kind": {
+            "type": "string",
+            "enum": [
+              "収録",
+              "BMS登録",
+              "公式許諾曲",
+              "追加告知",
+              "大会向け提供"
+            ],
+            "title": "Listing Kind",
+            "default": "収録"
+          },
+          "edition": {
+            "type": "string",
+            "title": "Edition",
+            "default": ""
           }
         },
         "additionalProperties": false,

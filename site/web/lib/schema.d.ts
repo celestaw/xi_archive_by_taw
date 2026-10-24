@@ -299,6 +299,17 @@ export interface components {
             listening: components["schemas"]["ListeningLink"] | null;
             /** Note */
             note: string;
+            /**
+             * Listing Kind
+             * @default 収録
+             * @enum {string}
+             */
+            listing_kind: "収録" | "BMS登録" | "公式許諾曲" | "追加告知" | "大会向け提供";
+            /**
+             * Edition
+             * @default
+             */
+            edition: string;
         };
         /** ErrorBody */
         ErrorBody: {

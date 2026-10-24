@@ -17,7 +17,7 @@ export function CollectionIndex({ kind }: { kind: CollectionKind }) {
 
   return <main id="main" className="shell collection-page">
     <h1>{title}</h1>
-    <p className="collection-notice">既存資料で確認できた収録情報を掲載しています。</p>
+    <p className="collection-notice">{kind === "game" ? "確認できた収録・提供・BMS登録・公式許諾の記録。全曲の照合は継続中です。" : "既存資料で確認できた収録情報を掲載しています。"}</p>
     <form className="search-form collection-search" role="search" onSubmit={event => event.preventDefault()}>
       <span className="search-icon" aria-hidden="true" />
       <label className="sr-only" htmlFor="collection-search">{title}名で検索</label>

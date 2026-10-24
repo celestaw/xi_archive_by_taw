@@ -814,12 +814,98 @@
       "work_id": "XI-161",
       "reason": "大会向け書き下ろしは確認。通常のゲーム内収録を別途確認する。",
       "source_url": "https://www.youtube.com/watch?v=VNK8leVFy-g"
+    },
+    {
+      "game": "Cytus",
+      "original": "Parousia",
+      "input_id": "NOTE-150",
+      "source_url": "https://note.com/taw_fr0mug/n/nff07ee8d5758",
+      "status": "一次資料の追加照合が必要"
+    },
+    {
+      "game": "Cytus",
+      "original": "Zauberkugel",
+      "input_id": "NOTE-151",
+      "source_url": "https://note.com/taw_fr0mug/n/nff07ee8d5758",
+      "status": "一次資料の追加照合が必要"
+    },
+    {
+      "game": "Cytus",
+      "original": "Niflheimr",
+      "input_id": "NOTE-152",
+      "source_url": "https://note.com/taw_fr0mug/n/nff07ee8d5758",
+      "status": "一次資料の追加照合が必要"
+    },
+    {
+      "game": "Cytus",
+      "original": "REVOLUXIONIST",
+      "input_id": "NOTE-153",
+      "source_url": "https://note.com/taw_fr0mug/n/nff07ee8d5758",
+      "status": "一次資料の追加照合が必要"
+    },
+    {
+      "game": "Arcaea",
+      "original": "Halcyon",
+      "source_url": "https://wikiwiki.jp/arcaea/",
+      "status": "Wikiは探索用。曲別のゲーム運営一次資料を追加照合。radio editをアルバム版と同一音源にしない。"
+    },
+    {
+      "game": "Arcaea",
+      "original": "Tiferet",
+      "source_url": "https://wikiwiki.jp/arcaea/",
+      "status": "Wikiは探索用。曲別のゲーム運営一次資料を追加照合。radio editをアルバム版と同一音源にしない。"
+    },
+    {
+      "game": "Arcaea",
+      "original": "Dreadnought",
+      "source_url": "https://wikiwiki.jp/arcaea/",
+      "status": "Wikiは探索用。曲別のゲーム運営一次資料を追加照合。radio editをアルバム版と同一音源にしない。"
+    },
+    {
+      "game": "Arcaea",
+      "original": "World Fragments III(radio edit)",
+      "source_url": "https://wikiwiki.jp/arcaea/",
+      "status": "Wikiは探索用。曲別のゲーム運営一次資料を追加照合。radio editをアルバム版と同一音源にしない。"
+    },
+    {
+      "game": "Arcaea",
+      "original": "Parallax",
+      "source_url": "https://wikiwiki.jp/arcaea/",
+      "status": "Wikiは探索用。曲別のゲーム運営一次資料を追加照合。radio editをアルバム版と同一音源にしない。"
+    },
+    {
+      "game": "クロノサークル",
+      "original": "Aragami",
+      "source_url": "https://vgost.fandom.com/wiki/Xi",
+      "status": "二次資料の探索候補。公式曲目ページはSSOへの転送で取得できず。"
+    },
+    {
+      "game": "クロノサークル",
+      "original": "FREEDOM DiVE↓",
+      "source_url": "https://vgost.fandom.com/wiki/Xi",
+      "status": "二次資料の探索候補。公式曲目ページはSSOへの転送で取得できず。"
+    },
+    {
+      "game": "クロノサークル",
+      "original": "Halcyon",
+      "source_url": "https://vgost.fandom.com/wiki/Xi",
+      "status": "二次資料の探索候補。公式曲目ページはSSOへの転送で取得できず。"
+    },
+    {
+      "game": "クロノサークル",
+      "original": "Qualia Crystal",
+      "source_url": "https://vgost.fandom.com/wiki/Xi",
+      "status": "二次資料の探索候補。公式曲目ページはSSOへの転送で取得できず。"
     }
   ],
   "rules": [
     "曲別の一次クレジット・保存済み公式曲目を根拠にする。最も早い公開媒体だけから収録先を推測しない。",
     "osu! Featured Artistの許諾曲一覧を、ゲーム内の公式収録曲一覧へ読み替えない。",
     "動画公開日・ポータル登録日・アルバム発売日をゲーム初収録日へ転用しない。",
-    "ソロアルバムはゲストの編曲も含む公式曲目を保持。参加作品はxi関連の曲目に限定。曲名一致だけで別音源を同一版と確定しない。"
+    "ソロアルバムはゲストの編曲も含む公式曲目を保持。参加作品はxi関連の曲目に限定。曲名一致だけで別音源を同一版と確定しない。",
+    "挙げられた機種の一次資料を追加照合した途中成果であり、全収録曲の調査完了ではない。",
+    "プロセカ公式楽曲JSONは65曲のみでANiMA等を含まず、現行全曲一覧とは扱わない。",
+    "Arcaeaの探索先ALbxibB7X0Qは個人プレイ動画だったため、公式試聴・一次資料には採用しない。",
+    "その他の元リスト機種（太鼓、DEEMO、SEVENS CODE、Crossbeats等）も今後の調査対象。"
   ]
 }

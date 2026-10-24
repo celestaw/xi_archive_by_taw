@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"
+    />
+    <title>Cytus Song Previws</title>
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png" />
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+    <!-- scripts -->
+    <script src="//code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script src="//code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script>
+
+    <!-- css -->
+    <link rel="stylesheet" href="assets/css/style1.css" />
+  </head>
+  <body>
+    <!-- Google Tag Manager -->
+    <noscript
+      ><iframe
+        src="//www.googletagmanager.com/ns.html?id=GTM-NLB6VT"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "//www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-NLB6VT");
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <div data-role="page">
+      <!-- header -->
+      <div data-role="header" class="page-header" data-add-back-btn="true">
+        <a
+          href="index.html"
+          data-icon="arrow-l"
+          data-iconpos="notext"
+          data-direction="reverse"
+          data-rel="back"
+          rel="external"
+          >Back</a
+        >
+        <div class="logo"></div>
+        <a
+          href="index.html"
+          data-icon="home"
+          data-iconpos="notext"
+          data-direction="reverse"
+          rel="external"
+          class="ui-btn-right"
+          >Home</a
+        >
+      </div>
+      <!--/header -->
+
+      <!-- banner & title -->
+      <div class="bannerContainer">
+        <img src="assets/images/demo/slides/1.jpg" class="banner" />
+      </div>
+      <h2 class="pageTitle"><span>Song Preview List</span></h2>
+      <div class="shadow1box">
+        <img src="assets/images/shadow1.png" class="shadow1" alt="shadow" />
+      </div>
+      <!-- /banner & title -->
+
+      <!-- main content -->
+      <div data-role="content">
+        <!-- list begins -->
+        <div class="padd">
+          <div class="thumbnail-list">
+            <ul
+              data-filter-placeholder="Search..."
+              data-filter="true"
+              data-role="listview"
+              data-filter-theme="b"
+            >
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/fk0RNSz4zeg">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/chemicalstar.jpg" />
+                      <h3 class="ui-li-heading">Chemical Star</h3>
+                      <p class="ui-li-desc">by Tsukasa</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/89xWtLJiK0w">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/drg.jpg" />
+                      <h3 class="ui-li-heading">DRG</h3>
+                      <p class="ui-li-desc">by Ani</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/d9Z3PET_3as">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/entrance.jpg" />
+                      <h3 class="ui-li-heading">Entrance</h3>
+                      <p class="ui-li-desc">by Ice</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/UY-nPvUo2nM">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/green_eyes.jpg" />
+                      <h3 class="ui-li-heading">Green Eyes</h3>
+                      <p class="ui-li-desc">by Persona</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/d1OEN-nZsq0">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/hardlanding.jpg" />
+                      <h3 class="ui-li-heading">Hard Landing</h3>
+                      <p class="ui-li-desc">by Yamajet</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/gwRAYN3NUVI">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/iris.jpg" />
+                      <h3 class="ui-li-heading">Iris</h3>
+                      <p class="ui-li-desc">by sta</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/xb_T16PqQDE">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/light_up_my_love.jpg" />
+                      <h3 class="ui-li-heading">Light up my LOVE!!</h3>
+                      <p class="ui-li-desc">by ani feat. moco</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/aqCtJ28gXQA">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/nocturnal_type.jpg" />
+                      <h3 class="ui-li-heading">Nocturnal Type</h3>
+                      <p class="ui-li-desc">by switchworks</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/W3rbLKURDuo">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/parfume.jpg" />
+                      <h3 class="ui-li-heading">Les Parfums de L'Amour</h3>
+                      <p class="ui-li-desc">by naotyu- feat. miyu</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/L_156ofA2ms">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/precipitation.jpg" />
+                      <h3 class="ui-li-heading">Precipitation</h3>
+                      <p class="ui-li-desc">by Ice</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/-P_uxSKMEn0">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/retrospective.jpg" />
+                      <h3 class="ui-li-heading">retrospective</h3>
+                      <p class="ui-li-desc">by naotyu- feat. maya</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/lrSBEnuqmgo">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/sacred.jpg" />
+                      <h3 class="ui-li-heading">Sacred</h3>
+                      <p class="ui-li-desc">by Rabpit</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/Tu6MN7iUHjA">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/saika.jpg" />
+                      <h3 class="ui-li-heading">Saika</h3>
+                      <p class="ui-li-desc">by Rabpit</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/xXCAKszl_KE">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/sanctity.jpg" />
+                      <h3 class="ui-li-heading">Sanctity</h3>
+                      <p class="ui-li-desc">by Rabpit</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/nI1m2i5a5cA">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/secret_garden.jpg" />
+                      <h3 class="ui-li-heading">Secret Garden</h3>
+                      <p class="ui-li-desc">by AILE</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/gdQg0XaTwMc">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/the_silence.jpg" />
+                      <h3 class="ui-li-heading">The Silence</h3>
+                      <p class="ui-li-desc">by sta</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/kI3qd6rKSL4">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/ververg.jpg" />
+                      <h3 class="ui-li-heading">VERVERG</h3>
+                      <p class="ui-li-desc">by ani feat. b</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/nG-lRcFZARI">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/visions.jpg" />
+                      <h3 class="ui-li-heading">Visions</h3>
+                      <p class="ui-li-desc">by Tsukasa</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/fZJ16GyZab0">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/the_riddle_story.jpg" />
+                      <h3 class="ui-li-heading">The Riddle Story</h3>
+                      <p class="ui-li-desc">by Cranky</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/X5Jesw5G9O8">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/spectrum.jpg" />
+                      <h3 class="ui-li-heading">Spectrum</h3>
+                      <p class="ui-li-desc">Suzumetune</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/2oVtniw62B4">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/the_black_case.jpg" />
+                      <h3 class="ui-li-heading">The Black Case</h3>
+                      <p class="ui-li-desc">by KillerBlood</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/F9A77DFFIs8">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/otome.jpg" />
+                      <h3 class="ui-li-heading">Otome</h3>
+                      <p class="ui-li-desc">by Suzumetune</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/z4lmEEpYg6Q">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/lollipop.jpg" />
+                      <h3 class="ui-li-heading">Prismatic Lollipop</h3>
+                      <p class="ui-li-desc">by DJ Mashiro</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/vtJglEUNkw0">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/liberame.jpg" />
+                      <h3 class="ui-li-heading">Libera Me</h3>
+                      <p class="ui-li-desc">by Cranky</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/laTdlSCf7mc">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/halcyon.jpg" />
+                      <h3 class="ui-li-heading">Halcyon</h3>
+                      <p class="ui-li-desc">by Xi</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+
+              <li class="ui-btn-icon-right">
+                <div class="ui-btn-inner ui-li" aria-hidden="true">
+                  <div class="ui-btn-text">
+                    <a class="ui-link-inherit" href="https://youtu.be/gIL-Kfhmmss">
+                      <img class="ui-li-thumb" src="assets/images/pv_icons/cosmo.jpg" />
+                      <h3 class="ui-li-heading">Cosmo</h3>
+                      <p class="ui-li-desc">by HAMO</p>
+                    </a>
+                  </div>
+                  <span class="ui-icon ui-icon-arrow-r ui-icon-shadow"></span>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- list ends -->
+      </div>
+      <!-- /content -->
+
+      <!-- footer -->
+      <div data-role="footer">
+        <div data-role="navbar" class="custom-icons" data-grid="c" data-position="fixed">
+          <ul>
+            <li>
+              <a
+                href="https://itunes.apple.com/app/cytus/id485246824"
+                id="ios"
+                data-icon="custom"
+                data-theme="b"
+                >iOS</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://play.google.com/store/apps/details?id=com.rayark.Cytus.full"
+                id="android"
+                data-icon="custom"
+                data-theme="b"
+                >Android</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.facebook.com/rayark.Cytus"
+                id="facebook"
+                data-icon="custom"
+                data-theme="b"
+                data-ajax="false"
+                >Facebook</a
+              >
+            </li>
+            <li>
+              <a
+                href="twitter.html"
+                id="twitter"
+                data-icon="custom"
+                data-theme="b"
+                data-ajax="false"
+                >Tweets</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!-- /footer -->
+    </div>
+    <!-- /page -->
+  </body>
+</html>

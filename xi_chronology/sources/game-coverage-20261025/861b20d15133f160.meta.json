@@ -1,0 +1,16 @@
+{
+  "url": "https://pjsekai.sega.jp/assets/js/music.js",
+  "key": "861b20d15133f160",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://pjsekai.sega.jp/assets/js/music.js",
+  "sha256": "9ca3c2faec4052436775a8b9f8d0e375d731dc3426571f906ad2abd9708ac6d1",
+  "bytes": 4249,
+  "title": "",
+  "links": [
+    "\\\"modal/theme.html\\\"",
+    "\\\"modal/unit.html\\\""
+  ],
+  "read_limit_reached": false
+}

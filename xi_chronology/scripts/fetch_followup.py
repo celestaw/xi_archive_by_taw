@@ -40,12 +40,13 @@ class PageParser(HTMLParser):
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'sources' / 'followup-20261024'
+CHECKED_ON = '2026-10-24'
 OUT.mkdir(exist_ok=True)
 
 
 def fetch(url):
     key = hashlib.sha256(url.encode()).hexdigest()[:16]
-    item = dict(url=url, key=key, checked_on='2026-10-24')
+    item = dict(url=url, key=key, checked_on=CHECKED_ON)
     try:
         request = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         with urllib.request.urlopen(request, timeout=25) as response:
@@ -59,7 +60,8 @@ def fetch(url):
             (OUT / (key + '.bin')).write_bytes(data)
             text = data.decode(charset, errors='replace')
             item.update(status='retrieved', http_status=response.status, final_url=response.url,
-                        sha256=hashlib.sha256(data).hexdigest(), bytes=len(data))
+                        sha256=hashlib.sha256(data).hexdigest(), bytes=len(data),
+                        read_limit_reached=len(data) == 5_000_000)
         (OUT / (key + '.html')).write_text(text, encoding='utf-8')
         parser = PageParser()
         parser.feed(text)
@@ -73,10 +75,20 @@ def fetch(url):
 
 
 if __name__ == '__main__':
-    import sys
-    urls = json.loads(Path(sys.argv[1]).read_text(encoding='utf-8'))
+    import argparse
+    cli = argparse.ArgumentParser()
+    cli.add_argument('input')
+    cli.add_argument('--folder', default='followup-20261024')
+    cli.add_argument('--checked-on', default='2026-10-24')
+    args = cli.parse_args()
+    if not re.fullmatch(r'[a-zA-Z0-9-]+', args.folder):
+        cli.error('folder must be a simple source directory name')
+    OUT = ROOT / 'sources' / args.folder
+    OUT.mkdir(exist_ok=True)
+    CHECKED_ON = args.checked_on
+    urls = json.loads(Path(args.input).read_text(encoding='utf-8'))
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         results = list(pool.map(fetch, urls))
-    (OUT / (Path(sys.argv[1]).stem + '-fetch.json')).write_text(json.dumps(results, ensure_ascii=False, indent=2), encoding='utf-8')
+    (OUT / (Path(args.input).stem + '-fetch.json')).write_text(json.dumps(results, ensure_ascii=False, indent=2), encoding='utf-8')
     for item in results:
         print(item['status'], item['url'])
