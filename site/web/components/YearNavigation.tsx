@@ -11,6 +11,27 @@ export function YearNavigation({ meta, selected, onSelect }: Props) {
   const [floating, setFloating] = useState(false);
 
   useEffect(() => {
+    const media = window.matchMedia("(max-width: 760px)");
+    const cleanups: (() => void)[] = [];
+    for (const nav of [original.current, floatingNav.current]) {
+      if (!nav) continue;
+      const onWheel = (event: WheelEvent) => {
+        // Keep trackpad horizontal gestures, Shift+wheel, and browser zoom native.
+        if (!media.matches || event.ctrlKey || event.shiftKey || !event.cancelable || Math.abs(event.deltaX) >= Math.abs(event.deltaY)) return;
+        const unit = event.deltaMode === WheelEvent.DOM_DELTA_LINE ? 16 : event.deltaMode === WheelEvent.DOM_DELTA_PAGE ? nav.clientWidth : 1;
+        const next = Math.max(0, Math.min(nav.scrollWidth - nav.clientWidth, nav.scrollLeft + event.deltaY * unit));
+        // At either end, let the wheel scroll the page again.
+        if (Math.abs(next - nav.scrollLeft) < 1) return;
+        event.preventDefault();
+        nav.scrollTo({ left: next, behavior: "instant" });
+      };
+      nav.addEventListener("wheel", onWheel, { passive: false });
+      cleanups.push(() => nav.removeEventListener("wheel", onWheel));
+    }
+    return () => { for (const cleanup of cleanups) cleanup(); };
+  }, []);
+
+  useEffect(() => {
     if (!original.current) return;
     const media = window.matchMedia("(max-width: 760px)");
     const observer = new IntersectionObserver(([entry]) => {

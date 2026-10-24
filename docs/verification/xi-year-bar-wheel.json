@@ -1,0 +1,32 @@
+{
+  "viewport": "Chromium 337px",
+  "before": {
+    "left": 0,
+    "pageY": 1300
+  },
+  "down": {
+    "left": 442,
+    "pageY": 1300
+  },
+  "up": {
+    "left": 221,
+    "pageY": 1300
+  },
+  "rightEnd": {
+    "left": 1185,
+    "max": 1185,
+    "pageY": 1300
+  },
+  "atEnd": {
+    "left": 1185,
+    "pageY": 1742
+  },
+  "reverse": {
+    "left": 743,
+    "pageY": 1742
+  },
+  "original": {
+    "left": 442,
+    "pageY": 0
+  }
+}
