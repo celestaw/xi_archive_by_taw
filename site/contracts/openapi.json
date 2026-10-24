@@ -82,6 +82,200 @@
         }
       }
     },
+    "/api/v1/albums": {
+      "get": {
+        "summary": "List Albums",
+        "operationId": "listAlbums",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CollectionList"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Unprocessable Entity",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/albums/{album_id}": {
+      "get": {
+        "summary": "Get Album",
+        "operationId": "getAlbum",
+        "parameters": [
+          {
+            "name": "album_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Album Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CollectionDetail"
+                }
+              }
+            }
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Unprocessable Entity"
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Internal Server Error"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/api/v1/games": {
+      "get": {
+        "summary": "List Games",
+        "operationId": "listGames",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CollectionList"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Unprocessable Entity",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/games/{game_id}": {
+      "get": {
+        "summary": "Get Game",
+        "operationId": "getGame",
+        "parameters": [
+          {
+            "name": "game_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Game Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CollectionDetail"
+                }
+              }
+            }
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Unprocessable Entity"
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Internal Server Error"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Not Found"
+          }
+        }
+      }
+    },
     "/api/v1/works": {
       "get": {
         "summary": "List Works",
@@ -502,6 +696,248 @@
           "checked_on"
         ],
         "title": "AttributionSource"
+      },
+      "CollectionDetail": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "album",
+              "game"
+            ],
+            "title": "Kind"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "category": {
+            "type": "string",
+            "title": "Category"
+          },
+          "entry_count": {
+            "type": "integer",
+            "title": "Entry Count"
+          },
+          "source_url": {
+            "type": "string",
+            "title": "Source Url"
+          },
+          "release_records": {
+            "items": {
+              "$ref": "#/components/schemas/PublicationRecord"
+            },
+            "type": "array",
+            "title": "Release Records"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          },
+          "tracks": {
+            "items": {
+              "$ref": "#/components/schemas/CollectionTrack"
+            },
+            "type": "array",
+            "title": "Tracks"
+          },
+          "note": {
+            "type": "string",
+            "title": "Note"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "id",
+          "kind",
+          "title",
+          "category",
+          "entry_count",
+          "source_url",
+          "release_records",
+          "checked_on",
+          "tracks",
+          "note"
+        ],
+        "title": "CollectionDetail"
+      },
+      "CollectionList": {
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/components/schemas/CollectionSummary"
+            },
+            "type": "array",
+            "title": "Items"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "items"
+        ],
+        "title": "CollectionList"
+      },
+      "CollectionSummary": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "album",
+              "game"
+            ],
+            "title": "Kind"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "category": {
+            "type": "string",
+            "title": "Category"
+          },
+          "entry_count": {
+            "type": "integer",
+            "title": "Entry Count"
+          },
+          "source_url": {
+            "type": "string",
+            "title": "Source Url"
+          },
+          "release_records": {
+            "items": {
+              "$ref": "#/components/schemas/PublicationRecord"
+            },
+            "type": "array",
+            "title": "Release Records"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "id",
+          "kind",
+          "title",
+          "category",
+          "entry_count",
+          "source_url",
+          "release_records",
+          "checked_on"
+        ],
+        "title": "CollectionSummary"
+      },
+      "CollectionTrack": {
+        "properties": {
+          "work_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Work Id"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "credited_name": {
+            "type": "string",
+            "title": "Credited Name"
+          },
+          "role": {
+            "type": "string",
+            "title": "Role"
+          },
+          "attribution": {
+            "type": "string",
+            "enum": [
+              "credited",
+              "unverified"
+            ],
+            "title": "Attribution"
+          },
+          "disc": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Disc"
+          },
+          "track_number": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Track Number"
+          },
+          "source_url": {
+            "type": "string",
+            "title": "Source Url"
+          },
+          "evidence": {
+            "type": "string",
+            "title": "Evidence"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          },
+          "listening": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/ListeningLink"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "note": {
+            "type": "string",
+            "title": "Note"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "work_id",
+          "title",
+          "credited_name",
+          "role",
+          "attribution",
+          "disc",
+          "track_number",
+          "source_url",
+          "evidence",
+          "checked_on",
+          "listening",
+          "note"
+        ],
+        "title": "CollectionTrack"
       },
       "ErrorBody": {
         "properties": {

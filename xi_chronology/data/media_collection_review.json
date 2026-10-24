@@ -1,0 +1,825 @@
+{
+  "matching": [
+    {
+      "album": "AD:Nearly 180",
+      "track": "Zephyros",
+      "number": 1,
+      "work_id": "XI-031",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-nearly-180"
+    },
+    {
+      "album": "Parousia",
+      "track": "Parousia",
+      "number": 1,
+      "work_id": "XI-034",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "Parousia",
+      "track": "Finder keepers",
+      "number": 2,
+      "work_id": "XI-024",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "Parousia",
+      "track": "Evolve Cybernation",
+      "number": 3,
+      "work_id": "XI-036",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "Parousia",
+      "track": "PEACE BREAKER",
+      "number": 4,
+      "work_id": "XI-037",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "Parousia",
+      "track": "Blue Zenith",
+      "number": 5,
+      "work_id": "XI-015",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "Parousia",
+      "track": "Mirage Garden",
+      "number": 6,
+      "work_id": "XI-022",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "Parousia",
+      "track": "Ascension to Heaven",
+      "number": 7,
+      "work_id": "XI-021",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "Parousia",
+      "track": "Breakthrough Atmosphere",
+      "number": 8,
+      "work_id": "XI-035",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "Parousia",
+      "track": "Halcyon",
+      "number": 9,
+      "work_id": "XI-026",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "Parousia",
+      "track": "Beatrice",
+      "number": 10,
+      "work_id": "XI-033",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "Parousia",
+      "track": "Sedap Malam",
+      "number": 11,
+      "work_id": "XI-038",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "Parousia",
+      "track": "FREEDOM DiVE↓",
+      "number": 12,
+      "work_id": "XI-017",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia"
+    },
+    {
+      "album": "AD:PIANO",
+      "track": "天衣無縫",
+      "number": 5,
+      "work_id": "XI-039",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano"
+    },
+    {
+      "album": "AD:Drum’n Bass",
+      "track": "wild card",
+      "number": 23,
+      "work_id": "XI-045",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-drum-n-bass"
+    },
+    {
+      "album": "Agartha",
+      "track": "Niflheimr",
+      "number": 1,
+      "work_id": "XI-051",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/agartha"
+    },
+    {
+      "album": "Agartha",
+      "track": "天衣無縫",
+      "number": 2,
+      "work_id": "XI-039",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/agartha"
+    },
+    {
+      "album": "Agartha",
+      "track": "Information Transmission",
+      "number": 3,
+      "work_id": "XI-050",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/agartha"
+    },
+    {
+      "album": "Agartha",
+      "track": "wild card",
+      "number": 4,
+      "work_id": "XI-045",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/agartha"
+    },
+    {
+      "album": "Agartha",
+      "track": "HEAVENLY GALAXiES",
+      "number": 5,
+      "work_id": "XI-049",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/agartha"
+    },
+    {
+      "album": "Agartha",
+      "track": "Valhalla",
+      "number": 6,
+      "work_id": "XI-041",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/agartha"
+    },
+    {
+      "album": "Agartha",
+      "track": "Zauberkugel",
+      "number": 7,
+      "work_id": "XI-052",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/agartha"
+    },
+    {
+      "album": "Agartha",
+      "track": "Agartha",
+      "number": 8,
+      "work_id": "XI-048",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/agartha"
+    },
+    {
+      "album": "Agartha",
+      "track": "ハッピーエンドオブザワールド",
+      "number": 9,
+      "work_id": "XI-053",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/agartha"
+    },
+    {
+      "album": "AD:PIANO2",
+      "track": "Double Helix",
+      "number": 4,
+      "work_id": "XI-054",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano2"
+    },
+    {
+      "album": "HARDCORE CHALLENGE",
+      "track": "Res Novae",
+      "number": 21,
+      "work_id": "XI-058",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/hardcore-challenge"
+    },
+    {
+      "album": "AD:PIANO3",
+      "track": "Trinity Stream",
+      "number": 9,
+      "work_id": "XI-061",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano3"
+    },
+    {
+      "album": "AD:Nearly 120 seconds",
+      "track": "over the top",
+      "number": 3,
+      "work_id": "XI-062",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-nearly-120-seconds"
+    },
+    {
+      "album": "AD:PIANO VIVACE",
+      "track": "Cloud9",
+      "number": 13,
+      "work_id": "XI-066",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vivace"
+    },
+    {
+      "album": "Binary Blue : Answer",
+      "track": "xi - Blue quartz",
+      "number": 2,
+      "work_id": "XI-070",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/binary-blue-answer"
+    },
+    {
+      "album": "World Fragments",
+      "track": "Aragami",
+      "number": 1,
+      "work_id": "XI-059",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "World Fragments",
+      "track": "Double Helix",
+      "number": 2,
+      "work_id": "XI-054",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "World Fragments",
+      "track": "Tiferet",
+      "number": 3,
+      "work_id": "XI-075",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "World Fragments",
+      "track": "ANiMA",
+      "number": 4,
+      "work_id": "XI-072",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "World Fragments",
+      "track": "over the top",
+      "number": 5,
+      "work_id": "XI-062",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "World Fragments",
+      "track": "Dreadnought",
+      "number": 6,
+      "work_id": "XI-069",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "World Fragments",
+      "track": "Śiva",
+      "number": 7,
+      "work_id": "XI-079",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "World Fragments",
+      "track": "Hesperides",
+      "number": 8,
+      "work_id": "XI-074",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "World Fragments",
+      "track": "World Fragments I",
+      "number": 9,
+      "work_id": "XI-076",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "World Fragments",
+      "track": "World Fragments II",
+      "number": 10,
+      "work_id": "XI-077",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "World Fragments",
+      "track": "World Fragments III",
+      "number": 11,
+      "work_id": "XI-078",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "World Fragments",
+      "track": "Another Halcyon",
+      "number": 12,
+      "work_id": null,
+      "method": "unlinked_official_track",
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments"
+    },
+    {
+      "album": "Triangle – C89 Special Remixes EP",
+      "track": "ANiMAtion",
+      "number": 1,
+      "work_id": "XI-251",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/triangle-c89-special-remixes-ep"
+    },
+    {
+      "album": "Triangle – C89 Special Remixes EP",
+      "track": "Dst[ick]orv",
+      "number": 2,
+      "work_id": "XI-073",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/triangle-c89-special-remixes-ep"
+    },
+    {
+      "album": "RADIAL",
+      "track": "White Peak",
+      "number": 31,
+      "work_id": "XI-082",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/radial"
+    },
+    {
+      "album": "Evolved Chronicles",
+      "track": "Jackknife",
+      "number": 1,
+      "work_id": "XI-088",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles"
+    },
+    {
+      "album": "Evolved Chronicles",
+      "track": "Northward",
+      "number": 2,
+      "work_id": "XI-090",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles"
+    },
+    {
+      "album": "Evolved Chronicles",
+      "track": "Caramel Custard",
+      "number": 3,
+      "work_id": "XI-086",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles"
+    },
+    {
+      "album": "Evolved Chronicles",
+      "track": "Heat Haze",
+      "number": 4,
+      "work_id": "XI-087",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles"
+    },
+    {
+      "album": "Evolved Chronicles",
+      "track": "White Peak",
+      "number": 5,
+      "work_id": "XI-082",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles"
+    },
+    {
+      "album": "Evolved Chronicles",
+      "track": "Lemuria",
+      "number": 6,
+      "work_id": "XI-083",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles"
+    },
+    {
+      "album": "Evolved Chronicles",
+      "track": "Aparajita",
+      "number": 7,
+      "work_id": "XI-085",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles"
+    },
+    {
+      "album": "AD:PIANO V Noir",
+      "track": "Longinus",
+      "number": 4,
+      "work_id": "XI-096",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-v-noir"
+    },
+    {
+      "album": "Celt Challenge 2",
+      "track": "Turas-Mara",
+      "number": 4,
+      "work_id": "XI-097",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/celt-challenge-2"
+    },
+    {
+      "album": "EXCLUSIVE WAVES",
+      "track": "ANiMAtion",
+      "number": 6,
+      "work_id": "XI-251",
+      "method": "exact_title_and_xi_credit",
+      "source_url": "https://diversesystem.bandcamp.com/album/exclusive-waves"
+    },
+    {
+      "album": "EXCLUSIVE WAVES",
+      "track": "Dst[ick]orv",
+      "number": 7,
+      "work_id": "XI-073",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/exclusive-waves"
+    },
+    {
+      "album": "EXCLUSIVE WAVES",
+      "track": "Orca",
+      "number": 11,
+      "work_id": "XI-098",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/exclusive-waves"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "Longinus",
+      "number": 1,
+      "work_id": "XI-096",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "Bad Elixir",
+      "number": 2,
+      "work_id": "XI-099",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "Iolite",
+      "number": 3,
+      "work_id": "XI-105",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "Qliphot",
+      "number": 4,
+      "work_id": "XI-106",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "To Live",
+      "number": 5,
+      "work_id": "XI-107",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "Hyper Vivacity",
+      "number": 6,
+      "work_id": "XI-104",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "Cyberspace",
+      "number": 7,
+      "work_id": "XI-102",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "Ancient Relics",
+      "number": 8,
+      "work_id": "XI-101",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "Albatross",
+      "number": 9,
+      "work_id": "XI-100",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "Parousia (Blacklolita Remix)",
+      "number": 10,
+      "work_id": null,
+      "method": "unlinked_official_track",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "Halcyon (lapix Remix)",
+      "number": 11,
+      "work_id": null,
+      "method": "unlinked_official_track",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "Quietus Ray",
+      "track": "FREEDOM DiVE[METAL†DIMENSIONS]",
+      "number": 12,
+      "work_id": "XI-103",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray"
+    },
+    {
+      "album": "AD:PIANO REMIXES -Season 1-",
+      "track": "Ωκεανος (xi Remix)",
+      "number": 1,
+      "work_id": "XI-113",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-remixes-season-1"
+    },
+    {
+      "album": "AD:PIANO REMIXES -Season 1-",
+      "track": "天衣無縫 (EmoCo Remix)",
+      "number": 6,
+      "work_id": null,
+      "method": "unlinked_official_track",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-remixes-season-1"
+    },
+    {
+      "album": "AD:PIANO VII -Alternative-",
+      "track": "Illusion Maze",
+      "number": 8,
+      "work_id": "XI-115",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vii-alternative"
+    },
+    {
+      "album": "Stream Palette",
+      "track": "Apoptosis",
+      "number": 11,
+      "work_id": "XI-122",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/stream-palette"
+    },
+    {
+      "album": "AD:PIANO ff/pp",
+      "track": "Mjölnir",
+      "number": 4,
+      "work_id": "XI-123",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-ff-pp-2"
+    },
+    {
+      "album": "AD:PIANO ff/pp",
+      "track": "Whydunit",
+      "number": 15,
+      "work_id": "XI-124",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-ff-pp-2"
+    },
+    {
+      "album": "AD:PIANO VIII -alter-",
+      "track": "The End of Dreams",
+      "number": 8,
+      "work_id": "XI-125",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-viii-alter"
+    },
+    {
+      "album": "ADvantage",
+      "track": "Event Hor!zon",
+      "number": 2,
+      "work_id": "XI-126",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/advantage"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "疾風怒濤 (Long Version)",
+      "number": 1,
+      "work_id": "XI-144",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Mjölnir",
+      "number": 2,
+      "work_id": "XI-123",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Titania (Long Version)",
+      "number": 3,
+      "work_id": "XI-142",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Reasons (2022 Remaster)",
+      "number": 4,
+      "work_id": "XI-140",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Gordian Knot (2022 Remaster)",
+      "number": 5,
+      "work_id": "XI-131",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Phases of the Moon",
+      "number": 6,
+      "work_id": "XI-139",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Overwhelm (Long Version)",
+      "number": 7,
+      "work_id": "XI-136",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Apoptosis (2022 Remaster)",
+      "number": 8,
+      "work_id": "XI-129",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Azalea",
+      "number": 9,
+      "work_id": "XI-130",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Aiolos (Long Version)",
+      "number": 10,
+      "work_id": "XI-128",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Per Aspera Ad Astra (Long Version)",
+      "number": 11,
+      "work_id": "XI-138",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Heavenly Blast (Long Version)",
+      "number": 12,
+      "work_id": "XI-133",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Halcyon (現役JK Remix)",
+      "number": 13,
+      "work_id": null,
+      "method": "unlinked_official_track",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "疾風怒濤",
+      "number": 14,
+      "work_id": "XI-143",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Mjölnir (Game Size)",
+      "number": 15,
+      "work_id": "XI-134",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Titania",
+      "number": 16,
+      "work_id": "XI-141",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Overwhelm",
+      "number": 17,
+      "work_id": "XI-135",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Aiolos (2022 Remaster)",
+      "number": 18,
+      "work_id": "XI-127",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Per Aspera Ad Astra",
+      "number": 19,
+      "work_id": "XI-137",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "Storm and Impulse",
+      "track": "Heavenly Blast (2022 Remaster)",
+      "number": 20,
+      "work_id": "XI-132",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    },
+    {
+      "album": "AD:PIANO VIVACE 2",
+      "track": "Phantoflux",
+      "number": 13,
+      "work_id": "XI-147",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vivace-2"
+    },
+    {
+      "album": "Stream Palette 6 -RANKED-",
+      "track": "RE!NCARN4T10N",
+      "number": 9,
+      "work_id": "XI-155",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/stream-palette-6-ranked"
+    },
+    {
+      "album": "League The k4sen Original Sound Track",
+      "track": "4 Crowns, One Throne (Procession of the Broken Halo)",
+      "number": 8,
+      "work_id": "XI-157",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/league-the-k4sen-original-sound-track"
+    },
+    {
+      "album": "AD:PIANO X",
+      "track": "変幻自在",
+      "number": 2,
+      "work_id": "XI-160",
+      "method": "numbered_primary_record",
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-x"
+    }
+  ],
+  "held": [
+    {
+      "work_id": "XI-161",
+      "reason": "大会向け書き下ろしは確認。通常のゲーム内収録を別途確認する。",
+      "source_url": "https://www.youtube.com/watch?v=VNK8leVFy-g"
+    }
+  ],
+  "rules": [
+    "曲別の一次クレジット・保存済み公式曲目を根拠にする。最も早い公開媒体だけから収録先を推測しない。",
+    "osu! Featured Artistの許諾曲一覧を、ゲーム内の公式収録曲一覧へ読み替えない。",
+    "動画公開日・ポータル登録日・アルバム発売日をゲーム初収録日へ転用しない。",
+    "ソロアルバムはゲストの編曲も含む公式曲目を保持。参加作品はxi関連の曲目に限定。曲名一致だけで別音源を同一版と確定しない。"
+  ]
+}

@@ -9,7 +9,7 @@ from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse
 from starlette.exceptions import HTTPException as StarletteHTTPException
 
-from models import ApiError, ArchiveMeta, Health, WorkDetail, WorkList, WorkSummary
+from models import ApiError, ArchiveMeta, CollectionDetail, CollectionList, CollectionSummary, Health, WorkDetail, WorkList, WorkSummary
 
 app = FastAPI(
     title="xi archive API", version="1.0.0",
@@ -21,6 +21,9 @@ data = json.loads((Path(__file__).parent / "data/catalogue.json").read_text(enco
 meta = ArchiveMeta.model_validate(data["meta"])
 works = [WorkDetail.model_validate(w) for w in data["works"]]
 by_id = {w.id: w for w in works}
+collection_data = json.loads((Path(__file__).parent / "data/collections.json").read_text(encoding="utf-8"))
+collections = [CollectionDetail.model_validate(c) for c in collection_data["collections"]]
+collections_by_id = {(c.kind, c.id): c for c in collections}
 
 
 def normalize(value: str) -> str:
@@ -60,6 +63,40 @@ def health():
 @app.get("/api/v1/meta", response_model=ArchiveMeta, operation_id="getMeta")
 def get_meta():
     return meta
+
+
+def collection_list(kind: str):
+    selected = [c for c in collections if c.kind == kind]
+    selected.sort(key=lambda c: (c.category != "ソロアルバム", not c.release_records or c.release_records[0].date is None,
+        (c.release_records[0].date if c.release_records else "") or "9999", normalize(c.title)))
+    return CollectionList(items=[CollectionSummary.model_validate(c.model_dump(include=CollectionSummary.model_fields.keys())) for c in selected])
+
+
+def collection_detail(kind: str, id: str):
+    collection = collections_by_id.get((kind, id))
+    if collection is None:
+        raise HTTPException(404, "該当する収録情報がありません。")
+    return collection
+
+
+@app.get("/api/v1/albums", response_model=CollectionList, operation_id="listAlbums")
+def list_albums():
+    return collection_list("album")
+
+
+@app.get("/api/v1/albums/{album_id}", response_model=CollectionDetail, responses={404: {"model": ApiError}}, operation_id="getAlbum")
+def get_album(album_id: str):
+    return collection_detail("album", album_id)
+
+
+@app.get("/api/v1/games", response_model=CollectionList, operation_id="listGames")
+def list_games():
+    return collection_list("game")
+
+
+@app.get("/api/v1/games/{game_id}", response_model=CollectionDetail, responses={404: {"model": ApiError}}, operation_id="getGame")
+def get_game(game_id: str):
+    return collection_detail("game", game_id)
 
 
 @app.get("/api/v1/works", response_model=WorkList, operation_id="listWorks")

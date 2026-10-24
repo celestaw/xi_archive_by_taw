@@ -1,0 +1,3981 @@
+{
+  "collections": [
+    {
+      "id": "ad-nearly-180",
+      "kind": "album",
+      "title": "AD:Nearly 180",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-nearly-180",
+      "release_records": [
+        {
+          "id": "EV-063",
+          "date": "2011-05-01",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:Nearly 180",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-nearly-180",
+          "evidence": "公式曲目の第1曲『Zephyros』と released 2011-05-01 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-031",
+          "title": "Zephyros",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 1,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-nearly-180",
+          "evidence": "Diverse System公式Bandcamp『AD:Nearly 180』第1曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/zephyros",
+            "label": "Bandcamp",
+            "version": "Zephyros",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-nearly-180",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "parousia",
+      "kind": "album",
+      "title": "Parousia",
+      "category": "ソロアルバム",
+      "entry_count": 12,
+      "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+      "release_records": [
+        {
+          "id": "EV-068",
+          "date": "2011-10-30",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "Parousia",
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "公式曲目の第5曲『Blue Zenith』と released 2011-10-30 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-034",
+          "title": "Parousia",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 1,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第1曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/parousia",
+            "label": "Bandcamp",
+            "version": "Parousia",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-024",
+          "title": "Finder keepers",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 2,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第2曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/finder-keepers",
+            "label": "Bandcamp",
+            "version": "Finder keepers",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-036",
+          "title": "Evolve Cybernation",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 3,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第3曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/evolve-cybernation",
+            "label": "Bandcamp",
+            "version": "Evolve Cybernation",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-037",
+          "title": "PEACE BREAKER",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 4,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第4曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/peace-breaker",
+            "label": "Bandcamp",
+            "version": "PEACE BREAKER",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-015",
+          "title": "Blue Zenith",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 5,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第5曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/blue-zenith",
+            "label": "Bandcamp",
+            "version": "Blue Zenith",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-022",
+          "title": "Mirage Garden",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 6,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第6曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/mirage-garden",
+            "label": "Bandcamp",
+            "version": "Mirage Garden",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-021",
+          "title": "Ascension to Heaven",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 7,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第7曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/ascension-to-heaven",
+            "label": "Bandcamp",
+            "version": "Ascension to Heaven",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-035",
+          "title": "Breakthrough Atmosphere",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 8,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第8曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/breakthrough-atmosphere",
+            "label": "Bandcamp",
+            "version": "Breakthrough Atmosphere",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-026",
+          "title": "Halcyon",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 9,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第9曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/halcyon",
+            "label": "Bandcamp",
+            "version": "Halcyon",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-033",
+          "title": "Beatrice",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 10,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第10曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/beatrice",
+            "label": "Bandcamp",
+            "version": "Beatrice",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-038",
+          "title": "Sedap Malam",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 11,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第11曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/sedap-malam",
+            "label": "Bandcamp",
+            "version": "Sedap Malam",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-017",
+          "title": "FREEDOM DiVE↓",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 12,
+          "source_url": "https://diversesystem.bandcamp.com/album/parousia",
+          "evidence": "Diverse System公式Bandcamp『Parousia』第12曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/freedom-dive",
+            "label": "Bandcamp",
+            "version": "FREEDOM DiVE↓",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/parousia",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
+    },
+    {
+      "id": "ad-piano",
+      "kind": "album",
+      "title": "AD:PIANO",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano",
+      "release_records": [
+        {
+          "id": "EV-078",
+          "date": "2012-04-30",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:PIANO",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano",
+          "evidence": "公式曲目の第5曲『天衣無縫』と released 2012-04-30 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-039",
+          "title": "天衣無縫",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 5,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO』第5曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/--28",
+            "label": "Bandcamp",
+            "version": "天衣無縫",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "ad-drum-n-bass",
+      "kind": "album",
+      "title": "AD:Drum’n Bass",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-drum-n-bass",
+      "release_records": [
+        {
+          "id": "EV-080",
+          "date": "2012-12-31",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:Drum’n Bass",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-drum-n-bass",
+          "evidence": "公式曲目の第23曲『wild card』と released 2012-12-31 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-045",
+          "title": "wild card",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 23,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-drum-n-bass",
+          "evidence": "Diverse System公式Bandcamp『AD:Drum’n Bass』第23曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/wild-card",
+            "label": "Bandcamp",
+            "version": "wild card",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-drum-n-bass",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "agartha",
+      "kind": "album",
+      "title": "Agartha",
+      "category": "ソロアルバム",
+      "entry_count": 9,
+      "source_url": "https://diversesystem.bandcamp.com/album/agartha",
+      "release_records": [
+        {
+          "id": "EV-089",
+          "date": "2013-10-27",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "Agartha",
+          "source_url": "https://diversesystem.bandcamp.com/album/agartha",
+          "evidence": "公式曲目の第2曲『天衣無縫』と released 2013-10-27 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-051",
+          "title": "Niflheimr",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 1,
+          "source_url": "https://diversesystem.bandcamp.com/album/agartha",
+          "evidence": "Diverse System公式Bandcamp『Agartha』第1曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/niflheimr",
+            "label": "Bandcamp",
+            "version": "Niflheimr",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/agartha",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-039",
+          "title": "天衣無縫",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 2,
+          "source_url": "https://diversesystem.bandcamp.com/album/agartha",
+          "evidence": "Diverse System公式Bandcamp『Agartha』第2曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/--156",
+            "label": "Bandcamp",
+            "version": "天衣無縫",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/agartha",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-050",
+          "title": "Information Transmission",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 3,
+          "source_url": "https://diversesystem.bandcamp.com/album/agartha",
+          "evidence": "Diverse System公式Bandcamp『Agartha』第3曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/information-transmission",
+            "label": "Bandcamp",
+            "version": "Information Transmission",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/agartha",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-045",
+          "title": "wild card",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 4,
+          "source_url": "https://diversesystem.bandcamp.com/album/agartha",
+          "evidence": "Diverse System公式Bandcamp『Agartha』第4曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/wild-card-2",
+            "label": "Bandcamp",
+            "version": "wild card",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/agartha",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-049",
+          "title": "HEAVENLY GALAXiES",
+          "credited_name": "Xiphoid Sphere",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": 5,
+          "source_url": "https://diversesystem.bandcamp.com/album/agartha",
+          "evidence": "Diverse System公式Bandcamp『Agartha』第5曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/heavenly-galaxies",
+            "label": "Bandcamp",
+            "version": "HEAVENLY GALAXiES",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/agartha",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-041",
+          "title": "Valhalla",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 6,
+          "source_url": "https://diversesystem.bandcamp.com/album/agartha",
+          "evidence": "Diverse System公式Bandcamp『Agartha』第6曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/valhalla",
+            "label": "Bandcamp",
+            "version": "Valhalla",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/agartha",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-052",
+          "title": "Zauberkugel",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 7,
+          "source_url": "https://diversesystem.bandcamp.com/album/agartha",
+          "evidence": "Diverse System公式Bandcamp『Agartha』第7曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/zauberkugel",
+            "label": "Bandcamp",
+            "version": "Zauberkugel",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/agartha",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-048",
+          "title": "Agartha",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 8,
+          "source_url": "https://diversesystem.bandcamp.com/album/agartha",
+          "evidence": "Diverse System公式Bandcamp『Agartha』第8曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/agartha",
+            "label": "Bandcamp",
+            "version": "Agartha",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/agartha",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-053",
+          "title": "ハッピーエンドオブザワールド",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 9,
+          "source_url": "https://diversesystem.bandcamp.com/album/agartha",
+          "evidence": "Diverse System公式Bandcamp『Agartha』第9曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/--157",
+            "label": "Bandcamp",
+            "version": "ハッピーエンドオブザワールド",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/agartha",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
+    },
+    {
+      "id": "ad-piano2",
+      "kind": "album",
+      "title": "AD:PIANO2",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano2",
+      "release_records": [
+        {
+          "id": "EV-090",
+          "date": "2014-04-27",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:PIANO2",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano2",
+          "evidence": "公式曲目の第4曲『Double Helix』と released 2014-04-27 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-054",
+          "title": "Double Helix",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 4,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano2",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO2』第4曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/double-helix",
+            "label": "Bandcamp",
+            "version": "Double Helix",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano2",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "hardcore-challenge",
+      "kind": "album",
+      "title": "HARDCORE CHALLENGE",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/hardcore-challenge",
+      "release_records": [
+        {
+          "id": "EV-091",
+          "date": "2014-08-17",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "HARDCORE CHALLENGE",
+          "source_url": "https://diversesystem.bandcamp.com/album/hardcore-challenge",
+          "evidence": "公式曲目の第21曲『Res Novae』と released 2014-08-17 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-058",
+          "title": "Res Novae",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 21,
+          "source_url": "https://diversesystem.bandcamp.com/album/hardcore-challenge",
+          "evidence": "Diverse System公式Bandcamp『HARDCORE CHALLENGE』第21曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/res-novae",
+            "label": "Bandcamp",
+            "version": "Res Novae",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/hardcore-challenge",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "ad-piano3",
+      "kind": "album",
+      "title": "AD:PIANO3",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano3",
+      "release_records": [
+        {
+          "id": "EV-093",
+          "date": "2014-12-30",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:PIANO3",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano3",
+          "evidence": "公式曲目の第9曲『Trinity Stream』と released 2014-12-30 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-061",
+          "title": "Trinity Stream",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 9,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano3",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO3』第9曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/trinity-stream",
+            "label": "Bandcamp",
+            "version": "Trinity Stream",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano3",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "ad-nearly-120-seconds",
+      "kind": "album",
+      "title": "AD:Nearly 120 seconds",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-nearly-120-seconds",
+      "release_records": [
+        {
+          "id": "EV-094",
+          "date": "2015-04-26",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:Nearly 120 seconds",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-nearly-120-seconds",
+          "evidence": "公式曲目の第3曲『over the top』と released 2015-04-26 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-062",
+          "title": "over the top",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 3,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-nearly-120-seconds",
+          "evidence": "Diverse System公式Bandcamp『AD:Nearly 120 seconds』第3曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/over-the-top",
+            "label": "Bandcamp",
+            "version": "over the top",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-nearly-120-seconds",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "ad-piano-vivace",
+      "kind": "album",
+      "title": "AD:PIANO VIVACE",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vivace",
+      "release_records": [
+        {
+          "id": "EV-095",
+          "date": "2015-08-16",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:PIANO VIVACE",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vivace",
+          "evidence": "公式曲目の第13曲『Cloud9』と released 2015-08-16 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-066",
+          "title": "Cloud9",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 13,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vivace",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO VIVACE』第13曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/cloud9",
+            "label": "Bandcamp",
+            "version": "Cloud9",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vivace",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "binary-blue-answer",
+      "kind": "album",
+      "title": "Binary Blue : Answer",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/binary-blue-answer",
+      "release_records": [
+        {
+          "id": "EV-098",
+          "date": "2015-09-28",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "Binary Blue : Answer",
+          "source_url": "https://diversesystem.bandcamp.com/album/binary-blue-answer",
+          "evidence": "公式曲目の第2曲『Blue quartz』と released 2015-09-28 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-070",
+          "title": "xi - Blue quartz",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 2,
+          "source_url": "https://diversesystem.bandcamp.com/album/binary-blue-answer",
+          "evidence": "Diverse System公式Bandcamp『Binary Blue : Answer』第2曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/xi-blue-quartz",
+            "label": "Bandcamp",
+            "version": "xi - Blue quartz",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/binary-blue-answer",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "world-fragments",
+      "kind": "album",
+      "title": "World Fragments",
+      "category": "ソロアルバム",
+      "entry_count": 12,
+      "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+      "release_records": [
+        {
+          "id": "EV-101",
+          "date": "2015-12-31",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "World Fragments",
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "公式曲目の第2曲『Double Helix』と released 2015-12-31 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-059",
+          "title": "Aragami",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 1,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第1曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/aragami",
+            "label": "Bandcamp",
+            "version": "Aragami",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-054",
+          "title": "Double Helix",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 2,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第2曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/double-helix-2",
+            "label": "Bandcamp",
+            "version": "Double Helix",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-075",
+          "title": "Tiferet",
+          "credited_name": "xi feat.Sta",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 3,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第3曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/tiferet",
+            "label": "Bandcamp",
+            "version": "Tiferet",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-072",
+          "title": "ANiMA",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 4,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第4曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/anima",
+            "label": "Bandcamp",
+            "version": "ANiMA",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-062",
+          "title": "over the top",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 5,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第5曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/over-the-top-2",
+            "label": "Bandcamp",
+            "version": "over the top",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-069",
+          "title": "Dreadnought",
+          "credited_name": "Mastermind(xi+nora2r)",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 6,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第6曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/dreadnought-2",
+            "label": "Bandcamp",
+            "version": "Dreadnought",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-079",
+          "title": "Śiva",
+          "credited_name": "Diceros Bicornis(xi+BlackY)",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 7,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第7曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/iva",
+            "label": "Bandcamp",
+            "version": "Śiva",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-074",
+          "title": "Hesperides",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 8,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第8曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/hesperides",
+            "label": "Bandcamp",
+            "version": "Hesperides",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-076",
+          "title": "World Fragments I",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 9,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第9曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/world-fragments-i",
+            "label": "Bandcamp",
+            "version": "World Fragments I",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-077",
+          "title": "World Fragments II",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 10,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第10曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/world-fragments-ii",
+            "label": "Bandcamp",
+            "version": "World Fragments II",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-078",
+          "title": "World Fragments III",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 11,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第11曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/world-fragments-iii",
+            "label": "Bandcamp",
+            "version": "World Fragments III",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": null,
+          "title": "Another Halcyon",
+          "credited_name": "VILA",
+          "role": "",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": 12,
+          "source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "evidence": "Diverse System公式Bandcamp『World Fragments』第12曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/another-halcyon",
+            "label": "Bandcamp",
+            "version": "Another Halcyon",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/world-fragments",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "曲目は公式資料で確認。作品IDとの対応は未照合。"
+        }
+      ],
+      "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
+    },
+    {
+      "id": "triangle-c89-special-remixes-ep",
+      "kind": "album",
+      "title": "Triangle – C89 Special Remixes EP",
+      "category": "参加作品",
+      "entry_count": 2,
+      "source_url": "https://diversesystem.bandcamp.com/album/triangle-c89-special-remixes-ep",
+      "release_records": [
+        {
+          "id": "EV-103",
+          "date": "2015-12-31",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "Triangle – C89 Special Remixes EP",
+          "source_url": "https://diversesystem.bandcamp.com/album/triangle-c89-special-remixes-ep",
+          "evidence": "公式曲目の第2曲『Dst[ick]orv』と released 2015-12-31 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-251",
+          "title": "ANiMAtion",
+          "credited_name": "xi remixed by Sakuzyo",
+          "role": "他者によるxi楽曲のリミックス",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 1,
+          "source_url": "https://diversesystem.bandcamp.com/album/triangle-c89-special-remixes-ep",
+          "evidence": "Diverse System公式Bandcamp『Triangle – C89 Special Remixes EP』第1曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/animation",
+            "label": "Bandcamp",
+            "version": "ANiMAtion",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/triangle-c89-special-remixes-ep",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "xiの新規作曲として数えない。"
+        },
+        {
+          "work_id": "XI-073",
+          "title": "Dst[ick]orv",
+          "credited_name": "Feryquitous remixed by xi",
+          "role": "他者によるxi楽曲のリミックス",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 2,
+          "source_url": "https://diversesystem.bandcamp.com/album/triangle-c89-special-remixes-ep",
+          "evidence": "Diverse System公式Bandcamp『Triangle – C89 Special Remixes EP』第2曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/dst-ick-orv",
+            "label": "Bandcamp",
+            "version": "Dst[ick]orv",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/triangle-c89-special-remixes-ep",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "xiの新規作曲として数えない。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "radial",
+      "kind": "album",
+      "title": "RADIAL",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/radial",
+      "release_records": [
+        {
+          "id": "EV-111",
+          "date": "2016-08-14",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "RADIAL",
+          "source_url": "https://diversesystem.bandcamp.com/album/radial",
+          "evidence": "公式曲目の第31曲『White Peak』と released 2016-08-14 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-082",
+          "title": "White Peak",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 31,
+          "source_url": "https://diversesystem.bandcamp.com/album/radial",
+          "evidence": "Diverse System公式Bandcamp『RADIAL』第31曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/white-peak-2",
+            "label": "Bandcamp",
+            "version": "White Peak",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/radial",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "evolved-chronicles",
+      "kind": "album",
+      "title": "Evolved Chronicles",
+      "category": "ソロアルバム",
+      "entry_count": 7,
+      "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+      "release_records": [
+        {
+          "id": "EV-119",
+          "date": "2016-12-31",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "Evolved Chronicles",
+          "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+          "evidence": "公式曲目の第5曲『White Peak』と released 2016-12-31 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-088",
+          "title": "Jackknife",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 1,
+          "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+          "evidence": "Diverse System公式Bandcamp『Evolved Chronicles』第1曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/jackknife",
+            "label": "Bandcamp",
+            "version": "Jackknife",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-090",
+          "title": "Northward",
+          "credited_name": "xi + Sta",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 2,
+          "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+          "evidence": "Diverse System公式Bandcamp『Evolved Chronicles』第2曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/northward",
+            "label": "Bandcamp",
+            "version": "Northward",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-086",
+          "title": "Caramel Custard",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 3,
+          "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+          "evidence": "Diverse System公式Bandcamp『Evolved Chronicles』第3曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/caramel-custard",
+            "label": "Bandcamp",
+            "version": "Caramel Custard",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-087",
+          "title": "Heat Haze",
+          "credited_name": "Diceros Bicornis(xi+BlackY)",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 4,
+          "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+          "evidence": "Diverse System公式Bandcamp『Evolved Chronicles』第4曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/heat-haze",
+            "label": "Bandcamp",
+            "version": "Heat Haze",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-082",
+          "title": "White Peak",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 5,
+          "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+          "evidence": "Diverse System公式Bandcamp『Evolved Chronicles』第5曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/white-peak",
+            "label": "Bandcamp",
+            "version": "White Peak",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-083",
+          "title": "Lemuria",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 6,
+          "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+          "evidence": "Diverse System公式Bandcamp『Evolved Chronicles』第6曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/lemuria",
+            "label": "Bandcamp",
+            "version": "Lemuria",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-085",
+          "title": "Aparajita",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 7,
+          "source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+          "evidence": "Diverse System公式Bandcamp『Evolved Chronicles』第7曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/aparajita",
+            "label": "Bandcamp",
+            "version": "Aparajita",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
+    },
+    {
+      "id": "ad-piano-v-noir",
+      "kind": "album",
+      "title": "AD:PIANO V Noir",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-v-noir",
+      "release_records": [
+        {
+          "id": "EV-120",
+          "date": "2017-12-29",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:PIANO V Noir",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-v-noir",
+          "evidence": "公式曲目の第4曲『Longinus』と released 2017-12-29 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-096",
+          "title": "Longinus",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 4,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-v-noir",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO V Noir』第4曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/longinus",
+            "label": "Bandcamp",
+            "version": "Longinus",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano-v-noir",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "celt-challenge-2",
+      "kind": "album",
+      "title": "Celt Challenge 2",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/celt-challenge-2",
+      "release_records": [
+        {
+          "id": "EV-121",
+          "date": "2018-08-10",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "Celt Challenge 2",
+          "source_url": "https://diversesystem.bandcamp.com/album/celt-challenge-2",
+          "evidence": "公式曲目の第4曲『Turas-Mara』と released 2018-08-10 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-097",
+          "title": "Turas-Mara",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 4,
+          "source_url": "https://diversesystem.bandcamp.com/album/celt-challenge-2",
+          "evidence": "Diverse System公式Bandcamp『Celt Challenge 2』第4曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/turas-mara",
+            "label": "Bandcamp",
+            "version": "Turas-Mara",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/celt-challenge-2",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "exclusive-waves",
+      "kind": "album",
+      "title": "EXCLUSIVE WAVES",
+      "category": "参加作品",
+      "entry_count": 3,
+      "source_url": "https://diversesystem.bandcamp.com/album/exclusive-waves",
+      "release_records": [
+        {
+          "id": "EV-122",
+          "date": "2018-10-28",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "EXCLUSIVE WAVES",
+          "source_url": "https://diversesystem.bandcamp.com/album/exclusive-waves",
+          "evidence": "公式曲目の第7曲『Dst[ick]orv』と released 2018-10-28 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-251",
+          "title": "ANiMAtion",
+          "credited_name": "xi remixed by sakuzyo",
+          "role": "他者によるxi楽曲のリミックス",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 6,
+          "source_url": "https://diversesystem.bandcamp.com/album/exclusive-waves",
+          "evidence": "Diverse System公式Bandcamp『EXCLUSIVE WAVES』第6曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/animation-2",
+            "label": "Bandcamp",
+            "version": "ANiMAtion",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/exclusive-waves",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "xiの新規作曲として数えない。"
+        },
+        {
+          "work_id": "XI-073",
+          "title": "Dst[ick]orv",
+          "credited_name": "Feryquitous remixed by xi",
+          "role": "他者によるxi楽曲のリミックス",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 7,
+          "source_url": "https://diversesystem.bandcamp.com/album/exclusive-waves",
+          "evidence": "Diverse System公式Bandcamp『EXCLUSIVE WAVES』第7曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/dst-ick-orv-2",
+            "label": "Bandcamp",
+            "version": "Dst[ick]orv",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/exclusive-waves",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "xiの新規作曲として数えない。"
+        },
+        {
+          "work_id": "XI-098",
+          "title": "Orca",
+          "credited_name": "Feryquitous vs xi",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 11,
+          "source_url": "https://diversesystem.bandcamp.com/album/exclusive-waves",
+          "evidence": "Diverse System公式Bandcamp『EXCLUSIVE WAVES』第11曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/orca-2",
+            "label": "Bandcamp",
+            "version": "Orca",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/exclusive-waves",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "quietus-ray",
+      "kind": "album",
+      "title": "Quietus Ray",
+      "category": "ソロアルバム",
+      "entry_count": 12,
+      "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+      "release_records": [
+        {
+          "id": "EV-132",
+          "date": "2018-12-30",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "Quietus Ray",
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "公式曲目の第1曲『Longinus』と released 2018-12-30 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-096",
+          "title": "Longinus",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 1,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第1曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/longinus-2",
+            "label": "Bandcamp",
+            "version": "Longinus",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-099",
+          "title": "Bad Elixir",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 2,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第2曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/bad-elixir",
+            "label": "Bandcamp",
+            "version": "Bad Elixir",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-105",
+          "title": "Iolite",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 3,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第3曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/iolite",
+            "label": "Bandcamp",
+            "version": "Iolite",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-106",
+          "title": "Qliphot",
+          "credited_name": "Xista(xi + Sta)",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 4,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第4曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/qliphot",
+            "label": "Bandcamp",
+            "version": "Qliphot",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-107",
+          "title": "To Live",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 5,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第5曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/to-live",
+            "label": "Bandcamp",
+            "version": "To Live",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-104",
+          "title": "Hyper Vivacity",
+          "credited_name": "Diceros Bicornis (xi+BlackY)",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 6,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第6曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/hyper-vivacity",
+            "label": "Bandcamp",
+            "version": "Hyper Vivacity",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-102",
+          "title": "Cyberspace",
+          "credited_name": "xi vs Feryquitous",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 7,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第7曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/cyberspace-2",
+            "label": "Bandcamp",
+            "version": "Cyberspace",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-101",
+          "title": "Ancient Relics",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 8,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第8曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/ancient-relics",
+            "label": "Bandcamp",
+            "version": "Ancient Relics",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-100",
+          "title": "Albatross",
+          "credited_name": "xi vs sakuzyo",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 9,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第9曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/albatross",
+            "label": "Bandcamp",
+            "version": "Albatross",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": null,
+          "title": "Parousia (Blacklolita Remix)",
+          "credited_name": "xi remixed by Blacklolita",
+          "role": "他者によるxi楽曲のリミックス",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": 10,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第10曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/parousia-blacklolita-remix",
+            "label": "Bandcamp",
+            "version": "Parousia (Blacklolita Remix)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "xiの新規作曲として数えない。"
+        },
+        {
+          "work_id": null,
+          "title": "Halcyon (lapix Remix)",
+          "credited_name": "xi remixed by lapix",
+          "role": "他者によるxi楽曲のリミックス",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": 11,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第11曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/halcyon-lapix-remix",
+            "label": "Bandcamp",
+            "version": "Halcyon (lapix Remix)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "xiの新規作曲として数えない。"
+        },
+        {
+          "work_id": "XI-103",
+          "title": "FREEDOM DiVE[METAL†DIMENSIONS]",
+          "credited_name": "xi",
+          "role": "原曲：xi。編曲者クレジットは追加確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 12,
+          "source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+          "evidence": "Diverse System公式Bandcamp『Quietus Ray』第12曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/freedom-dive-metal-dimensions",
+            "label": "Bandcamp",
+            "version": "FREEDOM DiVE[METAL†DIMENSIONS]",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/quietus-ray",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        }
+      ],
+      "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
+    },
+    {
+      "id": "ad-piano-remixes-season-1",
+      "kind": "album",
+      "title": "AD:PIANO REMIXES -Season 1-",
+      "category": "参加作品",
+      "entry_count": 2,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-remixes-season-1",
+      "release_records": [
+        {
+          "id": "EV-135",
+          "date": "2019-08-12",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:PIANO REMIXES -Season 1-",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-remixes-season-1",
+          "evidence": "公式曲目の第1曲『Ωκεανος (xi Remix)』と released 2019-08-12 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-113",
+          "title": "Ωκεανος (xi Remix)",
+          "credited_name": "cosMo@暴走P Remixed by xi",
+          "role": "他者によるxi楽曲のリミックス",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 1,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-remixes-season-1",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO REMIXES -Season 1-』第1曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/xi-remix",
+            "label": "Bandcamp",
+            "version": "Ωκεανος (xi Remix)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano-remixes-season-1",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "xiの新規作曲として数えない。"
+        },
+        {
+          "work_id": null,
+          "title": "天衣無縫 (EmoCo Remix)",
+          "credited_name": "xi Remixed by EmoCo.",
+          "role": "他者によるxi楽曲のリミックス",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": 6,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-remixes-season-1",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO REMIXES -Season 1-』第6曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/emoco-remix",
+            "label": "Bandcamp",
+            "version": "天衣無縫 (EmoCo Remix)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano-remixes-season-1",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "xiの新規作曲として数えない。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "ad-piano-vii-alternative",
+      "kind": "album",
+      "title": "AD:PIANO VII -Alternative-",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vii-alternative",
+      "release_records": [
+        {
+          "id": "EV-136",
+          "date": "2019-12-31",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:PIANO VII -Alternative-",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vii-alternative",
+          "evidence": "公式曲目の第8曲『Illusion Maze』と released 2019-12-31 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-115",
+          "title": "Illusion Maze",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 8,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vii-alternative",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO VII -Alternative-』第8曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/illusion-maze",
+            "label": "Bandcamp",
+            "version": "Illusion Maze",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vii-alternative",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "stream-palette",
+      "kind": "album",
+      "title": "Stream Palette",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/stream-palette",
+      "release_records": [
+        {
+          "id": "EV-137",
+          "date": "2021-01-05",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "Stream Palette",
+          "source_url": "https://diversesystem.bandcamp.com/album/stream-palette",
+          "evidence": "公式曲目の第11曲『Apoptosis』と released 2021-01-05 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-122",
+          "title": "Apoptosis",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 11,
+          "source_url": "https://diversesystem.bandcamp.com/album/stream-palette",
+          "evidence": "Diverse System公式Bandcamp『Stream Palette』第11曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/apoptosis",
+            "label": "Bandcamp",
+            "version": "Apoptosis",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/stream-palette",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "ad-piano-ff-pp-2",
+      "kind": "album",
+      "title": "AD:PIANO ff/pp",
+      "category": "参加作品",
+      "entry_count": 2,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-ff-pp-2",
+      "release_records": [
+        {
+          "id": "EV-138",
+          "date": "2021-01-05",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:PIANO ff/pp",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-ff-pp-2",
+          "evidence": "公式曲目の第4曲『Mjölnir』と released 2021-01-05 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-123",
+          "title": "Mjölnir",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 4,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-ff-pp-2",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO ff/pp』第4曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/mj-lnir",
+            "label": "Bandcamp",
+            "version": "Mjölnir",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano-ff-pp-2",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-124",
+          "title": "Whydunit",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 15,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-ff-pp-2",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO ff/pp』第15曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/whydunit",
+            "label": "Bandcamp",
+            "version": "Whydunit",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano-ff-pp-2",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "ad-piano-viii-alter",
+      "kind": "album",
+      "title": "AD:PIANO VIII -alter-",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-viii-alter",
+      "release_records": [
+        {
+          "id": "EV-140",
+          "date": "2021-12-31",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:PIANO VIII -alter-",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-viii-alter",
+          "evidence": "公式曲目の第8曲『The End of Dreams』と released 2021-12-31 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-125",
+          "title": "The End of Dreams",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 8,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-viii-alter",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO VIII -alter-』第8曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/the-end-of-dreams",
+            "label": "Bandcamp",
+            "version": "The End of Dreams",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano-viii-alter",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "advantage",
+      "kind": "album",
+      "title": "ADvantage",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/advantage",
+      "release_records": [
+        {
+          "id": "EV-141",
+          "date": "2022-08-13",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "ADvantage",
+          "source_url": "https://diversesystem.bandcamp.com/album/advantage",
+          "evidence": "公式曲目の第2曲『Event Hor!zon』と released 2022-08-13 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-126",
+          "title": "Event Hor!zon",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 2,
+          "source_url": "https://diversesystem.bandcamp.com/album/advantage",
+          "evidence": "Diverse System公式Bandcamp『ADvantage』第2曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/event-hor-zon",
+            "label": "Bandcamp",
+            "version": "Event Hor!zon",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/advantage",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "storm-and-impulse",
+      "kind": "album",
+      "title": "Storm and Impulse",
+      "category": "ソロアルバム",
+      "entry_count": 20,
+      "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+      "release_records": [
+        {
+          "id": "EV-149",
+          "date": "2022-12-30",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "Storm and Impulse",
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "公式曲目の第2曲『Mjölnir』と released 2022-12-30 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-144",
+          "title": "疾風怒濤 (Long Version)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 1,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第1曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/long-version",
+            "label": "Bandcamp",
+            "version": "疾風怒濤 (Long Version)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        },
+        {
+          "work_id": "XI-123",
+          "title": "Mjölnir",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 2,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第2曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/mj-lnir-2",
+            "label": "Bandcamp",
+            "version": "Mjölnir",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-142",
+          "title": "Titania (Long Version)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 3,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第3曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/titania-long-version",
+            "label": "Bandcamp",
+            "version": "Titania (Long Version)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        },
+        {
+          "work_id": "XI-140",
+          "title": "Reasons (2022 Remaster)",
+          "credited_name": "Xista (xi & Sta)",
+          "role": "合作曲のリマスター",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 4,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第4曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/reasons-2022-remaster",
+            "label": "Bandcamp",
+            "version": "Reasons (2022 Remaster)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        },
+        {
+          "work_id": "XI-131",
+          "title": "Gordian Knot (2022 Remaster)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 5,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第5曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/gordian-knot-2022-remaster",
+            "label": "Bandcamp",
+            "version": "Gordian Knot (2022 Remaster)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        },
+        {
+          "work_id": "XI-139",
+          "title": "Phases of the Moon",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 6,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第6曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/phases-of-the-moon",
+            "label": "Bandcamp",
+            "version": "Phases of the Moon",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-136",
+          "title": "Overwhelm (Long Version)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 7,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第7曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/overwhelm-long-version",
+            "label": "Bandcamp",
+            "version": "Overwhelm (Long Version)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        },
+        {
+          "work_id": "XI-129",
+          "title": "Apoptosis (2022 Remaster)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 8,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第8曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/apoptosis-2022-remaster",
+            "label": "Bandcamp",
+            "version": "Apoptosis (2022 Remaster)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        },
+        {
+          "work_id": "XI-130",
+          "title": "Azalea",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 9,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第9曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/azalea",
+            "label": "Bandcamp",
+            "version": "Azalea",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-128",
+          "title": "Aiolos (Long Version)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 10,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第10曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/aiolos-long-version",
+            "label": "Bandcamp",
+            "version": "Aiolos (Long Version)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        },
+        {
+          "work_id": "XI-138",
+          "title": "Per Aspera Ad Astra (Long Version)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 11,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第11曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/per-aspera-ad-astra-long-version",
+            "label": "Bandcamp",
+            "version": "Per Aspera Ad Astra (Long Version)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        },
+        {
+          "work_id": "XI-133",
+          "title": "Heavenly Blast (Long Version)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 12,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第12曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/heavenly-blast-long-version",
+            "label": "Bandcamp",
+            "version": "Heavenly Blast (Long Version)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        },
+        {
+          "work_id": null,
+          "title": "Halcyon (現役JK Remix)",
+          "credited_name": "xi remixed by 現役JK",
+          "role": "他者によるxi楽曲のリミックス",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": 13,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第13曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/halcyon-jk-remix",
+            "label": "Bandcamp",
+            "version": "Halcyon (現役JK Remix)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "xiの新規作曲として数えない。"
+        },
+        {
+          "work_id": "XI-143",
+          "title": "疾風怒濤",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 14,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第14曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/--200",
+            "label": "Bandcamp",
+            "version": "疾風怒濤",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-134",
+          "title": "Mjölnir (Game Size)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 15,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第15曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/mj-lnir-game-size",
+            "label": "Bandcamp",
+            "version": "Mjölnir (Game Size)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        },
+        {
+          "work_id": "XI-141",
+          "title": "Titania",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 16,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第16曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/titania",
+            "label": "Bandcamp",
+            "version": "Titania",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-135",
+          "title": "Overwhelm",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 17,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第17曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/overwhelm",
+            "label": "Bandcamp",
+            "version": "Overwhelm",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-127",
+          "title": "Aiolos (2022 Remaster)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 18,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第18曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/aiolos-2022-remaster",
+            "label": "Bandcamp",
+            "version": "Aiolos (2022 Remaster)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        },
+        {
+          "work_id": "XI-137",
+          "title": "Per Aspera Ad Astra",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 19,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第19曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/per-aspera-ad-astra",
+            "label": "Bandcamp",
+            "version": "Per Aspera Ad Astra",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        },
+        {
+          "work_id": "XI-132",
+          "title": "Heavenly Blast (2022 Remaster)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 20,
+          "source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+          "evidence": "Diverse System公式Bandcamp『Storm and Impulse』第20曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/heavenly-blast-2022-remaster",
+            "label": "Bandcamp",
+            "version": "Heavenly Blast (2022 Remaster)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": ""
+        }
+      ],
+      "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
+    },
+    {
+      "id": "ad-piano-vivace-2",
+      "kind": "album",
+      "title": "AD:PIANO VIVACE 2",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vivace-2",
+      "release_records": [
+        {
+          "id": "EV-161",
+          "date": "2023-12-30",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:PIANO VIVACE 2",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vivace-2",
+          "evidence": "公式曲目の第13曲『Phantoflux』と released 2023-12-30 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-147",
+          "title": "Phantoflux",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 13,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vivace-2",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO VIVACE 2』第13曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/phantoflux",
+            "label": "Bandcamp",
+            "version": "Phantoflux",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano-vivace-2",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "stream-palette-6-ranked",
+      "kind": "album",
+      "title": "Stream Palette 6 -RANKED-",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/stream-palette-6-ranked",
+      "release_records": [
+        {
+          "id": "EV-163",
+          "date": "2025-10-26",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "Stream Palette 6 -RANKED-",
+          "source_url": "https://diversesystem.bandcamp.com/album/stream-palette-6-ranked",
+          "evidence": "公式曲目の第9曲『RE!NCARN4T10N』と released 2025-10-26 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-155",
+          "title": "RE!NCARN4T10N",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 9,
+          "source_url": "https://diversesystem.bandcamp.com/album/stream-palette-6-ranked",
+          "evidence": "Diverse System公式Bandcamp『Stream Palette 6 -RANKED-』第9曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/re-ncarn4t10n",
+            "label": "Bandcamp",
+            "version": "RE!NCARN4T10N",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/stream-palette-6-ranked",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "league-the-k4sen-original-sound-track",
+      "kind": "album",
+      "title": "League The k4sen Original Sound Track",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/league-the-k4sen-original-sound-track",
+      "release_records": [
+        {
+          "id": "EV-164",
+          "date": "2025-12-23",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "League The k4sen Original Sound Track",
+          "source_url": "https://diversesystem.bandcamp.com/album/league-the-k4sen-original-sound-track",
+          "evidence": "公式曲目の第8曲『4 Crowns, One Throne (Procession of the Broken Halo)』と released 2025-12-23 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-157",
+          "title": "4 Crowns, One Throne (Procession of the Broken Halo)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 8,
+          "source_url": "https://diversesystem.bandcamp.com/album/league-the-k4sen-original-sound-track",
+          "evidence": "Diverse System公式Bandcamp『League The k4sen Original Sound Track』第8曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/4-crowns-one-throne-procession-of-the-broken-halo",
+            "label": "Bandcamp",
+            "version": "4 Crowns, One Throne (Procession of the Broken Halo)",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/league-the-k4sen-original-sound-track",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "ad-piano-x",
+      "kind": "album",
+      "title": "AD:PIANO X",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-x",
+      "release_records": [
+        {
+          "id": "EV-166",
+          "date": "2026-04-26",
+          "precision": "day",
+          "kind": "アルバム発売日（初出未確定）",
+          "medium": "AD:PIANO X",
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-x",
+          "evidence": "公式曲目の第2曲『変幻自在』と released 2026-04-26 を確認。これはアルバム表示の発売日で、初公開日は未確定。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-160",
+          "title": "変幻自在",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 2,
+          "source_url": "https://diversesystem.bandcamp.com/album/ad-piano-x",
+          "evidence": "Diverse System公式Bandcamp『AD:PIANO X』第2曲の曲名・名義を確認。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://diversesystem.bandcamp.com/track/--219",
+            "label": "Bandcamp",
+            "version": "変幻自在",
+            "official_basis": "Diverse Systemのレーベル管理ページの曲別試聴。",
+            "officialness_source_url": "https://diversesystem.bandcamp.com/album/ad-piano-x",
+            "availability": "既存調査で試聴掲載を確認。現在の再生可否は未再検証。"
+          },
+          "note": "音源の版は未同定。"
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "release-034f723604",
+      "kind": "album",
+      "title": "Clippings of youth Ex.",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://www.nekomirin.com/nmcd0028/index.html",
+      "release_records": [
+        {
+          "id": "NEW-247",
+          "date": "2026-04-26",
+          "precision": "day",
+          "kind": "アルバム発売日（先行クロスフェードあり）",
+          "medium": "Clippings of youth Ex.",
+          "source_url": "https://www.nekomirin.com/nmcd0028/index.html",
+          "evidence": "公式特設で発売日2026/04/26、PACHADを原曲とするtr.7、Arrangement担当xiを確認。",
+          "version": "音源の同一性・版は未同定",
+          "checked_on": "2026-10-23",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-159",
+          "title": "PACHAD (xi Remix)",
+          "credited_name": "xi",
+          "role": "編曲／リミックス。原曲：PACHAD（Blue Archive）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.nekomirin.com/nmcd0028/index.html",
+          "evidence": "公式特設で発売日2026/04/26、PACHADを原曲とするtr.7、Arrangement担当xiを確認。",
+          "checked_on": "2026-10-23",
+          "listening": null,
+          "note": ""
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "release-b9552a39d7",
+      "kind": "album",
+      "title": "Clippings of youth vol.1",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://www.nekomirin.com/nmcd0021/index.html",
+      "release_records": [
+        {
+          "id": "FOLLOW-XI-145-1",
+          "date": "2023-04-16",
+          "precision": "day",
+          "kind": "アルバム先行頒布日（初公開未確定）",
+          "medium": "Clippings of youth vol.1",
+          "source_url": "https://www.nekomirin.com/nmcd0021/index.html",
+          "evidence": "公式特設の曲目に『Signal of Abydos (xi Remix)』、StaffにArrangement (tr.9)／xi、原曲にSignal of Abydosを記載。先行販売と一般販売のある巻では両日付を分けた。",
+          "version": "Signal of Abydos (xi Remix)",
+          "checked_on": "2026-10-24",
+          "true_first_publication_confirmed": false
+        },
+        {
+          "id": "FOLLOW-XI-145-2",
+          "date": "2023-04-30",
+          "precision": "day",
+          "kind": "アルバム一般頒布日",
+          "medium": "Clippings of youth vol.1",
+          "source_url": "https://www.nekomirin.com/nmcd0021/index.html",
+          "evidence": "公式特設の曲目に『Signal of Abydos (xi Remix)』、StaffにArrangement (tr.9)／xi、原曲にSignal of Abydosを記載。先行販売と一般販売のある巻では両日付を分けた。",
+          "version": "Signal of Abydos (xi Remix)",
+          "checked_on": "2026-10-24",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-145",
+          "title": "Signal of Abydos (xi Remix)",
+          "credited_name": "xi",
+          "role": "編曲／リミックス：xi。原曲：Signal of Abydos（Blue Archive）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 9,
+          "source_url": "https://www.nekomirin.com/nmcd0021/index.html",
+          "evidence": "公式特設の曲目に『Signal of Abydos (xi Remix)』、StaffにArrangement (tr.9)／xi、原曲にSignal of Abydosを記載。先行販売と一般販売のある巻では両日付を分けた。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "release-40418991ff",
+      "kind": "album",
+      "title": "Clippings of youth vol.2",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://www.nekomirin.com/nmcd0022/index.html",
+      "release_records": [
+        {
+          "id": "FOLLOW-XI-146-1",
+          "date": "2023-10-22",
+          "precision": "day",
+          "kind": "アルバム先行頒布日（初公開未確定）",
+          "medium": "Clippings of youth vol.2",
+          "source_url": "https://www.nekomirin.com/nmcd0022/index.html",
+          "evidence": "公式特設の曲目に『OperationD (xi Remix)』、StaffにArrangement (tr.10)／xi、原曲にOperationDを記載。先行販売と一般販売のある巻では両日付を分けた。",
+          "version": "OperationD (xi Remix)",
+          "checked_on": "2026-10-24",
+          "true_first_publication_confirmed": false
+        },
+        {
+          "id": "FOLLOW-XI-146-2",
+          "date": "2023-10-29",
+          "precision": "day",
+          "kind": "アルバム一般頒布日",
+          "medium": "Clippings of youth vol.2",
+          "source_url": "https://www.nekomirin.com/nmcd0022/index.html",
+          "evidence": "公式特設の曲目に『OperationD (xi Remix)』、StaffにArrangement (tr.10)／xi、原曲にOperationDを記載。先行販売と一般販売のある巻では両日付を分けた。",
+          "version": "OperationD (xi Remix)",
+          "checked_on": "2026-10-24",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-146",
+          "title": "OperationD (xi Remix)",
+          "credited_name": "xi",
+          "role": "編曲／リミックス：xi。原曲：OperationD（Blue Archive）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 10,
+          "source_url": "https://www.nekomirin.com/nmcd0022/index.html",
+          "evidence": "公式特設の曲目に『OperationD (xi Remix)』、StaffにArrangement (tr.10)／xi、原曲にOperationDを記載。先行販売と一般販売のある巻では両日付を分けた。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "release-ba26bc45d5",
+      "kind": "album",
+      "title": "Clippings of youth vol.4",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://www.nekomirin.com/nmcd0026/index.html",
+      "release_records": [
+        {
+          "id": "FOLLOW-XI-153-1",
+          "date": "2025-04-27",
+          "precision": "day",
+          "kind": "アルバム頒布日（初公開未確定）",
+          "medium": "Clippings of youth vol.4",
+          "source_url": "https://www.nekomirin.com/nmcd0026/index.html",
+          "evidence": "公式特設の曲目に『Usagi Flap (xi Remix)』、StaffにArrangement (tr.1)／xi、原曲にUsagi Flapを記載。先行販売と一般販売のある巻では両日付を分けた。",
+          "version": "Usagi Flap (xi Remix)",
+          "checked_on": "2026-10-24",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-153",
+          "title": "Usagi Flap (xi Remix)",
+          "credited_name": "xi",
+          "role": "編曲／リミックス：xi。原曲：Usagi Flap（Blue Archive）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 1,
+          "source_url": "https://www.nekomirin.com/nmcd0026/index.html",
+          "evidence": "公式特設の曲目に『Usagi Flap (xi Remix)』、StaffにArrangement (tr.1)／xi、原曲にUsagi Flapを記載。先行販売と一般販売のある巻では両日付を分けた。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "release-8d6375d071",
+      "kind": "album",
+      "title": "LOSTAIR EP",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://booth.pm/ja/items/167603",
+      "release_records": [],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-071",
+          "title": "LOSTAIR (xi Remix)",
+          "credited_name": "xi",
+          "role": "リミックス担当：xi。原曲：Nardis",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 4,
+          "source_url": "https://booth.pm/ja/items/167603",
+          "evidence": "Third Brain RecordsのBOOTH曲目と説明で、Nardis原曲のLOSTAIRをxiがリミックスしたことを確認。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "release-7e0314815e",
+      "kind": "album",
+      "title": "P.D.M.[β] -brillante-",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://blackysbeatfloor.bandcamp.com/album/p-d-m-brillante",
+      "release_records": [
+        {
+          "id": "FOLLOW-XI-114-1",
+          "date": "2019-10-27",
+          "precision": "day",
+          "kind": "アルバム頒布日（初公開未確定）",
+          "medium": "P.D.M.[β] -brillante-",
+          "source_url": "https://blackysbeatfloor.bandcamp.com/album/p-d-m-brillante",
+          "evidence": "BlackYのBandcamp曲目で第7曲Artificial Satellite／xiと、released October 27, 2019を確認。ソロアルバムではなくBlackYの企画への参加曲。",
+          "version": "Artificial Satellite",
+          "checked_on": "2026-10-24",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-114",
+          "title": "Artificial Satellite",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 7,
+          "source_url": "https://blackysbeatfloor.bandcamp.com/album/p-d-m-brillante",
+          "evidence": "BlackYのBandcamp曲目で第7曲Artificial Satellite／xiと、released October 27, 2019を確認。ソロアルバムではなくBlackYの企画への参加曲。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "release-9a9f490e69",
+      "kind": "album",
+      "title": "WBC:DAIDA",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://booth.pm/ja/items/59725",
+      "release_records": [],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-055",
+          "title": "Healing World",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": 10,
+          "source_url": "https://booth.pm/ja/items/59725",
+          "evidence": "Diderse SystemのBOOTHで、第10曲Healing World／xiと参加者一覧のxiを確認。Diverse Systemとは綴りが異なる頒布元。本文から発売日は確定しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "release-31689e9eea",
+      "kind": "album",
+      "title": "synchro",
+      "category": "参加作品",
+      "entry_count": 1,
+      "source_url": "https://web.archive.org/web/20160117174204id_/http://www.music-side.com/disco/011_tiyes-1stcd.htm",
+      "release_records": [
+        {
+          "id": "FOLLOW-XI-027-1",
+          "date": "2010-12-29",
+          "precision": "day",
+          "kind": "アルバム頒布日（先行試聴の該当曲は未同定）",
+          "medium": "synchro",
+          "source_url": "https://web.archive.org/web/20160117174204id_/http://www.music-side.com/disco/011_tiyes-1stcd.htm",
+          "evidence": "旧100sec Records公式の保存本文で、Disc.2第10曲の曲名・xi名義・原曲Tetrapodを確認。本文の頒布日は2010年12月29日。保存日時ではない。",
+          "version": "Tetrapod -vanished waves mix-",
+          "checked_on": "2026-10-24",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-027",
+          "title": "Tetrapod -vanished waves mix-",
+          "credited_name": "xi",
+          "role": "リミックス／編曲。原曲：Tetrapod（原曲の個人別作曲担当は追加確認）",
+          "attribution": "credited",
+          "disc": 2,
+          "track_number": 10,
+          "source_url": "https://web.archive.org/web/20160117174204id_/http://www.music-side.com/disco/011_tiyes-1stcd.htm",
+          "evidence": "旧100sec Records公式の保存本文で、Disc.2第10曲の曲名・xi名義・原曲Tetrapodを確認。本文の頒布日は2010年12月29日。保存日時ではない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "release-99d25ee801",
+      "kind": "album",
+      "title": "のらねこさい まとめ",
+      "category": "参加作品",
+      "entry_count": 5,
+      "source_url": "https://www.nekomirin.com/nmcd0016/",
+      "release_records": [
+        {
+          "id": "FOLLOW-XI-108-1",
+          "date": "2019-08-12",
+          "precision": "day",
+          "kind": "アルバム頒布日（該当収録版・初公開未確定）",
+          "medium": "のらねこさい まとめ",
+          "source_url": "https://www.nekomirin.com/nmcd0016/",
+          "evidence": "頒布元公式のTrack 17に『After Burner (Long Version)』と『ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+          "version": "After Burner (Long Version)",
+          "checked_on": "2026-10-24",
+          "true_first_publication_confirmed": false
+        }
+      ],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-108",
+          "title": "After Burner (Long Version)",
+          "credited_name": "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+          "role": "作曲：xi・ねこみりん。編曲：xi。作詞：ねこみりん。歌唱：えみゅう。",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.nekomirin.com/nmcd0016/",
+          "evidence": "頒布元公式のTrack 17に『After Burner (Long Version)』と『ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        },
+        {
+          "work_id": "XI-109",
+          "title": "Aragami (Long Version)",
+          "credited_name": "xi",
+          "role": "楽曲クレジット：xi。ロング版",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.nekomirin.com/nmcd0016/",
+          "evidence": "頒布元公式のTrack 15に『Aragami (Long Version)』と『xi』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        },
+        {
+          "work_id": "XI-110",
+          "title": "Dreadnought (Extended Mix)",
+          "credited_name": "Mastermind(xi+nora2r)",
+          "role": "xi・nora2rの合作曲のExtended Mix。工程の内訳は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.nekomirin.com/nmcd0016/",
+          "evidence": "頒布元公式のTrack 16に『Dreadnought (Extended Mix)』と『Mastermind(xi+nora2r)』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        },
+        {
+          "work_id": "XI-111",
+          "title": "Gordian Knot",
+          "credited_name": "xi",
+          "role": "楽曲クレジット：xi。個別の工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.nekomirin.com/nmcd0016/",
+          "evidence": "頒布元公式のTrack 12に『Gordian Knot』と『xi』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        },
+        {
+          "work_id": "XI-112",
+          "title": "Lemuria (Long Version)",
+          "credited_name": "Festa",
+          "role": "Lemuriaのロング版。Festa名義。原曲とxiの対応は既存の本人動画・BMS試聴リンクの記録を併用",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.nekomirin.com/nmcd0016/",
+          "evidence": "頒布元公式のTrack 21に『Lemuria (Long Version)』と『Festa』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": ""
+        }
+      ],
+      "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
+    },
+    {
+      "id": "chunithm",
+      "kind": "game",
+      "title": "CHUNITHM",
+      "category": "ゲーム",
+      "entry_count": 5,
+      "source_url": "https://music-am.sega.jp/songs/song-00079/",
+      "release_records": [],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-166",
+          "title": "Aiolos",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://music-am.sega.jp/songs/song-00079/",
+          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-158",
+          "title": "DOMiNUS_GRAiL",
+          "credited_name": "xi",
+          "role": "作曲・プロデュース・プログラミング（配信クレジット）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=Fhw7jUOTm40",
+          "evidence": "本人チャンネルの動画タイトル『DOMiNUS_GRAiL / xi [CHUNITHM]』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=Fhw7jUOTm40",
+            "label": "本人公式YouTube",
+            "version": "本人MV／動画公開版",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-225",
+          "title": "Sparking Revolver",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://music-am.sega.jp/songs/song-01966/",
+          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-226",
+          "title": "Stargazing Dreamer",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://music-am.sega.jp/songs/song-01906/",
+          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-244",
+          "title": "創 -汝ら新世界へ歩む者なり-",
+          "credited_name": "BlackY VS Yooh VS siromaru VS xi VS モリモリあつし",
+          "role": "5名の合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://music-am.sega.jp/songs/song-02159/",
+          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
+          "checked_on": "2026-10-23",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        }
+      ],
+      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    },
+    {
+      "id": "deemo2",
+      "kind": "game",
+      "title": "DEEMO II",
+      "category": "ゲーム",
+      "entry_count": 2,
+      "source_url": "https://www.youtube.com/watch?v=tpYLJpl5UZU",
+      "release_records": [],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-207",
+          "title": "No+e o/= Hope",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=tpYLJpl5UZU",
+          "evidence": "本人チャンネルの動画タイトル『No+e o/= Hope / xi [DEEMO II]』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=tpYLJpl5UZU",
+            "label": "本人公式YouTube",
+            "version": "本人MV／動画公開版",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-139",
+          "title": "Phases of the Moon",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=6jIiA5t11No",
+          "evidence": "本人チャンネルの動画タイトル『Phases of the Moon / xi [DEEMO II]』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=6jIiA5t11No",
+            "label": "本人公式YouTube",
+            "version": "本人MV／動画公開版",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        }
+      ],
+      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    },
+    {
+      "id": "in-falsus",
+      "kind": "game",
+      "title": "In Falsus",
+      "category": "ゲーム",
+      "entry_count": 1,
+      "source_url": "https://www.youtube.com/watch?v=_K3LNlaGmY4",
+      "release_records": [],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-175",
+          "title": "Chronophobia",
+          "credited_name": "xi vs かねこちはる",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=_K3LNlaGmY4",
+          "evidence": "本人チャンネルの動画タイトル『xi vs かねこちはる - Chronophobia 【In Falsus】』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=_K3LNlaGmY4",
+            "label": "本人公式YouTube",
+            "version": "本人MV／動画公開版",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        }
+      ],
+      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    },
+    {
+      "id": "museca",
+      "kind": "game",
+      "title": "MÚSECA 1+1/2",
+      "category": "ゲーム",
+      "entry_count": 1,
+      "source_url": "https://p.eagate.573.jp/game/museca/msc_1half/music/index.html?filter=2&page=2&sort_type=1",
+      "release_records": [],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-190",
+          "title": "Grand Chariot",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/museca/msc_1half/music/index.html?filter=2&page=2&sort_type=1",
+          "evidence": "運営公式の曲名・名義を照合。楽曲ごとの初収録日の記載は確認できず。",
+          "checked_on": "2026-10-23",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        }
+      ],
+      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    },
+    {
+      "id": "sdvx",
+      "kind": "game",
+      "title": "SOUND VOLTEX",
+      "category": "ゲーム",
+      "entry_count": 2,
+      "source_url": "https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/10/index.html",
+      "release_records": [],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-195",
+          "title": "Innocent Tempest",
+          "credited_name": "Diceros Bicornis",
+          "role": "合作：xi・BlackY。xiは主にピアノ・曲構成（本人コメント）。",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/10/index.html",
+          "evidence": "公式採用ページに曲名とDiceros Bicornis名義があり、xiとBlackYの本人コメントで合作と制作分担を確認。xiはピアノと曲構成、BlackYはそれ以外を主に担当したと説明。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-215",
+          "title": "Quietus Ray",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/ii/p/music/detail.html?list_id=10",
+          "evidence": "運営公式の曲名・名義を照合。楽曲ごとの初収録日の記載は確認できず。",
+          "checked_on": "2026-10-23",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        }
+      ],
+      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    },
+    {
+      "id": "iidx",
+      "kind": "game",
+      "title": "beatmania IIDX",
+      "category": "ゲーム",
+      "entry_count": 4,
+      "source_url": "https://www.youtube.com/watch?v=q_7qM96gSNg",
+      "release_records": [],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-219",
+          "title": "Satellite Burst",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=q_7qM96gSNg",
+          "evidence": "本人チャンネルの動画タイトル『【作曲者がプレイ】Satellite Burst (SPA) 【beatmania IIDX 32 Pinky Crash】』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=q_7qM96gSNg",
+            "label": "本人公式YouTube（ゲームプレイ）",
+            "version": "本人によるゲームプレイ動画内のゲーム音源",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-242",
+          "title": "ιgniЯRuina",
+          "credited_name": "xi feat. Risa Yuzuki",
+          "role": "作曲：xi（本人の作曲者プレイ動画）。歌唱名義：Risa Yuzuki",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=VxisX358Mmk",
+          "evidence": "本人チャンネルの動画タイトル『【作曲者がプレイ】ιgniЯRuina (SPA)【beatmania IIDX 33 Sparkle Shower】』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=VxisX358Mmk",
+            "label": "本人公式YouTube（ゲームプレイ）",
+            "version": "本人によるゲームプレイ動画内のゲーム音源",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-250",
+          "title": "泡沫と月",
+          "credited_name": "xi feat. Risa Yuzuki",
+          "role": "作曲：xi（本人の作曲者プレイ動画）。歌唱名義：Risa Yuzuki",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=phiCv9e4fZA",
+          "evidence": "本人チャンネルの動画タイトル『【作曲者がプレイ】泡沫と月 (SPA)【beatmania IIDX 34 ZINRAI】』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=phiCv9e4fZA",
+            "label": "本人公式YouTube（ゲームプレイ）",
+            "version": "本人によるゲームプレイ動画内のゲーム音源",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-249",
+          "title": "響花水月",
+          "credited_name": "xi feat. Risa Yuzuki",
+          "role": "作曲：xi（本人の作曲者プレイ動画）。歌唱名義：Risa Yuzuki",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=MAxz5k_R-_w",
+          "evidence": "本人チャンネルの動画タイトル『【作曲者がプレイ】響花水月(SPA) 【beatmania IIDX 30 RESIDENT】』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=MAxz5k_R-_w",
+            "label": "本人公式YouTube（ゲームプレイ）",
+            "version": "本人によるゲームプレイ動画内のゲーム音源",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        }
+      ],
+      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    },
+    {
+      "id": "maimai",
+      "kind": "game",
+      "title": "maimai",
+      "category": "ゲーム",
+      "entry_count": 5,
+      "source_url": "https://music-am.sega.jp/songs/song-00079/",
+      "release_records": [],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-166",
+          "title": "Aiolos",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://music-am.sega.jp/songs/song-00079/",
+          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-188",
+          "title": "Glorious Crown",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://music-am.sega.jp/songs/song-01479/",
+          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
+          "checked_on": "2026-10-23",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-192",
+          "title": "Heavenly Blast",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://music-am.sega.jp/songs/song-01596/",
+          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-196",
+          "title": "KHYMΞXΛ",
+          "credited_name": "のらねこさい feat.ricono",
+          "role": "作曲：xi。編曲：xi・nora2r。作詞：ねこみりん。歌唱：ricono",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=tjfzgAVvxqk",
+          "evidence": "本人チャンネルの動画タイトル『KHYMΞXΛ / のらねこさい feat.ricono [maimai でらっくす]』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=tjfzgAVvxqk",
+            "label": "本人公式YouTube",
+            "version": "本人MV／動画公開版",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-154",
+          "title": "Xaleid◆scopiX",
+          "credited_name": "xi",
+          "role": "作曲・プロデュース・プログラミング（配信クレジット）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=-PTe8zkYt9A",
+          "evidence": "本人チャンネルの動画タイトル『Xaleid◆scopiX / xi [maimai でらっくす]』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=-PTe8zkYt9A",
+            "label": "本人公式YouTube",
+            "version": "本人MV／動画公開版",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        }
+      ],
+      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    },
+    {
+      "id": "ongeki",
+      "kind": "game",
+      "title": "オンゲキ",
+      "category": "ゲーム",
+      "entry_count": 3,
+      "source_url": "https://www.youtube.com/watch?v=N3JVN7NhIAM",
+      "release_records": [],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-209",
+          "title": "Op.I《fear-TITΛN-》",
+          "credited_name": "xi vs かねこちはる",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=N3JVN7NhIAM",
+          "evidence": "本人チャンネルの動画タイトル『xi vs かねこちはる - Op.I《fear-TITΛN-》  [オンゲキ]』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=N3JVN7NhIAM",
+            "label": "本人公式YouTube",
+            "version": "本人MV／動画公開版",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-225",
+          "title": "Sparking Revolver",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://music-am.sega.jp/songs/song-01966/",
+          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-226",
+          "title": "Stargazing Dreamer",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://music-am.sega.jp/songs/song-01906/",
+          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        }
+      ],
+      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    },
+    {
+      "id": "sdvx-konaste",
+      "kind": "game",
+      "title": "コナステ SOUND VOLTEX III",
+      "category": "ゲーム",
+      "entry_count": 8,
+      "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+      "release_records": [],
+      "checked_on": "2026-10-24",
+      "tracks": [
+        {
+          "work_id": "XI-164",
+          "title": "Aerial Fortress",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+          "evidence": "KONAMI公式の曲目一覧で『Aerial Fortress』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-184",
+          "title": "Failnaught",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+          "evidence": "KONAMI公式の曲目一覧で『Failnaught』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-185",
+          "title": "Fiat Lux",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+          "evidence": "KONAMI公式の曲目一覧で『Fiat Lux』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-194",
+          "title": "Inixia",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+          "evidence": "KONAMI公式の曲目一覧で『Inixia』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-197",
+          "title": "Last Resort",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+          "evidence": "KONAMI公式の曲目一覧で『Last Resort』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-234",
+          "title": "Time to Air -Fly High Remix-",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+          "evidence": "KONAMI公式の曲目一覧で『Time to Air -Fly High Remix-』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-236",
+          "title": "TU-MA-MI△ALL-NIGHTER",
+          "credited_name": "xi underground",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+          "evidence": "公式曲目にTU-MA-MI△ALL-NIGHTER／xi undergroundを確認。xi undergroundとxi本人の対応を直接示す資料は追加確認。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        },
+        {
+          "work_id": "XI-238",
+          "title": "Wish upon Twin Stars",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+          "evidence": "KONAMI公式の曲目一覧で『Wish upon Twin Stars』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+          "checked_on": "2026-10-24",
+          "listening": null,
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        }
+      ],
+      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    },
+    {
+      "id": "danmaku",
+      "kind": "game",
+      "title": "東方ダンマクカグラ ファンタジア・ロスト",
+      "category": "ゲーム",
+      "entry_count": 1,
+      "source_url": "https://www.youtube.com/watch?v=FGy4oACAAbc",
+      "release_records": [],
+      "checked_on": "2026-10-23",
+      "tracks": [
+        {
+          "work_id": "XI-240",
+          "title": "Xeno Phantasm",
+          "credited_name": "xi (Diverse System)",
+          "role": "リミックス担当：xi。原曲：ネクロファンタジア／作曲：ZUN",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=FGy4oACAAbc",
+          "evidence": "本人チャンネルの動画タイトル『Xeno Phantasm / xi (Diverse System) [東方ダンマクカグラ ファンタジア・ロスト]』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
+          "checked_on": "2026-10-23",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=FGy4oACAAbc",
+            "label": "本人公式YouTube",
+            "version": "本人MV／動画公開版",
+            "official_basis": "公式配信案内のYouTubeチャンネルリンクと各動画のchannelIdが一致",
+            "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
+            "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
+          },
+          "note": "ゲームの初収録日・現在の配信状況は未確認。"
+        }
+      ],
+      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    }
+  ]
+}

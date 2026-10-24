@@ -6,7 +6,7 @@ import openapiTS, { astToString } from "openapi-typescript";
 
 const root = fileURLToPath(new URL("..", import.meta.url));
 const python = process.env.XI_PYTHON ?? resolve(root, "backend/.venv", process.platform === "win32" ? "Scripts/python.exe" : "bin/python");
-for (const script of ["export_public.py", "export_openapi.py"]) {
+for (const script of ["export_public.py", "build_collections.py", "export_openapi.py"]) {
   const result = spawnSync(python, [resolve(root, "scripts", script)], { cwd: root, stdio: "inherit" });
   if (result.error) throw result.error;
   if (result.status !== 0) process.exit(result.status ?? 1);

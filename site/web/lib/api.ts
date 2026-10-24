@@ -6,6 +6,10 @@ export type RecordDate = components["schemas"]["PublicationRecord"];
 export type Meta = components["schemas"]["ArchiveMeta"];
 export type WorkList = components["schemas"]["WorkList"];
 export type WorkQuery = NonNullable<paths["/api/v1/works"]["get"]["parameters"]["query"]>;
+export type CollectionSummary = components["schemas"]["CollectionSummary"];
+export type CollectionDetail = components["schemas"]["CollectionDetail"];
+export type CollectionList = components["schemas"]["CollectionList"];
+export type CollectionKind = "album" | "game";
 
 export class ApiFailure extends Error {
   constructor(public status: number, message: string) { super(message); }
@@ -40,6 +44,8 @@ export const api = {
     return request<WorkList>(`/works?${params}`, signal);
   },
   work: (id: string, signal?: AbortSignal) => request<WorkDetail>(`/works/${encodeURIComponent(id)}`, signal),
+  collections: (kind: CollectionKind, signal?: AbortSignal) => request<CollectionList>(kind === "album" ? "/albums" : "/games", signal),
+  collection: (kind: CollectionKind, id: string, signal?: AbortSignal) => request<CollectionDetail>(`${kind === "album" ? "/albums" : "/games"}/${encodeURIComponent(id)}`, signal),
 };
 
 export function formatDate(record: RecordDate | null | undefined): string {

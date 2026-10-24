@@ -22,9 +22,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <Link className="brand" href="/" aria-label="xi archive トップ">xi archive</Link>
             <nav aria-label="メインナビゲーション">
               <Link href="/#chronology">作品年表</Link>
+              <Link href="/albums">アルバム</Link>
+              <Link href="/games">音楽ゲーム</Link>
               <Link href="/about">このサイトについて</Link>
-              <ThemeToggle />
             </nav>
+            <ThemeToggle />
           </div>
         </header>
         {children}

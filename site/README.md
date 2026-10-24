@@ -29,6 +29,12 @@ npm run build
 
 OpenAPIは`contracts/openapi.json`、TypeScript型は`web/lib/schema.d.ts`に生成する。契約の詳細は`../docs/api-contract.md`、見た目の意図は`../docs/visual-direction.md`を参照。
 
+## 収録先から探す
+
+`/albums`はアルバム別、`/games`は音楽ゲーム別の収録情報。各一覧から曲順・名義・根拠を持つ詳細ページへ進める。生成元と確認範囲は`../docs/media-pages.md`を参照する。
+
+`npm run contracts`は作品データに加えて`build_collections.py`による収録情報とページIDを生成し、OpenAPI・TypeScript型を更新する。公開用のJSONとIDもコミットするため、ビルド環境に調査用資料をコピーする必要はない。
+
 ## Vercel
 
 `site/`をプロジェクトルートとして扱う設定案を`vercel.json`に置いている。Services（Beta）でwebとbackendを同時に公開し、`/api/v1/*`をFastAPIへ振り分ける。Node.jsは24系、Pythonは3.12以上。ホスティングへの登録・デプロイ・Services上での検証はまだ行っていない。

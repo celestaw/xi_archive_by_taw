@@ -106,6 +106,41 @@ class WorkList(PublicModel):
     offset: int
 
 
+class CollectionSummary(PublicModel):
+    id: str
+    kind: Literal["album", "game"]
+    title: str
+    category: str
+    entry_count: int
+    source_url: str
+    release_records: list[PublicationRecord]
+    checked_on: str
+
+
+class CollectionTrack(PublicModel):
+    work_id: str | None
+    title: str
+    credited_name: str
+    role: str
+    attribution: Literal["credited", "unverified"]
+    disc: int | None
+    track_number: int | None
+    source_url: str
+    evidence: str
+    checked_on: str
+    listening: ListeningLink | None
+    note: str
+
+
+class CollectionDetail(CollectionSummary):
+    tracks: list[CollectionTrack]
+    note: str
+
+
+class CollectionList(PublicModel):
+    items: list[CollectionSummary]
+
+
 class ArchiveMeta(PublicModel):
     schema_version: Literal[1] = 1
     checked_on: str
