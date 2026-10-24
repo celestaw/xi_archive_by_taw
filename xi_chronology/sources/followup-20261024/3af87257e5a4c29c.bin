@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>100sec Records -music side-</title>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta name="robots" content="index,follow">
+<meta name="keywords" content="同人音楽,音楽ゲーム,音ゲー,オリジナル,創作,100secRecords">
+<meta name="description" content="同人音楽サークル、100sec Recordsの公式サイトです">
+<!-- ※下はスクロールバーを非表示にしています。-->
+<style type=text/css>
+<!--
+body{overflow:hidden}
+-->
+</style>
+</head>
+<frameset frameborder="0" framespacing="0" border="0" cols="310,*">
+　 <frameset rows="22%,78%">
+　 　 <frame src="menu.htm" name="menu" noresize>
+　 　 <frame src="side.htm" name="menu" noresize>
+　 </frameset>
+　 <frame src="top.htm" name="main" noresize>
+</frameset><noframes></noframes>
+</html>

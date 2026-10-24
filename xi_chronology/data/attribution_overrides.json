@@ -1,0 +1,57 @@
+{
+  "XI-029": {
+    "summary": "補助Excelの要確認候補から引き継いだ項目。Wikiの収録表と第三者のYouTube説明欄にxi名義の記載があるが、本人・頒布元の曲別クレジットは未確認。",
+    "sources": [
+      {
+        "kind": "secondary",
+        "label": "xiディスコグラフィー（Wiki・二次資料）",
+        "url": "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+        "locator": "アルバム参加曲の表／Sunset Driveの行",
+        "credit": "xi",
+        "summary": "『Sunset Drive』『Giudizio Universale』をxi名義で掲載。表の日付2011-04-30は二次資料の主張として保持し、確認済み年表の日付には採用しない。",
+        "identity_note": "音楽ゲーム作曲家xiのディスコグラフィーとして記載されているが、編集内容の正確性は一次資料で確認する必要がある。",
+        "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "secondary",
+        "label": "利用者が提示したYouTube動画／CHAGGERS Gaming",
+        "url": "https://www.youtube.com/watch?v=zeQWTuJRDGU",
+        "locator": "動画タイトル・説明欄",
+        "credit": "Artist: xi",
+        "summary": "動画名は『xi - Giudizio Universale』。説明欄に曲名、Artist: xi、Album: Sunset Drive、Circle: Records Boosterを記載。動画ページを取得して確認した。",
+        "identity_note": "投稿チャンネルIDはUCPJFyqyzpTpxOOz_NWI0o-w。本人公式チャンネルとは異なり、本人・レーベルによる投稿または転載許諾は未確認。公式試聴には採用しない。",
+        "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "secondary",
+        "label": "ぷろとら・2011年10月29日の告知紹介",
+        "url": "https://purotora.com/log/20111001.html",
+        "locator": "Records Booster 3rdCD『Sunset Drive』の紹介",
+        "credit": "xiさん",
+        "summary": "Records Booster『Sunset Drive』の参加者としてxiを挙げ、当時の特設サイトへリンクしている。曲名の記載はなく、この曲の担当までは裏付けない。記事の日付を楽曲の公開日にはしない。",
+        "identity_note": "BMS界隈のxiとして紹介。アルバム参加の補助資料であり、曲別の一次クレジットではない。",
+        "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "lead",
+        "label": "Records Booster『Sunset Drive』当時の特設サイト（未取得）",
+        "url": "http://www.topo-sol.jp/unig/contents/data/2011m3s.html",
+        "locator": "上記の告知紹介から辿れるURL",
+        "credit": null,
+        "summary": "当時の頒布元資料の調査先。現ページとInternet Archiveの取得を試みたが、本文は確認できていない。",
+        "identity_note": "未取得のため、曲別クレジットや本人へのリンクは確認できていない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "limitations": [
+      "二次資料どうしが独立した情報源かは不明。複数に同じ記載があっても一次資料による確認の代わりにはしない。",
+      "YouTubeページの公開日時はこの投稿の記録であり、曲の初公開日・アルバム発売日には採用しない。",
+      "次の調査先は当時の特設サイトの保存版とCDブックレットの曲別クレジット。"
+    ]
+  },
+  "XI-049": {
+    "verdict": "unverified",
+    "summary": "レーベル公式の『Agartha』曲目にXiphoid Sphere名義の『HEAVENLY GALAXiES』を確認した記録がある。ただし、保存済み調査ではこの名義とxi本人の関係を裏付ける資料が未確認のため、xiへの帰属は保留する。",
+    "limitations": ["公式曲目に名義があることと、その名義がxi本人を含むことは別の確認事項。名義の構成を示す本人・レーベル資料を追加確認する。"]
+  }
+}

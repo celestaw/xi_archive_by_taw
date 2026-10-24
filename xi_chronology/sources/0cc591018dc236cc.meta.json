@@ -1,0 +1,27 @@
+{
+  "url": "https://www.youtube.com/watch?v=N3JVN7NhIAM",
+  "checked_on": "2026-10-23",
+  "key": "0cc591018dc236cc",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://www.youtube.com/watch?v=N3JVN7NhIAM",
+  "bytes": 1303448,
+  "sha256": "d0f677ddefa7ed89a881eff8d9f7883d4048033a805aaa5c38b7615042966762",
+  "title": "xi vs かねこちはる - Op.I《fear-TITΛN-》  [オンゲキ] - YouTube",
+  "links": [
+    "/",
+    "/",
+    "https://www.youtube.com/about/",
+    "https://www.youtube.com/about/press/",
+    "https://www.youtube.com/about/copyright/",
+    "/t/contact_us/",
+    "https://www.youtube.com/creators/",
+    "https://www.youtube.com/ads/",
+    "https://developers.google.com/youtube",
+    "/t/terms",
+    "/t/privacy",
+    "https://www.youtube.com/about/policies/",
+    "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen",
+    "/new"
+  ]
+}

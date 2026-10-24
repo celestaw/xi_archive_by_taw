@@ -1,0 +1,30 @@
+[
+  {
+    "id": "EDIT-20261023-001",
+    "date": "2026-10-23",
+    "source_id": "USER-20261023-001",
+    "changes": [
+      {
+        "note_entry_id": "NOTE-030",
+        "original_text": "World fragments",
+        "previous_target_ids": [],
+        "previous_reason": "アルバム名と同じ総称で、I・II・IIIのどれかを特定できない。明示的な三曲併記NOTE-099は別に対応付ける。",
+        "new_target_ids": ["XI-076", "XI-077", "XI-078"],
+        "new_reason": "利用者補足に基づき三部作へのまとめた参照として対応付け。アルバム名と3曲の項目は分けて保持。"
+      },
+      {
+        "note_entry_id": "NOTE-051",
+        "original_text": "Storm and inpulse",
+        "previous_target_ids": [],
+        "previous_reason": "公式アルバムに同名トラックはない。疾風怒濤の英語表題を意図した可能性はあるが未統合。",
+        "new_target_ids": ["XI-143"],
+        "new_reason": "利用者が太鼓の達人の疾風怒濤の英語タイトルStorm and Impulseと明示したため対応付け。元のinpulse表記は残す。"
+      }
+    ],
+    "previous_counts": {"note_mapped_appearances": 247, "note_ambiguous_appearances": 2},
+    "new_counts": {"note_mapped_appearances": 249, "note_ambiguous_appearances": 0},
+    "work_item_count_before": 251,
+    "work_item_count_after": 251,
+    "publication_dates_changed": false
+  }
+]

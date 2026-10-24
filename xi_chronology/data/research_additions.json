@@ -1,0 +1,1048 @@
+{
+  "XI-027": {
+    "title": "Tetrapod -vanished waves mix-",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "100sec Records",
+        "url": "https://web.archive.org/web/20160117174204id_/http://www.music-side.com/disco/011_tiyes-1stcd.htm",
+        "locator": "Disc.2 Remix Side 第10曲",
+        "credit": "xi",
+        "summary": "旧100sec Records公式の保存本文で、Disc.2第10曲の曲名・xi名義・原曲Tetrapodを確認。本文の頒布日は2010年12月29日。保存日時ではない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-027-1",
+        "date": "2010-12-29",
+        "precision": "day",
+        "kind": "アルバム頒布日（先行試聴の該当曲は未同定）",
+        "medium": "synchro",
+        "source_url": "https://web.archive.org/web/20160117174204id_/http://www.music-side.com/disco/011_tiyes-1stcd.htm",
+        "evidence": "旧100sec Records公式の保存本文で、Disc.2第10曲の曲名・xi名義・原曲Tetrapodを確認。本文の頒布日は2010年12月29日。保存日時ではない。",
+        "version": "Tetrapod -vanished waves mix-",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [
+      "更新履歴には発売前のDisc.2試聴公開が複数あるが、この曲がどの日に含まれたかは未確認。頒布日を初公開日とはしない。"
+    ],
+    "verified_credit": true,
+    "credited_name": "xi",
+    "role": "リミックス／編曲。原曲：Tetrapod（原曲の個人別作曲担当は追加確認）"
+  },
+  "XI-071": {
+    "title": "LOSTAIR (xi Remix)",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "LOSTAIR EP - thirdbrainrec - BOOTH",
+        "url": "https://booth.pm/ja/items/167603",
+        "locator": "第4曲・商品説明",
+        "credit": "xi",
+        "summary": "Third Brain RecordsのBOOTH曲目と説明で、Nardis原曲のLOSTAIRをxiがリミックスしたことを確認。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "secondary",
+        "label": "DIVERSE DIRECT | LOSTAIR EP",
+        "url": "https://www.diverse.direct/third-brain-records/3bcd-0002/",
+        "locator": "第4曲・Release Date",
+        "credit": "xi",
+        "summary": "販売店の第4曲にLOSTAIR (xi Remix)／xi、Release Dateに2015/10/25と記載。発売日は販売店の記録として保持。曲の初公開日は未確認。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-071-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "LOSTAIR EP",
+        "source_url": "https://booth.pm/ja/items/167603",
+        "evidence": "Third Brain RecordsのBOOTH曲目と説明で、Nardis原曲のLOSTAIRをxiがリミックスしたことを確認。",
+        "version": "LOSTAIR (xi Remix)",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi",
+    "role": "リミックス担当：xi。原曲：Nardis"
+  },
+  "XI-055": {
+    "title": "Healing World",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "WBC:DAIDA - Diderse System - BOOTH",
+        "url": "https://booth.pm/ja/items/59725",
+        "locator": "第10曲・商品説明",
+        "credit": "xi",
+        "summary": "Diderse SystemのBOOTHで、第10曲Healing World／xiと参加者一覧のxiを確認。Diverse Systemとは綴りが異なる頒布元。本文から発売日は確定しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-055-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "WBC:DAIDA",
+        "source_url": "https://booth.pm/ja/items/59725",
+        "evidence": "Diderse SystemのBOOTHで、第10曲Healing World／xiと参加者一覧のxiを確認。Diverse Systemとは綴りが異なる頒布元。本文から発売日は確定しない。",
+        "version": "Healing World",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-108": {
+    "title": "After Burner (Long Version)",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "のらねこさい まとめ",
+        "url": "https://www.nekomirin.com/nmcd0016/",
+        "locator": "楽曲Track 17・インフォメーション",
+        "credit": "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+        "summary": "頒布元公式のTrack 17に『After Burner (Long Version)』と『ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-108-1",
+        "date": "2019-08-12",
+        "precision": "day",
+        "kind": "アルバム頒布日（該当収録版・初公開未確定）",
+        "medium": "のらねこさい まとめ",
+        "source_url": "https://www.nekomirin.com/nmcd0016/",
+        "evidence": "頒布元公式のTrack 17に『After Burner (Long Version)』と『ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+        "version": "After Burner (Long Version)",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。",
+    "role": "作曲：xi・ねこみりん。編曲：xi。作詞：ねこみりん。歌唱：えみゅう。",
+    "comment": "公式特設では作曲をxi・ねこみりん、編曲をxiと記載。ゲームサイズとは別の収録版。"
+  },
+  "XI-109": {
+    "title": "Aragami (Long Version)",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "のらねこさい まとめ",
+        "url": "https://www.nekomirin.com/nmcd0016/",
+        "locator": "楽曲Track 15・インフォメーション",
+        "credit": "xi",
+        "summary": "頒布元公式のTrack 15に『Aragami (Long Version)』と『xi』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-109-1",
+        "date": "2019-08-12",
+        "precision": "day",
+        "kind": "アルバム頒布日（該当収録版・初公開未確定）",
+        "medium": "のらねこさい まとめ",
+        "source_url": "https://www.nekomirin.com/nmcd0016/",
+        "evidence": "頒布元公式のTrack 15に『Aragami (Long Version)』と『xi』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+        "version": "Aragami (Long Version)",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi",
+    "role": "楽曲クレジット：xi。ロング版"
+  },
+  "XI-110": {
+    "title": "Dreadnought (Extended Mix)",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "のらねこさい まとめ",
+        "url": "https://www.nekomirin.com/nmcd0016/",
+        "locator": "楽曲Track 16・インフォメーション",
+        "credit": "Mastermind(xi+nora2r)",
+        "summary": "頒布元公式のTrack 16に『Dreadnought (Extended Mix)』と『Mastermind(xi+nora2r)』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-110-1",
+        "date": "2019-08-12",
+        "precision": "day",
+        "kind": "アルバム頒布日（該当収録版・初公開未確定）",
+        "medium": "のらねこさい まとめ",
+        "source_url": "https://www.nekomirin.com/nmcd0016/",
+        "evidence": "頒布元公式のTrack 16に『Dreadnought (Extended Mix)』と『Mastermind(xi+nora2r)』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+        "version": "Dreadnought (Extended Mix)",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "Mastermind(xi+nora2r)",
+    "role": "xi・nora2rの合作曲のExtended Mix。工程の内訳は未確認"
+  },
+  "XI-111": {
+    "title": "Gordian Knot",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "のらねこさい まとめ",
+        "url": "https://www.nekomirin.com/nmcd0016/",
+        "locator": "楽曲Track 12・インフォメーション",
+        "credit": "xi",
+        "summary": "頒布元公式のTrack 12に『Gordian Knot』と『xi』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-111-1",
+        "date": "2019-08-12",
+        "precision": "day",
+        "kind": "アルバム頒布日（該当収録版・初公開未確定）",
+        "medium": "のらねこさい まとめ",
+        "source_url": "https://www.nekomirin.com/nmcd0016/",
+        "evidence": "頒布元公式のTrack 12に『Gordian Knot』と『xi』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+        "version": "Gordian Knot",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi",
+    "role": "楽曲クレジット：xi。個別の工程は未確認"
+  },
+  "XI-112": {
+    "title": "Lemuria (Long Version)",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "のらねこさい まとめ",
+        "url": "https://www.nekomirin.com/nmcd0016/",
+        "locator": "楽曲Track 21・インフォメーション",
+        "credit": "Festa",
+        "summary": "頒布元公式のTrack 21に『Lemuria (Long Version)』と『Festa』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-112-1",
+        "date": "2019-08-12",
+        "precision": "day",
+        "kind": "アルバム頒布日（該当収録版・初公開未確定）",
+        "medium": "のらねこさい まとめ",
+        "source_url": "https://www.nekomirin.com/nmcd0016/",
+        "evidence": "頒布元公式のTrack 21に『Lemuria (Long Version)』と『Festa』を掲載。頒布日は2019年8月12日。原曲の公開日とは区別する。",
+        "version": "Lemuria (Long Version)",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "Festa",
+    "role": "Lemuriaのロング版。Festa名義。原曲とxiの対応は既存の本人動画・BMS試聴リンクの記録を併用"
+  },
+  "XI-164": {
+    "title": "Aerial Fortress",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX III/コナステ\n",
+        "url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "locator": "曲目一覧／Aerial Fortress",
+        "credit": "xi",
+        "summary": "KONAMI公式の曲目一覧で『Aerial Fortress』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-164-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "コナステ SOUND VOLTEX III",
+        "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "evidence": "KONAMI公式の曲目一覧で『Aerial Fortress』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "version": "Aerial Fortress",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-184": {
+    "title": "Failnaught",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX III/コナステ\n",
+        "url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "locator": "曲目一覧／Failnaught",
+        "credit": "xi",
+        "summary": "KONAMI公式の曲目一覧で『Failnaught』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-184-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "コナステ SOUND VOLTEX III",
+        "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "evidence": "KONAMI公式の曲目一覧で『Failnaught』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "version": "Failnaught",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-185": {
+    "title": "Fiat Lux",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX III/コナステ\n",
+        "url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "locator": "曲目一覧／Fiat Lux",
+        "credit": "xi",
+        "summary": "KONAMI公式の曲目一覧で『Fiat Lux』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-185-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "コナステ SOUND VOLTEX III",
+        "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "evidence": "KONAMI公式の曲目一覧で『Fiat Lux』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "version": "Fiat Lux",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-194": {
+    "title": "Inixia",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX III/コナステ\n",
+        "url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "locator": "曲目一覧／Inixia",
+        "credit": "xi",
+        "summary": "KONAMI公式の曲目一覧で『Inixia』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-194-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "コナステ SOUND VOLTEX III",
+        "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "evidence": "KONAMI公式の曲目一覧で『Inixia』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "version": "Inixia",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-197": {
+    "title": "Last Resort",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX III/コナステ\n",
+        "url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "locator": "曲目一覧／Last Resort",
+        "credit": "xi",
+        "summary": "KONAMI公式の曲目一覧で『Last Resort』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-197-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "コナステ SOUND VOLTEX III",
+        "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "evidence": "KONAMI公式の曲目一覧で『Last Resort』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "version": "Last Resort",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-234": {
+    "title": "Time to Air -Fly High Remix-",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX III/コナステ\n",
+        "url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "locator": "曲目一覧／Time to Air -Fly High Remix-",
+        "credit": "xi",
+        "summary": "KONAMI公式の曲目一覧で『Time to Air -Fly High Remix-』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-234-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "コナステ SOUND VOLTEX III",
+        "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "evidence": "KONAMI公式の曲目一覧で『Time to Air -Fly High Remix-』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "version": "Time to Air -Fly High Remix-",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-238": {
+    "title": "Wish upon Twin Stars",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX III/コナステ\n",
+        "url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "locator": "曲目一覧／Wish upon Twin Stars",
+        "credit": "xi",
+        "summary": "KONAMI公式の曲目一覧で『Wish upon Twin Stars』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-238-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "コナステ SOUND VOLTEX III",
+        "source_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "evidence": "KONAMI公式の曲目一覧で『Wish upon Twin Stars』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
+        "version": "Wish upon Twin Stars",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-195": {
+    "title": "Innocent Tempest",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX BOOTH / FLOOR",
+        "url": "https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/10/index.html",
+        "locator": "ORIGINAL MUSIC FILE NO.001・xi/BlackYの本人コメント",
+        "credit": "Diceros Bicornis",
+        "summary": "公式採用ページに曲名とDiceros Bicornis名義があり、xiとBlackYの本人コメントで合作と制作分担を確認。xiはピアノと曲構成、BlackYはそれ以外を主に担当したと説明。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-195-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "SOUND VOLTEX FLOOR",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/10/index.html",
+        "evidence": "公式採用ページに曲名とDiceros Bicornis名義があり、xiとBlackYの本人コメントで合作と制作分担を確認。xiはピアノと曲構成、BlackYはそれ以外を主に担当したと説明。",
+        "version": "Innocent Tempest",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "Diceros Bicornis",
+    "role": "合作：xi・BlackY。xiは主にピアノ・曲構成（本人コメント）。"
+  },
+  "XI-236": {
+    "title": "TU-MA-MI△ALL-NIGHTER",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX III/コナステ\n",
+        "url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+        "locator": "曲目一覧／TU-MA-MI△ALL-NIGHTER",
+        "credit": "xi underground",
+        "summary": "公式曲目にTU-MA-MI△ALL-NIGHTER／xi undergroundを確認。xi undergroundとxi本人の対応を直接示す資料は追加確認。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": []
+  },
+  "XI-166": {
+    "title": "Aiolos",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "Aiolos | ゲキチュウマイ オリジナル楽曲ポータル（maimai・CHUNITHM・オンゲキ公式）",
+        "url": "https://music-am.sega.jp/songs/song-00079/",
+        "locator": "曲名・ARTIST欄",
+        "credit": "xi",
+        "summary": "SEGA運営の曲別ページで『Aiolos』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-166-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "ゲキチュウマイ公式楽曲ポータル",
+        "source_url": "https://music-am.sega.jp/songs/song-00079/",
+        "evidence": "SEGA運営の曲別ページで『Aiolos』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
+        "version": "Aiolos",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://music.apple.com/jp/song/aiolos/1633656818",
+        "label": "SEGA公式が案内する正規配信",
+        "version": "公式ポータルが案内する配信版。初期ゲーム音源との同一性は未確認",
+        "official_basis": "SEGA公式の曲別ページからリンクされた正規配信ページ。",
+        "officialness_source_url": "https://music-am.sega.jp/songs/song-00079/",
+        "availability": "公式ページの案内を確認。実再生・地域制限は未検証"
+      }
+    ],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-192": {
+    "title": "Heavenly Blast",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "Heavenly Blast | ゲキチュウマイ オリジナル楽曲ポータル（maimai・CHUNITHM・オンゲキ公式）",
+        "url": "https://music-am.sega.jp/songs/song-01596/",
+        "locator": "曲名・ARTIST欄",
+        "credit": "xi",
+        "summary": "SEGA運営の曲別ページで『Heavenly Blast』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-192-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "ゲキチュウマイ公式楽曲ポータル",
+        "source_url": "https://music-am.sega.jp/songs/song-01596/",
+        "evidence": "SEGA運営の曲別ページで『Heavenly Blast』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
+        "version": "Heavenly Blast",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://music.apple.com/jp/song/heavenly-blast/1633609639",
+        "label": "SEGA公式が案内する正規配信",
+        "version": "公式ポータルが案内する配信版。初期ゲーム音源との同一性は未確認",
+        "official_basis": "SEGA公式の曲別ページからリンクされた正規配信ページ。",
+        "officialness_source_url": "https://music-am.sega.jp/songs/song-01596/",
+        "availability": "公式ページの案内を確認。実再生・地域制限は未検証"
+      }
+    ],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-225": {
+    "title": "Sparking Revolver",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "Sparking Revolver | ゲキチュウマイ オリジナル楽曲ポータル（maimai・CHUNITHM・オンゲキ公式）",
+        "url": "https://music-am.sega.jp/songs/song-01966/",
+        "locator": "曲名・ARTIST欄",
+        "credit": "xi",
+        "summary": "SEGA運営の曲別ページで『Sparking Revolver』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-225-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "ゲキチュウマイ公式楽曲ポータル",
+        "source_url": "https://music-am.sega.jp/songs/song-01966/",
+        "evidence": "SEGA運営の曲別ページで『Sparking Revolver』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
+        "version": "Sparking Revolver",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://music.apple.com/jp/song/sparking-revolver/1634633006",
+        "label": "SEGA公式が案内する正規配信",
+        "version": "公式ポータルが案内する配信版。初期ゲーム音源との同一性は未確認",
+        "official_basis": "SEGA公式の曲別ページからリンクされた正規配信ページ。",
+        "officialness_source_url": "https://music-am.sega.jp/songs/song-01966/",
+        "availability": "公式ページの案内を確認。実再生・地域制限は未検証"
+      }
+    ],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-226": {
+    "title": "Stargazing Dreamer",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "Stargazing Dreamer | ゲキチュウマイ オリジナル楽曲ポータル（maimai・CHUNITHM・オンゲキ公式）",
+        "url": "https://music-am.sega.jp/songs/song-01906/",
+        "locator": "曲名・ARTIST欄",
+        "credit": "xi",
+        "summary": "SEGA運営の曲別ページで『Stargazing Dreamer』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-226-1",
+        "date": null,
+        "precision": null,
+        "kind": "公式クレジット・収録掲載（初収録日未確認）",
+        "medium": "ゲキチュウマイ公式楽曲ポータル",
+        "source_url": "https://music-am.sega.jp/songs/song-01906/",
+        "evidence": "SEGA運営の曲別ページで『Stargazing Dreamer』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
+        "version": "Stargazing Dreamer",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://music.apple.com/jp/song/stargazing-dreamer/1735301642",
+        "label": "SEGA公式が案内する正規配信",
+        "version": "公式ポータルが案内する配信版。初期ゲーム音源との同一性は未確認",
+        "official_basis": "SEGA公式の曲別ページからリンクされた正規配信ページ。",
+        "officialness_source_url": "https://music-am.sega.jp/songs/song-01906/",
+        "availability": "公式ページの案内を確認。実再生・地域制限は未検証"
+      }
+    ],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  },
+  "XI-145": {
+    "title": "Signal of Abydos (xi Remix)",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "Clippings of youth vol.1 | nekomimi style",
+        "url": "https://www.nekomirin.com/nmcd0021/index.html",
+        "locator": "Tracklist・Arrangement (tr.9)・Release Date",
+        "credit": "xi",
+        "summary": "公式特設の曲目に『Signal of Abydos (xi Remix)』、StaffにArrangement (tr.9)／xi、原曲にSignal of Abydosを記載。先行販売と一般販売のある巻では両日付を分けた。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-145-1",
+        "date": "2023-04-16",
+        "precision": "day",
+        "kind": "アルバム先行頒布日（初公開未確定）",
+        "medium": "Clippings of youth vol.1",
+        "source_url": "https://www.nekomirin.com/nmcd0021/index.html",
+        "evidence": "公式特設の曲目に『Signal of Abydos (xi Remix)』、StaffにArrangement (tr.9)／xi、原曲にSignal of Abydosを記載。先行販売と一般販売のある巻では両日付を分けた。",
+        "version": "Signal of Abydos (xi Remix)",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "FOLLOW-XI-145-2",
+        "date": "2023-04-30",
+        "precision": "day",
+        "kind": "アルバム一般頒布日",
+        "medium": "Clippings of youth vol.1",
+        "source_url": "https://www.nekomirin.com/nmcd0021/index.html",
+        "evidence": "公式特設の曲目に『Signal of Abydos (xi Remix)』、StaffにArrangement (tr.9)／xi、原曲にSignal of Abydosを記載。先行販売と一般販売のある巻では両日付を分けた。",
+        "version": "Signal of Abydos (xi Remix)",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi",
+    "role": "編曲／リミックス：xi。原曲：Signal of Abydos（Blue Archive）",
+    "comment": "『Clippings of youth vol.1』収録のブルーアーカイブ楽曲アレンジ。公式特設にxiの編曲担当を記載。"
+  },
+  "XI-146": {
+    "title": "OperationD (xi Remix)",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "Clippings of youth vol.2 | nekomimi style",
+        "url": "https://www.nekomirin.com/nmcd0022/index.html",
+        "locator": "Tracklist・Arrangement (tr.10)・Release Date",
+        "credit": "xi",
+        "summary": "公式特設の曲目に『OperationD (xi Remix)』、StaffにArrangement (tr.10)／xi、原曲にOperationDを記載。先行販売と一般販売のある巻では両日付を分けた。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-146-1",
+        "date": "2023-10-22",
+        "precision": "day",
+        "kind": "アルバム先行頒布日（初公開未確定）",
+        "medium": "Clippings of youth vol.2",
+        "source_url": "https://www.nekomirin.com/nmcd0022/index.html",
+        "evidence": "公式特設の曲目に『OperationD (xi Remix)』、StaffにArrangement (tr.10)／xi、原曲にOperationDを記載。先行販売と一般販売のある巻では両日付を分けた。",
+        "version": "OperationD (xi Remix)",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "FOLLOW-XI-146-2",
+        "date": "2023-10-29",
+        "precision": "day",
+        "kind": "アルバム一般頒布日",
+        "medium": "Clippings of youth vol.2",
+        "source_url": "https://www.nekomirin.com/nmcd0022/index.html",
+        "evidence": "公式特設の曲目に『OperationD (xi Remix)』、StaffにArrangement (tr.10)／xi、原曲にOperationDを記載。先行販売と一般販売のある巻では両日付を分けた。",
+        "version": "OperationD (xi Remix)",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi",
+    "role": "編曲／リミックス：xi。原曲：OperationD（Blue Archive）",
+    "comment": "『Clippings of youth vol.2』収録のブルーアーカイブ楽曲アレンジ。公式特設にxiの編曲担当を記載。"
+  },
+  "XI-153": {
+    "title": "Usagi Flap (xi Remix)",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "Clippings of youth vol.4 | nekomimi style",
+        "url": "https://www.nekomirin.com/nmcd0026/index.html",
+        "locator": "Tracklist・Arrangement (tr.1)・Release Date",
+        "credit": "xi",
+        "summary": "公式特設の曲目に『Usagi Flap (xi Remix)』、StaffにArrangement (tr.1)／xi、原曲にUsagi Flapを記載。先行販売と一般販売のある巻では両日付を分けた。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-153-1",
+        "date": "2025-04-27",
+        "precision": "day",
+        "kind": "アルバム頒布日（初公開未確定）",
+        "medium": "Clippings of youth vol.4",
+        "source_url": "https://www.nekomirin.com/nmcd0026/index.html",
+        "evidence": "公式特設の曲目に『Usagi Flap (xi Remix)』、StaffにArrangement (tr.1)／xi、原曲にUsagi Flapを記載。先行販売と一般販売のある巻では両日付を分けた。",
+        "version": "Usagi Flap (xi Remix)",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi",
+    "role": "編曲／リミックス：xi。原曲：Usagi Flap（Blue Archive）",
+    "comment": "『Clippings of youth vol.4』収録のブルーアーカイブ楽曲アレンジ。公式特設にxiの編曲担当を記載。"
+  },
+  "XI-064": {
+    "title": "Let's madness?",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "secondary",
+        "label": "DIVERSE DIRECT | 竹山風",
+        "url": "https://www.diverse.direct/nekomimi-style/nmcd-0009/",
+        "locator": "販売店の曲別リスト・頒布元特設へのリンク",
+        "credit": "xi underground",
+        "summary": "販売店曲目に『Let's madness?』／『xi underground』を掲載。入力資料の表記は『Let's madness?』として保持。名義や表記の対応は別途確認する。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [
+      "販売店の曲目を探索の手がかりとして追加。頒布元の曲別原文・名義対応の確認を継続。"
+    ]
+  },
+  "XI-081": {
+    "title": "Twinkle Candy",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "secondary",
+        "label": "DIVERSE DIRECT | 竹山風 弐",
+        "url": "https://www.diverse.direct/nekomimi-style/nmcd-0012/",
+        "locator": "販売店の曲別リスト・頒布元特設へのリンク",
+        "credit": "xi",
+        "summary": "販売店曲目に『Twinkle Candy』／『xi』を掲載。入力資料の表記は『Twinkle Candy』として保持。名義や表記の対応は別途確認する。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [
+      "販売店の曲目を探索の手がかりとして追加。頒布元の曲別原文・名義対応の確認を継続。"
+    ]
+  },
+  "XI-093": {
+    "title": "Tabata Park",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "secondary",
+        "label": "DIVERSE DIRECT | 竹山風 参",
+        "url": "https://www.diverse.direct/nekomimi-style/nmcd-0013/",
+        "locator": "販売店の曲別リスト・頒布元特設へのリンク",
+        "credit": "xi underground",
+        "summary": "販売店曲目に『Tabata Park』／『xi underground』を掲載。入力資料の表記は『Tabata Park』として保持。名義や表記の対応は別途確認する。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [
+      "販売店の曲目を探索の手がかりとして追加。頒布元の曲別原文・名義対応の確認を継続。"
+    ]
+  },
+  "XI-120": {
+    "title": "Leap and Bounds",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "secondary",
+        "label": "DIVERSE DIRECT | 竹山風 肆",
+        "url": "https://www.diverse.direct/nekomimi-style/nmcd-0019/",
+        "locator": "販売店の曲別リスト・頒布元特設へのリンク",
+        "credit": "xi",
+        "summary": "販売店曲目に『Leaps and Bounds』／『xi』を掲載。入力資料の表記は『Leap and Bounds』として保持。名義や表記の対応は別途確認する。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [
+      "販売店の曲目を探索の手がかりとして追加。頒布元の曲別原文・名義対応の確認を継続。"
+    ]
+  },
+  "XI-149": {
+    "title": "[Library II Codex] of omen (xi Remix)",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "secondary",
+        "label": "DIVERSE DIRECT | Clippings of youth vol.3",
+        "url": "https://www.diverse.direct/nekomimi-style/nmcd-0024/",
+        "locator": "販売店の曲別リスト・頒布元特設へのリンク",
+        "credit": "xi",
+        "summary": "販売店曲目に『[Library || Codex] of Omen (xi Remix)』／『xi』を掲載。入力資料の表記は『[Library II Codex] of omen (xi Remix)』として保持。名義や表記の対応は別途確認する。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "Clippings of youth vol.3 | nekomimi style",
+        "url": "https://www.nekomirin.com/nmcd0024/index.html",
+        "locator": "Tracklist第3曲・Arrangement (tr.3)",
+        "credit": "xi",
+        "summary": "公式特設には[Library || Codex] of Omen (xi Remix)、原曲Library of OmenとCodex of Omen、編曲担当xiを記載。入力表記のIIと公式の||の違いを残し、同一項目への対応は要確認とする。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [
+      "販売店の曲目を探索の手がかりとして追加。頒布元の曲別原文・名義対応の確認を継続。"
+    ]
+  },
+  "XI-114": {
+    "title": "Artificial Satellite",
+    "checked_on": "2026-10-24",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "P.D.M.[β] -brillante- | BlackY's BEATFLOOR | BlackY",
+        "url": "https://blackysbeatfloor.bandcamp.com/album/p-d-m-brillante",
+        "locator": "公式Bandcamp第7曲・credits",
+        "credit": "xi",
+        "summary": "BlackYのBandcamp曲目で第7曲Artificial Satellite／xiと、released October 27, 2019を確認。ソロアルバムではなくBlackYの企画への参加曲。",
+        "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
+        "checked_on": "2026-10-24"
+      }
+    ],
+    "records": [
+      {
+        "id": "FOLLOW-XI-114-1",
+        "date": "2019-10-27",
+        "precision": "day",
+        "kind": "アルバム頒布日（初公開未確定）",
+        "medium": "P.D.M.[β] -brillante-",
+        "source_url": "https://blackysbeatfloor.bandcamp.com/album/p-d-m-brillante",
+        "evidence": "BlackYのBandcamp曲目で第7曲Artificial Satellite／xiと、released October 27, 2019を確認。ソロアルバムではなくBlackYの企画への参加曲。",
+        "version": "Artificial Satellite",
+        "checked_on": "2026-10-24",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://blackysbeatfloor.bandcamp.com/track/artificial-satellite",
+        "label": "BlackY公式Bandcamp",
+        "version": "P.D.M.[β] -brillante-収録版",
+        "official_basis": "BlackYのレーベルBandcamp曲目からの曲別リンク。",
+        "officialness_source_url": "https://blackysbeatfloor.bandcamp.com/album/p-d-m-brillante",
+        "availability": "曲別ページへの公式リンクを確認。実再生・地域制限は未検証"
+      }
+    ],
+    "issues": [],
+    "verified_credit": true,
+    "credited_name": "xi"
+  }
+}

@@ -1,0 +1,1170 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+<title>muzie:xi</title>
+<link href="/includes/artist3.css" rel="stylesheet" media="screen">
+<script language="JavaScript" src="/includes/menu_top4.js"></script>
+<script language="javascript">
+<!--
+createTopmenuLayers();
+
+function searchform(){
+if( document.searchform.a[1].checked ) {
+document.searchform.action = "/cgi-bin/artist_search.cgi";
+}else{
+document.searchform.action = "/cgi-bin/search.cgi";
+}
+document.searchform.submit();
+}
+
+function changeAction(){
+if( document.searchform.a[1].checked ) {
+document.searchform.action = "/cgi-bin/artist_search.cgi";
+}else{
+document.searchform.action = "/cgi-bin/search.cgi";
+}
+}
+//-->
+</script>
+<SCRIPT language="javascript">
+<!--
+function songWindowOpen() {
+var hi = screen.availHeight;
+window.open("about:blank", "songinfo",
+"left=0px,top=0px,width=400px,height=" + hi + ",toolbar=0,location=0,directories=0,menubar=0,status=0,resizable=0");
+}
+
+function mailWindowOpen() {
+var hi2 = screen.availHeight;
+window.open("about:blank", "mailinfo",
+"left=0px,top=0px,width=500px,height=" + hi2 + ",toolbar=0,location=0,directories=0,menubar=0,scrollbars=1,status=0,resizable=0");
+}
+
+//-->
+</SCRIPT>
+
+</head>
+
+<body>
+<a name="top"></a>
+<noscript>
+<p>このページは、JavaScript 対応ブラウザで表示してください。<br>
+JavaScript を有効にしていないと、正しく表示されない場合があります。</p>
+</noscript>
+
+<!-- main01area -->
+<div id="main01">
+<!-- main01area leftarea -->
+<div id="leftarea">
+
+<!-- main01area leftarea header -->
+<div class="bc03">
+<table width="770" border="0" cellspacing="0" cellpadding="0"class="mart02">
+  <tr>
+    <td width="259" valign="top"><h1 class="marl03"><a href="/"><img src="/img/logo.gif" alt="muzie" width="244" height="43" border="0"></a></h1></td>
+    <td width="511" valign="top" align="center">
+<!-- add -->
+<script type="text/javascript" language="JavaScript">
+<!--
+var AgentID = "A001";
+var ContentID = "MUZ006";
+var width = "468";
+var height = "60";
+
+var ADServer = "http://ad-cnt.clementia.jp/amie/ad.php";
+
+var CCtag = "CONCAS";
+var CCcookie = document.cookie;
+var CCpos = CCcookie.indexOf(CCtag+"=");
+var CCdata = (CCpos!=-1)?CCcookie.substring(CCpos+CCtag.length+1,(CCcookie.indexOf("; ",CCpos)!=-1)?CCcookie.indexOf("; ",CCpos):CCcookie.length):null;
+if (CCdata == null) {
+    CCdata = Math.round(Math.random() * 10000000);
+}
+
+var cookiestr = CCtag + "=" + CCdata + ";";
+var exp=new Date();
+exp.setTime(exp.getTime()+1000*60*60*24*30);
+document.cookie = cookiestr + "; expires=" + exp.toGMTString();
+
+document.write('<scr');
+document.write('ipt ');
+document.write('src="' + ADServer + '?agentid=' + AgentID + '&contentid=' + ContentID + '&width=' + width + '&height=' + height + '&rand=' + CCdata + '" >');
+document.write('</scr');
+document.write('ipt>');
+//-->
+</script>
+<!--add end-->
+	</td>
+  </tr>
+</table>
+</div>
+
+<form action="/cgi-bin/search.cgi" method=post name="searchform" onSubmit="changeAction()">
+<div align="right" class="marr04 mart02">
+<input type="radio" name="a" checked>曲 <input type="radio" name="a">アーティスト <input name="search" value="キーワードを入力" size="17" onFocus="this.select()">
+<!--<a href="javascript:searchform()"><img src=/img/search.gif border=0></a>-->
+<input type="submit" value="検索">
+</div>
+</form>
+
+<hr>
+
+<div class="mart02">
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="20">
+      <img src="/images/artist_menu/topmenu.gif" alt="メニュー" width="770" height="20" border="0" usemap="#topmenu" id="topmenu">
+    </td>
+  </tr>
+</table>
+	<MAP name="topmenu">
+	<AREA shape="rect" coords="  0,0, 59,21" href="/" alt="サイトトップ" name="" onMouseOut="cleanLayer('start');" onMouseOver="cleanLayer('stop'); hideLayer('topmenu2'); hideLayer('topmenu3'); hideLayer('topmenu4'); hideLayer('topmenu5'); hideLayer('topmenu6'); hideLayer('topmenu7'); hideLayer('topmenu8');">
+	<AREA shape="rect" coords=" 70,0,132,21" href="/topic.html" alt="ニュース・トピックス" name="" onMouseOut="cleanLayer('start');" onMouseOver="cleanLayer('stop'); showLayer('topmenu2'); hideLayer('topmenu3'); hideLayer('topmenu4'); hideLayer('topmenu5'); hideLayer('topmenu6'); hideLayer('topmenu7'); hideLayer('topmenu8');">
+	<AREA shape="rect" coords="140,0,233,21" href="/mypage.cgi" alt="リスナー" name="" onMouseOut="cleanLayer('start');" onMouseOver="cleanLayer('stop'); showLayer('topmenu3'); hideLayer('topmenu2'); hideLayer('topmenu4'); hideLayer('topmenu5'); hideLayer('topmenu6'); hideLayer('topmenu7'); hideLayer('topmenu8');">
+	<AREA shape="rect" coords="235,0,315,21" href="/artist.cgi" alt="アーティスト" name="" onMouseOut="cleanLayer('start');" onMouseOver="cleanLayer('stop'); showLayer('topmenu4'); hideLayer('topmenu2'); hideLayer('topmenu3'); hideLayer('topmenu5'); hideLayer('topmenu6'); hideLayer('topmenu7'); hideLayer('topmenu8');">
+	<AREA shape="rect" coords="330,0,459,21" href="/contents.html" alt="コラム/ラジオ" name="" onMouseOut="cleanLayer('start');" onMouseOver="cleanLayer('stop'); showLayer('topmenu5'); hideLayer('topmenu2'); hideLayer('topmenu3'); hideLayer('topmenu4'); hideLayer('topmenu6'); hideLayer('topmenu7'); hideLayer('topmenu8');">
+	<AREA shape="rect" coords="460,0,584,21" href="/cgi-bin/bbslist.cgi" alt="コミュニティ" name="" onMouseOut="cleanLayer('start');" onMouseOver="cleanLayer('stop'); showLayer('topmenu6'); hideLayer('topmenu2'); hideLayer('topmenu3'); hideLayer('topmenu4'); hideLayer('topmenu5'); hideLayer('topmenu7'); hideLayer('topmenu8');">
+	<AREA shape="rect" coords="600,0,666,21" href="https://www.muzie-shop.co.jp/music/" alt="ショップ" name="" onMouseOut="cleanLayer('start');" onMouseOver="cleanLayer('stop'); showLayer('topmenu7'); hideLayer('topmenu2'); hideLayer('topmenu3'); hideLayer('topmenu4'); hideLayer('topmenu5'); hideLayer('topmenu6'); hideLayer('topmenu8');" >
+	<AREA shape="rect" coords="670,0,730,21" href="/qa.html" alt="ヘルプ" name="" onMouseOut="cleanLayer('start');" onMouseOver="cleanLayer('stop'); showLayer('topmenu8'); hideLayer('topmenu2'); hideLayer('topmenu3'); hideLayer('topmenu4'); hideLayer('topmenu5'); hideLayer('topmenu6'); hideLayer('topmenu7');" >
+	</MAP>
+
+</div>
+<!-- /main01area leftarea header -->
+
+<hr>
+
+<h2><img src="/img/artist_page/ttl_artist.jpg" alt="ARTIST" width="770" height="81"></h2>
+
+<div class="bc01" style="width:770px;">
+<!-- main01area leftarea contsleft -->
+<div id="contsleft">
+
+<!-- ↓ 200×200 広告 ↓ -->
+<div align="center" style="background-color:#FFFFFF;padding-top:10px;padding-bottom:10px;">
+<!--<script language='JavaScript'>var rand_1 = (new Date().getTime())%100000000;var rand_2 = Math.round(Math.random()*100000000.0);var rand_id = ""+rand_1+""+rand_2;var url  ="http://www.adjustnetwork.com/aan/serve?st=10&js=1&h=200&w=200&sl=5531&r="+rand_id;document.write('<SCR'+'IPT language=\"JavaScript\" src=\"'+url+'\"><\/SCR'+'IPT>')</script><noscript><a href=http://www.adjustnetwork.com/aan/clickS?st=10&sl=5531&js=0 target=_blank><img src=http://www.adjustnetwork.com/aan/serve?st=10&sl=5531& border=0 /></a></noscript>
+<img src=http://www.adjustnetwork.com/userver/unq?sl=5531& border=0 width=1 height=1/>-->
+<div class="moz-text-flowed" style="font-family: -moz-fixed"><script type="text/javascript" language="JavaScript">
+<!--
+var AgentID = "A001";
+var ContentID = "MUZ004";
+var width = "200";
+var height = "200";
+
+var ADServer = "http://ad-cnt.clementia.jp/amie/ad.php";
+
+var CCtag = "CONCAS";
+var CCcookie = document.cookie;
+var CCpos = CCcookie.indexOf(CCtag+"=");
+var CCdata = (CCpos!=-1)?CCcookie.substring(CCpos+CCtag.length+1,(CCcookie.indexOf("; ",CCpos)!=-1)?CCcookie.indexOf("; ",CCpos):CCcookie.length):null;
+if (CCdata == null) {
+    CCdata = Math.round(Math.random() * 10000000);
+}
+
+var cookiestr = CCtag + "=" + CCdata + ";";
+var exp=new Date();
+exp.setTime(exp.getTime()+1000*60*60*24*30);
+document.cookie = cookiestr + "; expires=" + exp.toGMTString();
+
+document.write('<scr');
+document.write('ipt ');
+document.write('src="' + ADServer + '?agentid=' + AgentID + '&contentid=' + ContentID + '&width=' + width + '&height=' + height + '&rand=' + CCdata + '" >');
+document.write('</scr');
+document.write('ipt>');
+//-->
+</script></div>
+</div>
+<!-- ↑ 200×200 広告 ↑ -->
+
+
+<div class="mart02">
+<!-- * INFORMATION -->
+<TABLE width="220" border="0" cellspacing="0" cellpadding="0" class="table_border">
+<TR>
+<TD class="midashi">
+<font size="2"><FONT color="#00bfbb">&nbsp;▼</FONT> <FONT color="#00496c"><B>INFORMATION</B></FONT></font>
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE width="100%" border="0" cellpadding="3" cellspacing="0">
+<TR>
+<TD>
+          <FONT size="1" color="black">新着情報</FONT><BR>
+          <FONT size="2"><font color="black">・</font><a href="/topic.html#101">年末年始の営業の御案内</a> <font color="black">12/27</font></FONT> <!-- newの表示は1週間前までの記事にする--><!--<IMG src="/new.gif" width="23" height="11" border="0">--><BR>
+          <FONT size="2"><font color="black">・</font><a href="/topic.html#100">ドライブで聴きたい楽曲、結果発表！</a> <font color="black">12/21</font></FONT><BR>
+          <FONT size="2"><font color="black">・</font><a href="/topic.html#97">mp3ファイルへのアクセスについて</a> <font color="black">12/11</font></FONT><BR>
+          <FONT size="2"><font color="black">・</font><a href="/topic.html#94">楽曲の試聴不備について</a> <font color="black">12/06</font></FONT><BR>
+          <FONT size="2"><font color="black">・</font><a href="/topic.html#92">ドライブで聴きたい楽曲、投票スタート！</a> <font color="black">11/26</font></FONT><BR>
+          <br>
+          <FONT size="1" color="black">更新情報</FONT><BR>
+          <FONT size="2"><font color="black">・</font><a href="/topic.html#103">Indies Cafe/Indies Cafeフル更新</a> <font color="black">1/4</font></FONT> <!-- newの表示は1週間前までの記事にする--><IMG src="/new.gif" width="23" height="11" border="0"><BR>
+          <FONT size="2"><font color="black">・</font><a href="/topic.html#102">Indies Cafe/Indies Cafeフル更新</a> <font color="black">12/28</font></FONT><BR>
+          <FONT size="2"><font color="black">・</font><a href="/topic.html#99">Indies Cafe/Indies Cafeフル更新</a> <font color="black">12/21</font></FONT><BR>
+          <FONT size="2"><font color="black">・</font><a href="/topic.html#98">Indies Cafe/Indies Cafeフル更新</a> <font color="black">12/14</font></FONT><BR>
+          <FONT size="2"><font color="black">・</font><a href="/topic.html#96">Indies Cafe/Indies Cafeフル更新</a> <font color="black">12/07</font></FONT><BR>
+          <div align="right"><FONT size="2"><a href="/topic.html">→過去の記事</a></FONT></div>
+
+
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+</div>
+
+<div class="mart02">
+<!-- * GENRE -->
+<p><img src="/images/artist_menu/genre_top.jpg" alt="GENRE" width="220" height="49"></p>
+<div class="bc02" style="padding:10px;">
+<p class="mart02"><strong><span class="fc04">ポップス</span></strong><br><a href="/cgi-bin/genre.cgi?id=pops">ポップス</a>　<a href="/cgi-bin/genre.cgi?id=pballad">バラード</a>　<a href="/cgi-bin/genre.cgi?id=march">マーチ</a>　<a href="/cgi-bin/genre.cgi?id=folk">フォーク</a>　<a href="/cgi-bin/genre.cgi?id=prock">ロック</a>　<a href="/cgi-bin/genre.cgi?id=ptechno">テクノ</a>　<a href="/cgi-bin/genre.cgi?id=jingle">ジングル</a>　<a href="/cgi-bin/genre.cgi?id=reggae">レゲエ</a>　<a href="/cgi-bin/genre.cgi?id=enka">演歌</a>　<a href="/cgi-bin/genre.cgi?id=children">童謡</a></p>
+<p class="mart02"><strong><span class="fc04">ロック</span></strong><span class="fc04"></span><br><a href="/cgi-bin/genre.cgi?id=rock">ロック</a>　<a href="/cgi-bin/genre.cgi?id=rballad">バラード</a>　<a href="/cgi-bin/genre.cgi?id=rblues">ブルース</a>　<a href="/cgi-bin/genre.cgi?id=hardrock">ハード</a>　<a href="/cgi-bin/genre.cgi?id=vrock">ヴィジュアル</a>　<a href="/cgi-bin/genre.cgi?id=digirock">デジタル</a>　<a href="/cgi-bin/genre.cgi?id=alternative">オルタナティブ</a>　<a href="/cgi-bin/genre.cgi?id=rprogre">プログレッシブ</a></p>
+<p class="mart02"><strong><span class="fc04">テクノ</span></strong><span class="fc04"></span><br><a href="/cgi-bin/genre.cgi?id=techno">テクノ</a>　<a href="/cgi-bin/genre.cgi?id=eurobeat">ユーロビート</a>　<a href="/cgi-bin/genre.cgi?id=dub">ダブ</a>　<a href="/cgi-bin/genre.cgi?id=bigbeat">ビッグビート</a>　<a href="/cgi-bin/genre.cgi?id=house">ハウス</a>　<a href="/cgi-bin/genre.cgi?id=ambient">アンビエント</a>　<a href="/cgi-bin/genre.cgi?id=trance">トランス</a>　<a href="/cgi-bin/genre.cgi?id=noise">ノイズ</a>　<a href="/cgi-bin/genre.cgi?id=drumnbass">ドラム＆ベース</a></p>
+<p class="mart02"><strong><span class="fc04">ダンス</span></strong><span class="fc04"></span><br><a href="/cgi-bin/genre.cgi?id=rap">ラップ</a>　<a href="/cgi-bin/genre.cgi?id=soul">ソウル</a>　<a href="/cgi-bin/genre.cgi?id=hiphop">ヒップホップ</a>　<a href="/cgi-bin/genre.cgi?id=rb">R&amp;B</a>　<a href="/cgi-bin/genre.cgi?id=funk">ファンク</a></p>
+<p class="mart02"><strong><span class="fc04">ワールド</span></strong><br><a href="/cgi-bin/genre.cgi?id=latin">ラテン</a>　<a href="/cgi-bin/genre.cgi?id=world">ワールド</a>　<a href="/cgi-bin/genre.cgi?id=matsuri">祭り</a></p>
+<p class="mart02"><strong><span class="fc04">インスト</span></strong><span class="fc04"></span><br><a href="/cgi-bin/genre.cgi?id=jazz">ジャズ</a>　<a href="/cgi-bin/genre.cgi?id=classic">クラシック</a>　<a href="/cgi-bin/genre.cgi?id=healing">ヒーリング</a>　<a href="/cgi-bin/genre.cgi?id=ipops">ポップス</a>　<a href="/cgi-bin/genre.cgi?id=piano">ピアノ</a>　<a href="/cgi-bin/genre.cgi?id=fusion">フュージョン</a>　<a href="/cgi-bin/genre.cgi?id=anime">ゲーム</a>　<a href="/cgi-bin/genre.cgi?id=irock">ロック</a>　<a href="/cgi-bin/genre.cgi?id=easy">イージーリスニング</a></p>
+</div>
+<p><img src="/images/artist_menu/genre_btm.jpg" alt="GENRE" width="220" height="15"></p>
+</div>
+
+</div>
+<!-- /main01area leftarea contsleft -->
+
+<hr>
+
+<!-- main01area leftarea contsright -->
+<div id="contsright">
+
+<h3 class="fs02">xi</h3>
+
+<div class="mart02">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+<!--    <td rowspan="2" width="310"><div id="artistph"><p><img src=/img/artist_page/no_image.gif border=0></p></div></td> -->
+    <td rowspan="2"><div id="artistph"><p><img src=/img/artist_page/no_image.gif border=0></p></div></td>
+    <td valign="top">
+<div id="pagemenu">
+<ul>
+
+
+<li><a href=/cgi-bin/abbs/a037818/bbs.cgi? target=blank>BBS</a></li>
+
+
+<li><a href=/cgi-bin/recommend_songs.cgi?id=a037818 target=blank>ミンナノオススメ</a></li>
+
+
+<li><a href=/cgi-bin/mail.cgi?aid=a037818>友達に教える</a></li>
+
+</ul>
+</div>
+</td>
+  </tr>
+  <tr>
+    <td valign="bottom">
+<div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+<td width=65><p><a href=http://indiescafe.jp/artistinfo.php?id=a037818 target=blank><img src=/img/artist_page/menu_chakuuta.jpg alt=「着うた」配信中 width=60 height=60 border=0></a></p></td>
+<td><p><img src=/html_img/contentscontract.gif alt=コンテンツ使用許諾契約を結びました width=61 height=22></p>
+</td>
+
+  </tr>
+<!---->
+
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class="mart02">
+
+<!-- * 1行広告 -->
+<p>[PR] <a href="/makebox/makebox.html" target="_blank">オーディション・CDジャケットの写真撮影ならプロにお任せ下さい！</a></p>
+<p class="mart01">[PR] <a href="/school/">音楽専門学校・スクールの資料一括請求！</a></p>
+
+</div>
+
+<div class="mart02">
+<!-- * SHOP（CD情報） -->
+
+
+<div class="mart02" id="artistinfo">
+<!-- * ARTIST INFO -->
+<h4 class="info">>>登録楽曲の一部を紹介!!</h4>
+<div class="mart02">
+<p><div>
+<table width=910 border=0 cellspacing=0 cellpadding=0 align=center style="margin:0px 0px 0px 0px; padding:3px 3px 3px 3px; border:solid 1px skyblue; width:480px; height:auto; background-color:#3090B8;">
+  <tr>
+    <td align=left valign=middle style="color:white; font-size:small;">Blue Zenith <a href=/cgi-bin/genre.cgi?id=trance>( TRANCE CORE )</a></td>
+    <td align=left valign=middle style="color:white; font-size:small;"><a href=/cgi-bin/play.cgi?id=253590&dest=/songs402/blue_zenith.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a><br><span class=fs01>145</span></td>
+<td align=left valign=middle style="color:white; font-size:small;"><a href=/download/253590/songs402/blue_zenith.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a><br><span class=fs01>425</span></td>
+<td align=left valign=middle style="color:white; font-size:small;"><a href=/cgi-bin/vote.cgi?id=253590><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a><br><span class=fs01>6</span></td>
+<td align=left valign=middle style="color:white; font-size:small;"> <span class=fs01>2007.11.05</span></td>
+  </tr>
+  <tr>
+    <td align=left valign=middle style="color:white; font-size:small;">F <a href=/cgi-bin/genre.cgi?id=techno>( Progressive Impromptu )</a></td>
+    <td align=left valign=middle style="color:white; font-size:small;"><a href=/cgi-bin/play.cgi?id=228970&dest=/songs364/f_0.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a><br><span class=fs01>77</span></td>
+<td align=left valign=middle style="color:white; font-size:small;"><a href=/download/228970/songs364/f_0.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a><br><span class=fs01>339</span></td>
+<td align=left valign=middle style="color:white; font-size:small;"><a href=/cgi-bin/vote.cgi?id=228970><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a><br><span class=fs01>3</span></td>
+<td align=left valign=middle style="color:white; font-size:small;"> <span class=fs01>2007.04.02</span></td>
+  </tr>
+  <tr>
+    <td align=left valign=middle style="color:white; font-size:small;">画竜点睛 <a href=/cgi-bin/genre.cgi?id=world>( ASIAN MIXTURE )</a></td>
+    <td align=left valign=middle style="color:white; font-size:small;"><a href=/cgi-bin/play.cgi?id=224589&dest=/songs359/garyo.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a><br><span class=fs01>330</span></td>
+<td align=left valign=middle style="color:white; font-size:small;"><a href=/download/224589/songs359/garyo.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a><br><span class=fs01>782</span></td>
+<td align=left valign=middle style="color:white; font-size:small;"><a href=/cgi-bin/vote.cgi?id=224589><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a><br><span class=fs01>17</span></td>
+<td align=left valign=middle style="color:white; font-size:small;"> <span class=fs01>2007.03.02</span></td>
+  </tr>
+  <tr>
+  <td colspan=5><div align=right style="color:white; font-size:small;"><a href=#song_top>他の楽曲を試聴する</a></td>
+  </tr>
+</table>
+</div>
+</p>
+</div>
+
+<h4 class="info">>>自己紹介</h4>
+<div class="mart02">
+<p>大学生になりました！<br><br>これからも色々なジャンルに手を出して行き、また、聴いてて面白い曲、飽きない曲を作っていこうと思いますので、よろしくお願いします。<br></p>
+</div>
+
+
+<h4 class="info">>>グループメンバー</h4>
+<div class="mart02">
+<p>独り身です。<br></p>
+</div>
+
+
+<h4 class="info">>>使用している楽器</h4>
+<div class="mart02">
+<p>SD-90<br><br>フリーのソフトシンセなど<br></p>
+</div>
+
+
+<h4 class="info">>>音楽スタイル</h4>
+<div class="mart02">
+<p>DTM打ち込み　</p>
+</div>
+
+
+<h4 class="info">>>影響を受けたアーティスト</h4>
+<div class="mart02">
+<p>聴いてきた曲全て。<br>特に音ゲーのボス曲。<br></p>
+</div>
+
+
+<h4 class="info">>>経歴</h4>
+<div class="mart02">
+<p>ピアノ歴約14年<br>部活で打楽器をちょこっと<br></p>
+</div>
+
+
+
+</div>
+
+<p class="mart03" align="right"><a href="#top"><img src="/images/artist_menu/icon_top.gif" alt="page top" width="12" height="12" border="0"></a></p>
+
+</div>
+</div>
+<!-- /main01area leftarea contsright -->
+
+<div class="clear"></div>
+</div>
+<!-- /main01area leftarea -->
+</div>
+
+<hr>
+
+<!-- main01area rightarea -->
+<div id="rightarea">
+<div class="bc03" style="padding-top:15px;">
+<p><!-- <a href=/cgi-bin/random_artist.cgi?><img src=/html_img/artistrandom.gif border=0></a><br>
+<br>
+<a href=/cgi-bin/jukebox.cgi?aid=a032222><img src=/img/jukebox_artist.gif border=0></a>
+<br><br> -->
+<!-- goo music 広告 -->
+<!--<a href="http://musicstore.goo.ne.jp/special/muzie/" target="_blank">
+<img src="/images/goo_music.gif" alt="goo music store" width="120" height="60" border="0"></a>
+<br>-->
+<!-- shop banner -->
+<a href="https://www.muzie-shop.co.jp/music/" target="_blank">
+<IMG src="/img/banner/bnr_shop120.gif" width="120" height="120" border="0"></a><BR>
+<BR>
+<!-- musiq -->
+<a href="http://www.musiq.jp/" target="_blank"><IMG src="/images/musiq.gif" width="120" height="60" border="0"></a><BR>
+<BR>
+<!-- 歌詞ism -->
+<!--<a href="http://www.kashi-ism.jp" target="_blank"><IMG src="/images/sp_muzie_banner7.jpg" width="120" height="60" border="0"></a><BR>
+<BR>-->
+<!-- ad server -->
+<div align="center">
+<script type="text/javascript" language="JavaScript">
+<!--
+var AgentID = "A001";
+var ContentID = "MUZ002";
+var width = "120";
+var height = "60";
+
+var ADServer = "http://ad-cnt.clementia.jp/amie/ad.php";
+
+var CCtag = "CONCAS";
+var CCcookie = document.cookie;
+var CCpos = CCcookie.indexOf(CCtag+"=");
+var CCdata = (CCpos!=-1)?CCcookie.substring(CCpos+CCtag.length+1,(CCcookie.indexOf("; ",CCpos)!=-1)?CCcookie.indexOf("; ",CCpos):CCcookie.length):null;
+if (CCdata == null) {
+    CCdata = Math.round(Math.random() * 10000000);
+}
+
+var cookiestr = CCtag + "=" + CCdata + ";";
+var exp=new Date();
+exp.setTime(exp.getTime()+1000*60*60*24*30);
+document.cookie = cookiestr + "; expires=" + exp.toGMTString();
+
+document.write('<scr');
+document.write('ipt ');
+document.write('src="' + ADServer + '?agentid=' + AgentID + '&contentid=' + ContentID + '&width=' + width + '&height=' + height + '&rand=' + CCdata + '" >');
+document.write('</scr');
+document.write('ipt>');
+//-->
+</script>
+</div>
+<br>
+<!-- ファーストプット -->
+<a href="http://www.firstput.com/download/FP00154/" target="_blank"><IMG src="/images/firstput.gif" width="120" height="60" border="0"></a><BR>
+<BR>
+<!-- Listen japan -->
+<!--<a href="http://listen.jp/store/musictopics_171_1.htm" target="_blank"><IMG src="/images/listen_logo.jpg" width="120" height="60" border="0"></a><BR>-->
+<a href="http://listen.jp/store/musictopics_1321.htm" target="_blank"><IMG src="/img/banner/bnr_listen120.gif" width="120" height="120" border="0"></a><BR>
+<BR>
+<!-- 専門学校資料請求 -->
+<!--<a href="/school/" target="_blank"><IMG src="/images/school_120.gif" width="120" height="60" border="0"></a><br>-->
+<a href="/school/" target="_blank"><IMG src="/img/banner/bnr_school120.gif" width="120" height="120" border="0"></a><br><BR>
+<!-- indies cafe -->
+<!--<a href="http://indiescafe.jp/" target="_blank"><IMG src="/images/au.gif" width="120" height="40" border="0"></a><BR>-->
+<a href="http://indiescafe.jp/" target="_blank"><IMG src="/img/banner/bnr_indiescafe120.gif" width="120" height="120" border="0"></a><BR>
+<BR>
+<!-- indies cafe full -->
+<a href="http://f.indiescafe.jp/" target="_blank"><IMG src="/img/banner/bnr_indiescafe_full_120.jpg" width="120" height="120" border="0"></a><BR>
+<BR>
+<!-- メイク -->
+<a href="/makebox/makebox.html" target="_blank"><IMG src="/img/banner/bnr_make120.gif" width="120" border="0"></a><BR>
+<BR>
+<!-- アフィリエイト 広告 -->
+<div class="moz-text-flowed" style="font-family: -moz-fixed"><script type="text/javascript"><!--
+google_ad_client = "pub-1017949453042470";
+google_ad_width = 125;
+google_ad_height = 125;
+google_ad_format = "125x125_as";
+google_ad_type = "text";
+//2007-04-23: artist
+google_ad_channel = "5153574745";
+google_color_border = "00496C";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "008000";
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<!-- 広告ここまで -->
+
+</div>
+
+<p><img src="/images/artist_menu/bk_adright.jpg" alt="" width="160" height="80"></p>
+<div class="clear"></div>
+</div>
+<!-- /main01area rightarea -->
+
+<div class="clear"></div>
+</div>
+<!-- /main01area -->
+
+<hr>
+
+<!-- main02area -->
+<div id="main02">
+<!-- * 試聴 -->
+<a name="song_top"></a>
+<div class=mart02>
+<table width=910 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+    <td width=10 rowspan=3>&nbsp;</td>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+  </tr>
+  <tr>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> Blue Zenith</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=trance>TRANCE CORE</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 3.4MB, 192Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=253590&dest=/songs402/blue_zenith.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>145</span></p></td>
+    <td width=33%><p><a href=/download/253590/songs402/blue_zenith.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>425</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=253590><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>6</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>要は青とか空とか鐘とか機械とか急上昇とか。<br><br><br><br>11/19  最終調整完了</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2007.11.05 <strong>update</strong></p>
+</div>
+</td>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> F</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=techno>Progressive Impromptu</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 2.1MB, 128Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=228970&dest=/songs364/f_0.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>77</span></p></td>
+    <td width=33%><p><a href=/download/228970/songs364/f_0.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>339</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=228970><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>3</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>幻想即興曲のremixです。<br><br>この曲は本当に難産でした…。<br>でもその甲斐はあると思うので聴いてみてください。</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2007.04.02 <strong>update</strong></p>
+</div>
+</td>
+</tr>
+  <tr>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+  </tr>
+</table>
+</div>
+<p align=right class="mart02 marr02"><a href="#top"><img src=/images/artist_menu/icon_top.gif alt="page top" width=12 height=12></a></p>
+<div class=mart02>
+<table width=910 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+    <td width=10 rowspan=3>&nbsp;</td>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+  </tr>
+  <tr>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> 画竜点睛</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=world>ASIAN MIXTURE</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 3.0MB, 192Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=224589&dest=/songs359/garyo.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>330</span></p></td>
+    <td width=33%><p><a href=/download/224589/songs359/garyo.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>782</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=224589><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>17</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=25 align=left><p><a href=http://indiescafe.jp/songinfo.php?id=224589 target=songinfo onclick=songWindowOpen();><img src=/img/artist_page/btn_chakuutaEZ.jpg alt=au「着うた」配信中 width=20 height=20 border=0></a></p></td>
+    <td width=25 align=left><p><a href="http://indiescafe.jp/songinfo.php?id=224589" target="songinfo" onclick="songWindowOpen();"><img src=/img/artist_page/btn_chakuutaY.jpg alt=SoftBank「着うた」配信中 width=20 height=20 border=0></a></p></td>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>昔々物凄い上手い絵描きがいてその人が竜を描いていたところ、最後に瞳を描き入れたとたん、描かれた竜が絵から天に飛び去っていったという中国の故事を参考に作りました。</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2007.03.02 <strong>update</strong></p>
+</div>
+</td>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> crimson crescent</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=fusion>Jazz Fusion</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 2.6MB, 192Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=223712&dest=/songs358/crimson.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>119</span></p></td>
+    <td width=33%><p><a href=/download/223712/songs358/crimson.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>348</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=223712><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>6</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>ノリを意識したJazz Fusionです。<br><br><br>この曲は[ Beat Beat Revolution 2nd 斬 ]に収録されています。<A HREF="http://bbr.eucaly.net/">http://bbr.eucaly.net/</A><br>ものすごいクオリティなのでぜひplayしてみてください！</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2007.02.23 <strong>update</strong></p>
+</div>
+</td>
+</tr>
+  <tr>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+  </tr>
+</table>
+</div>
+<p align=right class="mart02 marr02"><a href="#top"><img src=/images/artist_menu/icon_top.gif alt="page top" width=12 height=12></a></p>
+<div class=mart02>
+<table width=910 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+    <td width=10 rowspan=3>&nbsp;</td>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+  </tr>
+  <tr>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> Church Bell</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=rprogre>Progressive</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 2.6MB, 192Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=218569&dest=/songs405/bell.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>95</span></p></td>
+    <td width=33%><p><a href=/download/218569/songs405/bell.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>233</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=218569><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>3</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>ギターとかピアノとか鐘とか。</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2007.01.16 <strong>update</strong></p>
+</div>
+</td>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> Lapis</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=trance>trance</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 3.6MB, 192Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=214414&dest=/songs348/lapis.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>137</span></p></td>
+    <td width=33%><p><a href=/download/214414/songs348/lapis.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>284</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=214414><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>3</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>開放感をイメージした曲です。<br>なぜか2日で完成しました。</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2006.12.15 <strong>update</strong></p>
+</div>
+</td>
+</tr>
+  <tr>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+  </tr>
+</table>
+</div>
+<p align=right class="mart02 marr02"><a href="#top"><img src=/images/artist_menu/icon_top.gif alt="page top" width=12 height=12></a></p>
+<div class=mart02>
+<table width=910 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+    <td width=10 rowspan=3>&nbsp;</td>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+  </tr>
+  <tr>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> d e a t h  p i a n o ～for four pianos～</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=piano>crazy piano quartet</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 4.1MB, 192Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=204308&dest=/songs361/d_e_a_t_h.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>323</span></p></td>
+    <td width=33%><p><a href=/download/204308/songs361/d_e_a_t_h.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>829</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=204308><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>16</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>ピアノってどこまで凄いコトが出来るのだろうかという企画で作ってみました。<br><br>怒涛の2分57秒、圧巻の352鍵をお楽しみ下さい。<br><br><br>3/11ちょっと修正しました。</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2006.09.27 <strong>update</strong></p>
+</div>
+</td>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> Lovely Laughter</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=techno>Happy Hardcore</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 2.9MB, 192Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=200830&dest=/songs361/laugh.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>79</span></p></td>
+    <td width=33%><p><a href=/download/200830/songs361/laugh.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>289</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=200830><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>7</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>久しぶりに明るい曲を作りました。<br>テーマは『笑』。これを聞いて楽しい気持ちになってくれたら幸いです。<br><br>3/11 手直ししました。</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2006.09.01 <strong>update</strong></p>
+</div>
+</td>
+</tr>
+  <tr>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+  </tr>
+</table>
+</div>
+<p align=right class="mart02 marr02"><a href="#top"><img src=/images/artist_menu/icon_top.gif alt="page top" width=12 height=12></a></p>
+<div class=mart02>
+<table width=910 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+    <td width=10 rowspan=3>&nbsp;</td>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+  </tr>
+  <tr>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> Drops</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=drumnbass>art core/drum'n'core</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 5.0MB, 192Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=198813&dest=/songs332/drops.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>151</span></p></td>
+    <td width=33%><p><a href=/download/198813/songs332/drops.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>542</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=198813><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>16</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>『雫』をイメージした曲。<br><br>自分が今まで作った中で一番クオリティが高いと思います。</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2006.08.17 <strong>update</strong></p>
+</div>
+</td>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> HEAVEN'S GATE</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=rprogre>progressive</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 2.8MB, 192Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=195781&dest=/songs351/heavens.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>177</span></p></td>
+    <td width=33%><p><a href=/download/195781/songs351/heavens.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>521</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=195781><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>28</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=25 align=left><p><a href=http://indiescafe.jp/songinfo.php?id=195781 target=songinfo onclick=songWindowOpen();><img src=/img/artist_page/btn_chakuutaEZ.jpg alt=au「着うた」配信中 width=20 height=20 border=0></a></p></td>
+    <td width=25 align=left><p><a href="http://indiescafe.jp/songinfo.php?id=195781" target="songinfo" onclick="songWindowOpen();"><img src=/img/artist_page/btn_chakuutaY.jpg alt=SoftBank「着うた」配信中 width=20 height=20 border=0></a></p></td>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>変拍子プログレです。<br>物凄く難産だった曲ですが、その分とても手が込んでいます。<br><br>12/29 さらに修正しました。<br><br></p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2006.07.24 <strong>update</strong></p>
+</div>
+</td>
+</tr>
+  <tr>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+  </tr>
+</table>
+</div>
+<p align=right class="mart02 marr02"><a href="#top"><img src=/images/artist_menu/icon_top.gif alt="page top" width=12 height=12></a></p>
+<div class=mart02>
+<table width=910 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+    <td width=10 rowspan=3>&nbsp;</td>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+  </tr>
+  <tr>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> keep in mind</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=jazz>ジャズ＋サンバ＋α</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 2.2MB, 128Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=180616&dest=/songs305/keep_in_mind_0.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>122</span></p></td>
+    <td width=33%><p><a href=/download/180616/songs305/keep_in_mind_0.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>241</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=180616><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>13</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>ジャンルがもうなにがなんだか。</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2006.03.21 <strong>update</strong></p>
+</div>
+</td>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> Black Cross</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=rprogre>プログレ</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 3.8MB, 192Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=174231&dest=/songs352/cross.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>98</span></p></td>
+    <td width=33%><p><a href=/download/174231/songs352/cross.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>324</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=174231><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>24</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>ゲーム音楽とロックの融合。<br><br>1/11 音質を変更しました。</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2006.01.31 <strong>update</strong></p>
+</div>
+</td>
+</tr>
+  <tr>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height=15></div>	</td>
+  </tr>
+</table>
+</div>
+<p align=right class="mart02 marr02"><a href="#top"><img src=/images/artist_menu/icon_top.gif alt="page top" width=12 height=12></a></p>
+<div class=mart02>
+<table width=910 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td class=bc03 valign=top width=450>
+	<div><img src=/images/artist_menu/img_listen_top.jpg width=450 height=15></div></td>
+    <td width=10 rowspan=3>&nbsp;</td>
+    <td valign=top width=450>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width=450 align=left valign=top class=bc03>
+	<div class="marr04 marl04">
+	<table width=410 border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top width=220 align=left>
+	<div class=marr04>
+	<p><strong><span class=fc01>TITLE:</span> 闇時雨</strong></p>
+	<p><strong><span class=fc01>GENRE:</span> <a href=/cgi-bin/genre.cgi?id=piano>piano</a></strong></p>
+	<p><strong><span class=fc01>DATA:</span>
+ 4.2MB, 192Kbps 44KHz stereo</p>
+	</div>
+	</td>
+    <td valign=top width=190>
+	<div><table width=100% border=0 cellspacing=0 cellpadding=0>
+  <tr>
+    <td width=33%><p><a href=/cgi-bin/play.cgi?id=169296&dest=/songs361/yami.ram><img src=/img/artist_page/btn_real.jpg alt=REAL_PLAYER width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>179</span></p></td>
+    <td width=33%><p><a href=/download/169296/songs361/yami.mp3><img src=/img/artist_page/btn_mp3.jpg alt=MP3 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>432</span></p></td>
+    <td width=34%><p><a href=/cgi-bin/vote.cgi?id=169296><img src=/img/artist_page/btn_vote.jpg alt=投票 width=25 height=25 border=0 align=absmiddle></a> <span class=fs01>30</span></p></td>
+  </tr>
+</table>
+</div>
+<div class=mart01><table border=0 cellspacing=0 cellpadding=0>
+  <tr>
+
+  </tr>
+</table>
+</div>
+	</td>
+  </tr>
+</table>
+</div>
+
+<div class=listentxt>
+<p>雨をイメージした曲です。<br><br>3/11 弦の音を変更</p>
+<p align=center></p>
+<!--<p><a href= class=main02>歌詞はこちら</a></p>-->
+<p align=center><img src=/images/artist_menu/line_dot.jpg width=407 height=2></p>
+<p align=right> 2005.12.23 <strong>update</strong></p>
+</div>
+</td>
+<td width="450">&nbsp;</td>
+</tr>
+  <tr>
+    <td class=bc03 valign=top width=450><div><img src=/images/artist_menu/img_listen_btm.jpg width=450 height="15"></div>	</td>
+    <td width="450"><div></div></td>
+  </tr>
+</table>
+</div>
+<p align=right class="mart02 marr02"><a href="#top"><img src=/images/artist_menu/icon_top.gif alt="page top" width=12 height="12"></a></p>
+</div>
+
+<!-- /main02area -->
+
+<hr>
+
+<!-- footer -->
+<div id="footer">
+<p><a href="/copyright.html">著作権について</a> | <a href="/ad.html">広告掲載</a> | <a href="/profile/info.html">会社概要</a> | <a href="/profile/privacy-policy.html">プライバシーポリシー</a> | <a href="mailto:contact@muzie.co.jp">お問い合せ</a><br></p>
+
+<p align="center">当サイトにある楽曲の著作権はすべて各アーティストに属します。 権利者の許諾なく販売、賃貸目的の行為は固く禁じます。<br>
+			また、当サイトの許可なくMP3、RealAudio等のファイルの無断転載は著作権法に違反します。<br>
+			なお、リンクにつきましてはページへのリンクは自由ですが、 MP3、RealAudio等のファイルへのリンクは禁じます。<br>
+</p>
+<address>COPYRIGHT(C)2001-2007 MUZIE CO.,LTD.ALL RIGHT RESERVED.</address>
+</div>
+<!-- /footer -->
+<script src="http://img.ij.impact-ad.jp/bta/d/ET.MUZIE.js"></script>
+<!-- 解析 start -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1611373-1";
+urchinTracker();
+</script>
+<!-- 解析 end -->
+</body>
+</html>

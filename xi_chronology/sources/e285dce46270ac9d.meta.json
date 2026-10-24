@@ -1,0 +1,27 @@
+{
+  "url": "https://www.youtube.com/watch?v=MAxz5k_R-_w",
+  "checked_on": "2026-10-23",
+  "key": "e285dce46270ac9d",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://www.youtube.com/watch?v=MAxz5k_R-_w",
+  "bytes": 1242771,
+  "sha256": "8a341f3084cf31e0ce88f403ca69cb6fc87ac604f5b004705eb360b769df97b0",
+  "title": "【作曲者がプレイ】響花水月(SPA) 【beatmania IIDX 30 RESIDENT】 - YouTube",
+  "links": [
+    "/",
+    "/",
+    "https://www.youtube.com/about/",
+    "https://www.youtube.com/about/press/",
+    "https://www.youtube.com/about/copyright/",
+    "/t/contact_us/",
+    "https://www.youtube.com/creators/",
+    "https://www.youtube.com/ads/",
+    "https://developers.google.com/youtube",
+    "/t/terms",
+    "/t/privacy",
+    "https://www.youtube.com/about/policies/",
+    "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen",
+    "/new"
+  ]
+}

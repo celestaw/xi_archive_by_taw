@@ -1,0 +1,12 @@
+{
+  "url": "https://music-am.sega.jp/artists/artist-00080/_payload.json?a5d26334-027a-4c86-a1b4-8e8840efd59e",
+  "checked_on": "2026-10-23",
+  "key": "e8ce595e36c5752e",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://music-am.sega.jp/artists/artist-00080/_payload.json?a5d26334-027a-4c86-a1b4-8e8840efd59e",
+  "bytes": 448,
+  "sha256": "18600a025bd127558e48033a45afdb78a1dda82b1ad6b2b259066f90bf5ce54c",
+  "title": "",
+  "links": []
+}

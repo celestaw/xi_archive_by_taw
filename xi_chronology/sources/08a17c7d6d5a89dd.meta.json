@@ -1,0 +1,31 @@
+{
+  "url": "https://music-am.sega.jp/artists/artist-00080/",
+  "checked_on": "2026-10-23",
+  "key": "08a17c7d6d5a89dd",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://music-am.sega.jp/artists/artist-00080/",
+  "bytes": 28385,
+  "sha256": "d298ab49e4d4522a90f2363a8c3de18cd8ca44064df144d0d8fafd68d4a8cf74",
+  "title": "xi | ゲキチュウマイ オリジナル楽曲ポータル（maimai・CHUNITHM・オンゲキ公式）",
+  "links": [
+    "/",
+    "/songs/",
+    "/playlists/",
+    "/create-playlist/",
+    "/news/",
+    "https://x.com/intent/tweet?text=%E3%82%B2%E3%82%AD%E3%83%81%E3%83%A5%E3%82%A6%E3%83%9E%E3%82%A4%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%A5%BD%E6%9B%B2%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88&url=https%3A%2F%2Fmusic-am.sega.jp%2Fartists%2Fartist-00080%2F",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmusic-am.sega.jp%2Fartists%2Fartist-00080%2F",
+    "https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fmusic-am.sega.jp%2Fartists%2Fartist-00080%2F&text=%E3%82%B2%E3%82%AD%E3%83%81%E3%83%A5%E3%82%A6%E3%83%9E%E3%82%A4%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%A5%BD%E6%9B%B2%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88",
+    "/create-playlist/",
+    "/",
+    "/songs/",
+    "https://x.com/intent/tweet?text=%E3%82%B2%E3%82%AD%E3%83%81%E3%83%A5%E3%82%A6%E3%83%9E%E3%82%A4%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%A5%BD%E6%9B%B2%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88&url=https%3A%2F%2Fmusic-am.sega.jp%2Fartists%2Fartist-00080%2F",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmusic-am.sega.jp%2Fartists%2Fartist-00080%2F",
+    "https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fmusic-am.sega.jp%2Fartists%2Fartist-00080%2F&text=%E3%82%B2%E3%82%AD%E3%83%81%E3%83%A5%E3%82%A6%E3%83%9E%E3%82%A4%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%A5%BD%E6%9B%B2%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88",
+    "https://www.segafave.co.jp/",
+    "https://www.sega.jp/contact/arcade/",
+    "https://www.segafave.co.jp/privacy/",
+    "https://www.sega.co.jp/web-accessibility/"
+  ]
+}

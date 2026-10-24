@@ -1,0 +1,27 @@
+{
+  "url": "https://www.youtube.com/watch?v=_K3LNlaGmY4",
+  "checked_on": "2026-10-23",
+  "key": "03f64727aec540f8",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://www.youtube.com/watch?v=_K3LNlaGmY4",
+  "bytes": 1377087,
+  "sha256": "a212fe3a5b757d34a4df64de240e4678f7f13af4f5527a0579b0520a20b37dde",
+  "title": "xi vs かねこちはる - Chronophobia 【In Falsus】 - YouTube",
+  "links": [
+    "/",
+    "/",
+    "https://www.youtube.com/about/",
+    "https://www.youtube.com/about/press/",
+    "https://www.youtube.com/about/copyright/",
+    "/t/contact_us/",
+    "https://www.youtube.com/creators/",
+    "https://www.youtube.com/ads/",
+    "https://developers.google.com/youtube",
+    "/t/terms",
+    "/t/privacy",
+    "https://www.youtube.com/about/policies/",
+    "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen",
+    "/new"
+  ]
+}

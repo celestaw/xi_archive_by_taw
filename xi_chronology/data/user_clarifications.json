@@ -1,0 +1,16 @@
+[
+  {
+    "id": "USER-20261023-001",
+    "date": "2026-10-23",
+    "source_type": "user_clarification",
+    "source": "このチャットでの利用者の補足",
+    "original_text": "World fragments はアルバム名であると同時にworld fragments I、world fragments II\n、world fragments Ⅲがあります\nまた storm and impulseは太鼓の達人に収録された疾風怒濤という曲のことを指します、英語タイトルですね",
+    "interpretation": [
+      "World Fragmentsはアルバム名としても使われる。楽曲World Fragments I・II・IIIは3つの独立した項目として保持する。",
+      "元リストのWorld fragments単独行は三部作へのまとめた参照として対応付け、アルバム自体を4曲目として数えない。",
+      "元リストのStorm and inpulseはStorm and Impulseを指す表記として原文を保全し、疾風怒濤の英語タイトルへの参照として同曲へ対応付ける。"
+    ],
+    "work_ids": ["XI-076", "XI-077", "XI-078", "XI-143"],
+    "external_primary_source_status": "今回の別名・元リストの意図の補足は利用者提供。外部の一次資料を今回新たに確認したものではない。"
+  }
+]

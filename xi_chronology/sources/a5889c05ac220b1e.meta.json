@@ -1,0 +1,27 @@
+{
+  "url": "https://www.youtube.com/watch?v=q_7qM96gSNg",
+  "checked_on": "2026-10-23",
+  "key": "a5889c05ac220b1e",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://www.youtube.com/watch?v=q_7qM96gSNg",
+  "bytes": 1229785,
+  "sha256": "75ae13acb519aa46e42793a6e5d886cdb0b219964a2e16b1036b33c3ebd0bc79",
+  "title": "【作曲者がプレイ】Satellite Burst (SPA) 【beatmania IIDX 32 Pinky Crash】 - YouTube",
+  "links": [
+    "/",
+    "/",
+    "https://www.youtube.com/about/",
+    "https://www.youtube.com/about/press/",
+    "https://www.youtube.com/about/copyright/",
+    "/t/contact_us/",
+    "https://www.youtube.com/creators/",
+    "https://www.youtube.com/ads/",
+    "https://developers.google.com/youtube",
+    "/t/terms",
+    "/t/privacy",
+    "https://www.youtube.com/about/policies/",
+    "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen",
+    "/new"
+  ]
+}

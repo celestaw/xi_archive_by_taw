@@ -1,0 +1,28 @@
+{
+  "checked_on": "2026-10-24",
+  "checks": [
+    "ライトのアクセントが#1059B5、ダークのアクセントが#0FAAFDであることをブラウザの表示スタイルで確認",
+    "スイッチのオン・オフとEnterキーでの切り替えを確認",
+    "ダーク選択後、再読み込みとAboutへの移動でも維持",
+    "年表251件が取得・表示されることを確認",
+    "検証した画面幅で横はみ出しなし",
+    "型チェックと本番ビルド通過",
+    "Impeccable detector: []"
+  ],
+  "contrast": {
+    "lightText": 13.86,
+    "lightMuted": 5.03,
+    "lightAccent": 6.12,
+    "darkText": 14.88,
+    "darkMuted": 9.47,
+    "darkAccent": 7.01,
+    "darkNotes": 8.33,
+    "header": 6.73,
+    "switchThumbBorder": 4.16
+  },
+  "screenshots": [
+    "xi-light-theme.png",
+    "xi-dark-theme.png"
+  ],
+  "notes": "既存のレイアウト・検索API・調査データは変更していない。初回はOS設定、以降は保存された手動設定を優先。"
+}

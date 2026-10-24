@@ -1,0 +1,875 @@
+<!doctype html>
+<html>
+<head><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MTFWQBD8');</script>
+  <title>
+beatmania IIDX 34 ZINRAI
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <meta name="facebook-domain-verification" content="5wqr9cruyjxvhh14878cfm4blqen9g" />
+  <meta name="description" content="KONAMIのBEMANIシリーズ「beatmania IIDX 34 ZINRAI」公式サイトです。" />
+  <meta name="keywords" content="beatmania,IIDX,34,ZINRAI,IIDX34" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="beatmania IIDX 34 ZINRAI" />
+  <meta property="og:description" content="KONAMIのBEMANIシリーズ「beatmania IIDX 34 ZINRAI」公式サイトです。" />
+  <meta property="og:url" content="https://p.eagate.573.jp/game/2dx/34/" />
+  <meta property="og:site_name" content="beatmania IIDX 34 ZINRAI" />
+  <meta property="og:image" content="https://p.eagate.573.jp/game/2dx/34/images/share.jpg" /><meta http-equiv="content-language" content="ja"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><meta name="format-detection" content="telephone=no, address=no">
+  <link href="/gate/p/common/tk/ea_common_layout.css?v20180523" rel="stylesheet" type="text/css" />
+  <link rel="apple-touch-icon-precomposed" href="/gate/p/images/common/elogo_114_114.png" />
+  <link rel="shortcut icon" href="/img/p/favicon.ico">
+  <script src="/common/js/jquery-2.0.2.min.js" type="text/javascript"></script>
+  <script src="/gate/p/common/tk/ea_common_header.js?v20260826"></script>
+  <style>
+  footer ul li a {
+    border-left:2px solid #a2aeae;
+  }
+  #wrapper.wrapx header .ea-menu {
+    background:#a2aeae;
+  }
+  #wrapper.wrapx .cl_menu_catgory {
+    background:#a2aeae;
+  }
+  #wrapper.wrapx .main-nav a {
+    background:#a2aeae;
+  }
+  #wrapper.wrapx .main-nav a:hover, .main-nav a:focus {
+    background:linear-gradient(90deg, #a2aeae 10%, #ffffff 180%);
+  }
+  </style>
+  <link href="/css/p/timelineGadget.css?v3" rel="stylesheet" type="text/css" />
+  <script src="/common/js/timelineGadget.js?20190125"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&family=M+PLUS+1:wght@500&display=swap" rel="stylesheet"><link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/2dx/34/css/common/base.css"><link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/2dx/34/css/common/main.css"><link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/2dx/34/css/menu/menu_pc.css"><link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/2dx/34/css/menu/menu_sp.css"><link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/2dx/34/css/menu/menu_login.css"><link type="text/css" rel="stylesheet" href="/game/2dx/34/css/top/main.css"><link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/2dx/34/css/top/info.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/css/swiper.css">
+  <script type="text/javascript" src="https://eacache.s.konaminet.jp/game/2dx/34/js/lazysizes.min.js"></script><script type="text/javascript" src="https://eacache.s.konaminet.jp/game/2dx/34/js/common.js?v2"></script><script type="text/javascript" src="https://eacache.s.konaminet.jp/game/2dx/34/js/menu.js"></script><script type="text/javascript" src="https://eacache.s.konaminet.jp/game/2dx/34/js/info_top.js?v2"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/js/swiper.min.js"></script>
+<meta http-equiv="cache-control" content="no-cache" /></head>
+<body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTFWQBD8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <div id="wrapper" class="wrapx">
+    <nav class="main-nav" id="main-nav">
+        <ul>
+          <li class="cl_ea_variable_document" data-id="eavd_side_mypage"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_eamusement"></li>
+          <li class="cl_ea_variable_parent">
+            <a href="/gate/p/login.html?path=/game/2dx/34/" class="cl_ea_variable_document" data-id="eavd_side_login"></a>
+          </li>
+          <li><a href="/payment/lead_payment.html" data-reserve_url>サービス一覧</a></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_facility_search"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_select_course"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_coop"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_mycharge"></li>
+          <li><a href="/gate/dungeon/index.html?h=1">e-amusement迷宮</a></li>
+          <li><a href="/etc/faq/p/index.html" target="_blank">FAQ</a></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_help"></li>
+            <li class="cl_ea_variable_document" data-id="eavd_side_setting"></li>
+           <li><a href="/">SITE TOP</a></li>
+            <li class="cl_ea_variable_document" data-id="eavd_side_logout"></li>
+        </ul>
+    </nav>
+    <div id="container" class="page-wrap">
+      <header id="id_nav_menu_1">
+<script>
+        var p = document.getElementsByTagName("header").item(0);
+        if(p) {
+          p.style.position = "relative";
+        } else {
+          p = document.getElementsByTagName("body").item(0);
+        }
+        if (p) {
+          var element = document.createElement('div');
+          element.innerHTML =
+            '<a href="https://www.konami.com/arcadegames/" style="background:transparent;position:absolute;top:0;left:0;z-index:9999;display:block;">'
+            + '<img src="/ci/logo/konami_logo_blur.png" width="130" height="37" style="vertical-align:bottom" /></a>';
+          p.appendChild(element);
+        }
+</script>
+        <div id="id_nav_menu_2" class="common-header ea_common_center">
+          <dl>
+            <dt>
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" width="130" height="10" />
+            </dt>
+            <dd>
+              <ul>
+                  <li><a id="id_ea_header_line" href="#"><img src="/img/btn_line.png" alt="LINE" /></a></li>
+                  <li><a id="id_ea_header_twitter" href="#"><img src="/img/btn_X.png" alt="X" /></a></li>
+                  <li><a id="id_ea_header_facebook" href="#"><img src="/img/btn_facebook.png" alt="Facebook" /></a></li>
+                  <li style="margin-left:30px;margin-right:20px;"><a href="/"><img src="/gate/p/images/common/logo_gate_ss.gif" alt="e-amusement TOP" style="width:45px;height:20px;"></a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+        <div id="id_nav_menu_3" class="ea-menu">
+          <div class="ea_common_center">
+            <div class="cl_old_h1"><a href="/"><img src="/img/ea_logo.png" alt="e-amusement" width="137px"></a></div>
+            <p>
+              <span class="cl_ea_variable_document" data-id="eavd_header_konamiid"></span>
+              <span class="cl_nav_menu_span" style="float:left;">
+                <a class="open-menu" href="javascript:void(0)"><img src="/img/icon_menu.png" alt="menu" width="20px"></a>
+              </span>
+            </p>
+          </div>
+        </div>
+        <div id="id_nav_menu_3_dummy"></div>
+      </header>
+      <div id="id_ea_common_content_whole">
+        <div id="id_ea_common_content" class="ea_content_center">
+  <div id="bg">
+  <div id="bg01"></div>
+  <div id="bg02"></div>
+</div>
+<nav id="menu">
+  <div id="menu-pc">
+    <div id="title-pc"><a href="/game/2dx/34/index.html" target="_top"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/common/logo.png" alt=""></a></div>
+    <div id="menu-main">
+      <div id="menu-exp">
+        <ul>
+          <li class="vis"><p><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/menu/pc/exp/cat01.png" alt=""></p><p>IIDXの遊び方や収録楽曲の紹介、各種ランキングの閲覧ができます</p></li>
+          <li class="eam"><p><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/menu/pc/exp/cat02.png" alt=""></p><p>ご利用にはe-amusementへのログインが必要です</p></li>
+        </ul>
+      </div>
+<ul>
+  <li id="menu01" class="first-menu">
+    <div class="btn"><p>HOW TO PLAY</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><p>遊び方について</p>
+          <div class="third-menu">
+            <ul>
+              <li><a href="/game/2dx/34/howto/play/game_start.html" target="_top">ゲームの開始</a></li>
+              <li><a href="/game/2dx/34/howto/play/game_screen.html" target="_top">ゲーム画面詳細</a></li>
+              <li><a href="/game/2dx/34/howto/play/option.html" target="_top">ゲームオプション</a></li>
+              <li><a href="/game/2dx/34/howto/play/option_speed.html" target="_top">ハイスピードオプション</a></li>
+              <li><a href="/game/2dx/34/howto/play/tenkey.html" target="_top">テンキーオプション</a></li>
+              <li><a href="/game/2dx/34/howto/play/score_graph.html" target="_top">スコアグラフ</a></li>
+              <li><a href="/game/2dx/34/howto/play/effector.html" target="_top">エフェクター</a></li>
+              <li><a href="/game/2dx/34/howto/play/camera.html" target="_top">カメラ機能</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="long"><p>LIGHTNING MODEL<br>専用機能</p>
+          <div class="third-menu">
+            <ul>
+              <li><a href="/game/2dx/34/howto/lightning_model/premium.html" target="_top">プレミアムエリア</a></li>
+              <li><a href="/game/2dx/34/howto/lightning_model/random_lane.html" target="_top">ランダムレーンチケット</a></li>
+              <li><a href="/game/2dx/34/howto/lightning_model/play_recording.html" target="_top">プレー録画機能</a></li>
+              <li><a href="/game/2dx/34/howto/lightning_model/taikai.html" target="_top">カジュアル大会機能</a></li>
+              <li><a href="/game/2dx/34/howto/lightning_model/activity.html" target="_top">マイアクティビティ機能</a></li>
+              <li class="blank"><p></p></li>
+            </ul>
+          </div>
+        </li>
+        <li><p>ゲームモード</p>
+          <div class="third-menu">
+            <ul>
+              <li><a href="/game/2dx/34/howto/mode/game_mode.html#howto_standard" target="_top">スタンダード</a></li>
+              <li><a href="/game/2dx/34/howto/mode/game_mode.html#howto_stepup" target="_top">ステップアップ</a></li>
+              <li><a href="/game/2dx/34/howto/mode/game_mode.html#howto_dani" target="_top">段位認定</a></li>
+              <li><a href="/game/2dx/34/howto/mode/game_mode.html#howto_premiumfree" target="_top">プレミアムフリー</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="long"><p>e-amusement passを<br>使用した遊び方</p>
+          <div class="third-menu">
+            <ul>
+              <li><a href="/game/2dx/34/howto/epass/ea_pass.html" target="_top">e-amusement pass</a></li>
+              <li><a href="/game/2dx/34/howto/epass/play_data.html" target="_top">プレーデータ</a></li>
+              <li><a href="/game/2dx/34/howto/epass/rival.html" target="_top">ライバル挑戦状</a></li>
+              <li><a href="/game/2dx/34/howto/epass/paseli.html" target="_top">PASELI</a></li>
+              <li><a href="/game/2dx/34/howto/epass/robo_rival.html" target="_top">ロボライバル</a></li>
+              <li><a href="/game/2dx/34/howto/epass/bingo.html" target="_top">師弟システム</a></li>
+              <li><a href="/game/2dx/34/howto/epass/battle.html" target="_top">辻斬りバトル</a></li>
+              <li><a href="/game/2dx/34/howto/epass/ea_app.html" target="_top">e-amusementアプリ</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><p>新機能一覧</p>
+          <div class="third-menu">
+            <ul>
+              <li><a href="/game/2dx/34/howto/new/select.html" target="_top">選曲画面パワーアップ</a></li>
+              <li><a href="/game/2dx/34/howto/new/bpm_option.html" target="_top">BPM変化曲対策オプション</a></li>
+              <li><a href="/game/2dx/34/howto/new/fumen_retry.html" target="_top">譜面リトライチケット</a></li>
+              <li><a href="/game/2dx/34/howto/new/update.html" target="_top">更に充実した要素・機能</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu02"><a href="/game/2dx/34/newsong/index.html" target="_top" class="first-menu"><p>NEW SONG</p></a></li>
+  <li id="menu03" class="first-menu">
+    <div class="btn"><p>RANKING</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/ranking/visit/visit_ranking.html" target="_top">行脚王RANKING</a></li>
+        <li><a href="/game/2dx/34/ranking/weekly.html" target="_top">WEEKLY RANKING</a></li>
+        <li class="long"><a href="/game/2dx/34/ranking/weekly_rating.html" target="_top">WEEKLY RANKING <br>レーティングRANKING</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu04" class="first-menu">
+    <div class="btn"><p>EVENT</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/event/card_connect/index.html" target="_top">CARD CONNECT</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu05" class="first-menu">
+    <div class="btn"><p>DJ DATA</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/djdata/status.html" target="_top">ステータス</a></li>
+        <li><a href="/game/2dx/34/djdata/music/notesradar.html" target="_top">プレーヤーノーツレーダー</a></li>
+        <li><a href="/game/2dx/34/djdata/travel/index.html" target="_top">行脚</a></li>
+        <li><a href="/game/2dx/34/djdata/dani/index.html" target="_top">段位認定</a></li>
+        <li><a href="/game/2dx/34/djdata/music/mybest.html" target="_top">楽曲データ/マイベスト</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/music/series.html" target="_top">楽曲データ/シリーズ</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/music/title.html" target="_top">楽曲データ/曲名</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/music/difficulty.html" target="_top">楽曲データ/難易度別</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/music/recent.html" target="_top">楽曲データ/最近プレー</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/weekly.html" target="_top">WEEKLY RANKING</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/tsujigiri/index.html" target="_top">辻斬りバトル</a></li>
+        <li><a href="/game/2dx/34/djdata/play_recorder/movie_list.html" target="_top">プレー録画機能</a></li>
+        <li><a href="/game/2dx/34/djdata/random_lane/index.html" target="_top">ランダムレーンチケット</a></li>
+        <li><a href="/game/2dx/34/djdata/retry_ticket/index.html" target="_top">譜面リトライチケット</a></li>
+        <li><a href="/game/2dx/34/djdata/tower.html" target="_top">IIDXタワー</a></li>
+        <li><a href="/game/2dx/34/djdata/badge/index.html" target="_top">勲章</a></li>
+        <li class="icn-p long"><a href="/game/2dx/34/djdata/score_download.html" target="_top">プレーデータ<br>CSVダウンロード</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu06" class="first-menu">
+    <div class="btn"><p>フォロー&ライバル</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/rival/rival_follow.html" target="_top" class="link_rival1">フォローリスト</a></li>
+        <li><a href="/game/2dx/34/rival/rival_follower.html" target="_top">フォロワーリスト</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/rival/rival_list.html" target="_top">ライバルリスト</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/rival/rival_search.html" target="_top">プレーヤー検索</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/rival/rival2.html" target="_top">逆ライバル情報</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/rival/robo/robo_rival.html" target="_top">ロボライバル</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/rival/rival_challenge/index.html" target="_top">ライバル挑戦状</a></li>
+        <li><a href="/game/2dx/34/rival/bingo/index.html" target="_top">師弟システム</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu07" class="first-menu">
+    <div class="btn"><p>カスタマイズ</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/customize/qpro_customize.html" target="_top">クプロカスタマイズ</a></li>
+        <li><a href="/game/2dx/34/customize/public_setting.html" target="_top">公開設定</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/customize/customize.html" target="_top">ゲームカスタマイズ</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/customize/djname1.html" target="_top">DJ NAME変更</a></li>
+        <li><a href="/game/2dx/34/customize/battle.html" target="_top">バトルモード設定</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu08" class="first-menu">
+    <div class="btn"><p>SHOP</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/room/premium.html" target="_top">プラチナメンバーズカード</a></li>
+        <li><a href="/game/2dx/34/room/q_index.html?kind=0" target="_top">クプロパーツ</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=1" target="_top">爆発</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=3" target="_top">ターンテーブル</a></li>
+        <li class="icn-b long"><a href="/game/2dx/34/room/c_index.html?kind=13&page=1" target="_top">レーンカバー / <br>グラフエリア / LIFT</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=4" target="_top">判定文字</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=5" target="_top">ノーツ</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=16" target="_top">キービーム</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=18" target="_top">フルコンボ</a></li>
+        <li><a href="/game/2dx/34/room/coop/qpro.html" target="_top">クプロパーツメーカー</a></li>
+        <li class="long"><a href="/game/2dx/34/room/coop/premium_customize.html" target="_top">プレミアム<br>カスタマイズメーカー</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li class="search"><a href="/game/facility/search/p/index.html?gkey=IIDX" target="_blank" class="first-menu"><p>設置店舗検索</p></a></li>
+  <li class="sns">
+    <a href="https://x.com/IIDX_OFFICIAL" target="_blank"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/common/icn/x.png"></a>
+    <a href="https://eam.573.jp/app/web/post/?list_type=5&game_id=18" target="_blank"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/common/icn/ea.png"></a>
+  </li>
+  <li class="top"><a href="/game/2dx/34/index.html" target="_top" class="first-menu"><p>TOPにもどる</p></a></li>
+</ul>
+    </div>
+  </div>
+  <div id="menu-sp">
+    <div id="bar">
+      <div id="title-sp"><a href="/game/2dx/34/index.html" target="_top"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/common/logo.png" alt=""></a></div>
+      <div id="menu-sp-btn"><span></span><span></span><span></span></div>
+    </div>
+<ul>
+  <li id="menu01" class="first-menu">
+    <div class="btn"><p>HOW TO PLAY</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><p>遊び方について</p>
+          <div class="third-menu">
+            <ul>
+              <li><a href="/game/2dx/34/howto/play/game_start.html" target="_top">ゲームの開始</a></li>
+              <li><a href="/game/2dx/34/howto/play/game_screen.html" target="_top">ゲーム画面詳細</a></li>
+              <li><a href="/game/2dx/34/howto/play/option.html" target="_top">ゲームオプション</a></li>
+              <li><a href="/game/2dx/34/howto/play/option_speed.html" target="_top">ハイスピードオプション</a></li>
+              <li><a href="/game/2dx/34/howto/play/tenkey.html" target="_top">テンキーオプション</a></li>
+              <li><a href="/game/2dx/34/howto/play/score_graph.html" target="_top">スコアグラフ</a></li>
+              <li><a href="/game/2dx/34/howto/play/effector.html" target="_top">エフェクター</a></li>
+              <li><a href="/game/2dx/34/howto/play/camera.html" target="_top">カメラ機能</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="long"><p>LIGHTNING MODEL<br>専用機能</p>
+          <div class="third-menu">
+            <ul>
+              <li><a href="/game/2dx/34/howto/lightning_model/premium.html" target="_top">プレミアムエリア</a></li>
+              <li><a href="/game/2dx/34/howto/lightning_model/random_lane.html" target="_top">ランダムレーンチケット</a></li>
+              <li><a href="/game/2dx/34/howto/lightning_model/play_recording.html" target="_top">プレー録画機能</a></li>
+              <li><a href="/game/2dx/34/howto/lightning_model/taikai.html" target="_top">カジュアル大会機能</a></li>
+              <li><a href="/game/2dx/34/howto/lightning_model/activity.html" target="_top">マイアクティビティ機能</a></li>
+              <li class="blank"><p></p></li>
+            </ul>
+          </div>
+        </li>
+        <li><p>ゲームモード</p>
+          <div class="third-menu">
+            <ul>
+              <li><a href="/game/2dx/34/howto/mode/game_mode.html#howto_standard" target="_top">スタンダード</a></li>
+              <li><a href="/game/2dx/34/howto/mode/game_mode.html#howto_stepup" target="_top">ステップアップ</a></li>
+              <li><a href="/game/2dx/34/howto/mode/game_mode.html#howto_dani" target="_top">段位認定</a></li>
+              <li><a href="/game/2dx/34/howto/mode/game_mode.html#howto_premiumfree" target="_top">プレミアムフリー</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="long"><p>e-amusement passを<br>使用した遊び方</p>
+          <div class="third-menu">
+            <ul>
+              <li><a href="/game/2dx/34/howto/epass/ea_pass.html" target="_top">e-amusement pass</a></li>
+              <li><a href="/game/2dx/34/howto/epass/play_data.html" target="_top">プレーデータ</a></li>
+              <li><a href="/game/2dx/34/howto/epass/rival.html" target="_top">ライバル挑戦状</a></li>
+              <li><a href="/game/2dx/34/howto/epass/paseli.html" target="_top">PASELI</a></li>
+              <li><a href="/game/2dx/34/howto/epass/robo_rival.html" target="_top">ロボライバル</a></li>
+              <li><a href="/game/2dx/34/howto/epass/bingo.html" target="_top">師弟システム</a></li>
+              <li><a href="/game/2dx/34/howto/epass/battle.html" target="_top">辻斬りバトル</a></li>
+              <li><a href="/game/2dx/34/howto/epass/ea_app.html" target="_top">e-amusementアプリ</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><p>新機能一覧</p>
+          <div class="third-menu">
+            <ul>
+              <li><a href="/game/2dx/34/howto/new/select.html" target="_top">選曲画面パワーアップ</a></li>
+              <li><a href="/game/2dx/34/howto/new/bpm_option.html" target="_top">BPM変化曲対策オプション</a></li>
+              <li><a href="/game/2dx/34/howto/new/fumen_retry.html" target="_top">譜面リトライチケット</a></li>
+              <li><a href="/game/2dx/34/howto/new/update.html" target="_top">更に充実した要素・機能</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu02"><a href="/game/2dx/34/newsong/index.html" target="_top" class="first-menu"><p>NEW SONG</p></a></li>
+  <li id="menu03" class="first-menu">
+    <div class="btn"><p>RANKING</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/ranking/visit/visit_ranking.html" target="_top">行脚王RANKING</a></li>
+        <li><a href="/game/2dx/34/ranking/weekly.html" target="_top">WEEKLY RANKING</a></li>
+        <li class="long"><a href="/game/2dx/34/ranking/weekly_rating.html" target="_top">WEEKLY RANKING <br>レーティングRANKING</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu04" class="first-menu">
+    <div class="btn"><p>EVENT</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/event/card_connect/index.html" target="_top">CARD CONNECT</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu05" class="first-menu">
+    <div class="btn"><p>DJ DATA</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/djdata/status.html" target="_top">ステータス</a></li>
+        <li><a href="/game/2dx/34/djdata/music/notesradar.html" target="_top">プレーヤーノーツレーダー</a></li>
+        <li><a href="/game/2dx/34/djdata/travel/index.html" target="_top">行脚</a></li>
+        <li><a href="/game/2dx/34/djdata/dani/index.html" target="_top">段位認定</a></li>
+        <li><a href="/game/2dx/34/djdata/music/mybest.html" target="_top">楽曲データ/マイベスト</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/music/series.html" target="_top">楽曲データ/シリーズ</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/music/title.html" target="_top">楽曲データ/曲名</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/music/difficulty.html" target="_top">楽曲データ/難易度別</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/music/recent.html" target="_top">楽曲データ/最近プレー</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/weekly.html" target="_top">WEEKLY RANKING</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/djdata/tsujigiri/index.html" target="_top">辻斬りバトル</a></li>
+        <li><a href="/game/2dx/34/djdata/play_recorder/movie_list.html" target="_top">プレー録画機能</a></li>
+        <li><a href="/game/2dx/34/djdata/random_lane/index.html" target="_top">ランダムレーンチケット</a></li>
+        <li><a href="/game/2dx/34/djdata/retry_ticket/index.html" target="_top">譜面リトライチケット</a></li>
+        <li><a href="/game/2dx/34/djdata/tower.html" target="_top">IIDXタワー</a></li>
+        <li><a href="/game/2dx/34/djdata/badge/index.html" target="_top">勲章</a></li>
+        <li class="icn-p long"><a href="/game/2dx/34/djdata/score_download.html" target="_top">プレーデータ<br>CSVダウンロード</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu06" class="first-menu">
+    <div class="btn"><p>フォロー&ライバル</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/rival/rival_follow.html" target="_top" class="link_rival1">フォローリスト</a></li>
+        <li><a href="/game/2dx/34/rival/rival_follower.html" target="_top">フォロワーリスト</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/rival/rival_list.html" target="_top">ライバルリスト</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/rival/rival_search.html" target="_top">プレーヤー検索</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/rival/rival2.html" target="_top">逆ライバル情報</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/rival/robo/robo_rival.html" target="_top">ロボライバル</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/rival/rival_challenge/index.html" target="_top">ライバル挑戦状</a></li>
+        <li><a href="/game/2dx/34/rival/bingo/index.html" target="_top">師弟システム</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu07" class="first-menu">
+    <div class="btn"><p>カスタマイズ</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/customize/qpro_customize.html" target="_top">クプロカスタマイズ</a></li>
+        <li><a href="/game/2dx/34/customize/public_setting.html" target="_top">公開設定</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/customize/customize.html" target="_top">ゲームカスタマイズ</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/customize/djname1.html" target="_top">DJ NAME変更</a></li>
+        <li><a href="/game/2dx/34/customize/battle.html" target="_top">バトルモード設定</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu08" class="first-menu">
+    <div class="btn"><p>SHOP</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/34/room/premium.html" target="_top">プラチナメンバーズカード</a></li>
+        <li><a href="/game/2dx/34/room/q_index.html?kind=0" target="_top">クプロパーツ</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=1" target="_top">爆発</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=3" target="_top">ターンテーブル</a></li>
+        <li class="icn-b long"><a href="/game/2dx/34/room/c_index.html?kind=13&page=1" target="_top">レーンカバー / <br>グラフエリア / LIFT</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=4" target="_top">判定文字</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=5" target="_top">ノーツ</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=16" target="_top">キービーム</a></li>
+        <li class="icn-b"><a href="/game/2dx/34/room/c_index.html?kind=18" target="_top">フルコンボ</a></li>
+        <li><a href="/game/2dx/34/room/coop/qpro.html" target="_top">クプロパーツメーカー</a></li>
+        <li class="long"><a href="/game/2dx/34/room/coop/premium_customize.html" target="_top">プレミアム<br>カスタマイズメーカー</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li class="search"><a href="/game/facility/search/p/index.html?gkey=IIDX" target="_blank" class="first-menu"><p>設置店舗検索</p></a></li>
+  <li class="sns">
+    <a href="https://x.com/IIDX_OFFICIAL" target="_blank"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/common/icn/x.png"></a>
+    <a href="https://eam.573.jp/app/web/post/?list_type=5&game_id=18" target="_blank"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/common/icn/ea.png"></a>
+  </li>
+  <li class="top"><a href="/game/2dx/34/index.html" target="_top" class="first-menu"><p>TOPにもどる</p></a></li>
+</ul>
+  </div>
+</nav>
+  <div id="log-on">
+  <ul>
+    <li>
+      <a href="/gate/p/mypage/index.html">
+        <div class="on-icon"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/common/icn/noimage.jpg"></div>
+        <ul class="on-name">
+          <li>コミュニティニックネーム</li>
+          <li>---</li>
+        </ul>
+      </a>
+    </li>
+    <li>
+      <a href="/game/2dx/34/djdata/status.html">
+        <div class="on-icon"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/common/icn/noimage.jpg"></div>
+        <ul class="on-name">
+          <li>DJ NAME</li>
+          <li>---</li>
+        </ul>
+      </a>
+    </li>
+  </ul>
+</div>
+  <div id="base" class="top">
+    <div class="head"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/top/title/pickup.png" alt=""></div>
+    <div id="slider-top">
+      <div id="slider-background">
+<div class="swiper-container background">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide beatnation_qpro"></div>
+    <div class="swiper-slide beatnation"></div>
+    <div class="swiper-slide premium01"></div>
+  </div>
+</div>
+<style>
+.beatnation_qpro::before{background-image:url(/game/2dx/34/images/slide/shop/qpro_beatnation01.jpg);}
+.beatnation::before{background-image:url(/game/2dx/34/images/slide/music/beatnation03.jpg);}
+.premium02::before{background-image:url(/game/2dx/34/images/slide/shop/premium_holo.jpg);}
+.premium01::before{background-image:url(/game/2dx/34/images/slide/shop/premium_beatnation.jpg);}
+</style>
+      </div>
+      <div id="slider-pickup">
+<div class="swiper-container pickup">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><a href="/game/2dx/34/room/coop/qpro.html" target="_top"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/slide/shop/qpro_beatnation01.jpg" alt=""></a></div>
+    <div class="swiper-slide"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/slide/music/beatnation03.jpg" alt=""></div>
+    <div class="swiper-slide"><a href="/game/2dx/34/room/coop/premium_customize.html" target="_top"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/slide/shop/premium_beatnation.jpg" alt=""></a></div>
+  </div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button-next"></div>
+<div class="swiper-button-prev"></div>
+<script>
+  var swiper1 = new Swiper('.background', {
+    loop: true,
+    effect: 'fade'
+  });
+  var swiper2 = new Swiper('.pickup', {
+    loop: true,
+    pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    }
+  });
+  swiper1.controller.control = [swiper2];
+  swiper2.controller.control = [swiper1];
+</script>
+      </div>
+      <div class="pc">
+<div class="recommend">
+  <strong><span>今日のイチオシ！！</span></strong>
+  <ul class="music">
+        <li><p>T.R.O.L.L.</p><p>Yuta Imai</p></li>
+        <li><p>AMRITA -不滅ノ花-</p><p>SOUND HOLIC feat. Nana Takahashi</p></li>
+        <li><p>Smashing Wedge</p><p>nora2r</p></li>
+  </ul>
+</div>
+      </div>
+    </div>
+    <div class="head"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/top/title/video.png" alt=""></div>
+    <div id="slider-video">
+<div class="swiper-container video">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <div class="movie">
+        <div class="movie-inner">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/9lTp8fn6qdQ?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="swiper-slide">
+      <div class="movie">
+        <div class="movie-inner">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/XQqV7MmWJXE?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="swiper-slide">
+      <div class="movie">
+        <div class="movie-inner">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/33soetpRkVw?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  var swiper4 = new Swiper(".video", {
+    slidesPerView: 1.2,
+    centeredSlides: true,
+    initialSlide: 0,
+    spaceBetween: 15,
+    loop: true,
+    breakpoints: {
+      370: {
+        slidesPerView: 1.2,
+        centeredSlides: true,
+        spaceBetween: 15,
+      },
+      451: {
+        slidesPerView: 1.5,
+        centeredSlides: true,
+        spaceBetween: 15,
+      },
+      641: {
+        slidesPerView: 1.5,
+        centeredSlides: true,
+        spaceBetween: 15,
+      },
+      801: {
+        slidesPerView: 1.5,
+        centeredSlides: true,
+        spaceBetween: 25,
+      },
+      1201: {
+        slidesPerView: 3,
+        centeredSlides: false,
+        spaceBetween: 25,
+      },
+      1601: {
+        slidesPerView: 3,
+        centeredSlides: false,
+        spaceBetween: 25,
+      }
+    },
+  });
+</script>
+    </div>
+    <div class="head"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/top/title/info.png" alt=""></div>
+    <div id="info">
+      <div id="info-inner">
+        <ul id="info-menu">
+  <li id="i_00"></li>
+  <li id="i_01"></li>
+  <li id="i_02"></li>
+  <li id="i_03"></li>
+  <li id="i_04"></li>
+  <li id="i_05"></li>
+</ul>
+<div id="info-box">
+  <ul id="info-news">
+    <li class="i_02">
+      <ul class="news-main">
+        <li>2026/10/22</li>
+        <li><a href="/game/2dx/34/ranking/weekly_rating.html" target="_top">｢WEEKLY RANKINGレーティングRANKING」</a>追加！</li>
+        <li>
+          ｢RANKING」に<a href="/game/2dx/34/ranking/weekly_rating.html" target="_top">「WEEKLY RANKINGレーティングRANKING」</a>閲覧を追加しました！<br>
+          WEEKLY RANKINGに参加して、より高いレーティングを目指してみよう！
+        </li>
+      </ul>
+    </li>
+    <li class="i_04">
+      <ul class="news-main">
+        <li>2026/10/22</li>
+        <li><a href="/game/2dx/34/room/coop/qpro.html" target="_top">｢クプロパーツメーカー beatnationパック 第1弾」がe-amusement購買部に登場！</a></li>
+        <li>
+          beatmania IIDXで使えるカスタマイズアイテムが獲得できる「クプロパーツメーカー beatnationパック 第1弾」が<a href="/gate/p/eamusement/coop/mall.html?dt=/beatmania%20IIDX/" target="_blank">e-amusement購買部</a>に追加！<br>
+          EDP×beatnation summit 2026にて登場した公式グッズが、クプロパーツとしてゲットできます！<br>
+          推しアーティストのグッズを身に着けて、さらにbeatmania IIDXを楽しもう！
+        </li>
+      </ul>
+    </li>
+    <li class="i_03">
+      <ul class="news-main">
+        <li>2026/10/15</li>
+        <li>段位認定コース｢九段」｢十段」、新曲のANOTHERレベル12譜面が追加！</li>
+        <li>
+          段位認定コースに「九段」｢十段」、さらに新曲のANOTHERレベル12譜面が登場！上位コースと高難易度譜面にチャレンジしてみよう！
+        </li>
+      </ul>
+    </li>
+    <li class="i_05">
+      <ul class="news-main">
+        <li>2026/10/14</li>
+        <li>beatnation 20周年記念スペシャルCDより、最後に3曲が追加！</li>
+        <li>
+          先日のEDPにて発売されたスペシャルCD「cyberbeatnation 4 -beatnation 20th anniversary-」より、beatnation各メンバーの新規リミックス楽曲が順次収録中！<br>
+          今回は最終回！「I'm so Happy (20th Anniv.Mix)」、「恋する☆宇宙戦争っ!! (恋する★ハードコアRemix)」、「GOLD RUSH (all-or-nothing MIX)」が登場！
+        </li>
+      </ul>
+    </li>
+    <li class="i_05">
+      <ul class="news-main">
+        <li>2026/10/07</li>
+        <li>beatnation 20周年記念スペシャルCDより、さらに2曲が追加！</li>
+        <li>
+          先日のEDPにて発売されたスペシャルCD「cyberbeatnation 4 -beatnation 20th anniversary-」より、beatnation各メンバーの新規リミックス楽曲が順次収録中！<br>
+          今回は「Fly Above -20th Anniversary Mix-」、「gigadelic (WILD STYLE)」が登場！
+        </li>
+      </ul>
+    </li>
+    <li class="i_02">
+      <ul class="news-main">
+        <li>2026/10/07</li>
+        <li><a href="/game/2dx/34/ranking/weekly.html" target="_top">｢WEEKLY RANKING」がスタート！</a></li>
+        <li>
+          週ごとの課題曲でランキングを競う､『WEEKLY RANKING』が今週からスタート！<br>
+          <a href="/game/2dx/34/ranking/weekly.html" target="_top">WEEKLY RANKING</a>閲覧と､<a href="/game/2dx/34/djdata/weekly.html" target="_top">自分のWEEKLY RANKING実績ページ</a>も合わせて公開！
+          <p>
+            ※実績の確認には
+                e-amusement ベーシックコース
+            の加入が必要です｡
+          </p>
+        </li>
+      </ul>
+    </li>
+    <li class="i_05">
+      <ul class="news-main">
+        <li>2026/09/30</li>
+        <li>beatnation 20周年記念スペシャルCDより2曲が追加！</li>
+        <li>
+          先日のEDPにて発売されたスペシャルCD「cyberbeatnation 4 -beatnation 20th anniversary-」より、beatnation各メンバーの新規リミックス楽曲が順次収録決定！<br>
+          今回は「History of dj TAKA - single style collection -」、「moffing 猫叉Master meets β2 黒パカミックス」が登場！
+        </li>
+      </ul>
+    </li>
+    <li class="i_05">
+      <ul class="news-main">
+        <li>2026/09/20</li>
+        <li><a href="/game/bemani/hololive-dreams/index.html" target="_blank">｢ホロライブドリームス × BEMANI」コラボイベント第2弾が開始！</a></li>
+        <li>
+          本日より、大人気スマートフォン向けゲーム『ホロライブドリームス』とのコラボ第2弾がいよいよスタート！<br>
+          楽曲『ギミギミエンターテイメント/hololive IDOL PROJECT』がIIDXに登場！<br>
+          さらに、<a href="/gate/p/eamusement/coop/mall.html?dt=/beatmania%20IIDX/" target="_blank">e-amusement購買部に「プレミアムカスタマイズメーカー ホロライブドリームス 第1弾」</a>が期間限定で追加されました！
+        </li>
+      </ul>
+    </li>
+    <li class="i_05">
+      <ul class="news-main">
+        <li>2026/09/17</li>
+        <li>重要なお知らせ</li>
+        <li>
+          LIGHTNING MODELにおいて特定の操作を行った際、画面遷移後に画面が暗転したままとなる症状を確認し、修正アップデートを実施いたしました。<br>
+          ｢LDJ:J:D:A:2026091700」以降のソフトバージョンで修正が適用されます。<br>
+          お客様にはご迷惑をおかけ致しましたことを深くお詫び申し上げます。<br>
+          今後ともbeatmania IIDXを宜しくお願いいたします。
+        </li>
+      </ul>
+    </li>
+    <li class="i_05">
+      <ul class="news-main">
+        <li>2026/09/17</li>
+        <li><a href="/game/bemani/hololive-dreams/index.html" target="_blank">｢ホロライブドリームス × BEMANI」コラボイベント第2弾開催！</a></li>
+        <li>
+          9月20日(日) 10:00より、大人気スマートフォン向けゲーム『ホロライブドリームス』とのコラボ第2弾がスタート！<br>
+          ホロライブドリームスの楽曲『ギミギミエンターテイメント/hololive IDOL PROJECT』がIIDXに登場します！<br>
+          さらにe-amusement購買部にも特別なアイテムが追加！
+        </li>
+      </ul>
+    </li>
+    <li class="i_04">
+      <ul class="news-main">
+        <li>2026/09/17</li>
+        <li>｢プレミアムカスタマイズメーカー beatnation 第1弾」がe-amusement購買部に登場！</li>
+        <li>
+          beatmania IIDXで使えるカスタマイズアイテムが獲得できる「プレミアムカスタマイズメーカー beatnation 第1弾」が<a href="/gate/p/eamusement/coop/mall.html?dt=/beatmania%20IIDX/" target="_blank">e-amusement購買部</a>に追加！<br>
+          今回は、先日開催されたEDPとのコラボレーションアイテムが登場！<br>
+          BEMANIの歴史を彩る名曲たちをテーマにしたカスタマイズアイテムをゲットして、さらにbeatmania IIDXを楽しもう！<br>
+          ※所持しているカスタマイズアイテム状況は<a href="/game/2dx/34/room/coop/premium_customize.html" target="_top">こちら</a>から確認できます。
+        </li>
+      </ul>
+    </li>
+    <li class="i_05">
+      <ul class="news-main">
+        <li>2026/09/16</li>
+        <li><a href="/game/2dx/34/campaign/x/index.html" target="_top">稼働開始記念！サイン色紙プレゼントキャンペーン</a></li>
+        <li>
+          beatmania IIDX 34 ZINRAI稼働開始を記念して、サイン色紙プレゼントキャンペーンを開催！
+        </li>
+      </ul>
+    </li>
+    <li class="i_05">
+      <ul class="news-main">
+        <li>2026/09/16</li>
+        <li>｢beatmania IIDX 34 ZINRAI」<br>2026年9月16日(水)より全国のアミューズメント施設にて稼動開始！</li>
+        <li>
+          今作のコンセプトは「デジタル雅」！<br>
+          迅雷のように勢いのある和の雰囲気と、IIDXの特長でもある電子音楽が融合した世界観の作品となっています！<br>
+          プレーがさらに進化する新要素も登場！<br>
+          <a href="/game/2dx/34/howto/new/select.html" target="_top">選曲画面パワーアップ</a> /
+          <a href="/game/2dx/34/howto/new/bpm_option.html" target="_top">BPM変化曲対策オプション</a> /
+          <a href="/game/2dx/34/howto/new/fumen_retry.html" target="_top">譜面リトライチケット</a> /
+          <a href="/game/2dx/34/howto/new/update.html" target="_top">更に充実した要素・機能</a><br>
+          また、<a href="/game/2dx/34/ranking/visit/visit_ranking.html" target="_top">行脚王RANKING</a>や<a href="/game/2dx/34/djdata/status.html" target="_top">データ閲覧</a>の他、新アイテム｢ZIN」を使った<a href="/game/2dx/34/room/q_index.html?kind=0" target="_top">アイテム交換もこちらから！</a><br>
+          その他、プレーデータ引継ぎに関する情報は<a href="/game/2dx/34/teaser/index.html" target="_top">こちら</a>をご確認ください。
+          <p>
+            ※データ閲覧の一部やライバル機能、アイテム交換のご利用には
+                e-amusement ベーシックコース
+            の加入が必要です｡
+          </p>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+        <a href="/game/2dx/34/info/index.html" target="_top" class="link"><p>▼READ MORE</p></a>
+      </div>
+    </div>
+    <div id="top-footer">
+      <ul class="sp">
+        <li></li>
+        <li>
+<div class="recommend">
+  <strong><span>今日のイチオシ！！</span></strong>
+  <ul class="music">
+        <li><p>T.R.O.L.L.</p><p>Yuta Imai</p></li>
+        <li><p>AMRITA -不滅ノ花-</p><p>SOUND HOLIC feat. Nana Takahashi</p></li>
+        <li><p>Smashing Wedge</p><p>nora2r</p></li>
+  </ul>
+</div>
+</li>
+      </ul>
+      <div id="top-link">
+        <a href="/game/facility/search/p/index.html?gkey=IIDX" target="_blank"><p>設置店舗検索</p></a>
+        <ul>
+          <li><a href="https://x.com/IIDX_OFFICIAL" target="_blank"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/common/icn/x.png"></a></li>
+          <li><a href="https://eam.573.jp/app/web/post/?list_type=5&game_id=18" target="_blank"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/common/icn/ea.png"></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div id="top-bnr">
+    <div class="inner">
+  <ul id="bnr-small">
+    <li><a href="https://www.konami.com/amusement/video/bm2dx/" target="_blank"><img src="https://eacache.s.konaminet.jp/game/2dx/28/images/common/bnr/gate_2dx_d.gif" alt="beatmania IIDX GATEWAY"></a></li>
+    <li><a href="/game/infinitas/2/index.html" target="_blank"><img src="https://eacache.s.konaminet.jp/game/infinitas/2/top_banner/bnr_small.jpg" alt="beatmania IIDX INFINITAS"></a></li>
+    <li><a href="/game/2dx/mobile/index.html" target="_blank"><img src="https://eacache.s.konaminet.jp/game/2dx/mobile/top_banner/bnr_small.jpg" alt="beatmania IIDX ULTIMATE MOBILE"></a></li>
+    <li><a href="/game/bemani/fansite/index.html" target="_blank" "><img src="https://eacache.s.konaminet.jp/game/2dx/28/images/common/bnr/banner_bemani_fansite.jpg" alt="BEMANI Fan Site"></a></li>
+    <li><a href="/game/2dx/34/room/premium.html" target="_top"><img src="https://eacache.s.konaminet.jp/game/2dx/34/images/common/bnr/p_member.jpg" alt="プラチナメンバーズカード"></a></li>
+    <li><a href="/game/bpl/index.html" target="_blank"><img src="https://eacache.s.konaminet.jp/game/bpl/season6/top_banner/bnr_small.jpg" alt="BEMANI PRO LEAGUE"></a></li>
+    <li><a href="https://www.konami.com/amusement/paseli/" target="_blank"><img src="https://eacache.s.konaminet.jp/game/2dx/28/images/common/bnr/bnrpaseli.gif" alt="PASELI"></a></li>
+    <li><a href="/game/common/notice/index.html" target="_blank"><img src="/game/common/notice/images/bnr_290x90.jpg" alt="コナミアミューズメント商品のデータ解析および情報の取り扱いについて"></a></li>
+  </ul>
+  <span>"東方Project"&nbsp;&copy;上海アリス幻樂団<br>VOICEVOX:ずんだもん、春日部つむぎ</span>
+  <div id="bemani">
+    <p><img src="https://eacache.s.konaminet.jp/game/2dx/28/images/common/bnr/bemani.png" alt="BEAMANI"></p>
+    <p>“BEMANI”はKONAMIサウンドシミュレーションゲームのブランドです。</p>
+  </div>
+</div>
+  </div>
+<div id="page-top"><a href="#id_nav_menu_1"></a></div>
+          <input type="hidden" id="id_ea_common_content_bottom" value="p.eagate.573.jp">
+        </div>
+      </div>
+              <footer>
+        <ul class="ea_common_center">
+              <li class="cl_ea_variable_document" data-id="eavd_help"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_terms"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_privacy_policy"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_ext_trans"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_specific"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_site_policy"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_manner_rule"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_contact"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_facility_search"></li>
+              <li><a class="ot-sdk-show-settings" style="cursor:pointer;"></a></li>
+        </ul>
+        <p>&copy;2026 Konami Arcade Games</p>
+      </footer>
+    </div>
+    <div id="page-cover"></div>
+  </div>
+  <input id="id_ea_feed" type="hidden" data-msg="" data-path="" data-hashtag />
+  <input id="id_ea_menu_ctrl" type="hidden" value="simplify:notfix">
+  <input id="id_ea_reserve_url" type="hidden" value="" data-reserve_url="/game/2dx/34/" data-self="/game/2dx/34/">
+  <script>
+    ea_common_template.context = {
+       top_dir:'/game/2dx/34/',
+       this_dir:'/game/2dx/34/',
+       this_file:'index.html',
+       cache_locator: 'https://eacache.s.konaminet.jp'
+    };
+  </script>
+    <script>ea_common_template.userstatus={"99":{"maintxt":"\u30B7\u30B9\u30C6\u30E0\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002\u7533\u3057\u8A33\u3042\u308A\u307E\u305B\u3093\u304C\u6642\u9593\u3092\u7F6E\u3044\u3066\u518D\u5EA6\u304A\u8A66\u3057\u304F\u3060\u3055\u3044\u3002","path":null,"linktxt":""},"1":{"maintxt":"\u3053\u306E\u30B3\u30F3\u30C6\u30F3\u30C4\u3092\u95B2\u89A7\u3059\u308B\u306B\u306F\u30ED\u30B0\u30A4\u30F3\u3057\u3066\u304F\u3060\u3055\u3044\u3002","path":"/gate/p/login.html?path=/game/2dx/34/","linktxt":"\u30ED\u30B0\u30A4\u30F3\u3059\u308B\u306B\u306F\u3053\u3061\u3089"},"2":{"maintxt":"\u30D9\u30FC\u30B7\u30C3\u30AF\u30B3\u30FC\u30B9\u3078\u306E\u52A0\u5165\u304C\u5FC5\u8981\u3067\u3059\u3002","path":"/payment/p/select_course.html?course=eaBASIC","linktxt":"\u30B3\u30FC\u30B9\u52A0\u5165\u3059\u308B\u306B\u306F\u3053\u3061\u3089","reserve_url":true},"3":{"maintxt":"\u30D7\u30EC\u30DF\u30A2\u30E0\u30B3\u30FC\u30B9\u3078\u306E\u52A0\u5165\u304C\u5FC5\u8981\u3067\u3059\u3002","path":"/payment/p/select_course.html?course=eaPREMIUM","linktxt":"\u30B3\u30FC\u30B9\u52A0\u5165\u3059\u308B\u306B\u306F\u3053\u3061\u3089","reserve_url":true},"4":{"maintxt":"\u53C2\u7167\u4E2D\u306Ee-amusement pass\u304C\u3042\u308A\u307E\u305B\u3093\u3002","path":"/gate/eapass/menu.html","linktxt":"e-amusement pass\u3092\u53C2\u7167\u4E2D\u306B\u3059\u308B\u306B\u306F","reserve_url":true},"5":{"maintxt":"\u30D7\u30EC\u30FC\u30C7\u30FC\u30BF\u304C\u3042\u308A\u307E\u305B\u3093\u3002","path":"/gate/eapass/menu.html","linktxt":"e-amusement pass\u3092\u5207\u308A\u66FF\u3048\u308B\u306B\u306F","reserve_url":true},"region":"notlogin","state":{"course":{},"eapass":null,"login":false,"playdata":false,"sg":{},"subscription":false}};</script>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1089351181" async></script></body>
+</html>

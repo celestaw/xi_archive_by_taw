@@ -1,0 +1,27 @@
+{
+  "url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+  "key": "6277c241285d9de8",
+  "checked_on": "2026-10-24",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+  "sha256": "08b75e1477a3e3e5cb8770daccd9b3171fba657e0fd2b24bae125ef643a0b4ba",
+  "bytes": 149296,
+  "title": "SOUND VOLTEX III/コナステ\n",
+  "links": [
+    "/gate/p/login.html?path=/game/eacsdvx/iii/p/common/info/sdvx_mlist.html",
+    "/payment/lead_payment.html",
+    "/gate/dungeon/index.html?h=1",
+    "/etc/faq/p/index.html",
+    "/",
+    "#",
+    "#",
+    "#",
+    "/",
+    "/",
+    "javascript:void(0)",
+    "/game/eacsdvx/iii/p/common/top.html",
+    "/game/eacsdvx/iii/p/common/info/sdvx_mlist_basic.html",
+    "javascript:void(0);"
+  ]
+}

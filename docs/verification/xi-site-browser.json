@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-23T09:16:41.760Z",
+  "origin": "http://127.0.0.1:3210",
+  "checks": [
+    "Desktop homepage and 251 entries loaded through same-origin API",
+    "Next.js rewrite → FastAPI health and OpenAPI return correctly",
+    "English alias query opens same work and preserves evidence status",
+    "Year and undated filters preserve undated/candidate records",
+    "Empty result, pagination, and browser history behave correctly",
+    "Detail preserves two registration dates, official links, and year-only creation records",
+    "API failure is distinct from empty result; retry restores actual records",
+    "Mobile 390px and 320px have no page-wide horizontal overflow"
+  ],
+  "screenshots": [
+    "C:\\Users\\matha\\Documents\\ChatGPT\\xi archive\\docs\\verification\\xi-home-desktop.png",
+    "C:\\Users\\matha\\Documents\\ChatGPT\\xi archive\\docs\\verification\\xi-work-desktop.png",
+    "C:\\Users\\matha\\Documents\\ChatGPT\\xi archive\\docs\\verification\\xi-home-mobile-390.png",
+    "C:\\Users\\matha\\Documents\\ChatGPT\\xi archive\\docs\\verification\\xi-home-mobile-320.png"
+  ],
+  "pageErrors": []
+}

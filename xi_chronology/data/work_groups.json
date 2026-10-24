@@ -1,0 +1,25 @@
+[
+  {
+    "id": "GROUP-WORLD-FRAGMENTS",
+    "title": "World Fragments",
+    "group_type": "三部作（各曲は独立した項目）",
+    "album_title": "World Fragments",
+    "member_ids": [
+      "XI-076",
+      "XI-077",
+      "XI-078"
+    ],
+    "note_entry_ids": [
+      "NOTE-030",
+      "NOTE-099"
+    ],
+    "source_urls": [
+      "https://diversesystem.bandcamp.com/album/world-fragments",
+      "https://www.youtube.com/watch?v=G-nmpgBn7-8"
+    ],
+    "user_clarification_ids": [
+      "USER-20261023-001"
+    ],
+    "counting_rule": "アルバム名・三部作の総称から追加の曲IDを作成しない。I・II・IIIを別バージョンとして統合しない。"
+  }
+]

@@ -1,0 +1,5801 @@
+[
+  {
+    "work_id": "XI-001",
+    "title": "RED SIGNAL",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20060220051859id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "RED SIGNAL"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-002",
+    "title": "闇時雨",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20060220051859id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "闇時雨"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-003",
+    "title": "Black Cross",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20060220051859id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "Black cross"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-004",
+    "title": "overdrive",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20060220051859id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "overdrive"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-005",
+    "title": "keep in mind",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "keep in mind"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-006",
+    "title": "HEAVEN'S GATE",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "HEAVEN'S GATE"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-007",
+    "title": "Drops",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "Drops"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-008",
+    "title": "Lovely Laughter",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "Lovely Laughter"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-009",
+    "title": "deathpiano ~for four pianos~",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "d e a t h p i a n o ~for four pianos~"
+      },
+      {
+        "section": "Remix",
+        "medium": "初出不明",
+        "original": "d e a t h p i a n o ～For four pianos～"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-010",
+    "title": "Lapis",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "Lapis"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-011",
+    "title": "Church Bell",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "Churth Bell→Church Bellは同じ登録日・同じアーティストIDに基づき同一曲として整理。音源の完全一致は未確認。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "Church Bell"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-012",
+    "title": "crimson crescent",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "crimson crescent"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-013",
+    "title": "画竜点睛",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "画竜点睛"
+      },
+      {
+        "section": "Remix",
+        "medium": "初出不明",
+        "original": "画竜点睛(たぶんosu! ?)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-014",
+    "title": "F",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "Fの2006年説は採用していない。採用するなら当時の音源公開資料が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20070828075316id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "xi respect for F.F.Chopin - F"
+      },
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "F"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-015",
+    "title": "Blue Zenith",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://web.archive.org/web/20080108232338id_/http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037818",
+      "https://diversesystem.bandcamp.com/album/parousia",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "Blue Zenith"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Blue Zenith"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-016",
+    "title": "Happy Dreams",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "古すぎて情報がない可能性あり",
+        "original": "Happy Dreams"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-017",
+    "title": "FREEDOM DiVE↓",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=50&num=15",
+      "https://diversesystem.bandcamp.com/album/parousia",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "FREEDOM DiVE"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "FREEDOM DiVE"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "FREEDOM DiVE ↓"
+      },
+      {
+        "section": "bms関連イベントまとめ",
+        "medium": "MAX BEAT",
+        "original": "2008:Freedom Dive"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-018",
+    "title": "up in the air",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=54&num=97",
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "初出不明",
+        "original": "up in the air"
+      },
+      {
+        "section": "bms関連イベントまとめ",
+        "medium": "BOF/BOFU/G2R",
+        "original": "2008:up in the air"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-019",
+    "title": "E-M",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-021",
+    "title": "Ascension to Heaven",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は年のみ本人説明で確認。月日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=60&num=32",
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://diversesystem.bandcamp.com/album/parousia",
+      "https://osu.ppy.sh/beatmaps/artists/727",
+      "https://www.youtube.com/watch?v=wlYGZx0R8KE"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "Ascention to heaven"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Ascention to heaven"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "ascension to heaven"
+      },
+      {
+        "section": "bms関連イベントまとめ",
+        "medium": "BOF/BOFU/G2R",
+        "original": "2009:Ascention to heaven"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-022",
+    "title": "Mirage Garden",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=60&num=31",
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://diversesystem.bandcamp.com/album/parousia",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "Mirage Garden"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Mirage Garden"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-023",
+    "title": "Time files",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=60&num=16",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Time flies"
+      },
+      {
+        "section": "Remix",
+        "medium": "初出不明",
+        "original": "Time Files"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-024",
+    "title": "Finder keepers",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://diversesystem.bandcamp.com/album/parousia",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "Finder Keepers"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Finder keepers"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-025",
+    "title": ".357 Magnum",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": ".357 Magnam"
+      },
+      {
+        "section": "Remix",
+        "medium": "初出不明",
+        "original": ".357 Magnum"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-026",
+    "title": "Halcyon",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=65&num=237",
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://diversesystem.bandcamp.com/album/parousia",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "Halcyon"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Halcyon"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "Cytus",
+        "original": "Halcyon"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "Halcyon"
+      },
+      {
+        "section": "bms関連イベントまとめ",
+        "medium": "BOF/BOFU/G2R",
+        "original": "2010:halcyon"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-028",
+    "title": "Acid Squall",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=67&num=19"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-031",
+    "title": "Zephyros",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-nearly-180",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Zephyros"
+      },
+      {
+        "section": "Remix",
+        "medium": "初出不明",
+        "original": "Zephyros"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-033",
+    "title": "Beatrice",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://web.archive.org/web/20120309072238id_/http://www.muzie.ne.jp/artist/a037818/",
+      "https://diversesystem.bandcamp.com/album/parousia",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "Beatrice"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Beatrice"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-034",
+    "title": "Parousia",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は年のみ本人説明で確認。月日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=74&num=281",
+      "https://diversesystem.bandcamp.com/album/parousia",
+      "https://osu.ppy.sh/beatmaps/artists/727",
+      "https://www.youtube.com/watch?v=CRpuzsNRBsU"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "Parousia"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Parousia"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "Deemo/Deemo2",
+        "original": "parousia"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "Cytus",
+        "original": "Parousia"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "Parousia"
+      },
+      {
+        "section": "bms関連イベントまとめ",
+        "medium": "BOF/BOFU/G2R",
+        "original": "2011:Parousia"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-035",
+    "title": "Breakthrough Atmosphere",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/parousia",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "Breakthrough Atomosphere"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Breakthrough Atmosphere"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-036",
+    "title": "Evolve Cybernation",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/parousia",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "Evolve Cybernation"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Evolve Cybernation"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-037",
+    "title": "PEACE BREAKER",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/parousia"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "Peace breaker"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-038",
+    "title": "Sedap Malam",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/parousia",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Parousia",
+        "original": "Sedap Malam"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Sedap malam"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-039",
+    "title": "天衣無縫",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano",
+      "https://diversesystem.bandcamp.com/album/agartha"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Agurtha",
+        "original": "天衣無縫"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "天衣無縫"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-041",
+    "title": "Valhalla",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=83&num=365",
+      "https://diversesystem.bandcamp.com/album/agartha",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Agurtha",
+        "original": "Valhalla"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Valhala"
+      },
+      {
+        "section": "bms関連イベントまとめ",
+        "medium": "BOF/BOFU/G2R",
+        "original": "2012:Valhalla"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-045",
+    "title": "wild card",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-drum-n-bass",
+      "https://diversesystem.bandcamp.com/album/agartha",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Agurtha",
+        "original": "Wild card"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "wildcard"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-048",
+    "title": "Agartha",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/agartha",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Agurtha",
+        "original": "Agurtha"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Agartha"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-049",
+    "title": "HEAVENLY GALAXiES",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "Xiphoid Sphere名義を確認。名義の構成・本人との関係の明示資料を追加確認。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/agartha"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Agurtha",
+        "original": "Heavenly galaxies"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-050",
+    "title": "Information Transmission",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/agartha",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Agurtha",
+        "original": "Information transmission"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Information Transmission"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-051",
+    "title": "Niflheimr",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/agartha"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Agurtha",
+        "original": "Niflheimr"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "Deemo/Deemo2",
+        "original": "Niflheimr"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "Cytus",
+        "original": "Niflheimr"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-052",
+    "title": "Zauberkugel",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/agartha"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Agurtha",
+        "original": "Zauberkugel"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "Cytus",
+        "original": "Zauberkugel"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-053",
+    "title": "ハッピーエンドオブザワールド",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/agartha",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Agurtha",
+        "original": "happy end of the world"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Happy End of thr World"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-054",
+    "title": "Double Helix",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano2",
+      "https://diversesystem.bandcamp.com/album/world-fragments",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "World fragments",
+        "original": "Double helix"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Double Helix"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-058",
+    "title": "Res Novae",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/hardcore-challenge"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-059",
+    "title": "Aragami",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は年のみ本人説明で確認。月日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=96&num=211",
+      "https://diversesystem.bandcamp.com/album/world-fragments",
+      "https://osu.ppy.sh/beatmaps/artists/727",
+      "https://www.youtube.com/watch?v=0372jx-bTzA"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "World fragments",
+        "original": "Aragami"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Aragami"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "Aragami"
+      },
+      {
+        "section": "bms関連イベントまとめ",
+        "medium": "BOF/BOFU/G2R",
+        "original": "2014:Aragami"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-061",
+    "title": "Trinity Stream",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano3"
+    ],
+    "note_context": [
+      {
+        "section": "コンピアルバム",
+        "medium": "AD:piano 3",
+        "original": "Trinity stream"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-062",
+    "title": "over the top",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-nearly-120-seconds",
+      "https://diversesystem.bandcamp.com/album/world-fragments",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "World fragments",
+        "original": "over the top"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "over the top"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-066",
+    "title": "Cloud9",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano-vivace"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Deemo/Deemo2",
+        "original": "Cloud 9"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-068",
+    "title": "After Burner",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=104&num=430"
+    ],
+    "note_context": [
+      {
+        "section": "bms関連イベントまとめ",
+        "medium": "BOF/BOFU/G2R",
+        "original": "2015:After Burner"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-069",
+    "title": "Dreadnought",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=104&num=410",
+      "https://diversesystem.bandcamp.com/album/world-fragments"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "World fragments",
+        "original": "Dreadnought"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "Dreadnoght"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-070",
+    "title": "Blue quartz",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/binary-blue-answer"
+    ],
+    "note_context": [
+      {
+        "section": "コンピアルバム",
+        "medium": "Binary Blue",
+        "original": "Blue quarts (多分#2A64B0)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-072",
+    "title": "ANiMA",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/world-fragments"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "World fragments",
+        "original": "ANiMA"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "Deemo/Deemo2",
+        "original": "ANiMA"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "プロジェクトセカイ",
+        "original": "ANiMA"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-073",
+    "title": "Dst[ick]orv",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/triangle-c89-special-remixes-ep",
+      "https://diversesystem.bandcamp.com/album/exclusive-waves"
+    ],
+    "note_context": [
+      {
+        "section": "コンピアルバム",
+        "medium": "Triangle",
+        "original": "Dst[ick]orv(feryquitous remixed by xi)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-074",
+    "title": "Hesperides",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/world-fragments"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "World fragments",
+        "original": "Hesperides"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "Cross x beats",
+        "original": "Hesperides"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-075",
+    "title": "Tiferet",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/world-fragments"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "World fragments",
+        "original": "Tiferet"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-076",
+    "title": "World Fragments I",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は年のみ本人説明で確認。月日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/world-fragments",
+      "https://osu.ppy.sh/beatmaps/artists/727",
+      "https://www.youtube.com/watch?v=G-nmpgBn7-8"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "World fragments",
+        "original": "World fragments"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "World Fragments Ⅰ/Ⅱ/Ⅲ"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-077",
+    "title": "World Fragments II",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は年のみ本人説明で確認。月日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/world-fragments",
+      "https://osu.ppy.sh/beatmaps/artists/727",
+      "https://www.youtube.com/watch?v=G-nmpgBn7-8"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "World fragments",
+        "original": "World fragments"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "World Fragments Ⅰ/Ⅱ/Ⅲ"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-078",
+    "title": "World Fragments III",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は年のみ本人説明で確認。月日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/world-fragments",
+      "https://osu.ppy.sh/beatmaps/artists/727",
+      "https://www.youtube.com/watch?v=G-nmpgBn7-8"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "World fragments",
+        "original": "World fragments"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "World Fragments Ⅰ/Ⅱ/Ⅲ"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-079",
+    "title": "Śiva",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/world-fragments"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "World fragments",
+        "original": "Siva"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-082",
+    "title": "White Peak",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/radial",
+      "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Evolved clonicles",
+        "original": "White Peak"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "White Peak"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-083",
+    "title": "Lemuria",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は年のみ本人説明で確認。月日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=536",
+      "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+      "https://www.youtube.com/watch?v=GHhkJ4PCaBI"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Evolved clonicles",
+        "original": "Lumuria"
+      },
+      {
+        "section": "bms関連イベントまとめ",
+        "medium": "BOF/BOFU/G2R",
+        "original": "2016:Lemuria"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-085",
+    "title": "Aparajita",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/evolved-chronicles"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Evolved clonicles",
+        "original": "Aparajita"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-086",
+    "title": "Caramel Custard",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/evolved-chronicles"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Evolved clonicles",
+        "original": "Caramel Custard"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-087",
+    "title": "Heat Haze",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/evolved-chronicles"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Evolved clonicles",
+        "original": "Heat Haze"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-088",
+    "title": "Jackknife",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/evolved-chronicles",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Evolved clonicles",
+        "original": "Jackknife"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "jackknife"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-090",
+    "title": "Northward",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/evolved-chronicles"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Evolved clonicles",
+        "original": "Northward"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-096",
+    "title": "Longinus",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano-v-noir",
+      "https://diversesystem.bandcamp.com/album/quietus-ray",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Queitus ray",
+        "original": "Longuinus"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Longuinus"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "Longinus"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-097",
+    "title": "Turas-Mara",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/celt-challenge-2"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-098",
+    "title": "Orca",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/exclusive-waves"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-099",
+    "title": "Bad Elixir",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=316",
+      "https://diversesystem.bandcamp.com/album/quietus-ray",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Queitus ray",
+        "original": "Bad Elixir"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Bad Elixir"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Bad Elixir"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "Deemo/Deemo2",
+        "original": "Bad elixir"
+      },
+      {
+        "section": "bms関連イベントまとめ",
+        "medium": "BOF/BOFU/G2R",
+        "original": "2018:Bad Elixir"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-100",
+    "title": "Albatross",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/quietus-ray"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Queitus ray",
+        "original": "Albatross"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-101",
+    "title": "Ancient Relics",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/quietus-ray",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Queitus ray",
+        "original": "Ancient Relics"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Ancient Relics"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-102",
+    "title": "Cyberspace",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/quietus-ray"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Queitus ray",
+        "original": "Cyberspace"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-103",
+    "title": "FREEDOM DiVE[METAL†DIMENSIONS]",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "アルバム曲目だけでは編曲者の役割が明示されない。既存表はcosMo@暴走P編曲を注記しているが、別資料で役割の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/quietus-ray"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-104",
+    "title": "Hyper Vivacity",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/quietus-ray"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Queitus ray",
+        "original": "Hyper Vivacity"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-105",
+    "title": "Iolite",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/quietus-ray",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Queitus ray",
+        "original": "lolite"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "lolite"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-106",
+    "title": "Qliphot",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/quietus-ray"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Queitus ray",
+        "original": "Qliphot"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-107",
+    "title": "To Live",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/quietus-ray",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Queitus ray",
+        "original": "To Live"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Tolive"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "Deemo/Deemo2",
+        "original": "To live"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-113",
+    "title": "Ωκεανος (xi Remix)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano-remixes-season-1"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "アルバム忘れた",
+        "original": "Ὠκεανός(xi remix) cosmo暴走p関連？"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-115",
+    "title": "Illusion Maze",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano-vii-alternative"
+    ],
+    "note_context": [
+      {
+        "section": "コンピアルバム",
+        "medium": "AD:Piano VII",
+        "original": "Illusion maze"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-122",
+    "title": "Apoptosis",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/stream-palette"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Apoptosis"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-123",
+    "title": "Mjölnir",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano-ff-pp-2",
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Mjölnir"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Mjolnir"
+      },
+      {
+        "section": "コンピアルバム",
+        "medium": "AD:PIANO ff/pp",
+        "original": "Mjornir"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-124",
+    "title": "Whydunit",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano-ff-pp-2"
+    ],
+    "note_context": [
+      {
+        "section": "コンピアルバム",
+        "medium": "AD:PIANO ff/pp",
+        "original": "Whydunit"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-125",
+    "title": "The End of Dreams",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano-viii-alter"
+    ],
+    "note_context": [
+      {
+        "section": "コンピアルバム",
+        "medium": "AD:Piano Ⅷ",
+        "original": "The end of dreams"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-126",
+    "title": "Event Hor!zon",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/advantage"
+    ],
+    "note_context": [
+      {
+        "section": "コンピアルバム",
+        "medium": "ADvantage",
+        "original": "event hor!zon"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-127",
+    "title": "Aiolos (2022 Remaster)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-128",
+    "title": "Aiolos (Long Version)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-129",
+    "title": "Apoptosis (2022 Remaster)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-130",
+    "title": "Azalea",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+      "https://osu.ppy.sh/beatmaps/artists/727"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Azalea"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Azalea"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-131",
+    "title": "Gordian Knot (2022 Remaster)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-132",
+    "title": "Heavenly Blast (2022 Remaster)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-133",
+    "title": "Heavenly Blast (Long Version)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-134",
+    "title": "Mjölnir (Game Size)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-135",
+    "title": "Overwhelm",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Overwhelm"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-136",
+    "title": "Overwhelm (Long Version)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-137",
+    "title": "Per Aspera Ad Astra",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Per Apera Ad Astra"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-138",
+    "title": "Per Aspera Ad Astra (Long Version)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-139",
+    "title": "Phases of the Moon",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse",
+      "https://www.youtube.com/watch?v=6jIiA5t11No"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Phase of moon"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-140",
+    "title": "Reasons (2022 Remaster)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-141",
+    "title": "Titania",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Titania"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "Titania"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "オンゲキ",
+        "original": "Titania"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-142",
+    "title": "Titania (Long Version)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-143",
+    "title": "疾風怒濤",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "英語タイトルの外部出典URLを追記する。別名関係は利用者補足として採用済み。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Storm and inpulse"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "太鼓の達人",
+        "original": "疾風怒濤(Storm and Impulse)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-144",
+    "title": "疾風怒濤 (Long Version)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/storm-and-impulse"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-147",
+    "title": "Phantoflux",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano-vivace-2"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-154",
+    "title": "Xaleid◆scopiX",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://linkco.re/3eCM1DxT?lang=ja",
+      "https://www.youtube.com/watch?v=-PTe8zkYt9A"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "maimai",
+        "original": "Xaleid◇scopiX"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-155",
+    "title": "RE!NCARN4T10N",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/stream-palette-6-ranked"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "公式Youtubeにあるやつ",
+        "original": "RE!NCARN4T10N"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-157",
+    "title": "4 Crowns, One Throne (Procession of the Broken Halo)",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/league-the-k4sen-original-sound-track"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "公式Youtubeにあるやつ",
+        "original": "4 Crowns,One Throne"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-158",
+    "title": "DOMiNUS_GRAiL",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://linkco.re/16GzaqmP?lang=ja",
+      "https://www.youtube.com/watch?v=Fhw7jUOTm40"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "Dominus Grail"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-160",
+    "title": "変幻自在",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/ad-piano-x"
+    ],
+    "note_context": [
+      {
+        "section": "コンピアルバム",
+        "medium": "AD piano AD X",
+        "original": "変幻自在"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-161",
+    "title": "ULTIM@TE☆BE∀M!!",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://linkco.re/09QH755a?lang=ja",
+      "https://www.youtube.com/watch?v=VNK8leVFy-g"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "プロジェクトセカイ",
+        "original": "ULTIM@TE☆BE∀M!! (xi feat. 初音ミク)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-162",
+    "title": "ULTIM@TE☆BE∀M!! [Game Size]",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://linkco.re/09QH755a?lang=ja"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-020",
+    "title": "Go Beyond!! -Jazzy mix-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-027",
+    "title": "Tetrapod -vanished waves mix-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-029",
+    "title": "Giudizio Universale",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-030",
+    "title": "Akasha",
+    "priority": 1,
+    "current_status": "存在・クレジット確認済み／日付未確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "osu!公式許諾曲一覧で存在・試聴先は確認できたが、登録データのupdated_atを公開日に転用しない。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。"
+    ],
+    "next_material": "当該ゲームの当時の更新告知、本人の告知、初頒布時のレーベル特設、Internet Archive",
+    "starting_urls": [
+      "https://osu.ppy.sh/beatmaps/artists/727",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Akasha"
+      },
+      {
+        "section": "Remix",
+        "medium": "初出不明",
+        "original": "Akasha"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-032",
+    "title": "Reparatus†Paradisus (perditus†paradisus remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-040",
+    "title": "all began from here (20,november remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-042",
+    "title": "Collapse",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-043",
+    "title": "Float Ranging",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-044",
+    "title": "Re : Genesis",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-046",
+    "title": "Vanitas",
+    "priority": 1,
+    "current_status": "存在・クレジット確認済み／日付未確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "osu!公式許諾曲一覧で存在・試聴先は確認できたが、登録データのupdated_atを公開日に転用しない。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。"
+    ],
+    "next_material": "当該ゲームの当時の更新告知、本人の告知、初頒布時のレーベル特設、Internet Archive",
+    "starting_urls": [
+      "https://osu.ppy.sh/beatmaps/artists/727",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Vanitus"
+      },
+      {
+        "section": "Remix",
+        "medium": "初出不明",
+        "original": "vanitus"
+      },
+      {
+        "section": "Remix",
+        "medium": "SoundCloud",
+        "original": "Vanitas(PVのみ)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-047",
+    "title": "Q.E.D.-Ripples of 495 years-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-055",
+    "title": "Healing World",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-056",
+    "title": "Empty Skydiving -xiRemix-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-057",
+    "title": "Erythrite",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-060",
+    "title": "Freezing Ray",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://soundcloud.com/xi_com_giko_31/freezing-ray_pv",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "SoundCloud",
+        "original": "Freezing ray"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-063",
+    "title": "Barrage is the power",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://soundcloud.com/xi_com_giko_31/barrage-is-the-power",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "SoundCloud",
+        "original": "Barrage is the power"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-064",
+    "title": "Let's madness?",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "コンピアルバム",
+        "medium": "竹山風",
+        "original": "Let's madness?"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-065",
+    "title": "Angelic Party",
+    "priority": 1,
+    "current_status": "存在・クレジット確認済み／日付未確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "osu!公式許諾曲一覧で存在・試聴先は確認できたが、登録データのupdated_atを公開日に転用しない。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。"
+    ],
+    "next_material": "当該ゲームの当時の更新告知、本人の告知、初頒布時のレーベル特設、Internet Archive",
+    "starting_urls": [
+      "https://osu.ppy.sh/beatmaps/artists/727",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "osu!収録",
+        "original": "Angelic Party"
+      },
+      {
+        "section": "コンピアルバム",
+        "medium": "Voltage ignition 3",
+        "original": "angelic party"
+      },
+      {
+        "section": "Remix",
+        "medium": "アルバム忘れた",
+        "original": "Angelic party"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-067",
+    "title": "Construction",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-071",
+    "title": "LOSTAIR (xi Remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-080",
+    "title": "Keraunos",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-081",
+    "title": "Twinkle Candy",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-084",
+    "title": "Got more raves? -xiRemix-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-089",
+    "title": "Kick-ass Kung-fu Carnival (xi Remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "THe best of tpz 2 the best",
+        "original": "kick-ass kung-fu Carnival(xi remix)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-091",
+    "title": "Polarized blaze",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-092",
+    "title": "Best Smlie (xi Remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-093",
+    "title": "Tabata Park",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-094",
+    "title": "Believe in your mind",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://soundcloud.com/xi_com_giko_31/leveilbelieve-in-your-mindc93-1",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "SoundCloud",
+        "original": "Believe in your mind"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-095",
+    "title": "Believe in your mind -Instrumental Ver.-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-108",
+    "title": "After Burner (Long Version)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-109",
+    "title": "Aragami (Long Version)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-110",
+    "title": "Dreadnought (Extended Mix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-111",
+    "title": "Gordian Knot",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Gordian Knot"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-112",
+    "title": "Lemuria (Long Version)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-114",
+    "title": "Artificial Satellite",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "初出不明",
+        "original": "Artificial Satellite(AD series?)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-116",
+    "title": "ナイト・オブ・ナイツ (xi Remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-117",
+    "title": "仄昏い追憶",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-118",
+    "title": "仄昏い追憶 -instrumental-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-119",
+    "title": "Alea jacta est! (xi Remix)",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.youtube.com/watch?v=5UH02v_g6fQ",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "ULT!MATE END(WAiKURO)",
+        "original": "Alea jacta est!!(xi remix)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-120",
+    "title": "Leap and Bounds",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-121",
+    "title": "Reasons",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Reasons"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-145",
+    "title": "Signal of Abydos (xi Remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-146",
+    "title": "OperationD (xi Remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-148",
+    "title": "Beyond Evolution (Extended for \"NOTES RADAR\")",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-149",
+    "title": "[Library II Codex] of omen (xi Remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-150",
+    "title": "Ascalon",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "コンピアルバム",
+        "medium": "Mash Up Re vision",
+        "original": "Ascalon"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-151",
+    "title": "Oath of Steel",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-152",
+    "title": "PUPA (xi Remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-153",
+    "title": "Usagi Flap (xi Remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-156",
+    "title": "World's end BLACKBOX (xi Remix)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "World eclipse（打打だいず）",
+        "original": "world’s end BLACKBOX (xi remix)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-159",
+    "title": "PACHAD (xi Remix)",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.nekomirin.com/nmcd0028/index.html",
+      "https://soundcloud.com/nekomimi_style/nekomimi-style-nmcd0028-crossfade",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "Clippings of youth Ex.",
+        "original": "PACHAD (xi remix)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-163",
+    "title": "Abyssgazer",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Paradigm: Reboot",
+        "original": "Abyssgazer (vs sakuzyo)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-164",
+    "title": "Aerial Fortress",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Aerial Fortress"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-165",
+    "title": "after a recess",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-166",
+    "title": "Aiolos",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Aiolos"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "Aiolos"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "maimai",
+        "original": "Aiolis"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-167",
+    "title": "Angel's Ladder",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "beatmania ⅡDX収録",
+        "original": "Angel's Ladder"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-168",
+    "title": "APØCALYPSE RAY",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "APØCALYPSE RAY"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-169",
+    "title": "Aqua Regia Squall",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-170",
+    "title": "Artemis -xiRemix-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "初出不明",
+        "original": "Artemis (xi remix)"
+      },
+      {
+        "section": "Remix",
+        "medium": "SoundCloud",
+        "original": "Artemis xi remix"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-171",
+    "title": "Beyond Evolution",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "beatmania ⅡDX収録",
+        "original": "Beyond Evolution"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-172",
+    "title": "Calamity Tempest",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-173",
+    "title": "Celestial Conquest",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Celestial Conquest"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-174",
+    "title": "Ceyx",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Sevens code",
+        "original": "Ceyx"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-175",
+    "title": "Chronophobia",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.youtube.com/watch?v=_K3LNlaGmY4",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "In Falsus",
+        "original": "chronophobia (xi vs かねこちはる)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-176",
+    "title": "coffee break",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-177",
+    "title": "Crimson Phoenix",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "Crimson phoenix"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-178",
+    "title": "dainsleif",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-179",
+    "title": "Diastrophism",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-180",
+    "title": "DROP FRONT!ER",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-181",
+    "title": "DURAND4L",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-182",
+    "title": "Dusk to Dawn",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-183",
+    "title": "Elemental Creation -xiRemix-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Elemental Creation -xiRemix-"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-184",
+    "title": "Failnaught",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Failnaught"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-185",
+    "title": "Fiat Lux",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Fiat Lux"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-186",
+    "title": "FORBIDDEN",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-187",
+    "title": "Fortuna",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-188",
+    "title": "Glorious Crown",
+    "priority": 1,
+    "current_status": "存在・クレジット確認済み／日付未確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。"
+    ],
+    "next_material": "当該ゲームの当時の更新告知、本人の告知、初頒布時のレーベル特設、Internet Archive",
+    "starting_urls": [
+      "https://music-am.sega.jp/songs/song-01479/",
+      "https://music-am.sega.jp/songs/song-01479/"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Evolved clonicles",
+        "original": "Glorious Crown"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "maimai",
+        "original": "Glorious crown"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-189",
+    "title": "Golden Rotation",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Golden Rotation"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-190",
+    "title": "Grand Chariot",
+    "priority": 1,
+    "current_status": "存在・クレジット確認済み／日付未確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "当該ゲームの当時の更新告知、本人の告知、初頒布時のレーベル特設、Internet Archive",
+    "starting_urls": [
+      "https://p.eagate.573.jp/game/museca/msc_1half/music/index.html?filter=2&page=2&sort_type=1",
+      "https://p.eagate.573.jp/game/museca/msc_1half/music/index.html?filter=2&page=2&sort_type=1"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Queitus ray",
+        "original": "Grand Chariot"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Grand Chariot"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-191",
+    "title": "Happy Dreams -Pastel mix-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-192",
+    "title": "Heavenly Blast",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Storm and inpulse",
+        "original": "Heavenly Blast"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-193",
+    "title": "Hypnos",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Deemo/Deemo2",
+        "original": "Hypnos"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-194",
+    "title": "Inixia",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Inixia"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-195",
+    "title": "Innocent Tempest",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Innocent Tempest（未聴）"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-196",
+    "title": "KHYMΞXΛ",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.youtube.com/watch?v=tjfzgAVvxqk",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "maimai",
+        "original": "KHMEXA"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-197",
+    "title": "Last Resort",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Last Resort"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-198",
+    "title": "Lunar Mare",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-199",
+    "title": "Magical Toy Box",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-200",
+    "title": "Masterstroke",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "beatmania ⅡDX収録",
+        "original": "Master stroke"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Masterstroke"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-201",
+    "title": "MEGALØDON",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Chrono Circle",
+        "original": "MEGALODON"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-202",
+    "title": "Merciless",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-203",
+    "title": "MESSiΛH COMPL3X",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Deemo/Deemo2",
+        "original": "MESSiΛH COMPL3X"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-204",
+    "title": "Midnight Chaser",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-205",
+    "title": "Minerva",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "CrossbeatsREV.",
+        "original": "minerva"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-206",
+    "title": "Mistilteinn",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Deemo/Deemo2",
+        "original": "Mistillteinn"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-207",
+    "title": "No+e o/= Hope",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.youtube.com/watch?v=tpYLJpl5UZU",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Deemo/Deemo2",
+        "original": "No+e o/= Hope"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-208",
+    "title": "Noctiluca",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Paradigm: Reboot",
+        "original": "Noctiluca"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-209",
+    "title": "Op.I《fear-TITΛN-》",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.youtube.com/watch?v=N3JVN7NhIAM",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "オンゲキ",
+        "original": "Op.I<<feat -TITAN->>"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-210",
+    "title": "Pandemonium",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "初出不明",
+        "original": "Pandemonium"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-211",
+    "title": "perfect crime",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-212",
+    "title": "Powder Snowfield",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://soundcloud.com/xi_com_giko_31/powder-snowfield-1",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "SoundCloud",
+        "original": "Powder snowfield"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-213",
+    "title": "PRiMA MATERiA",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "punp it up phoenix",
+        "original": "Prima materia"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-214",
+    "title": "Qualia Crystal",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-215",
+    "title": "Quietus Ray",
+    "priority": 1,
+    "current_status": "存在・クレジット確認済み／日付未確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "当該ゲームの当時の更新告知、本人の告知、初頒布時のレーベル特設、Internet Archive",
+    "starting_urls": [
+      "https://p.eagate.573.jp/game/sdvx/ii/p/music/detail.html?list_id=10",
+      "https://p.eagate.573.jp/game/sdvx/ii/p/music/detail.html?list_id=10"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Queitus ray",
+        "original": "Queitus Ray"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Quietus Ray"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-216",
+    "title": "Rapsodia d'amore",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Rapsodia d'amore"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-217",
+    "title": "Rebellion Trigger",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-218",
+    "title": "REVOLUXIONIST",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Cytus",
+        "original": "REVOLUXIONIST"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-219",
+    "title": "Satellite Burst",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.youtube.com/watch?v=q_7qM96gSNg",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "beatmania ⅡDX収録",
+        "original": "Satellite burst"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-220",
+    "title": "Scherzo -pain in rain-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Deemo/Deemo2",
+        "original": "Scherzo -pain in rain-"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-221",
+    "title": "Silver Bullet",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "beatmania ⅡDX収録",
+        "original": "Silver Bullet"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-222",
+    "title": "Singularity",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-223",
+    "title": "Solar Storm",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "アルバム収録",
+        "medium": "Evolved clonicles",
+        "original": "Solar storm"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Solar storm"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-224",
+    "title": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "beatmania ⅡDX収録",
+        "original": "SOLID STATE SQUAD -RISEN RELIC REMIX-"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-225",
+    "title": "Sparking Revolver",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "Sparking revolver"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-226",
+    "title": "Stargazing Dreamer",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "Stargazing dreamer"
+      },
+      {
+        "section": "音ゲー収録",
+        "medium": "オンゲキ",
+        "original": "Stargazing dreamer"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-227",
+    "title": "STORIA",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "Cytus",
+        "original": "Storia"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-228",
+    "title": "SuddeИDeath",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "SuddeИDeath"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-229",
+    "title": "Summer Memories",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-230",
+    "title": "Summer Memories (Instrumental)",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-231",
+    "title": "Thanatos",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-232",
+    "title": "The Dynamics of an Asteroid",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "ノスタルジア",
+        "original": "Dynamics of an asteroid"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-233",
+    "title": "The Wind of Gold -xiRemix-",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://soundcloud.com/xi_com_giko_31/the-wind-of-gold-xiremix",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "SoundCloud",
+        "original": "The wind of gold"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-234",
+    "title": "Time to Air -Fly High Remix-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Time to Air -Fly High Remix-"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-235",
+    "title": "TrailBlazer",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.youtube.com/watch?v=ZtLe9EC_KcQ",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [
+      {
+        "section": "Remix",
+        "medium": "FRENS 2024",
+        "original": "Trailblazer"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-236",
+    "title": "TU-MA-MI△ALL-NIGHTER",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "TU-MA-MI△ALL-NIGHTER"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-237",
+    "title": "Twisted Escape",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-238",
+    "title": "Wish upon Twin Stars",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Wish upon Twin Stars"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-239",
+    "title": "Xeno Gravity",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "Xeno Gravity"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-240",
+    "title": "Xeno Phantasm",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.youtube.com/watch?v=FGy4oACAAbc",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "ダンカグ",
+        "original": "Xeno Phantasm"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-241",
+    "title": "XROSS INFECTION -xiRemix-",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "SDVX",
+        "original": "XROSS INFECTION -xiRemix-"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-242",
+    "title": "ιgniЯRuina",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.youtube.com/watch?v=VxisX358Mmk",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "beatmania ⅡDX収録",
+        "original": "ιgniЯRuina(xi feat Risa Yuzuki)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-243",
+    "title": "ЯeviveR",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-244",
+    "title": "創 -汝ら新世界へ歩む者なり-",
+    "priority": 1,
+    "current_status": "存在・クレジット確認済み／日付未確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "当該ゲームの当時の更新告知、本人の告知、初頒布時のレーベル特設、Internet Archive",
+    "starting_urls": [
+      "https://music-am.sega.jp/songs/song-02159/",
+      "https://music-am.sega.jp/songs/song-02159/"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "CHUNITHM",
+        "original": "創 ~汝新世界へ歩むものなり~"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-245",
+    "title": "夢縁",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "beatmania ⅡDX収録",
+        "original": "夢縁(xi feat. Risa Yuzuki)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-246",
+    "title": "海闊天空",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC"
+    ],
+    "note_context": [],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-247",
+    "title": "狂瀾怒濤",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "太鼓の達人",
+        "original": "狂瀾怒濤"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-248",
+    "title": "超絶技巧系少女",
+    "priority": 2,
+    "current_status": "帰属・日付とも一次資料要確認",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。",
+      "日付未確認。曲を削除せず保留。",
+      "掲載できる公式試聴先が未確認。非公式転載は採用していない。"
+    ],
+    "next_material": "本人の作品告知、当該ゲーム公式曲目・スタッフクレジット、レーベル特設／ブックレット",
+    "starting_urls": [
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "太鼓の達人",
+        "original": "超絶技巧系少女 (合作)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-249",
+    "title": "響花水月",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "既存表の候補URLは探索用。一次資料による帰属・初公開日の確認が必要。",
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.youtube.com/watch?v=MAxz5k_R-_w",
+      "https://www.namu.moe/w/xi(%EC%9E%91%EA%B3%A1%EA%B0%80)/%EB%A6%AC%EB%93%AC%20%EA%B2%8C%EC%9E%84%20%EC%88%98%EB%A1%9D%EA%B3%A1"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "beatmania ⅡDX収録",
+        "original": "響花水月(xi feat. Risa Yuzuki)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-250",
+    "title": "泡沫と月",
+    "priority": 3,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。"
+    ],
+    "next_material": "本人サイト・旧muzieのより早い保存版、当該イベントの公開開始条件",
+    "starting_urls": [
+      "https://www.youtube.com/watch?v=phiCv9e4fZA"
+    ],
+    "note_context": [
+      {
+        "section": "音ゲー収録",
+        "medium": "beatmania ⅡDX収録",
+        "original": "泡沫と月 (xi feat. Risa Yuzuki)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  },
+  {
+    "work_id": "XI-251",
+    "title": "ANiMAtion",
+    "priority": 1,
+    "current_status": "日付の種類を限定して一次資料で確認。初公開日は未確定",
+    "questions": [
+      "真の初公開日は未確定。作曲日は未確認。",
+      "ゲームや本人サイトでの先行公開の有無を追加調査。"
+    ],
+    "next_material": "当該ゲームの初収録・大会公開告知、本人サイト／SoundCloudの先行公開記録",
+    "starting_urls": [
+      "https://diversesystem.bandcamp.com/album/triangle-c89-special-remixes-ep"
+    ],
+    "note_context": [
+      {
+        "section": "コンピアルバム",
+        "medium": "Triangle",
+        "original": "ANiMAtion(xi remixed by sakuzyo)"
+      }
+    ],
+    "checked_on": "2026-10-23"
+  }
+]

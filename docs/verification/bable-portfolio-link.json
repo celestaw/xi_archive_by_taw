@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-10-23T07:11:30.257Z",
+  "story": "ポートフォリオの紹介カードからB:ABLEを新しいタブで開く",
+  "pages": [
+    {
+      "width": 1365,
+      "status": 200,
+      "href": "https://bable-blond.vercel.app",
+      "focusOutline": "solid",
+      "horizontalOverflow": false,
+      "pageErrors": [],
+      "destination": {
+        "url": "https://bable-blond.vercel.app/",
+        "status": 200,
+        "title": "B ABLE",
+        "text": "B ABLE\nタスクを積んで塔を建てる\n未完\n期限順\n重要度順\n追加順\n依頼書はまだありません。右下の + からタスクを貼り出してください。\n＋\nカレンダー\nリスト\nbabel"
+      }
+    },
+    {
+      "width": 390,
+      "status": 200,
+      "href": "https://bable-blond.vercel.app",
+      "focusOutline": "solid",
+      "horizontalOverflow": false,
+      "pageErrors": []
+    }
+  ]
+}
