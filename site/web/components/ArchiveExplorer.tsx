@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { api, formatDate, type Meta, type Work, type WorkList, type WorkQuery } from "@/lib/api";
+import { YearNavigation } from "@/components/YearNavigation";
 
 export function ArchiveExplorer() {
   const router = useRouter();
@@ -22,6 +23,8 @@ export function ArchiveExplorer() {
   const moreRequest = useRef<AbortController | null>(null);
   const activeQuery = useRef<string | null>(null);
   const sentinel = useRef<HTMLDivElement | null>(null);
+  const resultsHeading = useRef<HTMLDivElement | null>(null);
+  const jumpToResults = useRef(false);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -50,6 +53,12 @@ export function ArchiveExplorer() {
 
   const pending = loading || loadedSearch !== search;
   const hasMore = !!result && nextOffset < result.total;
+  useEffect(() => {
+    if (pending || !jumpToResults.current) return;
+    jumpToResults.current = false;
+    resultsHeading.current?.scrollIntoView({ block: "start", behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth" });
+    resultsHeading.current?.focus({ preventScroll: true });
+  }, [pending, search]);
   const loadMore = useCallback(async () => {
     if (pending || !hasMore || moreRequest.current || activeQuery.current !== `${retry}:${search}`) return;
     const controller = new AbortController();
@@ -97,6 +106,18 @@ export function ArchiveExplorer() {
     router.push(`${pathname}${next.size ? `?${next}` : ""}#chronology`, { scroll: false });
   }
 
+  function selectYear(value: string) {
+    const selected = params.get("date_status") === "undated" ? "undated" : params.get("year") ?? "";
+    if (value === selected && (value !== "" || !params.size)) {
+      resultsHeading.current?.scrollIntoView({ block: "start", behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth" });
+      resultsHeading.current?.focus({ preventScroll: true });
+      return;
+    }
+    jumpToResults.current = true;
+    if (!value) router.push(`${pathname}#chronology`, { scroll: false });
+    else update(value === "undated" ? "date_status" : "year", value);
+  }
+
   const groups = new Map<string, Work[]>();
   // Hide stale results while a new query is in flight.
   if (!pending) for (const work of result?.items ?? []) {
@@ -106,15 +127,7 @@ export function ArchiveExplorer() {
 
   return (
     <section id="chronology" className="archive-section" aria-labelledby="index-title">
-      <aside className="year-index">
-        <h1 id="index-title">作品年表</h1>
-        <nav className="year-links" aria-label="記録の年で絞り込む">
-          <button aria-pressed={!params.has("year") && params.get("date_status") !== "undated"} onClick={() => { router.push(`${pathname}#chronology`, { scroll: false }); }}>すべての年</button>
-          {meta?.years.map(year => <button key={year} aria-pressed={params.get("year") === String(year)} onClick={() => update("year", String(year))}>{year}<span aria-hidden="true">↗</span></button>)}
-          <button aria-pressed={params.get("date_status") === "undated"} onClick={() => update("date_status", "undated")}>日付未確認 <span>—</span></button>
-        </nav>
-        {meta && <p className="index-footnote">{meta.total_entries}件の作品・別版・候補<br />日付未確認 {meta.undated_entries}件を含む<br /><span>調査確認日 {meta.checked_on.replaceAll("-", ".")}</span></p>}
-      </aside>
+      <YearNavigation meta={meta} selected={params.get("date_status") === "undated" ? "undated" : params.get("year") ?? ""} onSelect={selectYear} />
       <div className="catalogue">
         <form className="search-form" role="search" onSubmit={event => { event.preventDefault(); update("q", String(new FormData(event.currentTarget).get("q") ?? "").trim()); }}>
           <span className="search-icon" aria-hidden="true" />
@@ -128,7 +141,7 @@ export function ArchiveExplorer() {
           {params.size > 0 && <Link href="/#chronology" className="clear-filter">条件をクリア ×</Link>}
         </div>
         <div className="catalogue-note"><span className="note-mark" aria-hidden="true">※</span><p>日付は、確認できた最も早い公開記録。<br />作曲日・真の初公開日とは限りません。</p><Link href="/about">このサイトについて <span aria-hidden="true">↗</span></Link></div>
-        <div className="results-heading" role="status" aria-live="polite"><span>{pending ? "読み込み中…" : result ? `${result.total}件` : "記録を取得できませんでした"}</span><span>確認できた記録の古い順</span></div>
+        <div className="results-heading" ref={resultsHeading} tabIndex={-1} role="status" aria-live="polite"><span>{pending ? "読み込み中…" : result ? `${result.total}件` : "記録を取得できませんでした"}</span><span>確認できた記録の古い順</span></div>
         <div aria-busy={pending}>
           {pending && <div className="loading-copy">作品の記録を読み込んでいます<span className="loading-dot">…</span></div>}
           {!pending && error && <div className="empty-state" role="alert"><h3>記録を読み込めませんでした。</h3><p>{error}</p><button className="text-link" onClick={() => setRetry(r => r + 1)}>もう一度読み込む ↗</button></div>}
