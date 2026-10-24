@@ -130,8 +130,10 @@ class CollectionTrack(PublicModel):
     checked_on: str
     listening: ListeningLink | None
     note: str
-    listing_kind: Literal["収録", "BMS登録", "公式許諾曲", "追加告知", "大会向け提供"] = "収録"
+    listing_kind: Literal["収録", "BMS登録", "公式許諾曲", "追加告知", "大会向け提供", "収録候補"] = "収録"
     edition: str = ""
+    source_kind: Literal["primary", "primary_reproduction", "secondary"] = "primary"
+    source_label: str = ""
 
 
 class CollectionDetail(CollectionSummary):

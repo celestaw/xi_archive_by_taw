@@ -1,0 +1,62 @@
+/*! ©SEGA */
+'use strict';!function(i){var s={};function a(e){if(s[e])return s[e].exports;var t=s[e]={exports:{},id:e,loaded:!1};return i[e].call(t.exports,t,t.exports,a),t.loaded=!0,t.exports}a.m=i,a.c=s,a.p='',a(0)}([function(e,t,i){i(1),i(3),i(4),'http:'===location.protocol&&(location.href='https://'+location.hostname+location.pathname);var s=['1','2','3','4','5','6','7','7+','8','8+','9','9+','10','10+','11','11+','12','12+','13','13+','14','14+','15'];Zero.init({mixins:[i(6)({spa:i(8),page:i(9)})],tags:[],data:{allCopyright:[],isShow:!0,selectKun:null,category:null,normal:{songLevels:[{value:'lev_bas',value2:'dx_lev_bas',label:'BASIC',check:!1},{value:'lev_adv',value2:'dx_lev_adv',label:'ADVANCED',check:!1},{value:'lev_exp',value2:'dx_lev_exp',label:'EXPERT',check:!1},{value:'lev_mas',value2:'dx_lev_mas',label:'MASTER',check:!1},{value:'lev_remas',value2:'dx_lev_remas',label:'Re:MASTER',check:!1}],specialSearchItem:[{value:'icon_remasDx',label:'でらっくす一括検索',check:!1},{value:'icon_remas',label:'Re:MASTER一括検索',check:!1}],levels:s,level:s.map(function(e){return!1})},switcherTabs:[{title:'『maimai でらっくす』\nで遊べる曲',content:'songList',link:'/new/'},{title:'再生ランキング',content:'songChart',link:'/chart/'}]},watch:{selectKun:function(e,t){void 0,t&&(location.href=e)}},computed:{normalLength:function(){if(!this.$refs.normal)return 0}},created:function(){'root'===this.$route.name&&this.$router.replace('/new/'),this.category='chart'!==this.$route.params.page&&this.$route.params.page||'new'},mounted:function(){var t=this;fetch('/data/RightsInfoText.json').then(function(e){return e.json()}).then(function(e){e=e.map(function(e){return'string'==typeof e?e.replace('(+twindrill logo)',''):e}),t.allCopyright=e})},template:i(10)})},function(e,t,i){Vue.component('kyoku',{props:['list'],data:function(){return{page:0,count:1e3}},watch:{list:function(){this.page=0}},computed:{lastPage:function(){return Math.ceil(this.list.length/this.count)-1},list2:function(){var i=this;return this.list.filter(function(e,t){return t>=i.page*i.count&&t<(i.page+1)*i.count})}},methods:{inc:function(){this.page+=1,this.page>this.lastPage&&(this.page=this.lastPage)},dec:function(){--this.page,this.page<0&&(this.page=0)}},template:i(2)})},function(e,t){e.exports='
+{{item.title}}
+ARTIST:
+{{item.artist}}
+{{item.lev_bas}}
+{{item.lev_adv}}
+{{item.lev_exp}}
+{{item.lev_mas}}
+{{item.lev_remas}}
+{{item.dx_lev_bas}}
+{{item.dx_lev_adv}}
+{{item.dx_lev_exp}}
+{{item.dx_lev_mas}}
+{{item.dx_lev_remas}}
+{{item.kanji}}
+{{item.lev_utage}}
+{{item.comment}}
+{{item.title}}
+ARTIST:
+{{item.artist}}
+{{item.lev_bas}}
+{{item.lev_adv}}
+{{item.lev_exp}}
+{{item.lev_mas}}
+{{item.lev_remas}}
+{{item.dx_lev_bas}}
+{{item.dx_lev_adv}}
+{{item.dx_lev_exp}}
+{{item.dx_lev_mas}}
+{{item.dx_lev_remas}}
+{{item.kanji}}
+{{item.lev_utage}}
+{{item.comment}}
+該当する楽曲が見つかりませんでした。
+'},function(e,t){Vue.component('gakkyoku',{props:['list','display','sortKey','sortAsc','category','searchKeys','searchWord','searchLevel','searchLevelKeys','searchRemaster','searchRemasterDx'],data:function(){return{latestDate:null,searchWordTimer:0}},watch:{list:function(){var e=this.list.filter(function(e){return!0}).sort(function(e,t){return e.releaset.release?-1:0});void 0,this.latestDate=e[0].release}},computed:{filteredList:function(){var a=this;if(!this.list)return null;var l=this.category;'new'===this.category&&0t[i]?1:0:e.version>t.version?-1:e.versiont.release?-1:e.release\n
+\n
+\n
+\n
+\n      '})},function(e,t,i){Zero.component('gakkyoku-common',{props:{profile:Object,initialCategory:String},data:function(){return{isShow:!1,category:this.initialCategory,songLevels:null,songLevelsDx:null,levels:null,level:null,specialSearchItem:null,data:null,sortKey:'id',sortKeys:['id','title_kana'],sortAsc:!0,searchWord:'',levelFilter:'',searchKeys:['title','title_kana','artist'],hitCount:0,selectKun:null}},watch:{profile:function(){this.updateProfile()},selectKun:function(e,t){t&&(location.href=e)}},computed:{searchLevel:function(){var i=this;return this.level.map(function(e,t){return e?i.levels[t]:''}).join(' ').trim().replace(/\s+/g,' ')},searchLevelKeys:function(){if(0!==this.songLevels.filter(function(e){return e.check}).length)return e=this.songLevels.filter(function(e){return e.check}).map(function(e){return e.value}),t=this.songLevels.filter(function(e){return e.check}).map(function(e){return e.value2}),e.concat(t);var e=this.songLevels.map(function(e){return e.value}),t=this.songLevels.map(function(e){return e.value2});return e.concat(t)},searchRemaster:function(){return this.specialSearchItem[1].check},searchRemasterDx:function(){return this.specialSearchItem[0].check}},methods:{updateProfile:function(){this.songLevels=this.profile.songLevels,this.songLevelsDx=this.profile.songLevelsDx,this.levels=this.profile.levels,this.level=this.profile.level,this.specialSearchItem=this.profile.specialSearchItem},toggle:function(){this.isShow=!this.isShow},setSortKey:function(e){this.sortKey!==e?(this.sortKey=e,this.sortAsc=!0):this.sortAsc=!this.sortAsc},setCategory:function(e){this.category=e,this.resetSearchWord()},gakkyokuReset:function(){this.sortKey='id',this.category='',this.resetSearchWord(),this.resetLevel()},resetLevel:function(){var i=this,s=0
+検索  ×
+※新曲カテゴリでは全曲から検索できます。
+※解禁が必要な楽曲です。
+{{item.label}}
+※新曲カテゴリでは全曲から検索できます。
+※解禁が必要な楽曲です。
+絞り込み検索 ×
+レベル絞り込み
+{{hitCount}}曲ヒット
+{{level.label}}
+{{lv}}
+レベル全選択 レベルリセット
+新曲
+POPS＆アニメ
+niconico＆ボーカロイド
+東方Project
+ゲーム&バラエティ
+maimai
+オンゲキ&CHUNITHM
+宴会場
+'},function(e,t,n){Vue.component('el-link',{props:{to:{type:String}},computed:{myTo:function(){return this.to?'/'+this.to+'/':'/'}},template:''}),e.exports=function(e){var s=e.spa,a=e.page,l=n(7),s=_.cloneDeep(s);_.each(s,function(e,t){var i;'$'!==t[0]&&((i=t)!==(t=l(t))&&(s[t]=s[i],delete s[i]),s[t].$key=i,s[t].$valid=t)});var e={spa:s},i=[];_.each(s,function(e,t){'$'!==t[0]&&i.push(e)}),_.merge(e.spa,{$pages:Object.keys(s).filter(function(e){return'$'!==e[0]}).sort(),$pageList:i,$page:null,$desc:null,$ogImage:null});var o=new Vue({data:e}),c=o.spa;return{router:new VueRouter({mode:'history',base:s.$base,routes:[{name:'root',path:'/'},{name:'pages',path:'/:page'}]}),computed:{SPA:function(){return o.spa}},created:function(){var i=this;function t(){var e,t=i.$route.params.page;s[t]?(e=s[t],c.$page=t,c.$key=e.$key,c.$valid=e.$valid,c.$title=e.title||(s.$title_from_key?e.$key:null),c.$desc=e.desc,c.$ogImage=e.ogImage):(c.$page='root',c.$key='root',c.$valid='root',c.$title=a.title,c.$desc=a.desc,c.$ogImage=null)}this.CONTEXT_ROOT,this.PAGEPATH,o.spa.$pages.map(function(e){o.spa[e].ogImage=e+'/ogp.jpg'}),this.$watch('$route.params.page',function(e){t(),Zero.title.set(c.$title||a.title)}),t()}}}},function(e,t){e.exports=function(e){return(e=(e=e.replace(/\.{2,}/g,'.')).replace(/[\s,"'`\*:;{}\[\]\|\\\/\?<>]/g,'_')).replace(/_+/g,'_').replace(/^_/,'').replace(/_$/,'')}},function(e,t){e.exports={$base:'/song/',pops_anime:{desc:'maimai でらっくす MAGiCALの「ポップス&アニメ」の楽曲リストページ。「紅蓮華」「馬と鹿」「だから僕は音楽を辞めた」「青空のラプソディ」ほか人気曲多数！',title:'ポップス&アニメ',keywords:'ポップス,アニメソング,アニソン,楽曲,maimai,マイマイ,音ゲー,セガ,sega',twitterText:'maimai でらっくす MAGiCALの「ポップス&アニメ」の楽曲リストページ。「紅蓮華」「馬と鹿」「だから僕は音楽を辞めた」「青空のラプソディ」ほか人気曲多数！'},niconico:{desc:'maimai でらっくす MAGiCALの「niconico&ボーカロイド」の楽曲リストページ。「命に嫌われている」「乙女解剖」「シャルル」「ロキ」「ヒバナ」「千本桜」ほか人気曲多数！',title:'niconico&ボーカロイド',keywords:'maimai でらっくす MAGiCALの「niconico&ボーカロイド」の楽曲リストページ。「命に嫌われている」「乙女解剖」「シャルル」「ロキ」「ヒバナ」「千本桜」ほか人気曲多数！',twitterText:'niconico,ニコニコ,ボーカロイド,ボカロ,楽曲,maimai,マイマイ,音ゲー,セガ,sega'},toho:{desc:'maimai でらっくす MAGiCALの「東方Project」の楽曲リストページ。「ソリッド」「幻想のサテライト」「月に叢雲華に風」「チルノのパーフェクトさんすう教室」ほか人気曲多数！',title:'東方Project',keywords:'maimai でらっくす MAGiCALの「東方Project」の楽曲リストページ。「ソリッド」「幻想のサテライト」「月に叢雲華に風」「チルノのパーフェクトさんすう教室」ほか人気曲多数！',twitterText:'東方Project,東方,楽曲,maimai,マイマイ,音ゲー,セガ,sega'},variety:{desc:'maimai でらっくす MAGiCALの「ゲーム&バラエティ」の楽曲リストページ。「Black Lair」「conflict」「Destr0yer」「ENERGY SYNERGY MATRIX」ほか人気曲多数！',title:'ゲーム&バラエティ',keywords:'ゲーム,バラエティ,楽曲,maimai,マイマイ,音ゲー,セガ,sega',twitterText:'maimai でらっくす MAGiCALの「ゲーム&バラエティ」の楽曲リストページ。「Black Lair」「conflict」「Destr0yer」「ENERGY SYNERGY MATRIX」ほか人気曲多数！'},maimai:{desc:'maimai でらっくす MAGiCALの「maimai」の楽曲リストページ。「AMAZING MIGHTYYYY!!!!」「Oshama Scramble!」「Panopticon」ほか人気曲多数！',title:'maimai',keywords:'オリジナル,ジョイポリス,楽曲,maimai,マイマイ,音ゲー,セガ,sega',twitterText:'maimai でらっくす MAGiCALの「maimai」の楽曲リストページ。「AMAZING MIGHTYYYY!!!!」「Oshama Scramble!」「Panopticon」ほか人気曲多数！'},gekichu:{desc:'maimai でらっくす MAGiCALの「オンゲキ&CHUNITHM」の楽曲リストページ。「STARTLINER」「Still」「怒槌」「宛城、炎上！！」ほか人気曲多数！',title:'オンゲキ&CHUNITHM',keywords:'オリジナル,ジョイポリス,楽曲,maimai,マイマイ,音ゲー,セガ,sega',twitterText:'maimai でらっくす MAGiCALの「オンゲキ&CHUNITHM」の楽曲リストページ。「STARTLINER」「Still」「怒槌」「宛城、炎上！！」ほか人気曲多数！'},utage:{desc:'maimai でらっくす MAGiCALの「宴会場」の楽曲リストページ。「STARTLINER」「Still」「怒槌」「宛城、炎上！！」ほか人気曲多数！',title:'宴会場',keywords:'オリジナル,ジョイポリス,楽曲,maimai,マイマイ,音ゲー,セガ,sega',twitterText:'maimai でらっくす MAGiCALの「宴会場」の楽曲リストページ。「STARTLINER」「Still」「怒槌」「宛城、炎上！！」ほか人気曲多数！'},new:{desc:'「maimai でらっくす MAGiCAL」に新たに収録された曲をチェック！',title:'最新追加楽曲',keywords:'新曲,最新,楽曲,maimai,マイマイ,音ゲー,セガ,sega',twitterText:'「maimai でらっくす MAGiCAL」に新たに収録された曲をチェック！'},chart:{desc:'「maimai（マイマイ）」の楽曲再生ランキング。人気の楽曲を知りたい方やプレイの参考に！',title:'再生ランキング',keywords:'楽曲,ランキング,maimai,マイマイ,音ゲー,セガ,sega',twitterText:'「maimai（マイマイ）」の楽曲再生ランキング。人気の楽曲を知りたい方やプレイの参考に！'}}},function(e,t){e.exports={title:'最新追加楽曲 - 楽曲リスト',desc:'「maimai でらっくす MAGiCAL」に新たに収録された曲をチェック！',keywords:'新曲,最新,楽曲,maimai,マイマイ,音ゲー,セガ,sega',twitterText:'「maimai でらっくす MAGiCAL」に新たに収録された曲をチェック！'}},function(e,t){e.exports='
+'}]);

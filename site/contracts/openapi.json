@@ -927,7 +927,8 @@
               "BMS登録",
               "公式許諾曲",
               "追加告知",
-              "大会向け提供"
+              "大会向け提供",
+              "収録候補"
             ],
             "title": "Listing Kind",
             "default": "収録"
@@ -935,6 +936,21 @@
           "edition": {
             "type": "string",
             "title": "Edition",
+            "default": ""
+          },
+          "source_kind": {
+            "type": "string",
+            "enum": [
+              "primary",
+              "primary_reproduction",
+              "secondary"
+            ],
+            "title": "Source Kind",
+            "default": "primary"
+          },
+          "source_label": {
+            "type": "string",
+            "title": "Source Label",
             "default": ""
           }
         },

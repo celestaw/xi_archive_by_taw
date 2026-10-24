@@ -1,0 +1,30 @@
+{
+  "url": "https://worldfragments.diverse.jp/",
+  "key": "80657f0370267709",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://worldfragments.diverse.jp/",
+  "sha256": "5d24a91201e7bc9a52b33e2558c78a316aa914ba5ee7e61e836a224b562d2fde",
+  "bytes": 8275,
+  "read_limit_reached": false,
+  "title": "World Fragments / xi 3rd solo album / Diverse System",
+  "links": [
+    "http://twitter.com/share?url=http://worldfragments.diverse.jp/&text=xi%203rd%20solo%20album%20%e2%80%9cWorld%20Fragments%e2%80%9d%20%7c%20Diverse%20System",
+    "http://www.facebook.com/sharer.php?s=100&p[url]=http://worldfragments.diverse.jp/&p[title]=http://worldfragments.diverse.jp/&p[summary]=xi 3rd solo album World Fragments | Diverse System",
+    "#!/",
+    "#!/info",
+    "#!/credit",
+    "#!/track",
+    "https://diverse.direct/diverse-system/dvsp-0145/",
+    "http://music-side.com/013/",
+    "http://music-side.com/017/",
+    "http://diverse.jp",
+    "http://diverse.jp/dvsp-1006/",
+    "https://diverse.direct/diverse-system/dvsp-0145/",
+    "#!/info",
+    "#!/info",
+    "https://www.melonbooks.co.jp/detail/detail.php?product_id=144968",
+    "./assets/jacket.jpg"
+  ]
+}

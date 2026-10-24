@@ -6,7 +6,7 @@ from urllib.parse import urlparse
 
 SITE = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(SITE / "backend"))
-from models import ArchiveMeta, WorkDetail, PublicationRecord
+from models import ArchiveMeta, WorkDetail, PublicationRecord, ListeningLink
 sys.path.insert(0, str(SITE.parent / "xi_chronology/scripts"))
 from review_attribution import build_reviews
 
@@ -68,7 +68,7 @@ def build():
         for listening in extra.get("listening", []):
             public_url(listening["url"])
             public_url(listening["officialness_source_url"])
-            item.listening.append(listening)
+            item.listening.append(ListeningLink.model_validate(listening))
         if item.listening:
             item.issues = [x for x in item.issues if x != "掲載できる公式試聴先が未確認。非公式転載は採用していない。"]
         exported.append(item.model_dump())

@@ -1,0 +1,7 @@
+(function(jQuery){
+ea_common_template.initialize = function(p_options) {
+ea_common_template.ex.set_init_tag(p_options, null);
+ea_common_template.ex.news_obj.get('full');
+ea_common_template.content_visible();
+}
+})();

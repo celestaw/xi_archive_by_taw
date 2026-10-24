@@ -217,24 +217,35 @@ def build():
                 games.setdefault(id, {}).setdefault(work["id"], track(work, work["title"], source["credit"], url,
                     evidence, source["checked_on"], note="ゲームの初収録日・現在の配信状況は未確認。",
                     listening=next((link for link in work["listening"] if link["url"] == url), None)))
-    additions = json.loads((ROOT / "xi_chronology/data/game_research.json").read_text(encoding="utf-8"))
     by_id = {w["id"]: w for w in works}
-    for game in additions["games"]:
-        id = game["id"]
-        GAME_NAMES[id] = game["title"]
-        game_notes[id] = game["note"]
-        for source in game["tracks"]:
-            work = by_id[source["work_id"]]
-            note = source["note"]
-            if work["attribution"] == "unverified":
-                note += " " + (source["identity_note"] or "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。")
-            item = track(work, source["title"], source["credited_name"], source["source_url"],
-                source["evidence"], source["checked_on"], role=source["role"] or None,
-                listening=source["listening"], note=note.strip())
-            item.update(listing_kind=source["listing_kind"], edition=source["edition"])
-            games.setdefault(id, {}).setdefault(work["id"], item)
-    review["held"].extend(additions["candidates"])
-    review["rules"].extend(additions["limitations"])
+    for filename in ["game_research.json", "game_song_findings.json"]:
+        additions = json.loads((ROOT / "xi_chronology/data" / filename).read_text(encoding="utf-8"))
+        for game in additions["games"]:
+            id = game["id"]
+            GAME_NAMES[id] = game["title"]
+            game_notes[id] = game["note"]
+            for source in game["tracks"]:
+                work = by_id[source["work_id"]]
+                note = source["note"]
+                if work["attribution"] == "unverified":
+                    note += " " + (source["identity_note"] or "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。")
+                extra = source.get("extra_sources", [])
+                if extra:
+                    note += " " + " ".join(f'{s["label"]}：{s["summary"]} {s["url"]}' for s in extra)
+                item = track(work, source["title"], source["credited_name"], source["source_url"],
+                    source["evidence"], source["checked_on"], role=source["role"] or None,
+                    listening=source["listening"], note=note.strip())
+                item.update(listing_kind=source["listing_kind"], edition=source["edition"],
+                    source_kind=source.get("source_kind", "primary"), source_label=source.get("source_label", ""))
+                existing = games.setdefault(id, {}).get(work["id"])
+                # The new primary row is more precise than a generic video marker;
+                # a secondary row must never replace an existing primary source.
+                if existing is None or item["source_kind"] != "secondary":
+                    if existing and not item["listening"]:
+                        item["listening"] = existing["listening"]
+                    games[id][work["id"]] = item
+        review["held"].extend(additions.get("candidates", []))
+        review["rules"].extend(additions["limitations"])
     for id, members in sorted(games.items(), key=lambda item: GAME_NAMES[item[0]]):
         tracks = sorted(members.values(), key=lambda t: norm(t["title"]))
         add_collection(id, "game", GAME_NAMES[id], "ゲーム", tracks[0]["source_url"], tracks,

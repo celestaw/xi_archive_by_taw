@@ -1,0 +1,533 @@
+beatmania IIDX 31 EPOLIS
+サービス一覧
+e-amusement迷宮
+FAQ
+SITE TOP
+IIDXの遊び方や収録楽曲の紹介、各種ランキングの閲覧ができます
+ご利用にはe-amusementへのログインが必要です
+HOW TO PLAY
+遊び方について
+ゲームの開始
+ゲーム画面詳細
+ゲームオプション
+ハイスピードオプション
+テンキーオプション
+スコアグラフ
+エフェクター
+カメラ機能
+LIGHTNING MODEL
+専用機能
+プレミアムエリア
+プレー録画機能
+ランダムレーンチケット
+段位認定 -極-
+BPL BATTLEモード
+GAME MODE
+STEP UP
+STANDARD
+段位認定
+FREE
+FREE PLUS
+HAZARD
+PREMIUM FREE
+e-amusement passを
+使用した遊び方
+e-amusement pass
+プレーデータ
+ライバル挑戦状
+PASELI
+ロボライバル
+師弟システム
+辻斬りバトル
+e-amusementアプリ
+新機能一覧
+選曲画面パワーアップ
+カジュアル大会機能
+譜面リトライ機能
+プレミアムエリアアシスタント
+プレーカスタマイズ拡張
+勲章リニューアル
+楽曲検索機能リニューアル
+ULTIMATE MOBILE
+連動強化
+NEW SONG
+RANKING&段位認定
+行脚王RANKING
+段位認定者総覧
+WEEKLY RANKING
+WEEKLY RANKING
+レーティングRANKING
+プレーヤーノーツレーダー
+RANKING
+アリーナクラス
+TOP RANKER RANKING
+アリーナキューブ
+RANKING
+TOP RANKER
+EVENT
+ARENAモード
+マイポリスデザイナー
+EPOLIS RESTORATION
+WORLD TOURISM
+CARD CONNECT
+DJ DATA
+ステータス
+行脚
+段位認定
+楽曲データ/マイベスト
+楽曲データ/シリーズ
+楽曲データ/曲名
+楽曲データ/難易度別
+楽曲データ/最近プレー
+ARENAモード
+WEEKLY RANKING
+辻斬りバトル
+プレー録画機能
+ランダムレーンチケット
+IIDXタワー
+勲章
+マイポリスデザイナー
+プレーデータ
+CSVダウンロード
+ULTIMATE MOBILE連動
+フォロー&ライバル
+フォローリスト
+フォロワーリスト
+ライバルリスト
+プレーヤー検索
+逆ライバル情報
+ロボライバル
+ライバル挑戦状
+師弟システム
+カスタマイズ
+クプロカスタマイズ
+公開設定
+プレーカスタマイズ
+DJ NAME変更
+SHOP
+プラチナメンバーズカード
+クプロパーツ
+爆発
+ターンテーブル
+レーンカバー /
+グラフエリア / LIFT
+判定文字
+ノーツ
+キービーム
+フルコンボ
+秘蔵のレコード
+設置店舗検索
+@IIDX_OFFICIAL
+TOPにもどる
+HOW TO PLAY
+遊び方について
+ゲームの開始
+ゲーム画面詳細
+ゲームオプション
+ハイスピードオプション
+テンキーオプション
+スコアグラフ
+エフェクター
+カメラ機能
+LIGHTNING MODEL
+専用機能
+プレミアムエリア
+プレー録画機能
+ランダムレーンチケット
+段位認定 -極-
+BPL BATTLEモード
+GAME MODE
+STEP UP
+STANDARD
+段位認定
+FREE
+FREE PLUS
+HAZARD
+PREMIUM FREE
+e-amusement passを
+使用した遊び方
+e-amusement pass
+プレーデータ
+ライバル挑戦状
+PASELI
+ロボライバル
+師弟システム
+辻斬りバトル
+e-amusementアプリ
+新機能一覧
+選曲画面パワーアップ
+カジュアル大会機能
+譜面リトライ機能
+プレミアムエリアアシスタント
+プレーカスタマイズ拡張
+勲章リニューアル
+楽曲検索機能リニューアル
+ULTIMATE MOBILE
+連動強化
+NEW SONG
+RANKING&段位認定
+行脚王RANKING
+段位認定者総覧
+WEEKLY RANKING
+WEEKLY RANKING
+レーティングRANKING
+プレーヤーノーツレーダー
+RANKING
+アリーナクラス
+TOP RANKER RANKING
+アリーナキューブ
+RANKING
+TOP RANKER
+EVENT
+ARENAモード
+マイポリスデザイナー
+EPOLIS RESTORATION
+WORLD TOURISM
+CARD CONNECT
+DJ DATA
+ステータス
+行脚
+段位認定
+楽曲データ/マイベスト
+楽曲データ/シリーズ
+楽曲データ/曲名
+楽曲データ/難易度別
+楽曲データ/最近プレー
+ARENAモード
+WEEKLY RANKING
+辻斬りバトル
+プレー録画機能
+ランダムレーンチケット
+IIDXタワー
+勲章
+マイポリスデザイナー
+プレーデータ
+CSVダウンロード
+ULTIMATE MOBILE連動
+フォロー&ライバル
+フォローリスト
+フォロワーリスト
+ライバルリスト
+プレーヤー検索
+逆ライバル情報
+ロボライバル
+ライバル挑戦状
+師弟システム
+カスタマイズ
+クプロカスタマイズ
+公開設定
+プレーカスタマイズ
+DJ NAME変更
+SHOP
+プラチナメンバーズカード
+クプロパーツ
+爆発
+ターンテーブル
+レーンカバー /
+グラフエリア / LIFT
+判定文字
+ノーツ
+キービーム
+フルコンボ
+秘蔵のレコード
+設置店舗検索
+@IIDX_OFFICIAL
+TOPにもどる
+コミュニティニックネーム
+---
+DJ NAME
+---
+NEW SONG
+Chemical Colours
+COLOUR TECHCORE
+Blacklolita x BEMANI Sound Team "Expander"
+JUSTICE/GUILTY feat. Nana Takahashi & 709sec.
+ROCKIN' DRUM&BASS
+BEMANI Sound Team "L.E.D."
+ZEROIN ON THE LIGHT
+COLD BEAT
+SOUND HOLIC Vs. ZYTOKINE feat. Nana Takahashi
+See You Again
+HARDCORE
+kors k & Numb'n'dub
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Other
+ACTØ
+NEOTRANCE CORE
+モリモリあつし
+Aeterna
+UNSUNG FANTASIA
+satella feat. Risa Yuzuki
+Amethyst
+TRANCE
+BlackY
+Bitter & Lucky
+NU SYNTH BASS
+DÉ DÉ MOUSE
+CADENZA
+PSYCHEDELIC TRANCE
+lapix ∞ BEMANI Sound Team "L.E.D."
+Chemical Colours
+COLOUR TECHCORE
+Blacklolita x BEMANI Sound Team "Expander"
+COUNTING SHEEP ft. Kanae Asaba
+SYMPHONIC DRUM'N'BASS
+Xceon
+Cult Invitation
+00's TECHNO
+BEMANI Sound Team "謎の勢力"
+Dahlia
+HARD RENAISSANCE
+BlackY
+DAZZLE ATTACK
+HAPPY HARDCORE TAKEOVER
+Yuta Imai
+Deep Sea Mystery
+NEO 90's AMBIENT JUNGLE
+Dirty Androids
+Demon March
+CINEMATIC BREAKCORE
+Nhato
+Echoes of Sunfall
+ETHNIC HARDSOUND
+nora2r
+frequent
+MUSIC GAME TRADITIONAL
+BEMANI Sound Team "dj TAKA"
+GAME ON
+MIXTURE
+DJ Mass MAD Izm* feat.H14 of LEONAIR
+Get Higher
+ADVENTURE TRIP
+BEMANI Sound Team "劇団レコード"
+Glitch N Ride
+COLOUR BASS
+Eagle
+GLORIOUS HAMMER
+DUBSTEP
+AJURIKA
+Ghost Pulse
+NEOTRANCE
+crayvxn
+GloriosA
+XYMPHONIC TECHCORE
+KARUT
+INHERITANCE
+TRANCE CORE
+Zekk
+Iris
+EMOTIONAL J-POP
+BEMANI Sound Team "HuΣeR" feat.紫村 花澄
+Jumper
+DRUM'N'BASS
+Masayoshi Iimori
+Just Gimme
+CYBER DRUMSTEP
+Maozon
+JUSTICE/GUILTY feat. Nana Takahashi & 709sec.
+ROCKIN' DRUM&BASS
+BEMANI Sound Team "L.E.D."
+Level 5
+Drumstep / Bass House / Dnb
+Yamato
+MAXIMUM CHEAT GIRL
+MAXIMUM GAME-BREAKING HARDCORE
+かめりあ feat. ななひら
+Million Dollar
+PARTICULAR NIGHTSCAPE
+Dirty Androids
+Mukade
+SCHRANZ
+kors k
+My Sweet Bird?
+J-POP
+アオワイファイ feat.秋山雫
+NEEDLESS MY LOVE FOR YOU
+ROCK
+Pizuya's Cell
+Out of Control
+FREEFORM ARTCORE
+CANVAS feat. Quimär
+out of disk space
+CHARGE CORE
+TORIENA
+PILGRIM
+TRAP
+crayvxn
+Resonant
+DRUM'N'BASS
+BEMANI Sound Team "猫叉Master" & かめりあ
+See You Again
+HARDCORE
+kors k & Numb'n'dub
+Shapeshifter
+TECHNICAL ELECTRO
+Avans
+SOLAR ECLIPSE
+CROSSOVER
+Yuta Imai Vs. BEMANI Sound Team "Yvya"
+So What
+BASS HOUSE
+PRIDASK
+Speculation
+HARDCORE TECHNO
+BEMANI Sound Team "ZAQUVA"
+Stereo Beasts
+HARD TECHNO/DOWNTEMPO
+MK & RoughSketch
+Submerge Serenade
+HARDTECHNO
+lapix
+The Last Apocalypse
+NEO-CLASSICAL CORE
+BEMANI Sound Team "Sota F. feat. Yvya"
+This Is Club Musik feat. 大久保紅葉
+HARD HOUSE
+REMO-CON
+Time Distortion pt.2(IIDX Edit)
+PSYCHEDELIC TECHNO
+kors k vs BEMANI Sound Team "setup"
+TITANIUM RIDERS
+HARDCORE RAVE
+DJ Shimamura
+TRIP THE DEEP
+MELODIC TECHNO
+Qlarabelle
+Tripping Jumping
+FUNKY BREAKS
+Aikapin Prod. by uno & NiActivity
+Vermilion Carol
+GOTHIC PIANO TRANCE
+OSTER project
+Vulnerability
+VARIABLE CORE
+BEMANI Sound Team "ZAQUVA"
+winkle 2 winkle
+EURODANCE SPEED
+Ryu☆ ft.NU-KO
+ZEROIN ON THE LIGHT
+COLD BEAT
+SOUND HOLIC Vs. ZYTOKINE feat. Nana Takahashi
+アイドル
+IIDX EDITION
+Covered by BEMANI Sound Team "HuΣeR × wac" feat. 佐伯伊織
+アタシ完全絶対正義ちゃん！
+ROCK
+Pizuya's Cell
+今宵、ロマンス横丁。
+和風歌謡硬核音楽
+まろん feat. Rikotan
+神様、つれない。
+DALTERNATIVE
+中山真斗 feat. CHAN
+デビルじゃないもん
+IIDX EDITION
+Remixed by BlackY feat. Risa Yuzuki
+電子になりたい
+HYBRID DANCE MUSIC
+BEMANI Sound Team "HuΣeR"
+電腦都市
+BREAKCORE
+Blacklolita
+夏風邪デスコ
+SUMMER POP
+TORIENA
+フォニイ
+IIDX EDITION
+Remixed by Pizuya's Cell
+果たせぬ約束 ft. 小林マナ
+CHINA SQUARE DANCEPOP
+Xceon
+寝起きヤシの木
+IIDX EDITION
+Remixed by uno(IOSYS) feat. Chiyoko
+流桜ノ門
+SCI-FI CHRONICLE
+tokiwa
+シンデレラ
+DRUM & BASS
+Maozon feat. Nadia
+センチメンタル・サマー
+CITY DANCE POP
+Nhato feat. Kanae Asaba & はるまき (from ボタニカルな暮らし。)
+ないないルーティン
+SPEED HOUSE
+Len
+マーシャル・マキシマイザー
+IIDX EDITION
+Remixed by uno(IOSYS) feat. Chiyoko
+摩天楼
+VALHALLASTEP
+Julianne
+れとりば！
+KAWAII DOGGO POPS
+OSTER project feat. 月ノ輪乃愛
+夢縁
+JUVENILE PIANO ROCK
+xi feat. Risa Yuzuki
+勇者
+IIDX EDITION
+Remixed by OSTER project feat. そらこ
+惑星鉄道
+PROLOGUE
+Snail's House
+20XX
+CYBER BREAKCORE
+COR!S
+Concept of EPOLIS
+side:SOUND by IIDX Sound Team
+大台のVERSION30である「RESIDENT」を経て、VERSION31となる「EPOLIS」はこれからのDECADEを迎える為の第一歩とも捉えられるタイトルになります。
+よりプレイアビリティを推進した新機能と共にシステムBGM等のあり方も見直し、
+様々な異なる雰囲気の未来都市を訪れているような没入感をプレイヤーの皆さまに体験して頂けると思います。
+さて今回の「EPOLIS」は近未来都市を舞台とした世界観が展開されています。
+近未来都市と言っても、大枠の共通イメージはあるかもしれませんが、現代の技術が順当に発展した都市や、
+ディストピア的なサイバーシティー、自然と共存する未来都市、既に過去に文明が頂点に達した後崩壊した都市、地下、海中、宇宙等、多様な未来都市のあり方がある様に思います。
+そんな様々な未来都市を訪れるかのような体験をこの「EPOLIS」の楽曲で楽しんで頂ければ幸いです。
+また、それだけでなく、今回も”RESIDENT” DJや、ニューカマーなアーティストが繰り出す様々なジャンルの楽曲に、
+話題の新曲、おなじみのJ-POPをIIDXスタイルでアレンジした”IIDX EDITION”等多数の楽曲をお送りする予定となっております。
+それではbeatmania IIDX 31 EPOLISの世界をご堪能下さい。
+Concept of EPOLIS
+side:VISUAL by IIDX Designers
+beatmania IIDXは大きな節目、「30」というナンバリングタイトルを超えました。
+ですがIIDXは立ち止まったりはしません！これからの新たな時代に向け、更に更に進化して前進して参ります！
+現在、KACやBPLなどから新たなスタープレーヤー、プロ選手が続々と誕生し、まさに群雄割拠！とでも言うべき、激動の時代を迎えております。
+今回もIIDXチームは全員でアイデアを出し、新時代のIIDXの幕開けとなるようなモチーフを模索し、協議を重ねて参りました。
+そして辿り着いたメインテーマが、未来への門出の意味も込めた「近未来都市」でした。
+我々が生活するこの社会、都市からは様々な音楽が聞こえてきます。
+ライブ会場はもちろん、ストリートミュージシャン、ラップバトル、商業施設や遊戯場、スポーツやリラクゼーション空間…etc.
+音楽は私達の暮らしの一部として寄り添い、場面場面で流れています。
+それら都市の音楽を「近未来都市」という1つのテーマへ包括し、制作に臨みました。
+サウンドの個性豊かな各アーティスト達が、それぞれ眩い光を放つ楽曲を生み出し、プログラムやデザインなどスタッフ一同もその光を受けて、更なる輝きとなるようチーム一丸となって尽力して参りました。
+そして形になったのが、この【 beatmania IIDX 31 EPOLIS 】です！
+今回はそんな「近未来都市」の光をイメージした、蛍光イエローがテーマカラーです。
+新筐体LIGHTNING MODELからは、都会的なイエローライトがゲームセンターに煌々と輝いています。
+新時代へ向け、新たな都市開発プロジェクトにより誕生した架空の近未来都市。
+夜空にも眩い煌きを放ち続ける不夜城都市、『 EPOLIS 』。
+是非、プレーして頂き、新たなる時代へ向けたIIDXの躍動する光を感じて頂ければと思います。
+beatmania IIDX 31 EPOLISのイエローライトが、あなたの新たなるプレーの未来を照らしますように。
+©2026 Konami Arcade Games

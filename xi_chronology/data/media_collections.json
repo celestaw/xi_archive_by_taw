@@ -44,7 +44,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -93,7 +95,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-024",
@@ -116,7 +120,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-036",
@@ -139,7 +145,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-037",
@@ -162,7 +170,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-015",
@@ -185,7 +195,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-022",
@@ -208,7 +220,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-021",
@@ -231,7 +245,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-035",
@@ -254,7 +270,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-026",
@@ -277,7 +295,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-033",
@@ -300,7 +320,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-038",
@@ -323,7 +345,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-017",
@@ -346,7 +370,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
@@ -395,7 +421,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -444,7 +472,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -493,7 +523,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-039",
@@ -516,7 +548,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-050",
@@ -539,7 +573,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-045",
@@ -562,7 +598,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-049",
@@ -585,7 +623,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-041",
@@ -608,7 +648,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-052",
@@ -631,7 +673,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-048",
@@ -654,7 +698,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-053",
@@ -677,7 +723,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
@@ -726,7 +774,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -775,7 +825,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -824,7 +876,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -873,7 +927,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -922,7 +978,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -971,7 +1029,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -1020,7 +1080,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-054",
@@ -1043,7 +1105,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-075",
@@ -1066,7 +1130,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-072",
@@ -1089,7 +1155,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-062",
@@ -1112,7 +1180,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-069",
@@ -1135,7 +1205,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-079",
@@ -1158,7 +1230,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-074",
@@ -1181,7 +1255,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-076",
@@ -1204,7 +1280,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-077",
@@ -1227,7 +1305,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-078",
@@ -1250,7 +1330,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": null,
@@ -1273,7 +1355,9 @@
           },
           "note": "曲目は公式資料で確認。作品IDとの対応は未照合。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
@@ -1322,7 +1406,9 @@
           },
           "note": "xiの新規作曲として数えない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-073",
@@ -1345,7 +1431,9 @@
           },
           "note": "xiの新規作曲として数えない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -1394,7 +1482,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -1443,7 +1533,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-090",
@@ -1466,7 +1558,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-086",
@@ -1489,7 +1583,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-087",
@@ -1512,7 +1608,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-082",
@@ -1535,7 +1633,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-083",
@@ -1558,7 +1658,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-085",
@@ -1581,7 +1683,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
@@ -1630,7 +1734,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -1679,7 +1785,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -1728,7 +1836,9 @@
           },
           "note": "xiの新規作曲として数えない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-073",
@@ -1751,7 +1861,9 @@
           },
           "note": "xiの新規作曲として数えない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-098",
@@ -1774,7 +1886,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -1823,7 +1937,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-099",
@@ -1846,7 +1962,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-105",
@@ -1869,7 +1987,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-106",
@@ -1892,7 +2012,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-107",
@@ -1915,7 +2037,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-104",
@@ -1938,7 +2062,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-102",
@@ -1961,7 +2087,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-101",
@@ -1984,7 +2112,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-100",
@@ -2007,7 +2137,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": null,
@@ -2030,7 +2162,9 @@
           },
           "note": "xiの新規作曲として数えない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": null,
@@ -2053,7 +2187,9 @@
           },
           "note": "xiの新規作曲として数えない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-103",
@@ -2076,7 +2212,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
@@ -2125,7 +2263,9 @@
           },
           "note": "xiの新規作曲として数えない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": null,
@@ -2148,7 +2288,9 @@
           },
           "note": "xiの新規作曲として数えない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -2197,7 +2339,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -2246,7 +2390,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -2295,7 +2441,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-124",
@@ -2318,7 +2466,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -2367,7 +2517,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -2416,7 +2568,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -2465,7 +2619,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-123",
@@ -2488,7 +2644,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-142",
@@ -2511,7 +2669,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-140",
@@ -2534,7 +2694,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-131",
@@ -2557,7 +2719,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-139",
@@ -2580,7 +2744,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-136",
@@ -2603,7 +2769,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-129",
@@ -2626,7 +2794,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-130",
@@ -2649,7 +2819,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-128",
@@ -2672,7 +2844,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-138",
@@ -2695,7 +2869,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-133",
@@ -2718,7 +2894,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": null,
@@ -2741,7 +2919,9 @@
           },
           "note": "xiの新規作曲として数えない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-143",
@@ -2764,7 +2944,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-134",
@@ -2787,7 +2969,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-141",
@@ -2810,7 +2994,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-135",
@@ -2833,7 +3019,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-127",
@@ -2856,7 +3044,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-137",
@@ -2879,7 +3069,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-132",
@@ -2902,7 +3094,9 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "公式資料で確認した曲目を掲載。音源の版は曲別の記録も参照してください。"
@@ -2951,7 +3145,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3000,7 +3196,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3049,7 +3247,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3098,7 +3298,9 @@
           },
           "note": "音源の版は未同定。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3140,7 +3342,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3194,7 +3398,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3248,7 +3454,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3290,7 +3498,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3319,7 +3529,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3361,7 +3573,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3390,7 +3604,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3432,7 +3648,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3474,7 +3692,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-109",
@@ -3490,7 +3710,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-110",
@@ -3506,7 +3728,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-111",
@@ -3522,7 +3746,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-112",
@@ -3538,7 +3764,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "このアーカイブで確認できたxi関連の収録曲を掲載。"
@@ -3548,11 +3776,47 @@
       "kind": "game",
       "title": "Arcaea",
       "category": "ゲーム",
-      "entry_count": 1,
-      "source_url": "https://www.nintendo.com/us/store/products/esoteric-order-pack-70050000030010-switch/",
+      "entry_count": 5,
+      "source_url": "https://wikiwiki.jp/arcaea/Dreadnought",
       "release_records": [],
       "checked_on": "2026-10-25",
       "tracks": [
+        {
+          "work_id": "XI-069",
+          "title": "Dreadnought",
+          "credited_name": "Mastermind (xi + nora2r)",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/arcaea/Dreadnought",
+          "evidence": "【二次資料】Arcaea Wikiの曲別ページ「Dreadnought」でゲーム内収録の記述を照合。運営の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wiki記載の追加日を初収録日として確定しない。",
+          "listing_kind": "収録候補",
+          "edition": "Arcaea（モバイル版）",
+          "source_kind": "secondary",
+          "source_label": "Arcaea Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-026",
+          "title": "Halcyon",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/arcaea/Halcyon",
+          "evidence": "【二次資料】Arcaea Wikiの曲別ページ「Halcyon」でゲーム内収録の記述を照合。運営の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wiki記載の追加日を初収録日として確定しない。",
+          "listing_kind": "収録候補",
+          "edition": "Arcaea（モバイル版）",
+          "source_kind": "secondary",
+          "source_label": "Arcaea Wiki（非公式）"
+        },
         {
           "work_id": "XI-135",
           "title": "Overwhelm",
@@ -3567,10 +3831,48 @@
           "listening": null,
           "note": "Switch版のパック収録根拠。モバイル版の収録日や、アルバムのLong Versionとは混同しない。",
           "listing_kind": "収録",
-          "edition": "Nintendo Switch / Esoteric Order Pack"
+          "edition": "Nintendo Switch / Esoteric Order Pack",
+          "source_kind": "primary",
+          "source_label": "Nintendo公式ストア・Arcaea追加パック"
+        },
+        {
+          "work_id": "XI-075",
+          "title": "Tiferet",
+          "credited_name": "xi + Sta",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/arcaea/Tiferet",
+          "evidence": "【二次資料】Arcaea Wikiの曲別ページ「Tiferet」でゲーム内収録の記述を照合。運営の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wiki記載の追加日を初収録日として確定しない。",
+          "listing_kind": "収録候補",
+          "edition": "Arcaea（モバイル版）",
+          "source_kind": "secondary",
+          "source_label": "Arcaea Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-078",
+          "title": "World Fragments III(radio edit)",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/arcaea/World%20Fragments%20III%28radio%20edit%29",
+          "evidence": "【二次資料】Arcaea Wikiの曲別ページ「World Fragments III(radio edit)」でゲーム内収録の記述を照合。運営の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "radio editは原曲World Fragments IIIとの関連として保持し、アルバム版と同一音源と確定しない。",
+          "listing_kind": "収録候補",
+          "edition": "Arcaea（モバイル版）",
+          "source_kind": "secondary",
+          "source_label": "Arcaea Wiki（非公式）"
         }
       ],
-      "note": "現在の確認範囲はNintendo Switch版の追加パック。モバイル版とほかの曲は照合中です。"
+      "note": "OverwhelmはNintendo Switch版の公式曲目で確認。収録候補は非公式Wikiによる別の記録です。"
     },
     {
       "id": "bms",
@@ -3596,7 +3898,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2011-02-27。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-068",
@@ -3612,7 +3916,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2015-09-27。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-059",
@@ -3628,7 +3934,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2014-10-19。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-021",
@@ -3644,7 +3952,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2009-09-18。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-099",
@@ -3660,7 +3970,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2018-11-04。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-069",
@@ -3676,7 +3988,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2015-09-27。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-017",
@@ -3692,7 +4006,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2008-03-21。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-026",
@@ -3708,7 +4024,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2010-09-24。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-083",
@@ -3724,7 +4042,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2016-10-02。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-022",
@@ -3740,7 +4060,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2009-09-18。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-034",
@@ -3756,7 +4078,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2011-09-25。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-023",
@@ -3772,7 +4096,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2009-09-18。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-018",
@@ -3788,7 +4114,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2008-09-27。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-041",
@@ -3804,7 +4132,9 @@
           "listening": null,
           "note": "資料上のBMS作品登録日：2012-09-23。作曲日・真の初公開日とは断定しない。",
           "listing_kind": "BMS登録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "BMSイベントへの作品登録を掲載。市販ゲームの収録曲や現在の配布状況を示すものではありません。"
@@ -3814,10 +4144,10 @@
       "kind": "game",
       "title": "CHUNITHM",
       "category": "ゲーム",
-      "entry_count": 5,
-      "source_url": "https://music-am.sega.jp/songs/song-00079/",
+      "entry_count": 14,
+      "source_url": "https://chunithm.sega.jp/storage/json/music.json",
       "release_records": [],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "tracks": [
         {
           "work_id": "XI-166",
@@ -3827,13 +4157,69 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://music-am.sega.jp/songs/song-00079/",
-          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
-          "checked_on": "2026-10-24",
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「Aiolos / xi」を確認。対応する一覧レコード：2432。",
+          "checked_on": "2026-10-25",
           "listening": null,
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-059",
+          "title": "Aragami",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「Aragami / xi」を確認。対応する一覧レコード：144。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-021",
+          "title": "Ascension to Heaven",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「Ascension to Heaven / xi」を確認。対応する一覧レコード：978。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-177",
+          "title": "Crimson Phoenix",
+          "credited_name": "xi vs MASAKI「グルーヴコースター」",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「Crimson Phoenix / xi vs MASAKI「グルーヴコースター」」を確認。対応する一覧レコード：2040。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
         },
         {
           "work_id": "XI-158",
@@ -3843,9 +4229,9 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://www.youtube.com/watch?v=Fhw7jUOTm40",
-          "evidence": "本人チャンネルの動画タイトル『DOMiNUS_GRAiL / xi [CHUNITHM]』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
-          "checked_on": "2026-10-23",
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「DOMiNUS_GRAiL / xi」を確認。対応する一覧レコード：2950。",
+          "checked_on": "2026-10-25",
           "listening": {
             "url": "https://www.youtube.com/watch?v=Fhw7jUOTm40",
             "label": "本人公式YouTube",
@@ -3854,9 +4240,101 @@
             "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
             "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
           },
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-069",
+          "title": "Dreadnought",
+          "credited_name": "Mastermind(xi+nora2r)",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「Dreadnought / Mastermind(xi+nora2r)」を確認。対応する一覧レコード：323。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-017",
+          "title": "FREEDOM DiVE",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「FREEDOM DiVE / xi」を確認。対応する一覧レコード：196, 8026。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。 追加譜面のレコードを新曲として数えず、同じ作品IDへ関連付けた。",
+          "listing_kind": "収録",
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-026",
+          "title": "Halcyon",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「Halcyon / xi」を確認。対応する一覧レコード：173。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-096",
+          "title": "Longinus",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「Longinus / xi」を確認。対応する一覧レコード：2538。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-034",
+          "title": "Parousia",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「Parousia / xi」を確認。対応する一覧レコード：678。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
         },
         {
           "work_id": "XI-225",
@@ -3866,13 +4344,15 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://music-am.sega.jp/songs/song-01966/",
-          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
-          "checked_on": "2026-10-24",
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「Sparking Revolver / xi」を確認。対応する一覧レコード：551。",
+          "checked_on": "2026-10-25",
           "listening": null,
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
         },
         {
           "work_id": "XI-226",
@@ -3882,13 +4362,33 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://music-am.sega.jp/songs/song-01906/",
-          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
-          "checked_on": "2026-10-24",
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「Stargazing Dreamer / xi」を確認。対応する一覧レコード：2563。",
+          "checked_on": "2026-10-25",
           "listening": null,
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-141",
+          "title": "Titania",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「Titania / xi」を確認。対応する一覧レコード：2171。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
         },
         {
           "work_id": "XI-244",
@@ -3898,27 +4398,96 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://music-am.sega.jp/songs/song-02159/",
-          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
-          "checked_on": "2026-10-23",
+          "source_url": "https://chunithm.sega.jp/storage/json/music.json",
+          "evidence": "SEGA公式CHUNITHMの公開曲目に「創 -汝ら新世界へ歩む者なり- / BlackY VS Yooh VS siromaru VS xi VS モリモリあつし」を確認。対応する一覧レコード：2891。",
+          "checked_on": "2026-10-25",
           "listening": null,
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "CHUNITHM",
+          "source_kind": "primary",
+          "source_label": "CHUNITHM公式・公開曲目データ"
         }
       ],
-      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+      "note": "公式公開曲目で曲名・名義を照合。追加譜面は同じ曲にまとめています。初収録日と音源の版は別途確認中です。"
+    },
+    {
+      "id": "crossbeats",
+      "kind": "game",
+      "title": "CROSS×BEATS",
+      "category": "ゲーム",
+      "entry_count": 2,
+      "source_url": "https://wiki.maplia.jp/cbiOS/music",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-074",
+          "title": "Hesperides",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wiki.maplia.jp/cbiOS/music",
+          "evidence": "【二次資料】CROSS×BEATS Wikiの曲別一覧に「Hesperides / xi」を確認。公式ゲーム側の原資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "曲自体の帰属は公式アルバム等で別途確認。二次資料の追加日を初収録日として採用しない。 非公式・ライナーノーツ転記：原文掲載元は未取得。本人による直接の公式発言とは扱わない。 https://wiki.maplia.jp/cbiOS/music/comment",
+          "listing_kind": "収録候補",
+          "edition": "CROSS×BEATS（iOS）",
+          "source_kind": "secondary",
+          "source_label": "CROSS×BEATS Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-080",
+          "title": "Keraunos",
+          "credited_name": "Xiphoid Sphere",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wiki.maplia.jp/cbiOS/music",
+          "evidence": "【二次資料】CROSS×BEATS Wikiの曲別一覧に「Keraunos / Xiphoid Sphere」を確認。公式ゲーム側の原資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "曲自体の帰属は公式アルバム等で別途確認。二次資料の追加日を初収録日として採用しない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。 非公式・ライナーノーツ転記：原文掲載元は未取得。本人による直接の公式発言とは扱わない。 https://wiki.maplia.jp/cbiOS/music/comment",
+          "listing_kind": "収録候補",
+          "edition": "CROSS×BEATS（iOS）",
+          "source_kind": "secondary",
+          "source_label": "CROSS×BEATS Wiki（非公式）"
+        }
+      ],
+      "note": "収録候補は二次資料に基づく記録です。公式の収録資料が未取得のため、確定した収録と区別しています。"
     },
     {
       "id": "cytus",
       "kind": "game",
       "title": "Cytus",
       "category": "ゲーム",
-      "entry_count": 2,
-      "source_url": "https://rayark.com/g/cytus/mobile/pv.html",
+      "entry_count": 7,
+      "source_url": "https://wikiwiki.jp/cytus/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
       "release_records": [],
       "checked_on": "2026-10-25",
       "tracks": [
+        {
+          "work_id": "XI-017",
+          "title": "FREEDOM DiVE",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/cytus/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】Cytus Wiki曲目のFREEDOM DiVEとxi名義を曲別に照合。ゲーム側の原資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公式OSTが存在しても、それだけから収録版・初収録日を確定しない。",
+          "listing_kind": "収録候補",
+          "edition": "Cytus",
+          "source_kind": "secondary",
+          "source_label": "Cytus Wiki（非公式）"
+        },
         {
           "work_id": "XI-026",
           "title": "Halcyon",
@@ -3940,7 +4509,63 @@
           },
           "note": "",
           "listing_kind": "収録",
-          "edition": "Cytus（モバイル版）"
+          "edition": "Cytus（モバイル版）",
+          "source_kind": "primary",
+          "source_label": "Rayark公式Cytus試聴一覧"
+        },
+        {
+          "work_id": "XI-051",
+          "title": "Niflheimr",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/cytus/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】Cytus Wiki曲目のNiflheimrとxi名義を曲別に照合。ゲーム側の原資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公式OSTが存在しても、それだけから収録版・初収録日を確定しない。",
+          "listing_kind": "収録候補",
+          "edition": "Cytus",
+          "source_kind": "secondary",
+          "source_label": "Cytus Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-034",
+          "title": "Parousia",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/cytus/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】Cytus Wiki曲目のParousiaとxi名義を曲別に照合。ゲーム側の原資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公式OSTが存在しても、それだけから収録版・初収録日を確定しない。",
+          "listing_kind": "収録候補",
+          "edition": "Cytus",
+          "source_kind": "secondary",
+          "source_label": "Cytus Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-218",
+          "title": "REVOLUXIONIST",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/cytus/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】Cytus Wiki曲目のREVOLUXIONISTとxi名義を曲別に照合。ゲーム側の原資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公式OSTが存在しても、それだけから収録版・初収録日を確定しない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録候補",
+          "edition": "Cytus",
+          "source_kind": "secondary",
+          "source_label": "Cytus Wiki（非公式）"
         },
         {
           "work_id": "XI-227",
@@ -3956,10 +4581,30 @@
           "listening": null,
           "note": "CD発売日をゲーム初収録日に使わない。店別CD特典の曲目はゲーム収録の証拠にしていない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
           "listing_kind": "収録",
-          "edition": "Cytus / Chapter M-MILLION"
+          "edition": "Cytus / Chapter M-MILLION",
+          "source_kind": "primary",
+          "source_label": "Cytus日本公式・M-MILLION案内"
+        },
+        {
+          "work_id": "XI-052",
+          "title": "Zauberkugel",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/cytus/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】Cytus Wiki曲目のZauberkugelとxi名義を曲別に照合。ゲーム側の原資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公式OSTが存在しても、それだけから収録版・初収録日を確定しない。",
+          "listing_kind": "収録候補",
+          "edition": "Cytus",
+          "source_kind": "secondary",
+          "source_label": "Cytus Wiki（非公式）"
         }
       ],
-      "note": "公式試聴一覧と日本公式サウンドトラック案内で確認した曲を掲載。ほかの曲は照合中です。"
+      "note": "公式資料で確認した曲と、非公式Wikiに基づく収録候補を区別して掲載しています。"
     },
     {
       "id": "cytus2",
@@ -3985,10 +4630,297 @@
           "listening": null,
           "note": "更新履歴の告知と初収録日は別に調べる。Cytus初代への収録を意味しない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
           "listing_kind": "収録",
-          "edition": "Cytus II（iOS版）"
+          "edition": "Cytus II（iOS版）",
+          "source_kind": "primary",
+          "source_label": "Cytus II・開発元提供のApp Store更新履歴"
         }
       ],
       "note": "開発元提供の更新履歴で確認した曲を掲載。Cytusとの収録関係は別に扱います。"
+    },
+    {
+      "id": "deemo",
+      "kind": "game",
+      "title": "DEEMO",
+      "category": "ゲーム",
+      "entry_count": 12,
+      "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-072",
+          "title": "ANiMA",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】DEEMO Wiki曲目の「ANiMA / xi」を曲別に照合。ゲーム側の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wikiの更新日・記載追加日を初収録日に採用しない。原リストのDeemo/Deemo2を両方に割り当てていない。",
+          "listing_kind": "収録候補",
+          "edition": "DEEMO / Deemo’s Collection Vol.2",
+          "source_kind": "secondary",
+          "source_label": "DEEMO Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-059",
+          "title": "Aragami",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】DEEMO Wiki曲目の「Aragami / xi」を曲別に照合。ゲーム側の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wikiの更新日・記載追加日を初収録日に採用しない。原リストのDeemo/Deemo2を両方に割り当てていない。",
+          "listing_kind": "収録候補",
+          "edition": "DEEMO / Samsara Collection",
+          "source_kind": "secondary",
+          "source_label": "DEEMO Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-099",
+          "title": "Bad Elixir",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】DEEMO Wiki曲目の「Bad Elixir / xi」を曲別に照合。ゲーム側の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wikiの更新日・記載追加日を初収録日に採用しない。原リストのDeemo/Deemo2を両方に割り当てていない。",
+          "listing_kind": "収録候補",
+          "edition": "DEEMO / xi Collection",
+          "source_kind": "secondary",
+          "source_label": "DEEMO Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-066",
+          "title": "Cloud9",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】DEEMO Wiki曲目の「Cloud9 / xi」を曲別に照合。ゲーム側の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wikiの更新日・記載追加日を初収録日に採用しない。原リストのDeemo/Deemo2を両方に割り当てていない。",
+          "listing_kind": "収録候補",
+          "edition": "DEEMO / xi Collection",
+          "source_kind": "secondary",
+          "source_label": "DEEMO Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-182",
+          "title": "Dusk to Dawn",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】DEEMO Wiki曲目の「Dusk to Dawn / xi」を曲別に照合。ゲーム側の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wikiの更新日・記載追加日を初収録日に採用しない。原リストのDeemo/Deemo2を両方に割り当てていない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録候補",
+          "edition": "DEEMO / Funkot Collection",
+          "source_kind": "secondary",
+          "source_label": "DEEMO Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-193",
+          "title": "Hypnos",
+          "credited_name": "xi",
+          "role": "作曲者表記：xi",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=_r2zheyqHT8",
+          "evidence": "公式動画「[Official] Hypnos / xi [DEEMO 4.0 - xi Collection]」の曲名・制作クレジットを説明欄まで確認。",
+          "checked_on": "2026-10-25",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=_r2zheyqHT8",
+            "label": "Diverse System公式YouTube",
+            "version": "公式公開音源",
+            "official_basis": "Diverse System公式チャンネル。公式サイト・レーベルBandcamp、Artist xi本人のcom_giko_31へリンク、Rayark / DEEMO著作権表記。",
+            "officialness_source_url": "https://www.youtube.com/watch?v=_r2zheyqHT8",
+            "availability": "動画ページと公式公開の根拠を確認。音声の聴取は未実施。"
+          },
+          "note": "",
+          "listing_kind": "収録",
+          "edition": "DEEMO / xi Collection",
+          "source_kind": "primary",
+          "source_label": "Diverse System・公式動画"
+        },
+        {
+          "work_id": "XI-096",
+          "title": "Longinus",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】DEEMO Wiki曲目の「Longinus / xi」を曲別に照合。ゲーム側の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wikiの更新日・記載追加日を初収録日に採用しない。原リストのDeemo/Deemo2を両方に割り当てていない。",
+          "listing_kind": "収録候補",
+          "edition": "DEEMO / AD:PIANO Collection",
+          "source_kind": "secondary",
+          "source_label": "DEEMO Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-206",
+          "title": "Mistilteinn",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】DEEMO Wiki曲目の「Mistilteinn / xi」を曲別に照合。ゲーム側の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wikiの更新日・記載追加日を初収録日に採用しない。原リストのDeemo/Deemo2を両方に割り当てていない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録候補",
+          "edition": "DEEMO / xi Collection",
+          "source_kind": "secondary",
+          "source_label": "DEEMO Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-051",
+          "title": "Niflheimr",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】DEEMO Wiki曲目の「Niflheimr / xi」を曲別に照合。ゲーム側の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wikiの更新日・記載追加日を初収録日に採用しない。原リストのDeemo/Deemo2を両方に割り当てていない。",
+          "listing_kind": "収録候補",
+          "edition": "DEEMO / Cytus selection Vol.2",
+          "source_kind": "secondary",
+          "source_label": "DEEMO Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-034",
+          "title": "Parousia",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】DEEMO Wiki曲目の「Parousia / xi」を曲別に照合。ゲーム側の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wikiの更新日・記載追加日を初収録日に採用しない。原リストのDeemo/Deemo2を両方に割り当てていない。",
+          "listing_kind": "収録候補",
+          "edition": "DEEMO / Cytus selection Vol.2",
+          "source_kind": "secondary",
+          "source_label": "DEEMO Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-220",
+          "title": "Scherzo -pain in rain-",
+          "credited_name": "xi vs Ice",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】DEEMO Wiki曲目の「Scherzo -pain in rain- / xi vs Ice」を曲別に照合。ゲーム側の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wikiの更新日・記載追加日を初収録日に採用しない。原リストのDeemo/Deemo2を両方に割り当てていない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録候補",
+          "edition": "DEEMO / Ice Collection",
+          "source_kind": "secondary",
+          "source_label": "DEEMO Wiki（非公式）"
+        },
+        {
+          "work_id": "XI-107",
+          "title": "To Live",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
+          "evidence": "【二次資料】DEEMO Wiki曲目の「To Live / xi」を曲別に照合。ゲーム側の曲別一次資料は未取得。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "Wikiの更新日・記載追加日を初収録日に採用しない。原リストのDeemo/Deemo2を両方に割り当てていない。",
+          "listing_kind": "収録候補",
+          "edition": "DEEMO / xi Collection",
+          "source_kind": "secondary",
+          "source_label": "DEEMO Wiki（非公式）"
+        }
+      ],
+      "note": "Hypnosはレーベル公式動画で確認。収録候補の項目は非公式Wikiに基づき、ゲーム側の一次資料を照合中です。"
+    },
+    {
+      "id": "deemo-reborn",
+      "kind": "game",
+      "title": "DEEMO -Reborn-",
+      "category": "ゲーム",
+      "entry_count": 2,
+      "source_url": "https://store.playstation.com/en-cz/product/EP2678-CUSA13139_00-DMVRDLC000000006",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-051",
+          "title": "Niflheimr",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://store.playstation.com/en-cz/product/EP2678-CUSA13139_00-DMVRDLC000000006",
+          "evidence": "正規PlayStation StoreのCytus Selection vol.2商品説明にNiflheimrとTV/VR譜面を確認。作曲名義は既存の公式アルバム資料で照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "販売地域の表示発売日を日本版や楽曲自体の初公開日に転用しない。",
+          "listing_kind": "収録",
+          "edition": "PS4 / Cytus Selection vol.2",
+          "source_kind": "primary",
+          "source_label": "Sony Music提供・PlayStation Store DLC説明"
+        },
+        {
+          "work_id": "XI-034",
+          "title": "Parousia",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://store.playstation.com/en-cz/product/EP2678-CUSA13139_00-DMVRDLC000000006",
+          "evidence": "正規PlayStation StoreのCytus Selection vol.2商品説明にParousiaとTV/VR譜面を確認。作曲名義は既存の公式アルバム資料で照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "販売地域の表示発売日を日本版や楽曲自体の初公開日に転用しない。",
+          "listing_kind": "収録",
+          "edition": "PS4 / Cytus Selection vol.2",
+          "source_kind": "primary",
+          "source_label": "Sony Music提供・PlayStation Store DLC説明"
+        }
+      ],
+      "note": "PS4版の販売元提供DLC説明で曲目を確認。モバイル版DEEMOの収録資料とは別の記録です。"
     },
     {
       "id": "deemo2",
@@ -4021,7 +4953,9 @@
           },
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-139",
@@ -4044,7 +4978,9 @@
           },
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
@@ -4080,7 +5016,9 @@
           },
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
@@ -4109,7 +5047,9 @@
           "listening": null,
           "note": "全収録曲ページが参照する公開API。deliver_start_dateには2021-01-01等の内部値があるため、初収録日に採用しない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": "MUSIC DIVER公式・公開曲目データ"
         },
         {
           "work_id": "XI-026",
@@ -4125,7 +5065,9 @@
           "listening": null,
           "note": "全収録曲ページが参照する公開API。deliver_start_dateには2021-01-01等の内部値があるため、初収録日に採用しない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": "MUSIC DIVER公式・公開曲目データ"
         },
         {
           "work_id": "XI-214",
@@ -4148,7 +5090,9 @@
           },
           "note": "全収録曲ページが参照する公開API。deliver_start_dateには2021-01-01等の内部値があるため、初収録日に採用しない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": "MUSIC DIVER公式・公開曲目データ"
         },
         {
           "work_id": "XI-223",
@@ -4164,7 +5108,9 @@
           "listening": null,
           "note": "全収録曲ページが参照する公開API。deliver_start_dateには2021-01-01等の内部値があるため、初収録日に採用しない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": "MUSIC DIVER公式・公開曲目データ"
         }
       ],
       "note": "公式公開曲目から確認した4曲。初収録日は未確認です。"
@@ -4193,36 +5139,447 @@
           "listening": null,
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    },
+    {
+      "id": "paradigm-reboot",
+      "kind": "game",
+      "title": "Paradigm: Reboot",
+      "category": "ゲーム",
+      "entry_count": 2,
+      "source_url": "https://www.youtube.com/watch?v=XLRzISm_Y18",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-163",
+          "title": "Abyssgazer",
+          "credited_name": "xi VS Sakuzyo",
+          "role": "合作（xi VS Sakuzyo）。個別の工程別分担は未確認。",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=XLRzISm_Y18",
+          "evidence": "公式動画「【Paradigm: Reboot】xi VS Sakuzyo - Abyssgazer」の曲名・制作クレジットを説明欄まで確認。",
+          "checked_on": "2026-10-25",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=XLRzISm_Y18",
+            "label": "TunerGames公式YouTube",
+            "version": "公式公開音源",
+            "official_basis": "開発元TunerGamesの動画。ゲームの著作権表記・正規アプリへのリンクを確認。Noctilucaでは本人com_giko_31への直接リンクも確認。",
+            "officialness_source_url": "https://www.youtube.com/watch?v=XLRzISm_Y18",
+            "availability": "動画ページと公式公開の根拠を確認。音声の聴取は未実施。"
+          },
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "Paradigm: Reboot",
+          "source_kind": "primary",
+          "source_label": "TunerGames・公式動画"
+        },
+        {
+          "work_id": "XI-208",
+          "title": "Noctiluca",
+          "credited_name": "xi",
+          "role": "作曲：xi",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=sWUyYtR1gCc",
+          "evidence": "公式動画「【Paradigm: Reboot】xi - Noctiluca」の曲名・制作クレジットを説明欄まで確認。",
+          "checked_on": "2026-10-25",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=sWUyYtR1gCc",
+            "label": "TunerGames公式YouTube",
+            "version": "公式公開音源",
+            "official_basis": "開発元TunerGamesの動画。ゲームの著作権表記・正規アプリへのリンクを確認。Noctilucaでは本人com_giko_31への直接リンクも確認。",
+            "officialness_source_url": "https://www.youtube.com/watch?v=sWUyYtR1gCc",
+            "availability": "動画ページと公式公開の根拠を確認。音声の聴取は未実施。"
+          },
+          "note": "",
+          "listing_kind": "収録",
+          "edition": "Paradigm: Reboot",
+          "source_kind": "primary",
+          "source_label": "TunerGames・公式動画"
+        }
+      ],
+      "note": "TunerGamesの公式曲別動画で確認。合作の個別分担と初収録日は未確認です。"
+    },
+    {
+      "id": "sevens-code",
+      "kind": "game",
+      "title": "SEVEN’s CODE",
+      "category": "ゲーム",
+      "entry_count": 1,
+      "source_url": "https://www.youtube.com/watch?v=8Lo6ZH2NKUc",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-174",
+          "title": "Ceyx",
+          "credited_name": "xi",
+          "role": "作曲・編曲：xi。ジャケット：Saty.。",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.youtube.com/watch?v=8Lo6ZH2NKUc",
+          "evidence": "公式動画「SEVEN’s CODE「Ceyx／xi」」の曲名・制作クレジットを説明欄まで確認。",
+          "checked_on": "2026-10-25",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=8Lo6ZH2NKUc",
+            "label": "【公式】SEVEN's CODE ーセブンスコードー公式YouTube",
+            "version": "公式公開音源",
+            "official_basis": "ゲーム公式サイト・開発元へのリンクに加え、Felion Soundsの公式サウンドトラック案内が同じYouTubeチャンネルへリンク。",
+            "officialness_source_url": "https://www.youtube.com/watch?v=8Lo6ZH2NKUc",
+            "availability": "動画ページと公式公開の根拠を確認。音声の聴取は未実施。"
+          },
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。 Felion Sounds公式サウンドトラック案内：Ceyx / xiと公式チャンネルへのリンクを確認。サントラ配信開始日をゲーム収録日へ転用しない。 https://felion-e.jp/svczero/discography/",
+          "listing_kind": "収録",
+          "edition": "SEVEN’s CODE",
+          "source_kind": "primary",
+          "source_label": "【公式】SEVEN's CODE ーセブンスコードー・公式動画"
+        }
+      ],
+      "note": "公式楽曲動画で作曲・編曲担当を確認。初収録日は未確認です。"
     },
     {
       "id": "sdvx",
       "kind": "game",
       "title": "SOUND VOLTEX",
       "category": "ゲーム",
-      "entry_count": 2,
-      "source_url": "https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/10/index.html",
+      "entry_count": 27,
+      "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Aerial%20Fortress",
       "release_records": [],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "tracks": [
+        {
+          "work_id": "XI-164",
+          "title": "Aerial Fortress",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Aerial%20Fortress",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Aerial Fortress / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-168",
+          "title": "APØCALYPSE RAY",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=AP%C3%98CALYPSE%20RAY",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「APØCALYPSE RAY / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-059",
+          "title": "Aragami",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=xi",
+          "evidence": "KONAMI公式検索の実際の曲目に「Aragami / xi」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式曲検索"
+        },
+        {
+          "work_id": "XI-099",
+          "title": "Bad Elixir",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Bad%20Elixir",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Bad Elixir / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-173",
+          "title": "Celestial Conquest",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Celestial%20Conquest",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Celestial Conquest / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-069",
+          "title": "Dreadnought",
+          "credited_name": "Mastermind(xi+nora2r)",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=xi",
+          "evidence": "KONAMI公式検索の実際の曲目に「Dreadnought / Mastermind(xi+nora2r)」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式曲検索"
+        },
+        {
+          "work_id": "XI-183",
+          "title": "Elemental Creation -xiRemix-",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Elemental%20Creation%20-xiRemix-",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Elemental Creation -xiRemix- / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-184",
+          "title": "Failnaught",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Failnaught",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Failnaught / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-185",
+          "title": "Fiat Lux",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Fiat%20Lux",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Fiat Lux / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-017",
+          "title": "FREEDOM DiVE",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=xi",
+          "evidence": "KONAMI公式検索の実際の曲目に「FREEDOM DiVE / xi」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式曲検索"
+        },
+        {
+          "work_id": "XI-189",
+          "title": "Golden Rotation",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Golden%20Rotation",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Golden Rotation / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-190",
+          "title": "Grand Chariot",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Grand%20Chariot",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Grand Chariot / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-026",
+          "title": "Halcyon",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=xi",
+          "evidence": "KONAMI公式検索の実際の曲目に「Halcyon / xi」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式曲検索"
+        },
+        {
+          "work_id": "XI-194",
+          "title": "Inixia",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Inixia",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Inixia / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
         {
           "work_id": "XI-195",
           "title": "Innocent Tempest",
           "credited_name": "Diceros Bicornis",
-          "role": "合作：xi・BlackY。xiは主にピアノ・曲構成（本人コメント）。",
+          "role": "合作（Diceros Bicornis：xi・BlackY）。Innocent Tempest自体の工程別分担は未確認。",
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/10/index.html",
-          "evidence": "公式採用ページに曲名とDiceros Bicornis名義があり、xiとBlackYの本人コメントで合作と制作分担を確認。xiはピアノと曲構成、BlackYはそれ以外を主に担当したと説明。",
-          "checked_on": "2026-10-24",
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Innocent%20Tempest",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Innocent Tempest / Diceros Bicornis」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
           "listening": null,
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "検索結果には初収録日がないため、日付は未採用。 SDVX公式・ЯeviveR採用コメント：BlackYがInnocent Tempest以来6年ぶりのxiとの合作と説明。Diceros Bicornisとxi・BlackYの対応を補強。 https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/26/index_2.html",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-197",
+          "title": "Last Resort",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Last%20Resort",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Last Resort / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-200",
+          "title": "Masterstroke",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Masterstroke",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Masterstroke / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-034",
+          "title": "Parousia",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=xi",
+          "evidence": "KONAMI公式検索の実際の曲目に「Parousia / xi」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式曲検索"
         },
         {
           "work_id": "XI-215",
@@ -4232,27 +5589,240 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://p.eagate.573.jp/game/sdvx/ii/p/music/detail.html?list_id=10",
-          "evidence": "運営公式の曲名・名義を照合。楽曲ごとの初収録日の記載は確認できず。",
-          "checked_on": "2026-10-23",
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Quietus%20Ray",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Quietus Ray / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
           "listening": null,
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "検索結果には初収録日がないため、日付は未採用。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-216",
+          "title": "Rapsodia d'amore",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Rapsodia%20d%27amore",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Rapsodia d'amore / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-223",
+          "title": "Solar Storm",
+          "credited_name": "xi「グルーヴコースター 3 リンクフィーバー」より",
+          "role": "アーティスト表記：xi（個別の制作分担は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Solar%20Storm",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Solar Storm / xi「グルーヴコースター 3 リンクフィーバー」より」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-228",
+          "title": "SuddeИDeath",
+          "credited_name": "xi vs. モリモリあつし",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Sudde%D0%98Death",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「SuddeИDeath / xi vs. モリモリあつし」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-234",
+          "title": "Time to Air -Fly High Remix-",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Time%20to%20Air%20-Fly%20High%20Remix-",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Time to Air -Fly High Remix- / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-236",
+          "title": "TU-MA-MI△ALL-NIGHTER",
+          "credited_name": "xi underground",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=TU-MA-MI%E2%96%B3ALL-NIGHTER",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「TU-MA-MI△ALL-NIGHTER / xi underground」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-238",
+          "title": "Wish upon Twin Stars",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Wish%20upon%20Twin%20Stars",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Wish upon Twin Stars / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-239",
+          "title": "Xeno Gravity",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Xeno%20Gravity",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「Xeno Gravity / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
+        },
+        {
+          "work_id": "XI-241",
+          "title": "XROSS INFECTION -xiRemix-",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=XROSS%20INFECTION%20-xiRemix-",
+          "evidence": "KONAMI公式曲検索の当該曲結果に「XROSS INFECTION -xiRemix- / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "検索結果には初収録日がないため、日付は未採用。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "SOUND VOLTEX（アーケード）",
+          "source_kind": "primary",
+          "source_label": "SOUND VOLTEX公式・曲別検索結果"
         }
       ],
-      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+      "note": "公式曲検索を曲ごとに照合。曲別クレジットとxi本人への帰属は区別して記録しています。初収録日は未確認です。"
+    },
+    {
+      "id": "voez-switch",
+      "kind": "game",
+      "title": "VOEZ（Nintendo Switch）",
+      "category": "ゲーム",
+      "entry_count": 1,
+      "source_url": "https://flyhighworks.heteml.net/games_b/gallery/voez",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-021",
+          "title": "Ascension to Heaven",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://flyhighworks.heteml.net/games_b/gallery/voez",
+          "evidence": "フライハイワークス公式Nintendo Switch版VOEZの曲目、第116曲にAscension to Heaven / xiを確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "パッケージ発売日・サイトの著作権年を楽曲の初公開日にしない。",
+          "listing_kind": "収録",
+          "edition": "Nintendo Switch / Ver1.0以降収録曲",
+          "source_kind": "primary",
+          "source_label": "フライハイワークス公式VOEZ曲目"
+        }
+      ],
+      "note": "国内販売元の公式曲目で確認。モバイル版への収録を意味しません。"
     },
     {
       "id": "iidx",
       "kind": "game",
       "title": "beatmania IIDX",
       "category": "ゲーム",
-      "entry_count": 4,
-      "source_url": "https://www.youtube.com/watch?v=q_7qM96gSNg",
+      "entry_count": 8,
+      "source_url": "https://p.eagate.573.jp/game/2dx/29/newsong/song09.html",
       "release_records": [],
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-25",
       "tracks": [
+        {
+          "work_id": "XI-167",
+          "title": "Angel's Ladder",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/2dx/29/newsong/song09.html",
+          "evidence": "KONAMI公式IIDX 29の曲別紹介に「Angel's Ladder / xi」と制作コメントを確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "beatmania IIDX 29",
+          "source_kind": "primary",
+          "source_label": "IIDX公式・曲別紹介"
+        },
+        {
+          "work_id": "XI-171",
+          "title": "Beyond Evolution",
+          "credited_name": "Hekatoncheir",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/2dx/30/newsong/song44.html",
+          "evidence": "KONAMI公式IIDX 30の曲別紹介に「Beyond Evolution / Hekatoncheir」と制作コメントを確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公式表記はHekatoncheir。xi本人の別名義とする一次根拠は未取得。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "beatmania IIDX 30",
+          "source_kind": "primary",
+          "source_label": "IIDX公式・曲別紹介"
+        },
         {
           "work_id": "XI-219",
           "title": "Satellite Burst",
@@ -4261,9 +5831,9 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://www.youtube.com/watch?v=q_7qM96gSNg",
-          "evidence": "本人チャンネルの動画タイトル『【作曲者がプレイ】Satellite Burst (SPA) 【beatmania IIDX 32 Pinky Crash】』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
-          "checked_on": "2026-10-23",
+          "source_url": "https://p.eagate.573.jp/game/2dx/32/newsong/song19.html",
+          "evidence": "KONAMI公式IIDX 32の曲別紹介に「Satellite Burst / xi」と制作コメントを確認。",
+          "checked_on": "2026-10-25",
           "listening": {
             "url": "https://www.youtube.com/watch?v=q_7qM96gSNg",
             "label": "本人公式YouTube（ゲームプレイ）",
@@ -4272,9 +5842,29 @@
             "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
             "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
           },
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "beatmania IIDX 32",
+          "source_kind": "primary",
+          "source_label": "IIDX公式・曲別紹介"
+        },
+        {
+          "work_id": "XI-221",
+          "title": "Silver Bullet",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/2dx/29/newsong/song32.html",
+          "evidence": "KONAMI公式IIDX 29の曲別紹介に「Silver Bullet / xi」と制作コメントを確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "beatmania IIDX 29",
+          "source_kind": "primary",
+          "source_label": "IIDX公式・曲別紹介"
         },
         {
           "work_id": "XI-242",
@@ -4284,9 +5874,9 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://www.youtube.com/watch?v=VxisX358Mmk",
-          "evidence": "本人チャンネルの動画タイトル『【作曲者がプレイ】ιgniЯRuina (SPA)【beatmania IIDX 33 Sparkle Shower】』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
-          "checked_on": "2026-10-23",
+          "source_url": "https://p.eagate.573.jp/game/2dx/33/newsong/song23.html",
+          "evidence": "KONAMI公式IIDX 33の曲別紹介に「ιgniЯRuina / xi feat. Risa Yuzuki」と制作コメントを確認。",
+          "checked_on": "2026-10-25",
           "listening": {
             "url": "https://www.youtube.com/watch?v=VxisX358Mmk",
             "label": "本人公式YouTube（ゲームプレイ）",
@@ -4295,9 +5885,29 @@
             "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
             "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
           },
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "beatmania IIDX 33",
+          "source_kind": "primary",
+          "source_label": "IIDX公式・曲別紹介"
+        },
+        {
+          "work_id": "XI-245",
+          "title": "夢縁",
+          "credited_name": "xi feat. Risa Yuzuki",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/2dx/31/newsong/song24.html",
+          "evidence": "KONAMI公式IIDX 31の曲別紹介に「夢縁 / xi feat. Risa Yuzuki」と制作コメントを確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "beatmania IIDX 31",
+          "source_kind": "primary",
+          "source_label": "IIDX公式・曲別紹介"
         },
         {
           "work_id": "XI-250",
@@ -4308,8 +5918,8 @@
           "disc": null,
           "track_number": null,
           "source_url": "https://www.youtube.com/watch?v=phiCv9e4fZA",
-          "evidence": "本人チャンネルの動画タイトル『【作曲者がプレイ】泡沫と月 (SPA)【beatmania IIDX 34 ZINRAI】』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
-          "checked_on": "2026-10-23",
+          "evidence": "本人xi Officialの作曲者プレイ動画・説明欄にIIDX 34 ZINRAI書き下ろし、曲名・名義を確認。",
+          "checked_on": "2026-10-25",
           "listening": {
             "url": "https://www.youtube.com/watch?v=phiCv9e4fZA",
             "label": "本人公式YouTube（ゲームプレイ）",
@@ -4318,9 +5928,11 @@
             "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
             "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
           },
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "動画公開日を稼働日・初収録日とはしない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "beatmania IIDX 34 ZINRAI",
+          "source_kind": "primary",
+          "source_label": "xi Official・作曲者プレイ動画"
         },
         {
           "work_id": "XI-249",
@@ -4330,9 +5942,9 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://www.youtube.com/watch?v=MAxz5k_R-_w",
-          "evidence": "本人チャンネルの動画タイトル『【作曲者がプレイ】響花水月(SPA) 【beatmania IIDX 30 RESIDENT】』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
-          "checked_on": "2026-10-23",
+          "source_url": "https://p.eagate.573.jp/game/2dx/30/newsong/song09.html",
+          "evidence": "KONAMI公式IIDX 30の曲別紹介に「響花水月 / xi feat. Risa Yuzuki」と制作コメントを確認。",
+          "checked_on": "2026-10-25",
           "listening": {
             "url": "https://www.youtube.com/watch?v=MAxz5k_R-_w",
             "label": "本人公式YouTube（ゲームプレイ）",
@@ -4341,22 +5953,194 @@
             "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
             "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
           },
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "beatmania IIDX 30",
+          "source_kind": "primary",
+          "source_label": "IIDX公式・曲別紹介"
         }
       ],
-      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+      "note": "曲別の公式紹介・本人動画を照合。Hekatoncheir名義とxi本人の対応は未確認として残しています。"
+    },
+    {
+      "id": "iidx-infinitas",
+      "kind": "game",
+      "title": "beatmania IIDX INFINITAS",
+      "category": "ゲーム",
+      "entry_count": 7,
+      "source_url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-167",
+          "title": "Angel's Ladder",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+          "evidence": "INFINITAS公式曲目のタイトル・アーティスト欄に「Angel's Ladder / xi」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "beatmania IIDX INFINITAS",
+          "source_kind": "primary",
+          "source_label": "INFINITAS公式・楽曲一覧"
+        },
+        {
+          "work_id": "XI-190",
+          "title": "Grand Chariot",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+          "evidence": "INFINITAS公式曲目のタイトル・アーティスト欄に「Grand Chariot / xi」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "",
+          "listing_kind": "収録",
+          "edition": "beatmania IIDX INFINITAS",
+          "source_kind": "primary",
+          "source_label": "INFINITAS公式・楽曲一覧"
+        },
+        {
+          "work_id": "XI-219",
+          "title": "Satellite Burst",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+          "evidence": "INFINITAS公式曲目のタイトル・アーティスト欄に「Satellite Burst / xi」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "",
+          "listing_kind": "収録",
+          "edition": "beatmania IIDX INFINITAS",
+          "source_kind": "primary",
+          "source_label": "INFINITAS公式・楽曲一覧"
+        },
+        {
+          "work_id": "XI-221",
+          "title": "Silver Bullet",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+          "evidence": "INFINITAS公式曲目のタイトル・アーティスト欄に「Silver Bullet / xi」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "beatmania IIDX INFINITAS",
+          "source_kind": "primary",
+          "source_label": "INFINITAS公式・楽曲一覧"
+        },
+        {
+          "work_id": "XI-224",
+          "title": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
+          "credited_name": "Remixed by xi",
+          "role": "リミックス（Remixed by xi）",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+          "evidence": "INFINITAS公式曲目のタイトル・アーティスト欄に「SOLID STATE SQUAD -RISEN RELIC REMIX- / Remixed by xi」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "beatmania IIDX INFINITAS",
+          "source_kind": "primary",
+          "source_label": "INFINITAS公式・楽曲一覧"
+        },
+        {
+          "work_id": "XI-245",
+          "title": "夢縁",
+          "credited_name": "xi feat. Risa Yuzuki",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+          "evidence": "INFINITAS公式曲目のタイトル・アーティスト欄に「夢縁 / xi feat. Risa Yuzuki」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "beatmania IIDX INFINITAS",
+          "source_kind": "primary",
+          "source_label": "INFINITAS公式・楽曲一覧"
+        },
+        {
+          "work_id": "XI-249",
+          "title": "響花水月",
+          "credited_name": "xi feat. Risa Yuzuki",
+          "role": "作曲：xi（本人の作曲者プレイ動画）。歌唱名義：Risa Yuzuki",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+          "evidence": "INFINITAS公式曲目のタイトル・アーティスト欄に「響花水月 / xi feat. Risa Yuzuki」を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "",
+          "listing_kind": "収録",
+          "edition": "beatmania IIDX INFINITAS",
+          "source_kind": "primary",
+          "source_label": "INFINITAS公式・楽曲一覧"
+        }
+      ],
+      "note": "INFINITAS公式曲目で確認。アーケード版とは別の収録記録です。"
+    },
+    {
+      "id": "crossbeats-rev",
+      "kind": "game",
+      "title": "crossbeats REV. SUNRISE",
+      "category": "ゲーム",
+      "entry_count": 1,
+      "source_url": "https://www.famitsu.com/news/201701/05124256.html",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-205",
+          "title": "Minerva",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://www.famitsu.com/news/201701/05124256.html",
+          "evidence": "ファミ通記事の「以下、リリースより。」以降のカプコン配布資料にMinerva / xi、実装日2017年1月5日4:00〜を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "メーカー原ページは現行トップへ転送。転載であることを区別する。曲別名義はxiだが本人への直接リンクでの再照合は未完了。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "crossbeats REV. SUNRISE / REV.SHOP",
+          "source_kind": "primary_reproduction",
+          "source_label": "カプコン配布資料の転載（ファミ通）"
+        }
+      ],
+      "note": "メーカー配布資料の転載にある曲別クレジットを掲載。CROSS×BEATSとは区別しています。"
     },
     {
       "id": "maimai",
       "kind": "game",
       "title": "maimai",
       "category": "ゲーム",
-      "entry_count": 5,
-      "source_url": "https://music-am.sega.jp/songs/song-00079/",
+      "entry_count": 12,
+      "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
       "release_records": [],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "tracks": [
         {
           "work_id": "XI-166",
@@ -4366,13 +6150,51 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://music-am.sega.jp/songs/song-00079/",
-          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
-          "checked_on": "2026-10-24",
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「Aiolos / xi」を確認。対応する一覧レコード：1335。",
+          "checked_on": "2026-10-25",
           "listening": null,
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-072",
+          "title": "ANiMA",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「ANiMA / xi」を確認。対応する一覧レコード：724。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-069",
+          "title": "Dreadnought",
+          "credited_name": "Mastermind(xi+nora2r)",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「Dreadnought / Mastermind(xi+nora2r)」を確認。対応する一覧レコード：867。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
         },
         {
           "work_id": "XI-188",
@@ -4382,13 +6204,33 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://music-am.sega.jp/songs/song-01479/",
-          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
-          "checked_on": "2026-10-23",
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「Glorious Crown / xi」を確認。対応する一覧レコード：1334, 1674。",
+          "checked_on": "2026-10-25",
           "listening": null,
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。 追加譜面のレコードを新曲として数えず、同じ作品IDへ関連付けた。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-026",
+          "title": "Halcyon",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「Halcyon / xi」を確認。対応する一覧レコード：841。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
         },
         {
           "work_id": "XI-192",
@@ -4398,13 +6240,15 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://music-am.sega.jp/songs/song-01596/",
-          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
-          "checked_on": "2026-10-24",
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「Heavenly Blast / xi」を確認。対応する一覧レコード：1333。",
+          "checked_on": "2026-10-25",
           "listening": null,
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
         },
         {
           "work_id": "XI-196",
@@ -4414,9 +6258,9 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://www.youtube.com/watch?v=tjfzgAVvxqk",
-          "evidence": "本人チャンネルの動画タイトル『KHYMΞXΛ / のらねこさい feat.ricono [maimai でらっくす]』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
-          "checked_on": "2026-10-23",
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「KHYMΞXΛ / のらねこさい feat.ricono」を確認。対応する一覧レコード：1264。",
+          "checked_on": "2026-10-25",
           "listening": {
             "url": "https://www.youtube.com/watch?v=tjfzgAVvxqk",
             "label": "本人公式YouTube",
@@ -4425,9 +6269,83 @@
             "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
             "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
           },
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-198",
+          "title": "Lunar Mare",
+          "credited_name": "xi vs sakuzyo",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「Lunar Mare / xi vs sakuzyo」を確認。対応する一覧レコード：842。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-123",
+          "title": "Mjölnir",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「Mjölnir / xi」を確認。対応する一覧レコード：839。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。 ゲームサイズ版XI-134との音源同定は保留。曲名だけから別バージョンIDへ結び付けない。",
+          "listing_kind": "収録",
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-155",
+          "title": "RE!NCARN4T10N",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「RE!NCARN4T10N / xi」を確認。対応する一覧レコード：710。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-141",
+          "title": "Titania",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「Titania / xi」を確認。対応する一覧レコード：1473。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
         },
         {
           "work_id": "XI-154",
@@ -4437,9 +6355,9 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://www.youtube.com/watch?v=-PTe8zkYt9A",
-          "evidence": "本人チャンネルの動画タイトル『Xaleid◆scopiX / xi [maimai でらっくす]』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
-          "checked_on": "2026-10-23",
+          "source_url": "https://maimai.sega.jp/data/maimai_songs.json",
+          "evidence": "SEGA公式maimaiの公開曲目に「Xaleid◆scopiX / xi」を確認。対応する一覧レコード：1430。",
+          "checked_on": "2026-10-25",
           "listening": {
             "url": "https://www.youtube.com/watch?v=-PTe8zkYt9A",
             "label": "本人公式YouTube",
@@ -4448,12 +6366,14 @@
             "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
             "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
           },
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "maimai",
+          "source_kind": "primary",
+          "source_label": "maimai公式・公開曲目データ"
         }
       ],
-      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+      "note": "公式公開曲目で曲名・名義を照合。追加譜面は同じ曲にまとめています。初収録日と音源の版は別途確認中です。"
     },
     {
       "id": "osu",
@@ -4486,7 +6406,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-048",
@@ -4509,7 +6431,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-030",
@@ -4532,7 +6456,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-101",
@@ -4555,7 +6481,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-065",
@@ -4578,7 +6506,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-059",
@@ -4601,7 +6531,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-021",
@@ -4624,7 +6556,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-130",
@@ -4647,7 +6581,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-099",
@@ -4670,7 +6606,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-033",
@@ -4693,7 +6631,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-015",
@@ -4716,7 +6656,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-035",
@@ -4739,7 +6681,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-009",
@@ -4762,7 +6706,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-054",
@@ -4785,7 +6731,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-036",
@@ -4808,7 +6756,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-014",
@@ -4831,7 +6781,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-024",
@@ -4854,7 +6806,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-017",
@@ -4877,7 +6831,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-026",
@@ -4900,7 +6856,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-050",
@@ -4923,7 +6881,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-105",
@@ -4946,7 +6906,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-088",
@@ -4969,7 +6931,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-096",
@@ -4992,7 +6956,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-022",
@@ -5015,7 +6981,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-123",
@@ -5038,7 +7006,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-062",
@@ -5061,7 +7031,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-034",
@@ -5084,7 +7056,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-038",
@@ -5107,7 +7081,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-023",
@@ -5130,7 +7106,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-107",
@@ -5153,7 +7131,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-041",
@@ -5176,7 +7156,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-046",
@@ -5199,7 +7181,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-082",
@@ -5222,7 +7206,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-045",
@@ -5245,7 +7231,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-076",
@@ -5268,7 +7256,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-077",
@@ -5291,7 +7281,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-078",
@@ -5314,7 +7306,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-031",
@@ -5337,7 +7331,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-053",
@@ -5360,7 +7356,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-013",
@@ -5383,7 +7381,9 @@
           },
           "note": "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。",
           "listing_kind": "公式許諾曲",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "Featured Artistの公式許諾曲一覧。標準搭載曲や公式譜面の一覧とは異なります。"
@@ -5393,11 +7393,101 @@
       "kind": "game",
       "title": "オンゲキ",
       "category": "ゲーム",
-      "entry_count": 3,
-      "source_url": "https://www.youtube.com/watch?v=N3JVN7NhIAM",
+      "entry_count": 10,
+      "source_url": "https://ongeki.sega.jp/assets/json/music/music.json",
       "release_records": [],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "tracks": [
+        {
+          "work_id": "XI-177",
+          "title": "Crimson Phoenix",
+          "credited_name": "xi vs MASAKI「グルーヴコースター」",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://ongeki.sega.jp/assets/json/music/music.json",
+          "evidence": "SEGA公式オンゲキの公開曲目に「Crimson Phoenix / xi vs MASAKI「グルーヴコースター」」を確認。対応する一覧レコード：400570。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "オンゲキ",
+          "source_kind": "primary",
+          "source_label": "オンゲキ公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-069",
+          "title": "Dreadnought",
+          "credited_name": "Mastermind(xi+nora2r)",
+          "role": "合作。個別の制作工程は未確認",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://ongeki.sega.jp/assets/json/music/music.json",
+          "evidence": "SEGA公式オンゲキの公開曲目に「Dreadnought / Mastermind(xi+nora2r)」を確認。対応する一覧レコード：401020。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "オンゲキ",
+          "source_kind": "primary",
+          "source_label": "オンゲキ公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-017",
+          "title": "FREEDOM DiVE",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://ongeki.sega.jp/assets/json/music/music.json",
+          "evidence": "SEGA公式オンゲキの公開曲目に「FREEDOM DiVE / xi」を確認。対応する一覧レコード：400800。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "オンゲキ",
+          "source_kind": "primary",
+          "source_label": "オンゲキ公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-084",
+          "title": "Got more raves? -xiRemix-",
+          "credited_name": "xi「グルーヴコースター」",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://ongeki.sega.jp/assets/json/music/music.json",
+          "evidence": "SEGA公式オンゲキの公開曲目に「Got more raves? -xiRemix- / xi「グルーヴコースター」」を確認。対応する一覧レコード：400620。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "オンゲキ",
+          "source_kind": "primary",
+          "source_label": "オンゲキ公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-026",
+          "title": "Halcyon",
+          "credited_name": "xi",
+          "role": "作曲（BMS登録欄はOriginal・Self）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://ongeki.sega.jp/assets/json/music/music.json",
+          "evidence": "SEGA公式オンゲキの公開曲目に「Halcyon / xi」を確認。対応する一覧レコード：401010, 950128。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。 追加譜面のレコードを新曲として数えず、同じ作品IDへ関連付けた。",
+          "listing_kind": "収録",
+          "edition": "オンゲキ",
+          "source_kind": "primary",
+          "source_label": "オンゲキ公式・公開曲目データ"
+        },
         {
           "work_id": "XI-209",
           "title": "Op.I《fear-TITΛN-》",
@@ -5406,9 +7496,9 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://www.youtube.com/watch?v=N3JVN7NhIAM",
-          "evidence": "本人チャンネルの動画タイトル『xi vs かねこちはる - Op.I《fear-TITΛN-》  [オンゲキ]』で対象ゲームとの関係を確認。動画公開日をゲーム初収録日とはしない。",
-          "checked_on": "2026-10-23",
+          "source_url": "https://ongeki.sega.jp/assets/json/music/music.json",
+          "evidence": "SEGA公式オンゲキの公開曲目に「Op.I《fear-TITΛN-》 / xi vs かねこちはる」を確認。対応する一覧レコード：601220。",
+          "checked_on": "2026-10-25",
           "listening": {
             "url": "https://www.youtube.com/watch?v=N3JVN7NhIAM",
             "label": "本人公式YouTube",
@@ -5417,9 +7507,11 @@
             "officialness_source_url": "https://linkco.re/09QH755a?lang=ja",
             "availability": "ページと試聴データの存在を確認。実再生・地域制限は未検証"
           },
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "オンゲキ",
+          "source_kind": "primary",
+          "source_label": "オンゲキ公式・公開曲目データ"
         },
         {
           "work_id": "XI-225",
@@ -5429,13 +7521,15 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://music-am.sega.jp/songs/song-01966/",
-          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
-          "checked_on": "2026-10-24",
+          "source_url": "https://ongeki.sega.jp/assets/json/music/music.json",
+          "evidence": "SEGA公式オンゲキの公開曲目に「Sparking Revolver / xi」を確認。対応する一覧レコード：520800。",
+          "checked_on": "2026-10-25",
           "listening": null,
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "オンゲキ",
+          "source_kind": "primary",
+          "source_label": "オンゲキ公式・公開曲目データ"
         },
         {
           "work_id": "XI-226",
@@ -5445,16 +7539,54 @@
           "attribution": "credited",
           "disc": null,
           "track_number": null,
-          "source_url": "https://music-am.sega.jp/songs/song-01906/",
-          "evidence": "保存したSEGA公式曲別ページの『プレイ可能な音楽ゲーム』欄に該当ゲームのリンクと、曲名・アーティスト表記を確認。ポータル登録日時を初収録日に転用しない。",
-          "checked_on": "2026-10-24",
+          "source_url": "https://ongeki.sega.jp/assets/json/music/music.json",
+          "evidence": "SEGA公式オンゲキの公開曲目に「Stargazing Dreamer / xi」を確認。対応する一覧レコード：601217。",
+          "checked_on": "2026-10-25",
           "listening": null,
-          "note": "ゲームの初収録日・現在の配信状況は未確認。",
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "オンゲキ",
+          "source_kind": "primary",
+          "source_label": "オンゲキ公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-141",
+          "title": "Titania",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://ongeki.sega.jp/assets/json/music/music.json",
+          "evidence": "SEGA公式オンゲキの公開曲目に「Titania / xi」を確認。対応する一覧レコード：601215。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。",
+          "listing_kind": "収録",
+          "edition": "オンゲキ",
+          "source_kind": "primary",
+          "source_label": "オンゲキ公式・公開曲目データ"
+        },
+        {
+          "work_id": "XI-116",
+          "title": "ナイト・オブ・ナイツ (xi Remix)",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://ongeki.sega.jp/assets/json/music/music.json",
+          "evidence": "SEGA公式オンゲキの公開曲目に「ナイト・オブ・ナイツ (xi Remix) / xi」を確認。対応する一覧レコード：300080。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "公開データのdate・release・version値は初収録日に採用していない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "オンゲキ",
+          "source_kind": "primary",
+          "source_label": "オンゲキ公式・公開曲目データ"
         }
       ],
-      "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+      "note": "公式公開曲目で曲名・名義を照合。追加譜面は同じ曲にまとめています。初収録日と音源の版は別途確認中です。"
     },
     {
       "id": "chrono-circle",
@@ -5480,7 +7612,9 @@
           "listening": null,
           "note": "公式チャンネルの表示名・Andamiro著作権表記・公式ドメインへのリンクを確認。動画公開日を初収録日にしない。 公式ゲームの曲別Composer欄と、提供リストのChrono Circle項目を照合。本人への直接リンクによる再照合は未完了。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": "CHRONO CIRCLE公式BGA"
         }
       ],
       "note": "公式BGAで曲名と作曲者を確認。公式曲目ページは取得できず、ほかの収録曲は照合中です。"
@@ -5509,7 +7643,9 @@
           "listening": null,
           "note": "",
           "listing_kind": "収録",
-          "edition": "Nintendo Switch / オリジナル パック8"
+          "edition": "Nintendo Switch / オリジナル パック8",
+          "source_kind": "primary",
+          "source_label": "ワイワイパーティー!!!!公式DLC案内"
         }
       ],
       "note": "Nintendo Switch版の公式DLC案内で確認した曲を掲載。ほかのパックも照合中です。"
@@ -5538,7 +7674,9 @@
           "listening": null,
           "note": "このページのACはアプリのアーケードモード対応という意味。筐体版の収録根拠へ読み替えない。",
           "listing_kind": "収録",
-          "edition": "iOS / Android アプリ版"
+          "edition": "iOS / Android アプリ版",
+          "source_kind": "primary",
+          "source_label": "グルーヴコースター・アプリ版公式曲目"
         },
         {
           "work_id": "XI-223",
@@ -5554,7 +7692,9 @@
           "listening": null,
           "note": "このページのACはアプリのアーケードモード対応という意味。筐体版の収録根拠へ読み替えない。",
           "listing_kind": "収録",
-          "edition": "iOS / Android アプリ版"
+          "edition": "iOS / Android アプリ版",
+          "source_kind": "primary",
+          "source_label": "グルーヴコースター・アプリ版公式曲目"
         },
         {
           "work_id": "XI-041",
@@ -5570,7 +7710,9 @@
           "listening": null,
           "note": "このページのACはアプリのアーケードモード対応という意味。筐体版の収録根拠へ読み替えない。",
           "listing_kind": "収録",
-          "edition": "iOS / Android アプリ版"
+          "edition": "iOS / Android アプリ版",
+          "source_kind": "primary",
+          "source_label": "グルーヴコースター・アプリ版公式曲目"
         }
       ],
       "note": "アプリ版の公式曲目を照合。AC表記はアプリ内アーケードモードへの対応を表します。"
@@ -5599,7 +7741,9 @@
           "listening": null,
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-184",
@@ -5615,7 +7759,9 @@
           "listening": null,
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-185",
@@ -5631,7 +7777,9 @@
           "listening": null,
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-194",
@@ -5647,7 +7795,9 @@
           "listening": null,
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-197",
@@ -5663,7 +7813,9 @@
           "listening": null,
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-234",
@@ -5679,7 +7831,9 @@
           "listening": null,
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-236",
@@ -5695,7 +7849,9 @@
           "listening": null,
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         },
         {
           "work_id": "XI-238",
@@ -5711,10 +7867,74 @@
           "listening": null,
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"
+    },
+    {
+      "id": "nostalgia-konaste",
+      "kind": "game",
+      "title": "コナステ ノスタルジア",
+      "category": "ゲーム",
+      "entry_count": 1,
+      "source_url": "https://p.eagate.573.jp/game/eacnostalgia/op3/info/music.html",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-232",
+          "title": "The Dynamics of an Asteroid",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/eacnostalgia/op3/info/music.html",
+          "evidence": "コナステ公式曲目「楽曲パック vol.7」のタイトル・アーティスト欄でThe Dynamics of an Asteroid / xiを確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "コナステ ノスタルジア / 楽曲パック vol.7",
+          "source_kind": "primary",
+          "source_label": "コナステ ノスタルジア公式・楽曲一覧"
+        }
+      ],
+      "note": "家庭用の曲目をアーケードと区別して掲載。"
+    },
+    {
+      "id": "nostalgia",
+      "kind": "game",
+      "title": "ノスタルジア Op.3",
+      "category": "ゲーム",
+      "entry_count": 1,
+      "source_url": "https://p.eagate.573.jp/game/nostalgia/op3/news/news.html",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-232",
+          "title": "The Dynamics of an Asteroid",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://p.eagate.573.jp/game/nostalgia/op3/news/news.html",
+          "evidence": "公式ニュースdata-date=20211222-02で、12月23日(木)10:00よりイベント特典として解禁可能、The Dynamics of an Asteroid / xiと明記。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "2021-12-22は告知日、2021-12-23 10:00は解禁開始。作曲日や真の初公開日とはしない。 資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "ノスタルジア Op.3 / 絢爛なるピアノの調べ",
+          "source_kind": "primary",
+          "source_label": "ノスタルジア公式・2021-12-22告知"
+        }
+      ],
+      "note": "公式イベント告知で楽曲と解禁開始日時を確認。告知日と解禁開始日は別の記録です。"
     },
     {
       "id": "project-sekai",
@@ -5740,7 +7960,9 @@
           "listening": null,
           "note": "追加予定の一次発表を確認。実装済みとする二次報道もあるが、実施日を確定する一次資料は追加確認。6月23日は同発表のSaikaでありANiMAの日付ではない。",
           "listing_kind": "追加告知",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": "株式会社セガ・タイアップ発表"
         },
         {
           "work_id": "XI-161",
@@ -5756,10 +7978,110 @@
           "listening": null,
           "note": "大会向け提供の根拠。通常ゲーム内配信とその開始日は未確認。",
           "listing_kind": "大会向け提供",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": "xi Official・大会向け本人MV"
         }
       ],
       "note": "ANiMAの追加告知と大会向け提供を掲載。通常配信の実施日・現状は別途確認中です。"
+    },
+    {
+      "id": "taiko-pop-tap-beat",
+      "kind": "game",
+      "title": "太鼓の達人 Pop Tap Beat",
+      "category": "ゲーム",
+      "entry_count": 1,
+      "source_url": "https://poptapbeat.taiko-ch.net/list/",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-247",
+          "title": "狂瀾怒濤",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://poptapbeat.taiko-ch.net/list/",
+          "evidence": "バンダイナムコ公式Pop Tap Beat曲目に狂瀾怒濤 / xiを確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "Apple Arcade / Pop Tap Beat",
+          "source_kind": "primary",
+          "source_label": "Pop Tap Beat公式曲目"
+        }
+      ],
+      "note": "Apple Arcade版の公式曲目で確認。ほかの版とは別の記録です。"
+    },
+    {
+      "id": "taiko-dondaful",
+      "kind": "game",
+      "title": "太鼓の達人 ドンダフルフェスティバル",
+      "category": "ゲーム",
+      "entry_count": 3,
+      "source_url": "https://dondafulfestival-20th.taiko-ch.net/music/musicpass_list.php",
+      "release_records": [],
+      "checked_on": "2026-10-25",
+      "tracks": [
+        {
+          "work_id": "XI-247",
+          "title": "狂瀾怒濤",
+          "credited_name": "xi",
+          "role": "担当未確認",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://dondafulfestival-20th.taiko-ch.net/music/musicpass_list.php",
+          "evidence": "バンダイナムコ公式ミュージックパス曲目の「狂瀾怒濤」と同じ曲枠にxiを含む名義を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "Nintendo Switch / 太鼓ミュージックパス",
+          "source_kind": "primary",
+          "source_label": "太鼓ミュージックパス公式曲目"
+        },
+        {
+          "work_id": "XI-143",
+          "title": "疾風怒濤",
+          "credited_name": "xi",
+          "role": "楽曲クレジットあり（制作工程の内訳は未確認）",
+          "attribution": "credited",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://dondafulfestival-20th.taiko-ch.net/music/musicpass_list.php",
+          "evidence": "バンダイナムコ公式ミュージックパス曲目の「疾風怒濤」と同じ曲枠にxiを含む名義を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "疾風怒濤はStorm and Impulseの日本語曲名。アルバムのロング版XI-127をこのゲームの別曲として登録しない。",
+          "listing_kind": "収録",
+          "edition": "Nintendo Switch / 太鼓ミュージックパス",
+          "source_kind": "primary",
+          "source_label": "太鼓ミュージックパス公式曲目"
+        },
+        {
+          "work_id": "XI-248",
+          "title": "超絶技巧系少女",
+          "credited_name": "ねこかぶりサイクロン(xi＋ねこみりん)",
+          "role": "合作（ねこかぶりサイクロン：xi＋ねこみりん）。分担未確認。",
+          "attribution": "unverified",
+          "disc": null,
+          "track_number": null,
+          "source_url": "https://dondafulfestival-20th.taiko-ch.net/music/musicpass_list.php",
+          "evidence": "バンダイナムコ公式ミュージックパス曲目の「超絶技巧系少女」と同じ曲枠にxiを含む名義を確認。",
+          "checked_on": "2026-10-25",
+          "listening": null,
+          "note": "資料の曲別クレジットを掲載。対象のxi本人との追加照合は曲別ページで継続中。",
+          "listing_kind": "収録",
+          "edition": "Nintendo Switch / 太鼓ミュージックパス",
+          "source_kind": "primary",
+          "source_label": "太鼓ミュージックパス公式曲目"
+        }
+      ],
+      "note": "太鼓ミュージックパス公式曲目で確認。アーケードの収録日へ転用しません。"
     },
     {
       "id": "danmaku",
@@ -5792,7 +8114,9 @@
           },
           "note": "ゲームの初収録日・現在の配信状況は未確認。",
           "listing_kind": "収録",
-          "edition": ""
+          "edition": "",
+          "source_kind": "primary",
+          "source_label": ""
         }
       ],
       "note": "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"

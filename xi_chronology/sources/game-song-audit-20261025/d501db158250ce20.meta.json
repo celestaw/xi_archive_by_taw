@@ -1,0 +1,17 @@
+{
+  "url": "https://poptapbeat.taiko-ch.net/list/",
+  "key": "d501db158250ce20",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://poptapbeat.taiko-ch.net/list/",
+  "sha256": "b0c91814359981eb10df23c379e36c04825391c9028e1812cc3b60c600cb4148",
+  "bytes": 32584,
+  "read_limit_reached": false,
+  "title": "太鼓の達人 PopTapBeat | バンダイナムコエンターテインメント公式サイト",
+  "links": [
+    "../en/list/",
+    "../",
+    "../"
+  ]
+}

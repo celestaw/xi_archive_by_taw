@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Metadata -->
+    <meta charset="utf-8" />
+    <meta name="copyright" content="©2013 Rayark Inc. All rights reserved." />
+    <meta name="og:description" content="The Next Awesome Music Game From Team Cytus!" />
+    <meta property="og:title" content="DEEMO&#124;Never Left Without Saying Goodbye" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.rayark.com/g/deemo" />
+    <meta property="og:image" content="https://www.rayark.com/g/deemo/res/img/DEEMOv3_og.png" />
+    <meta property="og:site_name" content="DEEMO&#124;Never Left Without Saying Goodbye" />
+
+    <meta property="al:ios:url" content="rayark://g/deemo" />
+    <meta property="al:ios:app_store_id" content="700637744" />
+    <meta property="al:ios:app_name" content="Deemo" />
+
+    <meta property="al:android:url" content="rayark://g/deemo" />
+    <meta property="al:android:package" content="com.rayark.pluto" />
+    <meta property="al:android:app_name" content="Deemo" />
+
+    <!-- Icon -->
+    <link rel="shortcut icon" href="./res/img/icon.ico" />
+    <!-- CSS Style -->
+    <link rel="stylesheet" type="text/css" href="./res/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/menubar.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/container.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/background.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/mask.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/content.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/home.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/about.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/screenshot.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/video.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/contact.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/deemo_screenshots.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/deemo_screenshot_thumbs.css" />
+    <link rel="stylesheet" type="text/css" href="./res/css/magnific-popup.css" />
+
+    <!--   Long Live the Rayark
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM2,        ;MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                  ;XMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMM0Ba                       ,@MMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMM;                             2MMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMZ                                  MMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMM0                                    rMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMZ                                      iWMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMM.                                         BMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMM,                                           MMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMr                                            rMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMB:                                              iMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMM                                                 ZMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMM                                                  MMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMM                                                  MMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMX    :                              :;2     S@MMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMWZrrX;:r7:                       :r2a0MZSWMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0,            . i0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@          .SWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM         0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ       ZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMBMX        MMMMMM@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM            MMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM              MM  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM             .   ;MMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMM SSi                XMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMi                  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMM0                  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMS                8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM,               MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@             7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM2i.     rZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM木亥MMMMM火暴MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMhttp://short.rayark.com/deemo-eggMMMMMMMMMMMMMMMMMMM
+        -->
+
+    <!-- JavaScript -->
+    <!-- online resources -->
+    <script
+      type="text/javascript"
+      src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"
+    ></script>
+    <!--<SCRIPT type="text/javascript" src="http://jarallax.com/download/jarallax-min-0.2.js"></SCRIPT>-->
+
+    <!-- local .js files -->
+
+    <!-- 3rd party -->
+    <script type="text/javascript" src="./res/js/lib/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="./res/js/lib/jquery.slimscroll.min.js"></script>
+    <script type="text/javascript" src="./res/js/lib/jarallax-0.2.4b.min.js"></script>
+    <script type="text/javascript" src="./res/js/lib/jquery.magnific-popup.min.js"></script>
+
+    <!-- In-house -->
+    <script type="text/javascript" src="./res/js/deemo/container.js"></script>
+    <script type="text/javascript" src="./res/js/deemo/background.js"></script>
+    <script type="text/javascript" src="./res/js/deemo/inherit.js"></script>
+    <script type="text/javascript" src="./res/js/deemo/context.js"></script>
+    <script type="text/javascript" src="./res/js/deemo/pages/base.js"></script>
+    <script type="text/javascript" src="./res/js/deemo/pages/home.js"></script>
+    <script type="text/javascript" src="./res/js/deemo/pages/logo.js"></script>
+    <script type="text/javascript" src="./res/js/deemo/pages/about.js"></script>
+    <script type="text/javascript" src="./res/js/deemo/pages/carousel.js"></script>
+    <script type="text/javascript" src="./res/js/deemo/pages/screenshot.js"></script>
+    <script type="text/javascript" src="./res/js/deemo/pages/video.js"></script>
+    <script type="text/javascript" src="./res/js/deemo/pages/contact.js"></script>
+
+    <!-- in-html scripts -->
+    <script type="text/javascript">
+      if (
+        /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
+      ) {
+        window.location.href = "./mobile";
+      }
+
+      var context = null;
+      function JumpToProgress(progress, time, fps) {
+        context.JumpToProgress(progress, time, fps);
+      }
+
+      $(document).ready(function ($) {
+        context = new DeeMo.Context();
+      });
+    </script>
+    <title>DEEMO&nbsp;&#124;&nbsp;Never Left Without Saying Goodbye</title>
+  </head>
+  <body onSelectStart="return false;" onDragStart="return false;">
+    <!-- Google Tag Manager -->
+    <noscript
+      ><iframe
+        src="//www.googletagmanager.com/ns.html?id=GTM-NLB6VT"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "//www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-NLB6VT");
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script>
+      window.fbAsyncInit = function () {
+        FB.init({
+          appId: "187139964822169",
+          xfbml: true,
+          version: "v2.5",
+        });
+      };
+
+      (function (d, s, id) {
+        var js,
+          fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {
+          return;
+        }
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      })(document, "script", "facebook-jssdk");
+    </script>
+    <!-- Mask which is geometrically above the part Content though located
+             before its DIV markup in .html.
+
+             Why we put this DIV markup here is for the sake of css style.
+             It CANNOT BE MOVED arbitrarily to below the Content DIV otherwise
+             the layout will be messed up. -->
+    <div id="deemo_mask" class="mask"></div>
+
+    <!-- Content which is wrapped in a DIV-made container so that we can adopt
+             our own scroll instead of browsers' default. -->
+    <div id="deemo_container" class="container">
+      <div id="deemo_bg" class="background"></div>
+
+      <!-- The gallery of the site, belonging to page screenshot -->
+      <div id="deemo_screenshot_carousel"></div>
+
+      <!-- Pages integrated into a single huge web page for parallax effect.
+                 Add new pages below. To align elements veritically middle, we make
+                 deemo_pages below a layout controller whose Top is set to 50%.
+                 Thus all DIVs within deemo_pages will be located against the middle
+                 of the screen. If you don't want to align your DIV that way, move
+                 it out of this DIV container!
+                 -->
+      <div id="deemo_pages" class="page_container">
+        <!-- Page home -->
+        <div id="deemo_page_home">
+          <!-- Art -->
+          <div id="deemo_home_art" class="patch content_outer">
+            <img class="content" src="./res/img/index_pic.png" />
+          </div>
+          <!-- Fg -->
+          <div id="deemo_home_title" class="patch">
+            <img class="content" src="./res/img/index_logo.png" />
+          </div>
+          <div id="deemo_home_text" class="patch">
+            <img id="deemo_home_text_content" class="content" src="./res/img/index_txt.png" />
+          </div>
+          <!--<DIV id="deemo_home_player" class="patch">
+                        <DIV id="deemo_home_player_inner" class="content">
+                            <DIV id="deemo_home_player_button" class="image_button"></DIV>
+                            <DIV id="deemo_home_player_separator"></DIV>
+                            <DIV id="deemo_home_player_text_ios" class="image_button" onClick="javascript:window.open('https://itunes.apple.com/tw/app/deemo/id700637744?l=zh', '_blank'); return false;"></DIV>
+                            <DIV id="deemo_home_player_separator"></DIV>
+                            <DIV id="deemo_home_player_text_android" class="image_button" onClick="javascript:window.open('https://play.google.com/store/apps/details?id=com.rayark.pluto', '_blank'); return false;"></DIV>
+                        </DIV>
+                    </DIV>-->
+          <div id="deemo_home_player_button" class="patch">
+            <div id="deemo_home_player_button_content" class="content image_button"></div>
+          </div>
+          <div id="deemo_home_player_text_ios" class="patch">
+            <div
+              id="deemo_home_player_text_ios_content"
+              class="content image_button"
+              onClick="javascript:window.open('https://itunes.apple.com/tw/app/deemo/id700637744?l=zh', '_blank'); return false;"
+            ></div>
+          </div>
+          <div id="deemo_home_player_text_android" class="patch">
+            <div
+              id="deemo_home_player_text_android_content"
+              class="content image_button"
+              onClick="javascript:window.open('https://play.google.com/store/apps/details?id=com.rayark.pluto', '_blank'); return false;"
+            ></div>
+          </div>
+        </div>
+
+        <!-- Page about -->
+        <div id="deemo_page_about">
+          <!-- Bg -->
+          <div id="deemo_about_bg1" class="patch">
+            <img class="content" src="./res/img/about_bg1.png" />
+          </div>
+          <div id="deemo_about_bg2" class="patch">
+            <img class="content" src="./res/img/about_bg2.png" />
+          </div>
+          <!-- Art -->
+          <div id="deemo_about_art" class="patch content_outer">
+            <img class="content" src="./res/img/about_pic.png" />
+          </div>
+          <!-- Fg -->
+          <div id="deemo_about_text" class="patch">
+            <img class="content" src="./res/img/about_txt.png" />
+          </div>
+        </div>
+
+        <!-- Page screenshot -->
+        <div id="deemo_page_screenshot">
+          <!-- Bg -->
+          <div id="deemo_screenshot_bg1" class="patch">
+            <img class="content" src="./res/img/screen_bg1.png" />
+          </div>
+          <!-- Art-->
+          <div id="deemo_screenshot_art" class="patch content_outer">
+            <img class="content" src="./res/img/screen_pic.png" />
+          </div>
+          <!-- Fg -->
+          <div id="deemo_screenshot_frame" class="patch">
+            <img class="content" src="./res/img/screen_phone.png" />
+          </div>
+          <div id="deemo_screenshot_button_left" class="patch">
+            <div id="deemo_screenshot_btn_left" class="content image_button"></div>
+          </div>
+          <div id="deemo_screenshot_button_right" class="patch">
+            <div id="deemo_screenshot_btn_right" class="content image_button"></div>
+          </div>
+          <div id="deemo_screenshot_carousel_display" class="patch">
+            <div class="content"></div>
+          </div>
+          <div id="deemo_screenshot_mask" class="patch">
+            <div class="content"></div>
+          </div>
+          <div id="deemo_screenshot_display_sensor" class="patch">
+            <div class="content"></div>
+          </div>
+        </div>
+
+        <!-- Page video -->
+        <div id="deemo_page_video">
+          <!-- Bg -->
+          <div id="deemo_video_bg1" class="patch">
+            <img class="content" src="./res/img/about_bg1.png" />
+          </div>
+          <!-- Art -->
+          <div id="deemo_video_art" class="patch content_outer">
+            <img class="content" src="./res/img/video_pic.png" />
+          </div>
+          <!-- Fg -->
+          <div id="deemo_video_frame" class="patch">
+            <img class="content" src="./res/img/video_frame.png" />
+          </div>
+          <div id="deemo_video_pic" class="patch">
+            <div class="content"></div>
+            <!--<IMG id="deemo_video_clip" class="content" src="./res/img/video_clip1.png">-->
+          </div>
+          <div id="deemo_video_gameplay" class="patch">
+            <div class="content image_button video_menu_item" data-video-clip="1"></div>
+          </div>
+          <div id="deemo_video_trailer" class="patch">
+            <div class="content image_button video_menu_item" data-video-clip="2"></div>
+          </div>
+          <div id="deemo_video_uematsu" class="patch">
+            <div class="content image_button video_menu_item" data-video-clip="3"></div>
+          </div>
+          <div id="deemo_video_honda" class="patch">
+            <div class="content image_button video_menu_item" data-video-clip="4"></div>
+          </div>
+          <div id="deemo_video_m2u" class="patch">
+            <div class="content image_button video_menu_item" data-video-clip="5"></div>
+          </div>
+          <div id="deemo_video_separator_set" class="patch">
+            <img id="deemo_video_separator1" class="content" src="./res/img/video_btn_02.png" />
+            <img id="deemo_video_separator2" class="content" src="./res/img/video_btn_04.png" />
+            <img id="deemo_video_separator3" class="content" src="./res/img/video_btn_07.png" />
+          </div>
+          <div id="deemo_video_play" class="patch">
+            <div class="content image_button"></div>
+          </div>
+        </div>
+
+        <!-- Page contact -->
+        <div id="deemo_page_contact">
+          <!-- Bg -->
+          <div id="deemo_contact_bg1" class="patch">
+            <img class="content" src="./res/img/contact_bg1.png" />
+          </div>
+          <div id="deemo_contact_bg2" class="patch">
+            <img class="content" src="./res/img/contact_bg2.png" />
+          </div>
+          <!-- Art -->
+          <div id="deemo_contact_art" class="patch content_outer">
+            <img class="content" src="./res/img/contact_pic.png" />
+          </div>
+          <!-- Fg -->
+          <div id="deemo_contact_text" class="patch">
+            <img class="content" src="./res/img/contact_txt2.png" />
+          </div>
+          <div id="deemo_contact_mail" class="patch">
+            <div
+              class="content image_button"
+              onClick="javascript: window.location.href='mailto:service@rayark.com'; return false;"
+            ></div>
+          </div>
+          <div id="deemo_contact_map" class="patch">
+            <div
+              class="content image_button"
+              onClick="javascript: window.open('https://www.rayark.com/', '_blank'); return false;"
+            ></div>
+          </div>
+        </div>
+      </div>
+
+      <div
+        id="deemo_logo"
+        class="patch menu_item"
+        onClick="javascript: context.JumpToProgress(0); return false;"
+      >
+        <img class="content" src="./res/img/logo.png" />
+      </div>
+      <!-- Fake content which defines the length of the content.
+
+                 Every virtual page of the site is exactly dropped in the same physical
+                 page. We switch content using fancy parallax effect which drives pages
+                 to visually move down according to the real scrolling distance. In short,
+                 to enable parallax effect, we have to make the container scrollable first
+                 even if we have only one in fact. That's why we need fake content which
+                 only defines the length in its css style without even a line of words. -->
+      <div id="fake_content"></div>
+    </div>
+
+    <!-- Menubar which permanently stays at the bottom of the page -->
+    <div id="deemo_menubar" class="menubar">
+      <!-- A container to align content vertically center -->
+      <div id="deemo_menubar_center">
+        <!-- A container to align content in horizon -->
+        <div id="deemo_menubar_horizon">
+          <!-- Menu items for Facebook button, Twitter button, and
+                        DeeMo's fan pages on Facebook & Twitter -->
+          <nav id="deemo_social" class="nav">
+            <ul>
+              <li>
+                <div class="copyright">&copy;2013 Rayark Inc.</div>
+              </li>
+              <li>
+                <div class="separator">|</div>
+              </li>
+              <li>
+                <!-- Link to DeeMo's fan page on Facebook -->
+                <div
+                  id="menu_fb"
+                  class="menu_item"
+                  onClick="javascript: window.open('https://www.facebook.com/rayark.deemo?fref=ts', '_blank'); return false;"
+                ></div>
+              </li>
+              <li>
+                <div class="separator">|</div>
+              </li>
+              <li>
+                <!-- Link to DeeMo's fan page on Twitter -->
+                <div
+                  id="menu_tw"
+                  class="menu_item"
+                  onClick="javascript: window.open('https://twitter.com/Deemorayark', '_blank'); return false;"
+                ></div>
+              </li>
+              <li>
+                <div id="fb-root"></div>
+                <script>
+                  (function (d, s, id) {
+                    var js,
+                      fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src =
+                      "http://connect.facebook.net/zh_TW/all.js#xfbml=1&appId=403522029774867";
+                    fjs.parentNode.insertBefore(js, fjs);
+                  })(document, "script", "facebook-jssdk");
+                </script>
+                <!-- Facebook share button -->
+                <div id="share_fb">
+                  <div
+                    class="fb-like"
+                    data-href="https://www.rayark.com/g/deemo"
+                    data-layout="button_count"
+                    data-action="like"
+                    data-show-faces="false"
+                    data-share="false"
+                    data-colorscheme="dark"
+                  ></div>
+                </div>
+              </li>
+              <li>
+                <!-- Twitter share button -->
+                <div id="share_tw">
+                  <a href="https://twitter.com/share" class="twitter-share-button" data-dnt="true"
+                    >Tweet</a
+                  >
+                  <script>
+                    !(function (d, s, id) {
+                      var js,
+                        fjs = d.getElementsByTagName(s)[0],
+                        p = /^http:/.test(d.location) ? "http" : "https";
+                      if (!d.getElementById(id)) {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + "://platform.twitter.com/widgets.js";
+                        fjs.parentNode.insertBefore(js, fjs);
+                      }
+                    })(document, "script", "twitter-wjs");
+                  </script>
+                </div>
+              </li>
+            </ul>
+          </nav>
+          <!-- A separator between the page navigator and menu items for Facebook & Twitter -->
+          <div id="deemo_nav_gap"></div>
+          <!-- Page navigator -->
+          <nav id="deemo_menu" class="nav">
+            <ul>
+              <li>
+                <!-- Jump to page About -->
+                <div
+                  id="menu_about"
+                  class="menu_item"
+                  onClick="javascript: context.JumpToProgress(0.25); return false;"
+                ></div>
+              </li>
+              <li>
+                <!-- Jump to page Screenshot -->
+                <div
+                  id="menu_screenshot"
+                  class="menu_item"
+                  onClick="javascript: context.JumpToProgress(0.5); return false;"
+                ></div>
+              </li>
+              <li>
+                <!-- Jump to page Video -->
+                <div
+                  id="menu_video"
+                  class="menu_item"
+                  onClick="javascript: context.JumpToProgress(0.75); return false;"
+                ></div>
+              </li>
+              <li>
+                <!-- Jump to page Contact -->
+                <div
+                  id="menu_contact"
+                  class="menu_item"
+                  onClick="javascript: context.JumpToProgress(1.0); return false;"
+                ></div>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

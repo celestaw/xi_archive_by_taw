@@ -1,0 +1,296 @@
+Dreadnought - Arcaea Wiki*
+ブラウザの JavaScript がオフ（ブロックまたは許可しない）に設定されているため、このページは正常に機能しません。
+[ ホーム | 新規 | 編集 | 添付 ]
+Menu
+新規
+編集
+添付
+一覧
+最終更新
+差分
+バックアップ
+凍結
+複製
+名前変更
+ヘルプ
+> Dreadnought
+Dreadnought
+Last-modified: 2026-04-11 (土) 20:31:56
+これらのキーワードがハイライトされています：
+Dreadnought
+Composer
+Mastermind (xi + nora2r)
+Artwork
+iimo
+※ゲーム内では記載なし
+Chart
+Designer
+[Past/Present] Nitro
+[Future] Astronomer (Toaster + 東星)
+Difficulty
+Past
+Present
+Future
+Level
+4
+7
+9+
+Notes
+715
+897
+1099
+Length
+2:20
+BPM
+96-384
+Pack
+Memory Archive
+Side
+Conflict(対立)
+Update
+Version
+Mobile
+ver.2.2.0
+(19/07/18)
+Switch
+ver.1.0.0c
+(21/05/18)
+Requirements
+Past
+-
+Present
+-
+Future
+-
+Nintendo Switch版の解放条件
+Requirements
+共通
+ワールドモード (Chapter 1) で解禁
+Past
+25個の欠片
+Auxesia [PST] のプレイ
+DataErr0r [PST] のプレイ
+Present
+50個の欠片
+Auxesia [PRS] のプレイ
+DataErr0r [PRS] のプレイ
+Future
+75個の欠片
+Auxesia [FTR] のプレイ
+DataErr0r [FTR] のプレイ
+Difficulty Changelog
+Difficulty Changelog
+Version
+Past
+Present
+Future
+2.2.0
+4
+7
+9
+3.0.0
+9+
+タイトルを直訳すると「恐れ知らず」（“Dread”、“nought”は英語でそれぞれ「恐れ」、「無」を表す）。イギリス海軍の戦艦の名前などにも用いられている。
+「弩級」という言葉の語源にもなっている。
+BMSイベント「大血戦 -THE BMS OF FIGHTERS ULTIMATE- (BOFU2015)」個人戦スコア部門第5位。
+映像上映イベント「FRENZ 2015」参加作品。
+「Groundbreaking -BOFU2015 COMPILATION ALBUM- [Stage2​:​Dancing Drive]」に収録。
+xi氏の3rdアルバム「World Fragments」にフル版が収録。
+CHUNITHM・オンゲキ・太鼓の達人などにも収録されている。
+攻略情報
+Past 譜面定数 : 4.0
+Present 譜面定数 : 7.0
+Future 譜面定数 : 9.7
+全体難だがBMSでの譜面を意識したソフランが目立つ。認識しづらい所をどう処理するかが鍵。
+序盤からアークとロングで取り方に悩む配置が飛んでくるが、惑わされずに青を左、赤を右で取り反対の指でロングを取ること。
+中盤のアークとロングの複合は、交差が激しく持ち替えたくなるかもしれないが誘惑に負けてはいけない。実は交差状態ではあまり難しい動きをしないため、持ち替えると逆に後半が辛くなる。
+高速アークで外れる人は動きのパターンを覚えよう。─、／、＼の順に広がってループするが、最後だけゆっくり横に広がる。減速直後のスカイノーツには要注意。
+ラスサビに「赤/青のアークが終わった直後に別の色のアークが同じ場所に来る」配置があるが、ここは一瞬指を離してから取り直すといちいち指を入れ替えずとも繋がる。
+試聴/プレイ映像
+SoundCloud公式音源
+YouTube公式音源・BGA : https://www.youtube.com/watch?v=iTad5MXNmAE
+niconico公式音源・BGA : https://www.nicovideo.jp/watch/sm27222114
+Future [PURE MEMORY 10,001,099pts] (理論値)
+Player : higllus
+loading...
+Future [PURE MEMORY 10,001,087pts]
+Player : StaLight
+loading...
+Future [PURE MEMORY 10,001,063pts] (親指プレイ)
+Player : BengaleeHS
+loading...
+コメント
+9以上で初めてPMできた記念カキコ　Memory Archiveチケットで買った曲でもあるから思い入れもひとしおです --  2026-04-11 (土) 20:31:56
+なんか苦手 --  2024-09-03 (火) 23:35:36
+同じような配置が多いし慣れればめちゃめちゃ簡単そうなのは理解できるけど、意外とリズムとトリルがわかりにくくてなかなかできない --  2024-04-07 (日) 04:12:47
+ガチできしょい譜面してるなにこれ --  2023-07-09 (日) 02:13:26
+この曲よりSenkyouの方が遥かにスコア出ないのなんでなんや... --  2021-05-30 (日) 01:47:08
+この曲のトレースもbeyond越えした範囲動くね --  2021-03-19 (金) 01:41:04
+ジャケットがまさに「美」。 --  2021-02-17 (水) 18:00:43
+高速アーク地点のトレースノートどうなってるんだ？右に消えていったんやが --  2021-01-03 (日) 01:25:35
+真っ先に購入を決めた有料曲 --  2020-04-27 (月) 11:34:18
+やってて楽しいし、定数はそこそこあるしで色々と美味しい曲 --  2020-04-09 (木) 00:09:21
+CONTENTS
+― はじめに ―
+Arcaea Wiki
+ルール
+初心者の方へ
+FAQ
+リズムゲーム用語解説
+― 収録曲 ―
+パック順
+タイトル順
+レベル順
+コンポーザー順
+A～O
+P～Z
+日本語・その他
+ボーカリスト
+イラストレーター順
+アルファベット
+日本語・その他
+ノーツ数順
+演奏時間順
+非公式難易度(PM基準)
+非公式難易度(TC基準)
+― ゲーム関連 ―
+ストーリー
+Main Story Act I
+Main Story Act II
+Side Story
+Archive Story
+パートナー
+恒常
+期間限定
+ワールドモード
+Extra Chapter
+Chapter 1
+Breached
+Chapter 2
+Breached
+Chapter 3
+Breached
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Chapter 9
+Chapter 10
+Lost Chapter
+解放期間終了
+コースモード
+― システム関連 ―
+アップデート履歴
+ver.1.x / ver.2.x
+ver.3.x
+ver.4.x / ver.5.x
+ver.6.x
+ver.7.x
+ポテンシャル研究所
+譜面定数表(Lv.1～7+)
+譜面定数表(Lv.8～12)
+遅延調整報告
+― その他 ―
+人気投票
+譜面制作者
+こぼれ話
+公式サウンドトラック
+管理人への要望
+テンプレート
+楽曲ページ
+Nintendo Switch
+基本情報
+楽曲リスト
+ストーリー
+パートナー
+ワールドモード
+Extra Chapter
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+コースモード
+アップデート履歴
+4,400円
+購入はこちらから
+― More ―
+― More ―
+zawazawa
+サウンドトラック
+詳細はこちら
+Memories of Light
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+メロンブックス
+Apple Music
+YouTube Music
+Spotify
+Memories of Conflict
+(26曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+メロンブックス
+Apple Music
+YouTube Music
+Spotify
+Memories of Realms
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Dreams
+(27曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Wrath
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Myth
+(27曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Serenity
+(26曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+Spotify
+Crossing Collection
+(7曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Bandcamp
+LINEスタンプ
+250円(100コイン)
+Today : ?
+Yesterday : ?
+Total : ?
+Online : ?
+© 2017-2026 Arcaea Wiki
+レンタルWIKI by WIKIWIKI.jp* /
+Designed by Olivia /
+広告について /
+無料レンタル掲示板 zawazawa

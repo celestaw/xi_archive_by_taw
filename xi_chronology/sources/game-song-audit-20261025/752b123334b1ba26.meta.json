@@ -1,0 +1,27 @@
+{
+  "url": "https://chunithm.sega.jp/$site/components.js?_=20260701.190431",
+  "key": "752b123334b1ba26",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://chunithm.sega.jp/$site/components.js?_=20260701.190431",
+  "sha256": "abb8c8296f2fb230378e663d0b24c41a1c67a22174c98ace9f460ae905e83539",
+  "bytes": 85251,
+  "read_limit_reached": false,
+  "title": "",
+  "links": [
+    "https://music-am.sega.jp/",
+    "https://chunithm.sega.com/",
+    "/music/",
+    "/music/new/",
+    "/music/pops_anime/",
+    "/music/niconico/",
+    "/music/toho/",
+    "/music/variety/",
+    "/music/irodorimidori/",
+    "/music/gekimai/",
+    "/music/original/",
+    "/music/we/",
+    "/music/ultima/"
+  ]
+}

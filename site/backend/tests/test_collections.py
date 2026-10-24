@@ -1,3 +1,4 @@
+import csv
 import json
 import sys
 import unittest
@@ -103,10 +104,66 @@ class CollectionTests(unittest.TestCase):
         self.assertTrue(any('xi Official' in s.identity_note for s in qualia.attribution_basis.sources))
         self.assertTrue(all(r.date != '2021-01-01' for r in qualia.records))
         arcaea = next(c for c in collections if c.id == 'arcaea')
-        self.assertEqual([t.work_id for t in arcaea.tracks], ['XI-135'])
-        self.assertTrue(all('Nintendo Switch' in t.edition for t in arcaea.tracks))
+        overwhelm = next(t for t in arcaea.tracks if t.work_id == 'XI-135')
+        self.assertIn('Nintendo Switch', overwhelm.edition)
+        candidates = [t for t in arcaea.tracks if t.work_id != 'XI-135']
+        self.assertEqual(len(candidates), 4)
+        self.assertTrue(all(t.source_kind == 'secondary' and t.listing_kind == '収録候補' for t in candidates))
         app = next(c for c in collections if c.id == 'groove-coaster')
         self.assertTrue(all('アプリ' in t.edition and 'アーケードモード' in t.note for t in app.tracks))
+
+    def test_song_audit_preserves_all_input_claims_and_unresolved_misclassifications(self):
+        audit = json.loads((ROOT.parent.parent / 'xi_chronology/data/game_claim_audit.json').read_text(encoding='utf-8'))
+        original = json.loads((ROOT.parent.parent / 'xi_chronology/data/note_entries_raw.json').read_text(encoding='utf-8'))
+        expected = {r['id']: r for r in original if r['section'] == '音ゲー収録'}
+        actual = {r['input']['id']: r for r in audit['claims']}
+        self.assertEqual(len(actual), 123)
+        self.assertEqual({id: r['input'] for id, r in actual.items()}, expected)
+        self.assertEqual(actual['NOTE-099']['work_ids'], ['XI-076', 'XI-077', 'XI-078'])
+        self.assertEqual(actual['NOTE-110']['status'], '収録未確認')
+        self.assertEqual(actual['NOTE-148']['status'], '収録未確認')
+        self.assertTrue(all(r['attempts'] for r in actual.values()))
+        self.assertEqual(len(audit['works']), len(by_id))
+        csv_path = ROOT.parent.parent / 'xi_chronology/data/game_claim_audit.csv'
+        self.assertNotIn(b'\r\r\n', csv_path.read_bytes())
+        with csv_path.open(encoding='utf-8-sig', newline='') as source:
+            csv_rows = list(csv.DictReader(source))
+        self.assertEqual(len(csv_rows), 123)
+        self.assertEqual({r['元ID']: r['元の記載'] for r in csv_rows}, {id: r['original_text'] for id, r in expected.items()})
+
+    def test_secondary_sources_and_aliases_do_not_become_primary_credit(self):
+        for collection in collections:
+            for track in collection.tracks:
+                if track.source_kind == 'secondary':
+                    self.assertEqual(track.listing_kind, '収録候補')
+                    self.assertIsNone(track.listening)
+        cross = next(c for c in collections if c.id == 'crossbeats')
+        self.assertEqual({t.work_id for t in cross.tracks}, {'XI-074', 'XI-080'})
+        rev = next(c for c in collections if c.id == 'crossbeats-rev')
+        self.assertEqual(rev.tracks[0].source_kind, 'primary_reproduction')
+        self.assertEqual(by_id['XI-171'].attribution, 'unverified')
+        self.assertEqual(by_id['XI-171'].credited_name, 'Hekatoncheir')
+        self.assertEqual(by_id['XI-193'].attribution, 'credited')
+        self.assertEqual(by_id['XI-208'].attribution, 'credited')
+        self.assertTrue(any('com_giko_31' in s.identity_note for s in by_id['XI-193'].attribution_basis.sources))
+
+    def test_extra_charts_and_internal_dates_do_not_create_new_works(self):
+        chuni = next(c for c in collections if c.id == 'chunithm')
+        self.assertEqual(sum(t.work_id == 'XI-017' for t in chuni.tracks), 1)
+        self.assertNotIn('XI-010', {t.work_id for t in chuni.tracks})  # official Lapis is SHIKI
+        maimai = next(c for c in collections if c.id == 'maimai')
+        self.assertEqual(sum(t.work_id == 'XI-188' for t in maimai.tracks), 1)
+        ongeki = next(c for c in collections if c.id == 'ongeki')
+        self.assertEqual(sum(t.work_id == 'XI-026' for t in ongeki.tracks), 1)
+        self.assertFalse(any(t.work_id in {'XI-132', 'XI-133', 'XI-134'} for c in collections if c.kind == 'game' for t in c.tracks))
+        self.assertTrue(any(r.date == '2021-12-23' and r.kind == 'ゲームイベント解禁開始日' for r in by_id['XI-232'].records))
+        self.assertTrue(any(r.date == '2017-01-05' and '転載' in r.kind for r in by_id['XI-205'].records))
+        self.assertTrue(all(not r.true_first_publication_confirmed for r in by_id['XI-232'].records))
+        hypnos = next(r for r in by_id['XI-193'].records if r.id == 'GAME-VIDEO-XI-193')
+        self.assertEqual(hypnos.date, '2021-02-04')
+        self.assertIn('2021-02-03T23:42:11-08:00', hypnos.evidence)
+        self.assertIn('動画公開日', hypnos.kind)
+        self.assertFalse(hypnos.true_first_publication_confirmed)
 
 
 if __name__ == '__main__':

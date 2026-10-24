@@ -1,0 +1,1236 @@
+<!doctype html>
+<html>
+<head><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MTFWQBD8');</script>
+  <title>
+beatmania IIDX 29 CastHour
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <meta name="facebook-domain-verification" content="5wqr9cruyjxvhh14878cfm4blqen9g" />
+  <meta name="description" content="KONAMIのBEMANIシリーズ「beatmania IIDX 29 CastHour」公式サイトです。" />
+  <meta name="keywords" content="beatmania,IIDX,29,CastHour,IIDX29" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="beatmania IIDX 29 CastHour" />
+  <meta property="og:description" content="KONAMIのBEMANIシリーズ「beatmania IIDX 29 CastHour」公式サイトです。" />
+  <meta property="og:url" content="https://p.eagate.573.jp/game/2dx/29/" />
+  <meta property="og:site_name" content="beatmania IIDX 29 CastHour" />
+  <meta property="og:image" content="https://p.eagate.573.jp/game/2dx/29/images/common/banner.jpg?v2" /><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><meta name="format-detection" content="telephone=no, address=no">
+  <link href="/gate/p/common/tk/ea_common_layout.css?v20180523" rel="stylesheet" type="text/css" />
+  <link rel="apple-touch-icon-precomposed" href="/gate/p/images/common/elogo_114_114.png" />
+  <link rel="shortcut icon" href="/img/p/favicon.ico">
+  <script src="/common/js/jquery-2.0.2.min.js" type="text/javascript"></script>
+  <script src="/gate/p/common/tk/ea_common_header.js?v20260826"></script>
+  <style>
+  footer ul li a {
+    border-left:2px solid #a2aeae;
+  }
+  #wrapper.wrapx header .ea-menu {
+    background:#a2aeae;
+  }
+  #wrapper.wrapx .cl_menu_catgory {
+    background:#a2aeae;
+  }
+  #wrapper.wrapx .main-nav a {
+    background:#a2aeae;
+  }
+  #wrapper.wrapx .main-nav a:hover, .main-nav a:focus {
+    background:linear-gradient(90deg, #a2aeae 10%, #ffffff 180%);
+  }
+  </style>
+  <link href="/css/p/timelineGadget.css?v3" rel="stylesheet" type="text/css" />
+  <script src="/common/js/timelineGadget.js?20190125"></script>
+  <link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/2dx/29/css/common.css?v2"><link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/2dx/29/css/menu/menu_pc.css?v3"><link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/2dx/29/css/menu/menu_sp.css"><link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/2dx/29/css/menu/menu_login.css"><link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700,900&display=swap&subset=japanese" rel="stylesheet"><link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/2dx/29/css/newsong.css?v4">
+  <script type="text/javascript" src="https://eacache.s.konaminet.jp/game/2dx/29/js/common.js"></script><script type="text/javascript" src="https://eacache.s.konaminet.jp/game/2dx/29/js/menu.js"></script><script type="text/javascript" src="https://eacache.s.konaminet.jp/game/2dx/29/js/newsong.js"></script>
+<meta http-equiv="cache-control" content="no-cache" /></head>
+<body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTFWQBD8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <div id="wrapper" class="wrapx">
+    <nav class="main-nav" id="main-nav">
+        <ul>
+          <li class="cl_ea_variable_document" data-id="eavd_side_mypage"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_eamusement"></li>
+          <li class="cl_ea_variable_parent">
+            <a href="/gate/p/login.html?path=/game/2dx/29/newsong/index.html" class="cl_ea_variable_document" data-id="eavd_side_login"></a>
+          </li>
+          <li><a href="/payment/lead_payment.html" data-reserve_url>サービス一覧</a></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_facility_search"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_select_course"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_coop"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_mycharge"></li>
+          <li><a href="/gate/dungeon/index.html?h=1">e-amusement迷宮</a></li>
+          <li><a href="/etc/faq/p/index.html" target="_blank">FAQ</a></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_help"></li>
+            <li class="cl_ea_variable_document" data-id="eavd_side_setting"></li>
+           <li><a href="/">SITE TOP</a></li>
+            <li class="cl_ea_variable_document" data-id="eavd_side_logout"></li>
+        </ul>
+    </nav>
+    <div id="container" class="page-wrap">
+      <header id="id_nav_menu_1">
+<script>
+        var p = document.getElementsByTagName("header").item(0);
+        if(p) {
+          p.style.position = "relative";
+        } else {
+          p = document.getElementsByTagName("body").item(0);
+        }
+        if (p) {
+          var element = document.createElement('div');
+          element.innerHTML =
+            '<a href="https://www.konami.com/arcadegames/" style="background:transparent;position:absolute;top:0;left:0;z-index:9999;display:block;">'
+            + '<img src="/ci/logo/konami_logo_blur.png" width="130" height="37" style="vertical-align:bottom" /></a>';
+          p.appendChild(element);
+        }
+</script>
+        <div id="id_nav_menu_2" class="common-header ea_common_center">
+          <dl>
+            <dt>
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" width="130" height="10" />
+            </dt>
+            <dd>
+              <ul>
+                  <li><a id="id_ea_header_line" href="#"><img src="/img/btn_line.png" alt="LINE" /></a></li>
+                  <li><a id="id_ea_header_twitter" href="#"><img src="/img/btn_X.png" alt="X" /></a></li>
+                  <li><a id="id_ea_header_facebook" href="#"><img src="/img/btn_facebook.png" alt="Facebook" /></a></li>
+                  <li style="margin-left:30px;margin-right:20px;"><a href="/"><img src="/gate/p/images/common/logo_gate_ss.gif" alt="e-amusement TOP" style="width:45px;height:20px;"></a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+        <div id="id_nav_menu_3" class="ea-menu">
+          <div class="ea_common_center">
+            <div class="cl_old_h1"><a href="/"><img src="/img/ea_logo.png" alt="e-amusement" width="137px"></a></div>
+            <p>
+              <span class="cl_ea_variable_document" data-id="eavd_header_konamiid"></span>
+              <span class="cl_nav_menu_span" style="float:left;">
+                <a class="open-menu" href="javascript:void(0)"><img src="/img/icon_menu.png" alt="menu" width="20px"></a>
+              </span>
+            </p>
+          </div>
+        </div>
+        <div id="id_nav_menu_3_dummy"></div>
+      </header>
+      <div id="id_ea_common_content_whole">
+        <div id="id_ea_common_content" class="ea_content_center">
+  <nav id="g-menu">
+  <div id="menu-global-pc">
+    <div id="menu-pc">
+      <div id="title-pc"><a href="/game/2dx/29/index.html" target="_top"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/menu/logo.png" alt="beatmania IIDX 29 CastHour"></a></div>
+      <ul id="menu-pc-main">
+  <li id="menu01" class="first-menu">
+    <div class="btn"><p></p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/29/howto/play/game_start.html" target="_top">遊び方について</a>
+          <ul>
+            <li><a href="/game/2dx/29/howto/play/game_start.html" target="_top">ゲームの開始</a></li>
+            <li><a href="/game/2dx/29/howto/play/game_screen.html" target="_top">ゲーム画面詳細</a></li>
+            <li><a href="/game/2dx/29/howto/play/option.html" target="_top">ゲームオプション</a></li>
+            <li><a href="/game/2dx/29/howto/play/option_detail.html" target="_top">詳細オプション</a></li>
+            <li><a href="/game/2dx/29/howto/play/option_speed.html" target="_top">ハイスピードオプション</a></li>
+            <li><a href="/game/2dx/29/howto/play/tenkey.html" target="_top">テンキーオプション</a></li>
+            <li><a href="/game/2dx/29/howto/play/effector.html" target="_top">エフェクター</a></li>
+            <li><a href="/game/2dx/29/howto/play/camera.html" target="_top">カメラ機能</a></li>
+            <li><a href="/game/2dx/29/howto/play/day_bonus.html" target="_top">曜日ボーナス</a></li>
+            <li><a href="/game/2dx/29/howto/play/code.html" target="_top">二次元コード読み取り</a></li>
+          </ul>
+        </li>
+        <li><a href="/game/2dx/29/howto/lightning_model/feature.html" target="_top">LIGHTNING MODEL</a>
+          <ul>
+            <li><a href="/game/2dx/29/howto/lightning_model/feature.html" target="_top">LIGHTNING MODELの特徴</a></li>
+            <li><a href="/game/2dx/29/howto/lightning_model/premium.html" target="_top">プレミアムエリア</a></li>
+            <li><a href="/game/2dx/29/howto/lightning_model/song.html" target="_top">先行楽曲</a></li>
+            <li><a href="/game/2dx/29/howto/lightning_model/play_recording.html" target="_top">プレー録画機能</a></li>
+            <li><a href="/game/2dx/29/howto/lightning_model/kiwami.html" target="_top">段位認定 -極-</a></li>
+            <li><a href="/game/2dx/29/howto/lightning_model/bpl_battle.html" target="_top">BPL BATTLEモード</a></li>
+          </ul>
+        </li>
+        <li><a href="/game/2dx/29/howto/mode/game_mode.html" target="_top">GAME MODE</a>
+          <ul>
+            <li><a href="/game/2dx/29/howto/mode/game_mode.html#howto_stepup" target="_top">STEP UP</a></li>
+            <li><a href="/game/2dx/29/howto/mode/game_mode.html#howto_standard" target="_top">STANDARD</a></li>
+            <li><a href="/game/2dx/29/howto/mode/game_mode.html#howto_dani" target="_top">段位認定</a></li>
+            <li><a href="/game/2dx/29/howto/mode/game_mode.html#howto_free" target="_top">FREE</a></li>
+            <li><a href="/game/2dx/29/howto/mode/game_mode.html#howto_freeplus" target="_top">FREE PLUS</a></li>
+            <li><a href="/game/2dx/29/howto/mode/game_mode.html#howto_hazard" target="_top">HAZARD</a></li>
+            <li><a href="/game/2dx/29/howto/mode/game_mode.html#howto_premiumfree" target="_top">PREMIUM FREE</a></li>
+          </ul>
+        </li>
+        <li><a href="/game/2dx/29/howto/epass/play_data.html" target="_top">e-amusement passを使用した遊び方</a>
+          <ul>
+            <li><a href="/game/2dx/29/howto/epass/play_data.html" target="_top">プレーデータ</a></li>
+            <li><a href="/game/2dx/29/howto/epass/score_graph.html" target="_top">スコアグラフ</a></li>
+            <li><a href="/game/2dx/29/howto/epass/rival.html" target="_top">ライバル挑戦状</a></li>
+            <li><a href="/game/2dx/29/howto/epass/ea_pass.html" target="_top">e-amusement pass</a></li>
+            <li><a href="/game/2dx/29/howto/epass/paseli.html" target="_top">PASELI</a></li>
+            <li><a href="/game/2dx/29/howto/epass/ea_app.html" target="_top">e-amusementアプリ</a></li>
+            <li><a href="/game/2dx/29/howto/epass/robo_rival.html" target="_top">ロボライバル</a></li>
+            <li><a href="/game/2dx/29/howto/epass/bingo.html" target="_top">師弟システム</a></li>
+            <li><a href="/game/2dx/29/howto/epass/battle.html" target="_top">辻斬りバトル</a></li>
+          </ul>
+        </li>
+        <li><a href="/game/2dx/29/howto/lightning_model/premium.html#search-song" target="_top">新機能一覧</a>
+          <ul>
+            <li><a href="/game/2dx/29/howto/new/multi_spin.html" target="_top">マルチスピンスクラッチ</a></li>
+            <li><a href="/game/2dx/29/howto/lightning_model/random_lane.html" target="_top">ランダムレーンチケット</a></li>
+            <li><a href="/game/2dx/29/howto/new/judgement.html" target="_top">判定調整機能拡張</a></li>
+            <li><a href="/game/2dx/29/howto/new/best_score.html" target="_top">ベストスコアの使用オプション表示</a></li>
+            <li><a href="/game/2dx/29/howto/lightning_model/premium.html#hit-chart" target="_top">ヒットチャート</a></li>
+            <li><a href="/game/2dx/29/howto/new/iidx_tower.html" target="_top">IIDXタワー</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu02"><a href="/game/2dx/29/newsong/index.html" target="_top" class="first-menu"><p></p></a></li>
+  <li id="menu03" class="first-menu">
+    <div class="btn"><p></p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/29/ranking/visit/visit_ranking.html" target="_top">行脚王RANKING</a></li>
+        <li><a href="/game/2dx/29/ranking/dani_course.html" target="_top">段位認定コース</a></li>
+        <li><a href="/game/2dx/29/ranking/dani.html" target="_top">段位認定者総覧</a></li>
+        <li><a href="/game/2dx/29/ranking/weekly.html" target="_top">WEEKLY RANKING</a></li>
+        <li><a href="/game/2dx/29/ranking/arena/top_ranking.html" target="_top">アリーナクラス TOP RANKER RANKING</a></li>
+        <li><a href="/game/2dx/29/ranking/arena/ranking.html" target="_top">アリーナキューブ RANKING</a></li>
+        <li><a href="/game/2dx/29/ranking/topranker.html" target="_top">TOP RANKER</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu04" class="first-menu">
+    <div class="btn"><p></p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/29/event/arena_mode/index.html" target="_top">ARENAモード</a></li>
+        <li><a href="/game/2dx/29/event/world_tourism/index.html" target="_top">WORLD TOURISM</a></li>
+        <li><a href="/game/2dx/29/event/card_connect/index.html" target="_top">CARD CONNECT</a></li>
+        <li><a href="/game/2dx/29/event/casthour_space/index.html" target="_top">CastHour SPACE</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu05" class="first-menu none">
+    <div class="btn"><p></p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/29/djdata/status.html" target="_top">ステータス</a></li>
+        <li><a href="/game/2dx/29/djdata/travel/index.html" target="_top">行脚</a></li>
+        <li><a href="/game/2dx/29/djdata/dani/index.html" target="_top">段位認定</a></li>
+        <li><a href="/game/2dx/29/djdata/music/mybest.html" target="_top">楽曲データ/マイベスト</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/djdata/music/series.html" target="_top">楽曲データ/シリーズ</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/djdata/music/title.html" target="_top">楽曲データ/曲名</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/djdata/music/difficulty.html" target="_top">楽曲データ/難易度別</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/djdata/music/recent.html" target="_top">楽曲データ/最近プレー</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/djdata/arena_mode/index.html" target="_top">ARENAモード</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/djdata/weekly.html" target="_top">WEEKLY RANKING</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/djdata/medal.html" target="_top">トランメダル</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/djdata/tsujigiri/index.html" target="_top">辻斬りバトル</a></li>
+        <li><a href="/game/2dx/29/djdata/playlist/index.html" target="_top">プレイリスト</a></li>
+        <li><a href="/game/2dx/29/djdata/play_recorder/movie_list.html" target="_top">プレー録画機能</a></li>
+        <li><a href="/game/2dx/29/djdata/random_lane/index.html" target="_top">ランダムレーンチケット</a></li>
+        <li><a href="/game/2dx/29/djdata/tower.html" target="_top">IIDXタワー</a></li>
+        <li><a href="/game/2dx/29/djdata/space.html" target="_top">CastHour SPACE</a></li>
+        <li class="icn-p"><a href="/game/2dx/29/djdata/score_download.html" target="_top">スコアデータCSVダウンロード</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu06" class="first-menu none">
+    <div class="btn"><p></p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/29/rival/rival_follow.html" target="_top" class="link_rival1">フォローリスト</a></li>
+        <li><a href="/game/2dx/29/rival/rival_follower.html" target="_top">フォロワーリスト</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/rival/rival_list.html" target="_top">ライバルリスト</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/rival/rival_search.html" target="_top">プレーヤー検索</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/rival/rival2.html" target="_top">逆ライバル情報</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/rival/app_friend_search.html" target="_top">アプリ連動ユーザー検索</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/rival/robo/robo_rival.html" target="_top">ロボライバル</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/rival/rival_challenge/index.html" target="_top">ライバル挑戦状</a></li>
+        <li><a href="/game/2dx/29/rival/bingo/index.html" target="_top">師弟システム</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu07" class="first-menu none">
+    <div class="btn"><p></p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/29/customize/qpro_customize.html" target="_top">クプロカスタマイズ</a></li>
+        <li><a href="/game/2dx/29/customize/public_setting.html" target="_top">公開設定</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/customize/customize.html" target="_top">プレーカスタマイズ</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/customize/djname1.html" target="_top">DJ NAME変更</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu08" class="first-menu none">
+    <div class="btn"><p></p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/2dx/29/room/premium.html" target="_top">プラチナメンバーズカード</a></li>
+        <li><a href="/game/2dx/29/room/q_index.html?kind=0" target="_top">クプロパーツ</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/room/c_index.html?kind=2" target="_top">爆発</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/room/c_index.html?kind=1" target="_top">ターンテーブル</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/room/c_index.html?kind=5&page=1" target="_top">レーンカバー＆グラフエリア</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/room/c_index.html?kind=11" target="_top">判定文字</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/room/c_index.html?kind=8" target="_top">ノーツ</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/room/c_index.html?kind=10" target="_top">キービーム</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/room/c_index.html?kind=9" target="_top">フルコンボ</a></li>
+        <li class="icn-b"><a href="/game/2dx/29/room/a_index.html" target="_top">アーカイブリンク</a></li>
+      </ul>
+    </div>
+  </li>
+</ul>
+    </div>
+    <div id="menu-exp">
+      <ul>
+        <li>IIDXの遊び方や収録楽曲の紹介、各種ランキングの閲覧ができます</li>
+        <li>ご利用にはe-amusementへのログインが必要です</li>
+      </ul>
+    </div>
+  </div>
+  <div id="menu-sp-bar">
+    <div id="title-sp"><a href="/game/2dx/29/index.html" target="_top"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/menu/logo.png" alt="beatmania IIDX 29 CastHour"></a></div>
+    <div id="menu-sp-btn"><span></span><span></span><span></span></div>
+  </div>
+  <div id="menu-global-sp">
+    <ul id="menu-sp">
+  <li class="title-menu">
+    <div id="menu-sp-close"><span></span><span></span></div>
+    <a href="/game/2dx/29/index.html" target="_top"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/menu/logo.png" alt="beatmania IIDX29 CastHour"></a>
+  </li>
+  <li class="first-menu first-off btn-1"><div class="cell">HOW TO PLAY</div></li>
+  <li class="first-menu first-off"><a href="/game/2dx/29/newsong/index.html" target="_top"><div class="cell">NEW SONG</div></a></li>
+  <li class="second-menu second-off cat-1 btn-8"><div class="cell">遊び方について</div></li>
+  <li class="second-menu second-off cat-1 btn-13"><div class="cell">LIGHTNING MODEL</div></li>
+  <li class="third-menu cat-8">
+  <a href="/game/2dx/29/howto/play/game_start.html" target="_top">
+    <div class="cell">ゲームの開始</div>
+  </a>
+  </li>
+  <li class="third-menu cat-8">
+  <a href="/game/2dx/29/howto/play/game_screen.html" target="_top">
+    <div class="cell">ゲーム画面詳細</div>
+  </a>
+  </li>
+  <li class="third-menu cat-8">
+  <a href="/game/2dx/29/howto/play/option.html" target="_top">
+    <div class="cell">ゲームオプション</div>
+  </a>
+  </li>
+  <li class="third-menu cat-8">
+  <a href="/game/2dx/29/howto/play/option_detail.html" target="_top">
+    <div class="cell">詳細オプション</div>
+  </a>
+  </li>
+  <li class="third-menu cat-8">
+  <a href="/game/2dx/29/howto/play/option_speed.html" target="_top">
+    <div class="cell">ハイスピードオプション</div>
+  </a>
+  </li>
+  <li class="third-menu cat-8">
+  <a href="/game/2dx/29/howto/play/tenkey.html" target="_top">
+    <div class="cell">テンキーオプション</div>
+  </a>
+  </li>
+  <li class="third-menu cat-8">
+  <a href="/game/2dx/29/howto/play/effector.html" target="_top">
+    <div class="cell">エフェクター</div>
+  </a>
+  </li>
+  <li class="third-menu cat-8">
+  <a href="/game/2dx/29/howto/play/camera.html" target="_top">
+    <div class="cell">カメラ機能</div>
+  </a>
+  </li>
+  <li class="third-menu cat-8">
+  <a href="/game/2dx/29/howto/play/day_bonus.html" target="_top">
+    <div class="cell">曜日ボーナス</div>
+  </a>
+  </li>
+  <li class="third-menu cat-8">
+  <a href="/game/2dx/29/howto/play/code.html" target="_top">
+    <div class="cell">二次元コード読み取り</div>
+  </a>
+  </li>
+  <li class="third-menu cat-13">
+  <a href="/game/2dx/29/howto/lightning_model/feature.html" target="_top">
+    <div class="cell">LIGHTNING MODELの特徴</div>
+  </a>
+  </li>
+  <li class="third-menu cat-13">
+  <a href="/game/2dx/29/howto/lightning_model/premium.html" target="_top">
+    <div class="cell">プレミアムエリア</div>
+  </a>
+  </li>
+  <li class="third-menu cat-13">
+  <a href="/game/2dx/29/howto/lightning_model/song.html" target="_top">
+    <div class="cell">先行楽曲</div>
+  </a>
+  </li>
+  <li class="third-menu cat-13">
+  <a href="/game/2dx/29/howto/lightning_model/play_recording.html" target="_top">
+    <div class="cell">プレー録画機能</div>
+  </a>
+  </li>
+  <li class="third-menu cat-13">
+  <a href="/game/2dx/29/howto/lightning_model/kiwami.html" target="_top">
+    <div class="cell">段位認定 -極-</div>
+  </a>
+  </li>
+  <li class="third-menu cat-13">
+  <a href="/game/2dx/29/howto/lightning_model/bpl_battle.html" target="_top">
+    <div class="cell">BPL BATTLEモード</div>
+  </a>
+  </li>
+  <li class="second-menu second-off cat-1 btn-9"><div class="cell">GAME MODE</div></li>
+  <li class="second-menu second-off cat-1 btn-10"><div class="cell">e-amusement passを<br>使用した遊び方</div></li>
+  <li class="third-menu cat-9">
+  <a href="/game/2dx/29/howto/mode/game_mode.html#howto_stepup" target="_top">
+    <div class="cell">STEP UP</div>
+  </a>
+  </li>
+  <li class="third-menu cat-9">
+  <a href="/game/2dx/29/howto/mode/game_mode.html#howto_standard" target="_top">
+    <div class="cell">STANDARD</div>
+  </a>
+  </li>
+  <li class="third-menu cat-9">
+  <a href="/game/2dx/29/howto/mode/game_mode.html#howto_dani" target="_top">
+    <div class="cell">段位認定</div>
+  </a>
+  </li>
+  <li class="third-menu cat-9">
+  <a href="/game/2dx/29/howto/mode/game_mode.html#howto_free" target="_top">
+    <div class="cell">FREE</div>
+  </a>
+  </li>
+  <li class="third-menu cat-9">
+  <a href="/game/2dx/29/howto/mode/game_mode.html#howto_freeplus" target="_top">
+    <div class="cell">FREE PLUS</div>
+  </a>
+  </li>
+  <li class="third-menu cat-9">
+  <a href="/game/2dx/29/howto/mode/game_mode.html#howto_hazard" target="_top">
+    <div class="cell">HAZARD</div>
+  </a>
+  </li>
+  <li class="third-menu cat-9">
+  <a href="/game/2dx/29/howto/mode/game_mode.html#howto_premiumfree" target="_top">
+    <div class="cell">PREMIUM FREE</div>
+  </a>
+  </li>
+  <li class="third-menu cat-9">
+    <div class="cell">&nbsp;</div>
+  </li>
+  <li class="third-menu cat-10">
+  <a href="/game/2dx/29/howto/epass/play_data.html" target="_top">
+    <div class="cell">プレーデータ</div>
+  </a>
+  </li>
+  <li class="third-menu cat-10">
+  <a href="/game/2dx/29/howto/epass/score_graph.html" target="_top">
+    <div class="cell">スコアグラフ</div>
+  </a>
+  </li>
+  <li class="third-menu cat-10">
+  <a href="/game/2dx/29/howto/epass/rival.html" target="_top">
+    <div class="cell">ライバル挑戦状</div>
+  </a>
+  </li>
+  <li class="third-menu cat-10">
+  <a href="/game/2dx/29/howto/epass/ea_pass.html" target="_top">
+    <div class="cell">e-amusement pass</div>
+  </a>
+  </li>
+  <li class="third-menu cat-10">
+  <a href="/game/2dx/29/howto/epass/paseli.html" target="_top">
+    <div class="cell">PASELI</div>
+  </a>
+  </li>
+  <li class="third-menu cat-10">
+  <a href="/game/2dx/29/howto/epass/ea_app.html" target="_top">
+    <div class="cell">e-amusementアプリ</div>
+  </a>
+  </li>
+  <li class="third-menu cat-10">
+  <a href="/game/2dx/29/howto/epass/robo_rival.html" target="_top">
+    <div class="cell">ロボライバル</div>
+  </a>
+  </li>
+  <li class="third-menu cat-10">
+  <a href="/game/2dx/29/howto/epass/bingo.html" target="_top">
+    <div class="cell">師弟システム</div>
+  </a>
+  </li>
+  <li class="third-menu cat-10">
+  <a href="/game/2dx/29/howto/epass/battle.html" target="_top">
+    <div class="cell">辻斬りバトル</div>
+  </a>
+  </li>
+  <li class="third-menu cat-10">
+    <div class="cell">&nbsp;</div>
+  </li>
+  <li class="second-menu second-off cat-1 btn-11"><div class="cell">新機能一覧</div></li>
+  <li class="second-menu second-off cat-1"><div class="cell">&nbsp;</div></li>
+  <li class="third-menu cat-11">
+  <a href="/game/2dx/29/howto/new/multi_spin.html" target="_top"><div class="cell">マルチスピンスクラッチ</div></a>
+  </li>
+  <li class="third-menu cat-11">
+  <a href="/game/2dx/29/howto/lightning_model/random_lane.html" target="_top"><div class="cell">ランダムレーンチケット</div></a>
+  </li>
+  <li class="third-menu cat-11">
+  <a href="/game/2dx/29/howto/new/judgement.html" target="_top"><div class="cell">判定調整機能拡張</div></a>
+  </li>
+  <li class="third-menu cat-11">
+  <a href="/game/2dx/29/howto/new/best_score.html" target="_top"><div class="cell">ベストスコアの<br>使用オプション表示</div></a>
+  </li>
+  <li class="third-menu cat-11">
+  <a href="/game/2dx/29/howto/lightning_model/premium.html#hit-chart" target="_top"><div class="cell">ヒットチャート</div></a>
+  </li>
+  <li class="third-menu cat-11">
+  <a href="/game/2dx/29/howto/new/iidx_tower.html" target="_top"><div class="cell">IIDXタワー</div></a>
+  </li>
+  <li class="first-menu btn-2 first-off"><div class="cell">RANKING＆段位認定</div></li>
+  <li class="first-menu btn-12 first-off"><div class="cell">EVENT</div></li>
+  <li class="second-menu cat-2">
+  <a href="/game/2dx/29/ranking/visit/visit_ranking.html" target="_top">
+    <div class="cell">行脚王RANKING</div>
+  </a>
+  </li>
+  <li class="second-menu cat-2">
+  <a href="/game/2dx/29/ranking/dani_course.html" target="_top">
+    <div class="cell">段位認定コース</div>
+  </a>
+  </li>
+  <li class="second-menu cat-2">
+  <a href="/game/2dx/29/ranking/dani.html" target="_top">
+    <div class="cell">段位認定者総覧</div>
+  </a>
+  </li>
+  <li class="second-menu cat-2">
+  <a href="/game/2dx/29/ranking/weekly.html" target="_top">
+    <div class="cell">WEEKLY RANKING</div>
+  </a>
+  </li>
+  <li class="second-menu cat-2">
+  <a href="/game/2dx/29/ranking/arena/top_ranking.html" target="_top">
+    <div class="cell">アリーナクラス
+    <br>TOP RANKER RANKING</div>
+  </a>
+  </li>
+  <li class="second-menu cat-2">
+  <a href="/game/2dx/29/ranking/arena/ranking.html" target="_top">
+    <div class="cell">アリーナキューブ
+    <br>RANKING</div>
+  </a>
+  </li>
+  <li class="second-menu cat-2">
+  <a href="/game/2dx/29/ranking/topranker.html" target="_top">
+    <div class="cell">TOP RANKER</div>
+  </a>
+  </li>
+  <li class="second-menu cat-2">
+    <div class="cell">&nbsp;</div>
+  </li>
+  <li class="second-menu cat-12">
+  <a href="/game/2dx/29/event/arena_mode/index.html" target="_top">
+    <div class="cell">ARENAモード</div>
+  </a>
+  </li>
+  <li class="second-menu cat-12">
+  <a href="/game/2dx/29/event/world_tourism/index.html" target="_top">
+    <div class="cell">WORLD TOURISM</div>
+  </a>
+  </li>
+  <li class="second-menu cat-12">
+  <a href="/game/2dx/29/event/card_connect/index.html" target="_top">
+    <div class="cell">CARD CONNECT</div>
+  </a>
+  </li>
+  <li class="second-menu cat-12">
+  <a href="/game/2dx/29/event/casthour_space/index.html" target="_top">
+    <div class="cell">CastHour SPACE</div>
+  </a>
+  </li>
+  <li class="sns-menu"><a href="https://p.eagate.573.jp/game/facility/search/p/index.html?gkey=IIDX" target="_blank"><div class="cell">設置店検索</div></a></li>
+  <li class="sns-menu"><a href="https://twitter.com/IIDX_OFFICIAL" target="_blank"><div class="cell">@IIDX_OFFICIAL</div></a></li>
+  <li class="back-menu"><a href="/game/2dx/29/index.html" target="_top"><div class="cell">TOPに戻る</div></a></li>
+</ul>
+  </div>
+</nav>
+  <div id="log-on">
+  <ul>
+    <li>
+      <a href="/gate/p/mypage/index.html">
+      <div class="on-icon"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/common/chara_icon_noimage.jpg"></div>
+      <div class="on-cat">コミュニティニックネーム</div>
+      <div class="on-name name_str">---</div>
+      </a>
+    </li>
+    <li>
+      <a href="/game/2dx/29/djdata/status.html">
+      <div class="on-icon"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/common/chara_icon_noimage.jpg"></div>
+      <div class="on-cat">DJ NAME</div>
+      <div class="on-name name_str">---</div>
+      </a>
+    </li>
+  </ul>
+</div>
+  <div id="base">
+    <div id="base-inner">
+      <div id="page-title">NEW SONG</div>
+      <div id="new-list" class="frame">
+        <div id="song" style="margin-top:20px;">
+          <div class="song-abc">
+            <ul>
+              <li><a href="#A">A</a></li>
+              <li><a href="#B">B</a></li>
+              <li class="none">C</li>
+              <li><a href="#D">D</a></li>
+              <li class="none">E</li>
+              <li><a href="#F">F</a></li>
+              <li><a href="#G">G</a></li>
+              <li><a href="#H">H</a></li>
+              <li><a href="#I">I</a></li>
+              <li class="none">J</li>
+              <li><a href="#K">K</a></li>
+              <li><a href="#L">L</a></li>
+              <li class="none">M</li>
+              <li><a href="#N">N</a></li>
+              <li><a href="#O">O</a></li>
+              <li><a href="#P">P</a></li>
+              <li class="none">Q</li>
+              <li><a href="#R">R</a></li>
+              <li><a href="#S">S</a></li>
+              <li><a href="#T">T</a></li>
+              <li class="none">U</li>
+              <li><a href="#V">V</a></li>
+              <li><a href="#W">W</a></li>
+              <li><a href="#X">X</a></li>
+              <li class="none">Y</li>
+              <li class="none">Z</li>
+              <li><a href="#Other">Other</a></li>
+            </ul>
+          </div>
+            <div id="song-list">
+              <div class="new-song" id="A">
+              <a href="/game/2dx/29/newsong/song23.html" target="_top">
+              <div class="song-name">ABSOLUTE EVIL</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum23.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">EUPHORIC FRENCHCORE</div>
+              <div class="song-artist">Yuta Imai</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song36.html" target="_top">
+              <div class="song-name">ALTERNATOR</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum36.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">IRREGULAR OMNIBUS HARDCORE</div>
+              <div class="song-artist">BEMANI Sound Team "dj Hellix"</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song59.html" target="_top">
+              <div class="song-name">AMICABLE</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum59.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">FUTURE POP</div>
+              <div class="song-artist">BEMANI Sound Team "Sota F."</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song40.html" target="_top">
+              <div class="song-name">ANEMONE</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum40.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">EMOTIONAL J-POP</div>
+              <div class="song-artist">BEMANI Sound Team "HuΣeR × Yvya" feat.紫村 花澄</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song09.html" target="_top">
+              <div class="song-name">Angel's Ladder</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum09.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">PIANO TECH</div>
+              <div class="song-artist">xi</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song03.html" target="_top">
+              <div class="song-name">Ariah</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum03.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">UNSUNG REQUIEM</div>
+              <div class="song-artist">satella feat.藍月なくる</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song68.html" target="_top">
+              <div class="song-name">Arkadia</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum68.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">FREEFORM HARDCORE</div>
+              <div class="song-artist">Hommarju ft. Mayumi Morinaga</div>
+              </a>
+            </div>
+            <div class="new-song" id="B">
+              <a href="/game/2dx/29/newsong/song31.html" target="_top">
+              <div class="song-name">Banger Banger Banger Banger</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum31.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">EARLY RAVE</div>
+              <div class="song-artist">nora2r</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song46.html" target="_top">
+              <div class="song-name">Binary Black Hole</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum46.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">BLACK OUT</div>
+              <div class="song-artist">BEMANI Sound Team "D.J.Amuro"</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song16.html" target="_top">
+              <div class="song-name">Blue Bird feat. Kanae Asaba</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum16.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">LATIN FUSION POP</div>
+              <div class="song-artist">Nhato</div>
+              </a>
+            </div>
+            <div class="new-song" id="D">
+              <a href="/game/2dx/29/newsong/song34.html" target="_top">
+              <div class="song-name">DISPARATE</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum34.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">CYBERPUNK</div>
+              <div class="song-artist">BEMANI Sound Team "Captain Sonic"</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song05.html" target="_top">
+              <div class="song-name">DREAM OF SPACE UFO ABDUCTION</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum05.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">ABDUCTION BEAT</div>
+              <div class="song-artist">BEMANI Sound Team "謎の宇宙人スペースX"</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song64.html" target="_top">
+              <div class="song-name">Don't believe the hype</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum64.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">MIXTURE</div>
+              <div class="song-artist">DJ Mass MAD Izm* feat.H14(LEONAIR)</div>
+              </a>
+            </div>
+            <div class="new-song" id="F">
+              <a href="/game/2dx/29/newsong/song35.html" target="_top">
+              <div class="song-name">Fantastic Merry-Go-Round</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum35.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">DIGITAL POP</div>
+              <div class="song-artist">SOUND HOLIC feat. Nana Takahashi</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song18.html" target="_top">
+              <div class="song-name">Fegrix</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum18.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">EURO BEAT</div>
+              <div class="song-artist">Xceon vs DJ Command (Eurobeat Union)</div>
+              </a>
+            </div>
+             <div class="new-song">
+              <a href="/game/2dx/29/newsong/song08.html" target="_top">
+              <div class="song-name">FINALLY BLAZE</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum08.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">ENERGETIC HARDCORE</div>
+              <div class="song-artist">BlackY</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song54.html" target="_top">
+              <div class="song-name">Flying Castle</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum54.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">COLOUR CORE</div>
+              <div class="song-artist">lapix</div>
+              </a>
+            </div>
+            <div class="new-song" id="G">
+              <a href="/game/2dx/29/newsong/song58.html" target="_top">
+              <div class="song-name">Get set, Go! feat.Kanae Asaba</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum58.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">FUTURE BOUNCE</div>
+              <div class="song-artist">MK</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song12.html" target="_top">
+              <div class="song-name">GiGaGaHell</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum12.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">EXTRATONE</div>
+              <div class="song-artist">m1dy, RoughSketch</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song62.html" target="_top">
+              <div class="song-name">GRAVITON</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum62.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">NEUROFUNK</div>
+              <div class="song-artist">BEMANI Sound Team "L.E.D."</div>
+              </a>
+            </div>
+            <div class="new-song" id="H">
+              <a href="/game/2dx/29/newsong/song69.html" target="_top">
+              <div class="song-name">hard-wired</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum69.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">HIDEOUT</div>
+              <div class="song-artist">Yuta Imai ≡ Blacklolita</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song04.html" target="_top">
+              <div class="song-name">HEARTACHE</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum04.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">HEALING FUTURE</div>
+              <div class="song-artist">BEMANI Sound Team "HuΣeR" feat.ゆきまめ</div>
+              </a>
+            </div>
+            <div class="new-song" id="I">
+              <a href="/game/2dx/29/newsong/song25.html" target="_top">
+              <div class="song-name">ILAYZA</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum25.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">EMOTIONAL SENTENCE -INSTRUMENTAL-</div>
+              <div class="song-artist">BEMANI Sound Team "TAG"</div>
+              </a>
+            </div>
+            <div class="new-song" id="K">
+              <a href="/game/2dx/29/newsong/song39.html" target="_top">
+              <div class="song-name">kors k's How to make OTOGE CORE</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum39.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">CHANNEL K</div>
+              <div class="song-artist">kors k</div>
+              </a>
+            </div>
+            <div class="new-song" id="L">
+              <a href="/game/2dx/29/newsong/song27.html" target="_top">
+              <div class="song-name">Lawes's Parotia</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum27.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">PROGRESSIVE METAL</div>
+              <div class="song-artist">BEMANI Sound Team "Yvya"</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song45.html" target="_top">
+              <div class="song-name">Legendary Treasures</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum45.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">ADVENTURE TRIP</div>
+              <div class="song-artist">BEMANI Sound Team "劇団レコード"</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song63.html" target="_top">
+              <div class="song-name">LIVE DRIVING!! feat. 花たん</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum63.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">HARD ELECTRIC POP</div>
+              <div class="song-artist">BEMANI Sound Team "S-C-U vs L.E.D."</div>
+              </a>
+            </div>
+            <div class="new-song" id="N">
+              <a href="/game/2dx/29/newsong/song22.html" target="_top">
+              <div class="song-name">n/a</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum22.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">SYMPHONIC DUBSTEP</div>
+              <div class="song-artist">Blacklolita</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song51.html" target="_top">
+              <div class="song-name">Nocturnal 2097</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum51.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">DARKSYNTH</div>
+              <div class="song-artist">Dirty Androids</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song20.html" target="_top">
+              <div class="song-name">Non Stop Rock</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum20.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">DRUM'N'BASS</div>
+              <div class="song-artist">Masayoshi Iimori</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song47.html" target="_top">
+              <div class="song-name">N.O.</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum47.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">ASTRONOMICAL TECHNO</div>
+              <div class="song-artist">かめりあ</div>
+              </a>
+            </div>
+            <div class="new-song" id="O">
+              <a href="/game/2dx/29/newsong/song33.html" target="_top">
+              <div class="song-name">Onyx</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum33.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">STYLISH COLOUR</div>
+              <div class="song-artist">BEMANI Sound Team "HuΣeR"</div>
+              </a>
+            </div>
+            <div class="new-song" id="P">
+              <a href="/game/2dx/29/newsong/song10.html" target="_top">
+              <div class="song-name">PIRATES BLADE</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum10.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">STORMY SEA</div>
+              <div class="song-artist">BEMANI Sound Team "劇団レコード"</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song52.html" target="_top">
+              <div class="song-name">Pout</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum_large/thum52.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">FUTURE BASS</div>
+              <div class="song-artist">BEMANI Sound Team "SYUNN"</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song01.html" target="_top">
+              <div class="song-name">P.O.W.E.R.</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum01.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">RAWSTYLE</div>
+              <div class="song-artist">Yuta Imai</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song65.html" target="_top">
+              <div class="song-name">PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum65.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">LIGHTNING EUROBEAT</div>
+              <div class="song-artist">BEMANI Sound Team "L.E.D."</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song06.html" target="_top">
+              <div class="song-name">Prohibited Props</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum06.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">VARIABLE FUTURE BASS</div>
+              <div class="song-artist">BEMANI Sound Team "ZAQUVA"</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song11.html" target="_top">
+              <div class="song-name">Purple Perplex</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum11.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">MELODIC RIDDIM</div>
+              <div class="song-artist">Eagle</div>
+              </a>
+            </div>
+            <div class="new-song" id="R">
+              <a href="/game/2dx/29/newsong/song66.html" target="_top">
+              <div class="song-name">RAGE feat.H14 of LEONAIR</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum66.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">MIXTURE</div>
+              <div class="song-artist">DJ Mass MAD Izm*</div>
+              </a>
+            </div>
+            <div class="new-song" id="S">
+              <a href="/game/2dx/29/newsong/song32.html" target="_top">
+              <div class="song-name">Silver Bullet</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum32.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">PIANO CONCERTINO + JAZZ FUSION</div>
+              <div class="song-artist">xi</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song19.html" target="_top">
+              <div class="song-name">Skreaming for Salvation</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum19.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">DIGITAL HARDCORE</div>
+              <div class="song-artist">RoughSkreamZ</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song57.html" target="_top">
+              <div class="song-name">Smalt #28598F</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum57.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">TECH DANCE</div>
+              <div class="song-artist">REMO-CON</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song49.html" target="_top">
+              <div class="song-name">SOLID WYVERN</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum49.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">HARDPSY</div>
+              <div class="song-artist">BEMANI Sound Team "L.E.D."</div>
+              </a>
+            </div>
+            <div class="new-song" id="T">
+              <a href="/game/2dx/29/newsong/song13.html" target="_top">
+              <div class="song-name">Tail Lights</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum13.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">TRANCE</div>
+              <div class="song-artist">BEMANI Sound Team "dj TAKA" feat.nana hatori</div>
+              </a>
+            </div>
+            <div class="new-song" id="V">
+              <a href="/game/2dx/29/newsong/song24.html" target="_top">
+              <div class="song-name">Ventriloquist</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum24.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">JAZZY STEP</div>
+              <div class="song-artist">Avans</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song15.html" target="_top">
+              <div class="song-name">Victory Of Ravers</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum15.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">HARDCORE RAVE</div>
+              <div class="song-artist">DJ Shimamura</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song29.html" target="_top">
+              <div class="song-name">Votania Beat</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum29.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">BEAT MUSIC</div>
+              <div class="song-artist">まろん vs. ビートまりお</div>
+              </a>
+            </div>
+             <div class="new-song" id="W">
+              <a href="/game/2dx/29/newsong/song56.html" target="_top">
+              <div class="song-name">WHA</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum56.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">CROSSO-WHA-R</div>
+              <div class="song-artist">かめりあ involving ななひら</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song07.html" target="_top">
+              <div class="song-name">Wonderful Escape</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum07.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">NU DRUM & BASS</div>
+              <div class="song-artist">D&#201 D&#201 MOUSE</div>
+              </a>
+            </div>
+            <div class="new-song" id="X">
+              <a href="/game/2dx/29/newsong/song21.html" target="_top">
+              <div class="song-name">Xyndrome</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum21.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">FRENCHCORE</div>
+              <div class="song-artist">nora2r</div>
+              </a>
+            </div>
+            <div class="new-song" id="Other">
+              <a href="/game/2dx/29/newsong/song37.html" target="_top">
+              <div class="song-name">青の洞窟</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum37.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">AQUARIUM QUARTERSTEP</div>
+              <div class="song-artist">Ujico*</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song55.html" target="_top">
+              <div class="song-name">アクマフカ</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum55.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">ROCK</div>
+              <div class="song-artist">Pizuya's Cell</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song53.html" target="_top">
+              <div class="song-name">天邪鬼</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum53.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">HARD DANCE</div>
+              <div class="song-artist">Qlarabelle</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song28.html" target="_top">
+              <div class="song-name">愛しくてラヴィンユー ft. マナ</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum28.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">EURO BEAT</div>
+              <div class="song-artist">Xceon</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song26.html" target="_top">
+              <div class="song-name">ウツシミウツシ</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum26.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">ALTERNATIVE DANCE CORE</div>
+              <div class="song-artist">BEMANI Sound Team "PHQUASE" feat.ぁゅ</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song17.html" target="_top">
+              <div class="song-name">オールトの雲</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum17.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">GALAXY QUEST</div>
+              <div class="song-artist">OSTER project</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song41.html" target="_top">
+              <div class="song-name">怪物</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum41.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">IIDX EDITION</div>
+              <div class="song-artist">Remixed by Nhato feat. ricono</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song43.html" target="_top">
+              <div class="song-name">ぐだふわエブリデー</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum43.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">IIDX EDITION</div>
+              <div class="song-artist">Remixed by Xceon feat. Marcia(幽閉サテライト)</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song02.html" target="_top">
+              <div class="song-name">口カラ凸ゲキ</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum02.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">HUMAN BEATBOX ELECTRO</div>
+              <div class="song-artist">SARUKANI × Blacklolita</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song50.html" target="_top">
+              <div class="song-name">グッバイ宣言</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum50.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">IIDX EDITION</div>
+              <div class="song-artist">Remixed by uno(IOSYS) & Liqo feat. Chiyoko</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song14.html" target="_top">
+              <div class="song-name">月とミルク</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum14.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">CHIPBREAK POP</div>
+              <div class="song-artist">TORIENA</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song30.html" target="_top">
+              <div class="song-name">ナイトフィクション</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum30.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">ALTERNATIVE</div>
+              <div class="song-artist">中山真斗 feat. CHAN</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song61.html" target="_top">
+              <div class="song-name">ハイテックトキオ</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum61.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">ハイテックトキオ</div>
+              <div class="song-artist">lapix &#8734 BEMANI Sound Team "Sota Fujimori"</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song44.html" target="_top">
+              <div class="song-name">烽火連天の刃</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum44.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">CYBER TAIGA</div>
+              <div class="song-artist">OSTER project</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song67.html" target="_top">
+              <div class="song-name">禊</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum67.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">HARD PSY TRANCE</div>
+              <div class="song-artist">Nhato</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song42.html" target="_top">
+              <div class="song-name">ミュージック・アワー</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum42.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">IIDX EDITION</div>
+              <div class="song-artist">Remixed by BEMANI Sound Team "PON"</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song38.html" target="_top">
+              <div class="song-name">めでてえ</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum38.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">ハッピースピードコア</div>
+              <div class="song-artist">TORIENA</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song48.html" target="_top">
+              <div class="song-name">808monkey</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum48.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">JUNGLE TERROR</div>
+              <div class="song-artist">AJURIKA</div>
+              </a>
+            </div>
+            <div class="new-song">
+              <a href="/game/2dx/29/newsong/song60.html" target="_top">
+              <div class="song-name">10000 MILES AWAY</div>
+              <div class="song-img"><img src="https://eacache.s.konaminet.jp/game/2dx/29/images/newsong/thum/thum60.jpg" alt="NEW SONG"></div>
+              <div class="song-cat">DRUMSTEP</div>
+              <div class="song-artist">AJURIKA</div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="concept frame">
+        <div class="title-side">
+          <span>Concept of CastHour</span>
+          <span>side:SOUND by IIDX Sound Team</span>
+        </div>
+        今回のbeatmania IIDX 29 CastHourのコンセプトは「チャンネル」です。<br><br>
+        ここでのチャンネルとはメディア（情報の媒介）または、情報の発信源と捉えています。<br>
+        かつてはテレビやラジオ、または雑誌等の大きなメディアからの発信がメインでした。<br>
+        時は流れて現在は個人が独自のチャンネルを保有する事が可能となり、多種多様な情報発信がなされています。<br><br>
+        そんな多様性を極めた現代的なSNS等のチャンネル、だけでなくこれまでの既存のメディアや、<br class="sp-br">
+        それこそ現場で局地的なトレンドを発信するDJの様な、あらゆる情報発信源をイメージして楽曲を制作しています。<br><br>
+        今回もBEMANI Sound Teamをメインに、レギュラー陣から話題の楽曲まで様々な楽曲をお送り致します。<br><br>
+        このbeatmania IIDX 29 CastHourをプレーして頂く皆さんも、一個の「チャンネル」となり得ると思います。<br><br>
+        それではbeatmania IIDX 29 CastHourを是非、お楽しみください。
+      </div>
+      <div class="concept frame">
+        <div class="title-side">
+          <span>Concept of CastHour</span>
+          <span>side:VISUAL by IIDX Designers</span>
+        </div>
+        今作のコンセプトは「チャンネル」です。<br><br>
+        これいいな！ あれ格好いいな！ いやいやそれの方がおもしろいでしょ！<br>
+        など、「いいなor興味なし」の選択を繰り返して「私」という「チャンネル（個性）」が出来上がるように<br class="sp-br">
+        IIDXもこれまで、皆様からの沢山の「いいね」とともに「チャンネル」を作り上げてまいりました。<br><br>
+        IIDXというプラットフォームの中で、お気に入りの曲や仲間を見つけたり、自らを表現・発信するなど…<br>
+        あなた自身の「チャンネル」を是非広げてみてください！<br>
+        私たちIIDXデザインチームは、IIDXを通して皆様に最高の「CastHour」をお届けします！<br>
+        是非お楽しみください！
+      </div>
+    </div>
+  </div>
+<div id="page-top"><a href="#id_nav_menu_1"></a></div>
+          <input type="hidden" id="id_ea_common_content_bottom" value="p.eagate.573.jp">
+        </div>
+      </div>
+              <footer>
+        <ul class="ea_common_center">
+              <li class="cl_ea_variable_document" data-id="eavd_help"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_terms"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_privacy_policy"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_ext_trans"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_specific"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_site_policy"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_manner_rule"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_contact"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_facility_search"></li>
+              <li><a class="ot-sdk-show-settings" style="cursor:pointer;"></a></li>
+        </ul>
+        <p>&copy;2026 Konami Arcade Games</p>
+      </footer>
+    </div>
+    <div id="page-cover"></div>
+  </div>
+  <input id="id_ea_feed" type="hidden" data-msg="" data-path="" data-hashtag />
+  <input id="id_ea_menu_ctrl" type="hidden" value="simplify:notfix">
+  <input id="id_ea_reserve_url" type="hidden" value="" data-reserve_url="/game/2dx/29/newsong/index.html" data-self="/game/2dx/29/newsong/index.html">
+  <script>
+    ea_common_template.context = {
+       top_dir:'/game/2dx/29/',
+       this_dir:'/game/2dx/29/newsong/',
+       this_file:'index.html',
+       cache_locator: 'https://eacache.s.konaminet.jp'
+    };
+  </script>
+    <script>ea_common_template.userstatus={"99":{"maintxt":"\u30B7\u30B9\u30C6\u30E0\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002\u7533\u3057\u8A33\u3042\u308A\u307E\u305B\u3093\u304C\u6642\u9593\u3092\u7F6E\u3044\u3066\u518D\u5EA6\u304A\u8A66\u3057\u304F\u3060\u3055\u3044\u3002","path":null,"linktxt":""},"1":{"maintxt":"\u3053\u306E\u30B3\u30F3\u30C6\u30F3\u30C4\u3092\u95B2\u89A7\u3059\u308B\u306B\u306F\u30ED\u30B0\u30A4\u30F3\u3057\u3066\u304F\u3060\u3055\u3044\u3002","path":"/gate/p/login.html?path=/game/2dx/29/newsong/index.html","linktxt":"\u30ED\u30B0\u30A4\u30F3\u3059\u308B\u306B\u306F\u3053\u3061\u3089"},"2":{"maintxt":"\u30D9\u30FC\u30B7\u30C3\u30AF\u30B3\u30FC\u30B9\u3078\u306E\u52A0\u5165\u304C\u5FC5\u8981\u3067\u3059\u3002","path":"/payment/p/select_course.html?course=eaBASIC","linktxt":"\u30B3\u30FC\u30B9\u52A0\u5165\u3059\u308B\u306B\u306F\u3053\u3061\u3089","reserve_url":true},"3":{"maintxt":"\u30D7\u30EC\u30DF\u30A2\u30E0\u30B3\u30FC\u30B9\u3078\u306E\u52A0\u5165\u304C\u5FC5\u8981\u3067\u3059\u3002","path":"/payment/p/select_course.html?course=eaPREMIUM","linktxt":"\u30B3\u30FC\u30B9\u52A0\u5165\u3059\u308B\u306B\u306F\u3053\u3061\u3089","reserve_url":true},"4":{"maintxt":"\u53C2\u7167\u4E2D\u306Ee-amusement pass\u304C\u3042\u308A\u307E\u305B\u3093\u3002","path":"/gate/eapass/menu.html","linktxt":"e-amusement pass\u3092\u53C2\u7167\u4E2D\u306B\u3059\u308B\u306B\u306F","reserve_url":true},"5":{"maintxt":"\u30D7\u30EC\u30FC\u30C7\u30FC\u30BF\u304C\u3042\u308A\u307E\u305B\u3093\u3002","path":"/gate/eapass/menu.html","linktxt":"e-amusement pass\u3092\u5207\u308A\u66FF\u3048\u308B\u306B\u306F","reserve_url":true},"region":"notlogin","state":{"course":{},"eapass":null,"login":false,"playdata":false,"sg":{},"subscription":false}};</script>
+</body>
+</html>

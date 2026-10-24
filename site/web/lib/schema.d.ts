@@ -304,12 +304,23 @@ export interface components {
              * @default 収録
              * @enum {string}
              */
-            listing_kind: "収録" | "BMS登録" | "公式許諾曲" | "追加告知" | "大会向け提供";
+            listing_kind: "収録" | "BMS登録" | "公式許諾曲" | "追加告知" | "大会向け提供" | "収録候補";
             /**
              * Edition
              * @default
              */
             edition: string;
+            /**
+             * Source Kind
+             * @default primary
+             * @enum {string}
+             */
+            source_kind: "primary" | "primary_reproduction" | "secondary";
+            /**
+             * Source Label
+             * @default
+             */
+            source_label: string;
         };
         /** ErrorBody */
         ErrorBody: {
