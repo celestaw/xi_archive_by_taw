@@ -1,0 +1,16 @@
+{
+  "mobile": {
+    "dateWeight": "600",
+    "family": "\"Segoe UI Variable\", \"Segoe UI\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, sans-serif",
+    "headingWeight": "700",
+    "overflow": false,
+    "titleWeight": "600",
+    "width": 337,
+    "yearWeight": "700"
+  },
+  "desktop": {
+    "overflow": false,
+    "width": 1280,
+    "yearWeight": "700"
+  }
+}
