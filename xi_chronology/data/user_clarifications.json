@@ -10,7 +10,47 @@
       "元リストのWorld fragments単独行は三部作へのまとめた参照として対応付け、アルバム自体を4曲目として数えない。",
       "元リストのStorm and inpulseはStorm and Impulseを指す表記として原文を保全し、疾風怒濤の英語タイトルへの参照として同曲へ対応付ける。"
     ],
-    "work_ids": ["XI-076", "XI-077", "XI-078", "XI-143"],
+    "work_ids": [
+      "XI-076",
+      "XI-077",
+      "XI-078",
+      "XI-143"
+    ],
     "external_primary_source_status": "今回の別名・元リストの意図の補足は利用者提供。外部の一次資料を今回新たに確認したものではない。"
+  },
+  {
+    "id": "USER-20261025-001",
+    "date": "2026-10-25",
+    "source_type": "user_clarification",
+    "source": "このチャットでの利用者の判断",
+    "original_text": "Dusk to dawn以外は入ってるの知ってる\nそれだけ調べてくる",
+    "interpretation": [
+      "直前に提示した22件のうち、Dusk to Dawn以外の21件は当該ゲームへの収録を利用者が確認。",
+      "Dusk to Dawnは利用者が調査予定のため保留。",
+      "この判断は収録関係についての利用者確認であり、外部一次資料・日付・名義の確認と区別する。"
+    ],
+    "work_ids": [
+      "XI-069",
+      "XI-026",
+      "XI-075",
+      "XI-078",
+      "XI-074",
+      "XI-080",
+      "XI-017",
+      "XI-051",
+      "XI-034",
+      "XI-218",
+      "XI-052",
+      "XI-072",
+      "XI-059",
+      "XI-099",
+      "XI-066",
+      "XI-096",
+      "XI-206",
+      "XI-220",
+      "XI-107"
+    ],
+    "review_file": "game_user_reviews.json",
+    "external_primary_source_status": "新たな外部一次資料の取得は行っていない。元の調査根拠は保持し、利用者確認を別記録として保存。"
   }
 ]
