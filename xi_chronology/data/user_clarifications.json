@@ -52,5 +52,23 @@
     ],
     "review_file": "game_user_reviews.json",
     "external_primary_source_status": "新たな外部一次資料の取得は行っていない。元の調査根拠は保持し、利用者確認を別記録として保存。"
+  },
+  {
+    "id": "USER-20261025-002",
+    "date": "2026-10-25",
+    "source_type": "user_clarification",
+    "source": "このチャットでの利用者の確認と所感",
+    "original_text": "Dual to dawnは見つけました、deemo 3.2で入ってる\nしかもこれcrimson phoenixに近い曲調してるからその二つは関連つけられるわ、どっちの方が先だっけ？",
+    "interpretation": [
+      "文脈上、Dual to dawnは前の候補XI-182 Dusk to Dawnを指すものとして対応付け。元の記載はそのまま保持。",
+      "利用者がDusk to DawnのDEEMO 3.2収録を確認。",
+      "Crimson Phoenixとの曲調の近さを利用者の所感として関連付け。公式な続編・引用・別バージョンや制作上の影響関係とは確定しない。"
+    ],
+    "work_ids": [
+      "XI-182",
+      "XI-177"
+    ],
+    "review_file": "dusk_crimson_comparison.json",
+    "external_primary_source_status": "利用者の確認とは別に、本人の2018-02-12収録報告をX公式oEmbedで取得。日付の食い違いと公開順の留保は比較データへ保存。"
   }
 ]

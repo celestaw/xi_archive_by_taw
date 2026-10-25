@@ -5,7 +5,7 @@
   "original_text": "Dusk to dawn以外は入ってるの知ってる\nそれだけ調べてくる",
   "basis_snapshot_commit": "6b787ad",
   "decision_scope": "提示した22件のうち、Dusk to Dawn以外の21件について、当該ゲームへの収録を利用者が確認。パック名・初収録日・担当名義・公式試聴先を新たに確認したものではない。",
-  "pending_note": "Dusk to DawnのDEEMO収録については利用者が調査予定。結果待ちとして保持し、収録・非収録を確定しない。",
+  "pending_note": "2026-10-25追記：利用者がDusk to DawnのDEEMO 3.2収録を確認したため保留を解消。以前の保留は当該項目のdecision_historyへ保持。",
   "entries": [
     {
       "review_number": 1,
@@ -193,11 +193,21 @@
       "game_title": "DEEMO",
       "work_id": "XI-182",
       "title": "Dusk to Dawn",
-      "decision": "pending_user_research",
+      "decision": "user_confirmed",
       "source_type": "user_clarification",
-      "source_id": "USER-20261025-001",
+      "source_id": "USER-20261025-002",
       "existing_source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
-      "external_primary_source_verified": false
+      "external_primary_source_verified": true,
+      "decision_history": [
+        {
+          "decision": "pending_user_research",
+          "source_id": "USER-20261025-001",
+          "date": "2026-10-25"
+        }
+      ],
+      "version_claim": "DEEMO 3.2",
+      "external_primary_source_url": "https://x.com/com_giko_31/status/963018657113632768",
+      "external_verification_note": "本人の公開収録報告をX公式oEmbedで取得し、DEEMO 3.2・Funkot Collection・Dusk to Dawn / xiを確認。初収録日は別調査。"
     },
     {
       "review_number": 17,
@@ -271,5 +281,11 @@
       "existing_source_url": "https://wikiwiki.jp/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88",
       "external_primary_source_verified": false
     }
-  ]
+  ],
+  "current_status": {
+    "user_confirmed_count": 22,
+    "pending_count": 0,
+    "latest_source_id": "USER-20261025-002",
+    "comparison_file": "dusk_crimson_comparison.json"
+  }
 }
