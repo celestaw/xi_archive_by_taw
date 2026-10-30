@@ -1,0 +1,1748 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "xi archive API",
+    "description": "非公式作品年表。日付は確認できた公開記録であり、作曲日・真の初公開日とは限らない。",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/api/v1/health": {
+      "get": {
+        "summary": "Health",
+        "operationId": "getHealth",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Health"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Unprocessable Entity",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/meta": {
+      "get": {
+        "summary": "Get Meta",
+        "operationId": "getMeta",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ArchiveMeta"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Unprocessable Entity",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/timeline": {
+      "get": {
+        "summary": "Get Timeline",
+        "operationId": "getTimeline",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TimelineList"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Unprocessable Entity",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/albums": {
+      "get": {
+        "summary": "List Albums",
+        "operationId": "listAlbums",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CollectionList"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Unprocessable Entity",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/albums/{album_id}": {
+      "get": {
+        "summary": "Get Album",
+        "operationId": "getAlbum",
+        "parameters": [
+          {
+            "name": "album_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Album Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CollectionDetail"
+                }
+              }
+            }
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Unprocessable Entity"
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Internal Server Error"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/api/v1/games": {
+      "get": {
+        "summary": "List Games",
+        "operationId": "listGames",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CollectionList"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Unprocessable Entity",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/games/{game_id}": {
+      "get": {
+        "summary": "Get Game",
+        "operationId": "getGame",
+        "parameters": [
+          {
+            "name": "game_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Game Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CollectionDetail"
+                }
+              }
+            }
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Unprocessable Entity"
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Internal Server Error"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/api/v1/works": {
+      "get": {
+        "summary": "List Works",
+        "operationId": "listWorks",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 120,
+              "default": "",
+              "title": "Q"
+            }
+          },
+          {
+            "name": "year",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer",
+                  "maximum": 2100,
+                  "minimum": 1900
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Year"
+            }
+          },
+          {
+            "name": "date_status",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "enum": [
+                "all",
+                "dated",
+                "undated"
+              ],
+              "type": "string",
+              "default": "all",
+              "title": "Date Status"
+            }
+          },
+          {
+            "name": "attribution",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "enum": [
+                "all",
+                "credited",
+                "unverified"
+              ],
+              "type": "string",
+              "default": "all",
+              "title": "Attribution"
+            }
+          },
+          {
+            "name": "medium",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "maxLength": 200
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Medium"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 100,
+              "minimum": 1,
+              "default": 40,
+              "title": "Limit"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 100000,
+              "minimum": 0,
+              "default": 0,
+              "title": "Offset"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WorkList"
+                }
+              }
+            }
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Unprocessable Entity"
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/api/v1/works/{work_id}": {
+      "get": {
+        "summary": "Get Work",
+        "operationId": "getWork",
+        "parameters": [
+          {
+            "name": "work_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Work Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WorkDetail"
+                }
+              }
+            }
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Unprocessable Entity"
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Internal Server Error"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Not Found"
+          }
+        }
+      }
+    },
+    "/api/v1/works/{work_id}/context": {
+      "get": {
+        "summary": "Get Work Context",
+        "operationId": "getWorkContext",
+        "parameters": [
+          {
+            "name": "work_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Work Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WorkContext"
+                }
+              }
+            }
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Unprocessable Entity"
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Internal Server Error"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Not Found"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Alias": {
+        "properties": {
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "kind": {
+            "type": "string",
+            "title": "Kind"
+          },
+          "evidence_status": {
+            "type": "string",
+            "title": "Evidence Status"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "title",
+          "kind",
+          "evidence_status"
+        ],
+        "title": "Alias"
+      },
+      "ApiError": {
+        "properties": {
+          "error": {
+            "$ref": "#/components/schemas/ErrorBody"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "error"
+        ],
+        "title": "ApiError"
+      },
+      "ArchiveMeta": {
+        "properties": {
+          "schema_version": {
+            "type": "integer",
+            "const": 1,
+            "title": "Schema Version",
+            "default": 1
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          },
+          "total_entries": {
+            "type": "integer",
+            "title": "Total Entries"
+          },
+          "credited_entries": {
+            "type": "integer",
+            "title": "Credited Entries"
+          },
+          "dated_entries": {
+            "type": "integer",
+            "title": "Dated Entries"
+          },
+          "undated_entries": {
+            "type": "integer",
+            "title": "Undated Entries"
+          },
+          "years": {
+            "items": {
+              "type": "integer"
+            },
+            "type": "array",
+            "title": "Years"
+          },
+          "mediums": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Mediums"
+          },
+          "date_notice": {
+            "type": "string",
+            "title": "Date Notice"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "checked_on",
+          "total_entries",
+          "credited_entries",
+          "dated_entries",
+          "undated_entries",
+          "years",
+          "mediums",
+          "date_notice"
+        ],
+        "title": "ArchiveMeta"
+      },
+      "CollectionDetail": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "album",
+              "game"
+            ],
+            "title": "Kind"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "category": {
+            "type": "string",
+            "title": "Category"
+          },
+          "entry_count": {
+            "type": "integer",
+            "title": "Entry Count"
+          },
+          "source_url": {
+            "type": "string",
+            "title": "Source Url"
+          },
+          "release_records": {
+            "items": {
+              "$ref": "#/components/schemas/PublicationRecord"
+            },
+            "type": "array",
+            "title": "Release Records"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          },
+          "tracks": {
+            "items": {
+              "$ref": "#/components/schemas/CollectionTrack"
+            },
+            "type": "array",
+            "title": "Tracks"
+          },
+          "note": {
+            "type": "string",
+            "title": "Note"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "id",
+          "kind",
+          "title",
+          "category",
+          "entry_count",
+          "source_url",
+          "release_records",
+          "checked_on",
+          "tracks",
+          "note"
+        ],
+        "title": "CollectionDetail"
+      },
+      "CollectionList": {
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/components/schemas/CollectionSummary"
+            },
+            "type": "array",
+            "title": "Items"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "items"
+        ],
+        "title": "CollectionList"
+      },
+      "CollectionSummary": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "album",
+              "game"
+            ],
+            "title": "Kind"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "category": {
+            "type": "string",
+            "title": "Category"
+          },
+          "entry_count": {
+            "type": "integer",
+            "title": "Entry Count"
+          },
+          "source_url": {
+            "type": "string",
+            "title": "Source Url"
+          },
+          "release_records": {
+            "items": {
+              "$ref": "#/components/schemas/PublicationRecord"
+            },
+            "type": "array",
+            "title": "Release Records"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "id",
+          "kind",
+          "title",
+          "category",
+          "entry_count",
+          "source_url",
+          "release_records",
+          "checked_on"
+        ],
+        "title": "CollectionSummary"
+      },
+      "CollectionTrack": {
+        "properties": {
+          "work_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Work Id"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "credited_name": {
+            "type": "string",
+            "title": "Credited Name"
+          },
+          "role": {
+            "type": "string",
+            "title": "Role"
+          },
+          "attribution": {
+            "type": "string",
+            "enum": [
+              "credited",
+              "unverified"
+            ],
+            "title": "Attribution"
+          },
+          "disc": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Disc"
+          },
+          "track_number": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Track Number"
+          },
+          "source_url": {
+            "type": "string",
+            "title": "Source Url"
+          },
+          "evidence": {
+            "type": "string",
+            "title": "Evidence"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          },
+          "listening": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/ListeningLink"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "note": {
+            "type": "string",
+            "title": "Note"
+          },
+          "listing_kind": {
+            "type": "string",
+            "enum": [
+              "収録",
+              "BMS登録",
+              "公式許諾曲",
+              "追加告知",
+              "大会向け提供",
+              "収録候補"
+            ],
+            "title": "Listing Kind",
+            "default": "収録"
+          },
+          "edition": {
+            "type": "string",
+            "title": "Edition",
+            "default": ""
+          },
+          "source_kind": {
+            "type": "string",
+            "enum": [
+              "primary",
+              "primary_reproduction",
+              "secondary"
+            ],
+            "title": "Source Kind",
+            "default": "primary"
+          },
+          "source_label": {
+            "type": "string",
+            "title": "Source Label",
+            "default": ""
+          },
+          "genre": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Genre"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "work_id",
+          "title",
+          "credited_name",
+          "role",
+          "attribution",
+          "disc",
+          "track_number",
+          "source_url",
+          "evidence",
+          "checked_on",
+          "listening",
+          "note"
+        ],
+        "title": "CollectionTrack"
+      },
+      "ErrorBody": {
+        "properties": {
+          "code": {
+            "type": "string",
+            "enum": [
+              "not_found",
+              "invalid_request",
+              "internal_error"
+            ],
+            "title": "Code"
+          },
+          "message": {
+            "type": "string",
+            "title": "Message"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "code",
+          "message"
+        ],
+        "title": "ErrorBody"
+      },
+      "Genre": {
+        "properties": {
+          "label": {
+            "type": "string",
+            "title": "Label"
+          },
+          "medium": {
+            "type": "string",
+            "title": "Medium",
+            "description": "ジャンル表記を確認した媒体。移植先独自のジャンルとは限らない。"
+          },
+          "source_url": {
+            "type": "string",
+            "title": "Source Url"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "label",
+          "medium",
+          "source_url",
+          "checked_on"
+        ],
+        "title": "Genre"
+      },
+      "Health": {
+        "properties": {
+          "status": {
+            "type": "string",
+            "const": "ok",
+            "title": "Status",
+            "default": "ok"
+          },
+          "api_version": {
+            "type": "string",
+            "const": "v1",
+            "title": "Api Version",
+            "default": "v1"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "title": "Health"
+      },
+      "ListeningLink": {
+        "properties": {
+          "url": {
+            "type": "string",
+            "title": "Url"
+          },
+          "label": {
+            "type": "string",
+            "title": "Label"
+          },
+          "version": {
+            "type": "string",
+            "title": "Version"
+          },
+          "official_basis": {
+            "type": "string",
+            "title": "Official Basis"
+          },
+          "officialness_source_url": {
+            "type": "string",
+            "title": "Officialness Source Url"
+          },
+          "availability": {
+            "type": "string",
+            "title": "Availability"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "url",
+          "label",
+          "version",
+          "official_basis",
+          "officialness_source_url",
+          "availability"
+        ],
+        "title": "ListeningLink"
+      },
+      "Pronunciation": {
+        "properties": {
+          "reading": {
+            "type": "string",
+            "minLength": 1,
+            "title": "Reading"
+          },
+          "basis": {
+            "type": "string",
+            "enum": [
+              "author_suggestion",
+              "author_confirmed"
+            ],
+            "title": "Basis",
+            "description": "作者の読み方案と、作者が確定した読みを区別する。推測読みは含めない。"
+          },
+          "source_url": {
+            "type": "string",
+            "title": "Source Url"
+          },
+          "source_date": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Source Date",
+            "description": "読みを示した本人投稿の日付。確認できた場合のみYYYY-MM-DDで保持。"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "reading",
+          "basis",
+          "source_url",
+          "checked_on"
+        ],
+        "title": "Pronunciation"
+      },
+      "PublicSource": {
+        "properties": {
+          "kind": {
+            "type": "string",
+            "enum": [
+              "primary",
+              "secondary"
+            ],
+            "title": "Kind"
+          },
+          "label": {
+            "type": "string",
+            "title": "Label"
+          },
+          "url": {
+            "type": "string",
+            "title": "Url"
+          },
+          "credit": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Credit"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "kind",
+          "label",
+          "url",
+          "credit",
+          "checked_on"
+        ],
+        "title": "PublicSource",
+        "description": "Public citation only; no input locators, identity investigation or workflow."
+      },
+      "PublicationRecord": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "date": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Date",
+            "description": "YYYY / YYYY-MM / YYYY-MM-DD. 不明はnull。保存日時ではない。"
+          },
+          "precision": {
+            "anyOf": [
+              {
+                "type": "string",
+                "enum": [
+                  "year",
+                  "month",
+                  "day"
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Precision"
+          },
+          "kind": {
+            "type": "string",
+            "title": "Kind"
+          },
+          "medium": {
+            "type": "string",
+            "title": "Medium"
+          },
+          "source_url": {
+            "type": "string",
+            "title": "Source Url"
+          },
+          "evidence": {
+            "type": "string",
+            "title": "Evidence"
+          },
+          "version": {
+            "type": "string",
+            "title": "Version"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          },
+          "true_first_publication_confirmed": {
+            "type": "boolean",
+            "title": "True First Publication Confirmed"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "id",
+          "date",
+          "precision",
+          "kind",
+          "medium",
+          "source_url",
+          "evidence",
+          "version",
+          "checked_on",
+          "true_first_publication_confirmed"
+        ],
+        "title": "PublicationRecord"
+      },
+      "Relationship": {
+        "properties": {
+          "work_id": {
+            "type": "string",
+            "title": "Work Id"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "kind": {
+            "type": "string",
+            "title": "Kind"
+          },
+          "evidence_status": {
+            "type": "string",
+            "title": "Evidence Status"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "work_id",
+          "title",
+          "kind",
+          "evidence_status"
+        ],
+        "title": "Relationship"
+      },
+      "TimelineEntry": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "aliases": {
+            "items": {
+              "$ref": "#/components/schemas/Alias"
+            },
+            "type": "array",
+            "title": "Aliases"
+          },
+          "attribution": {
+            "type": "string",
+            "enum": [
+              "credited",
+              "unverified"
+            ],
+            "title": "Attribution"
+          },
+          "is_variant": {
+            "type": "boolean",
+            "title": "Is Variant"
+          },
+          "preview": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PublicationRecord"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "release": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PublicationRecord"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "reference": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PublicationRecord"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "connect_preview": {
+            "type": "boolean",
+            "title": "Connect Preview",
+            "description": "プレビューの期間全体が本公開の期間より前と確認できる場合のみtrue。"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "aliases",
+          "attribution",
+          "is_variant",
+          "preview",
+          "release",
+          "reference",
+          "connect_preview"
+        ],
+        "title": "TimelineEntry"
+      },
+      "TimelineList": {
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/components/schemas/TimelineEntry"
+            },
+            "type": "array",
+            "title": "Items"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "items",
+          "checked_on"
+        ],
+        "title": "TimelineList"
+      },
+      "WorkCollection": {
+        "properties": {
+          "collection": {
+            "$ref": "#/components/schemas/CollectionSummary"
+          },
+          "tracks": {
+            "items": {
+              "$ref": "#/components/schemas/CollectionTrack"
+            },
+            "type": "array",
+            "title": "Tracks"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "collection",
+          "tracks"
+        ],
+        "title": "WorkCollection"
+      },
+      "WorkContext": {
+        "properties": {
+          "albums": {
+            "items": {
+              "$ref": "#/components/schemas/WorkCollection"
+            },
+            "type": "array",
+            "title": "Albums"
+          },
+          "games": {
+            "items": {
+              "$ref": "#/components/schemas/WorkCollection"
+            },
+            "type": "array",
+            "title": "Games"
+          },
+          "remixes": {
+            "items": {
+              "$ref": "#/components/schemas/WorkRemix"
+            },
+            "type": "array",
+            "title": "Remixes"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "albums",
+          "games",
+          "remixes"
+        ],
+        "title": "WorkContext"
+      },
+      "WorkDetail": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "aliases": {
+            "items": {
+              "$ref": "#/components/schemas/Alias"
+            },
+            "type": "array",
+            "title": "Aliases"
+          },
+          "credited_name": {
+            "type": "string",
+            "title": "Credited Name"
+          },
+          "role": {
+            "type": "string",
+            "title": "Role"
+          },
+          "attribution": {
+            "type": "string",
+            "enum": [
+              "credited",
+              "unverified"
+            ],
+            "title": "Attribution"
+          },
+          "earliest_record": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PublicationRecord"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "has_official_listening": {
+            "type": "boolean",
+            "title": "Has Official Listening"
+          },
+          "is_variant": {
+            "type": "boolean",
+            "title": "Is Variant"
+          },
+          "genre": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Genre"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "sources": {
+            "items": {
+              "$ref": "#/components/schemas/PublicSource"
+            },
+            "type": "array",
+            "title": "Sources"
+          },
+          "comment": {
+            "type": "string",
+            "title": "Comment"
+          },
+          "records": {
+            "items": {
+              "$ref": "#/components/schemas/PublicationRecord"
+            },
+            "type": "array",
+            "title": "Records"
+          },
+          "creation_records": {
+            "items": {
+              "$ref": "#/components/schemas/PublicationRecord"
+            },
+            "type": "array",
+            "title": "Creation Records",
+            "description": "作曲・リマスター年などの制作記録。公開履歴や年表の並べ替えには使わない。"
+          },
+          "listening": {
+            "items": {
+              "$ref": "#/components/schemas/ListeningLink"
+            },
+            "type": "array",
+            "title": "Listening"
+          },
+          "relationships": {
+            "items": {
+              "$ref": "#/components/schemas/Relationship"
+            },
+            "type": "array",
+            "title": "Relationships"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          },
+          "pronunciation": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Pronunciation"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "aliases",
+          "credited_name",
+          "role",
+          "attribution",
+          "earliest_record",
+          "has_official_listening",
+          "is_variant",
+          "sources",
+          "comment",
+          "records",
+          "creation_records",
+          "listening",
+          "relationships",
+          "checked_on"
+        ],
+        "title": "WorkDetail"
+      },
+      "WorkList": {
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/components/schemas/WorkSummary"
+            },
+            "type": "array",
+            "title": "Items"
+          },
+          "total": {
+            "type": "integer",
+            "title": "Total"
+          },
+          "limit": {
+            "type": "integer",
+            "title": "Limit"
+          },
+          "offset": {
+            "type": "integer",
+            "title": "Offset"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "items",
+          "total",
+          "limit",
+          "offset"
+        ],
+        "title": "WorkList"
+      },
+      "WorkRemix": {
+        "properties": {
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "work_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Work Id"
+          },
+          "credited_name": {
+            "type": "string",
+            "title": "Credited Name"
+          },
+          "evidence_status": {
+            "type": "string",
+            "title": "Evidence Status"
+          },
+          "source_url": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Source Url"
+          },
+          "album_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Album Id"
+          },
+          "album_title": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Album Title"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "title",
+          "work_id",
+          "credited_name",
+          "evidence_status"
+        ],
+        "title": "WorkRemix"
+      },
+      "WorkSummary": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "aliases": {
+            "items": {
+              "$ref": "#/components/schemas/Alias"
+            },
+            "type": "array",
+            "title": "Aliases"
+          },
+          "credited_name": {
+            "type": "string",
+            "title": "Credited Name"
+          },
+          "role": {
+            "type": "string",
+            "title": "Role"
+          },
+          "attribution": {
+            "type": "string",
+            "enum": [
+              "credited",
+              "unverified"
+            ],
+            "title": "Attribution"
+          },
+          "earliest_record": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PublicationRecord"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "has_official_listening": {
+            "type": "boolean",
+            "title": "Has Official Listening"
+          },
+          "is_variant": {
+            "type": "boolean",
+            "title": "Is Variant"
+          },
+          "genre": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Genre"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "aliases",
+          "credited_name",
+          "role",
+          "attribution",
+          "earliest_record",
+          "has_official_listening",
+          "is_variant"
+        ],
+        "title": "WorkSummary"
+      }
+    }
+  }
+}

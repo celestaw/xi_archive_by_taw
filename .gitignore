@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.venv/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+.env*
+!.env.example
+.vercel/
+.aws/
+.codex/
+.agents/
+.impeccable/
+.local-preview/
+.worktrees/
+xi_chronology/
+outputs/

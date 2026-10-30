@@ -1,0 +1,12 @@
+{
+  "name": "xi-archive", "private": true, "version": "0.1.0",
+  "workspaces": ["web"],
+  "engines": {"node": ">=24.22.1 <25"},
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "npm run build --workspace web",
+    "typecheck": "npm run typecheck --workspace web",
+    "contracts": "node scripts/generate-contracts.mjs"
+  },
+  "devDependencies": {"openapi-typescript": "^7.0.0"}
+}
