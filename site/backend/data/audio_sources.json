@@ -1,0 +1,1619 @@
+[
+  {
+    "work_id": "XI-228",
+    "sources": [
+      {
+        "origin": "unofficial",
+        "url": "https://www.youtube.com/watch?v=68QNhWDNX9A",
+        "label": "SDVX Archive · 音源動画",
+        "version": "SuddeИDeath",
+        "evidence": "YouTube公開メタデータの投稿元『SDVX Archive』、曲名『xi vs. Morimori Atsushi - SuddeNDeath (From: SOUND VOLTEX EXCEED GEAR)』、長さ119秒を確認。個人チャンネルの音源投稿。作者・運営による公式公開ではないため、非公式として区別する。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-228-VIDEO",
+        "date": "2025-05-07",
+        "precision": "day",
+        "kind": "非公式動画掲載日（原曲の初公開日ではない）",
+        "medium": "YouTube（SDVX Archive）",
+        "source_url": "https://www.youtube.com/watch?v=68QNhWDNX9A",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "SuddeИDeath",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "AUDIO-XI-228-GAME",
+        "date": "2023-03-30",
+        "precision": "day",
+        "kind": "ゲームイベント解禁開始日",
+        "medium": "SOUND VOLTEX EXCEED GEAR",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/vi/news/index.html",
+        "evidence": "公式ニュース2023年3月28日付に、SuddeИDeathのスタンプシートと3月30日の解禁を確認。",
+        "version": "SuddeИDeath",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-192",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=wgNVw6-c9lM",
+        "label": "ゲキ！チュウマイ公式ちゃんねる · 音源動画",
+        "version": "Heavenly Blast",
+        "evidence": "YouTube公開メタデータの投稿元『ゲキ！チュウマイ公式ちゃんねる』、曲名『【maimai でらっくす】Heavenly Blast / xi【3/18(木)登場！】』、長さ140秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-192-VIDEO",
+        "date": "2021-03-19",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（ゲキ！チュウマイ公式ちゃんねる）",
+        "source_url": "https://www.youtube.com/watch?v=wgNVw6-c9lM",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Heavenly Blast",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-252",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=v5SshJGopoc",
+        "label": "Diverse System · 音源動画",
+        "version": "Parallax",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『Parallax / xi vs ak+q (lowiro) [From Arcaea / Diverse System Collaboration]』、長さ167秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-252-VIDEO",
+        "date": "2026-10-30",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=v5SshJGopoc",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Parallax",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-155",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=799Epovv-Xk",
+        "label": "Diverse System · 音源動画",
+        "version": "RE!NCARN4T10N",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『RE!NCARN4T10N / xi [Stream Palette 6 -RANKED-]』、長さ224秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-155-VIDEO",
+        "date": "2025-12-24",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=799Epovv-Xk",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "RE!NCARN4T10N",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-039",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=PhinBePzKqk",
+        "label": "Diverse System · 音源動画",
+        "version": "天衣無縫",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『天衣無縫 / xi』、長さ257秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-039-VIDEO",
+        "date": "2014-01-24",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=PhinBePzKqk",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "天衣無縫",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-125",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=ukzAHxy_5LM",
+        "label": "Diverse System · 音源動画",
+        "version": "The End of Dreams",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『[Official] The End of Dreams / xi [AD:PIANO VIII -Alter-]』、長さ270秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-125-VIDEO",
+        "date": "2022-02-24",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=ukzAHxy_5LM",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "The End of Dreams",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-079",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=XWohVg_Cqes",
+        "label": "Diverse System · 音源動画",
+        "version": "Śiva",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『[Official] Śiva / Diceros Bicornis(xi+BlackY) [World Fragments]』、長さ253秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-079-VIDEO",
+        "date": "2020-02-27",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=XWohVg_Cqes",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Śiva",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-136",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=clXYCWyGFFU",
+        "label": "Diverse System · 音源動画",
+        "version": "Overwhelm (Long Version)",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『[Official] Overwhelm (Long Version) / xi [Storm and Impulse]』、長さ249秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-136-VIDEO",
+        "date": "2023-05-15",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=clXYCWyGFFU",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Overwhelm (Long Version)",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-142",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=rb1Kf1N_NO0",
+        "label": "Diverse System · 音源動画",
+        "version": "Titania (Long Version)",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『[Official] Titania (Long Version) / xi [Storm and Impulse]』、長さ293秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-142-VIDEO",
+        "date": "2023-05-09",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=rb1Kf1N_NO0",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Titania (Long Version)",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-147",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=1g5qvn_nRIM",
+        "label": "Diverse System · 音源動画",
+        "version": "Phantoflux",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『Phantoflux / xi [AD:PIANO VIVACE 2]』、長さ284秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-147-VIDEO",
+        "date": "2025-12-24",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=1g5qvn_nRIM",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Phantoflux",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-135",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=-yg2jKbkQeQ",
+        "label": "Diverse System · 音源動画",
+        "version": "Overwhelm",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『[Arcaea]Overwhelm / xi』、長さ154秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-135-VIDEO",
+        "date": "2021-05-12",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=-yg2jKbkQeQ",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Overwhelm",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-126",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=XBUKyMdZSdg",
+        "label": "Diverse System · 音源動画",
+        "version": "Event Hor!zon",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『[Official] Event Hor!zon / xi [ADvantage]』、長さ250秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-126-VIDEO",
+        "date": "2022-12-06",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=XBUKyMdZSdg",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Event Hor!zon",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-123",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=eyg7eVRsjz0",
+        "label": "Diverse System · 音源動画",
+        "version": "Mjölnir",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『[Official] Mjölnir / xi [AD:PIANO ff/pp]』、長さ256秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-123-VIDEO",
+        "date": "2021-04-07",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=eyg7eVRsjz0",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Mjölnir",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-193",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=_r2zheyqHT8",
+        "label": "Diverse System · 音源動画",
+        "version": "Hypnos",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『[Official] Hypnos / xi [DEEMO 4.0 - xi Collection]』、長さ166秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-193-VIDEO",
+        "date": "2021-02-04",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=_r2zheyqHT8",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Hypnos",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-066",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=XrHQ5cZhEAU",
+        "label": "Diverse System · 音源動画",
+        "version": "Cloud9",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『[Official] Cloud9 / xi [AD:PIANO VIVACE][Deemo 4.0 - xi Collection]』、長さ213秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-066-VIDEO",
+        "date": "2021-01-11",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=XrHQ5cZhEAU",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Cloud9",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-130",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=RRr9u2ybDUw",
+        "label": "Diverse System · 音源動画",
+        "version": "Azalea",
+        "evidence": "YouTube公開メタデータの投稿元『Diverse System』、曲名『[Official] Azalea / xi [Storm and Impulse]』、長さ260秒を確認。作者・レーベル／ゲーム運営の公式動画。全曲の掲載として扱う。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-130-VIDEO",
+        "date": "2023-05-17",
+        "precision": "day",
+        "kind": "公式動画公開日",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=RRr9u2ybDUw",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Azalea",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-205",
+    "sources": [
+      {
+        "origin": "unofficial",
+        "url": "https://www.youtube.com/watch?v=X3tMVHi0PLM",
+        "label": "ねこくじら · 音源動画",
+        "version": "Minerva",
+        "evidence": "YouTube公開メタデータの投稿元『ねこくじら』、曲名『【crossbeats REV.SUNRISE】Minerva 音源』、長さ127秒を確認。個人チャンネルの音源投稿。作者・運営による公式公開ではないため、非公式として区別する。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-205-VIDEO",
+        "date": "2017-01-07",
+        "precision": "day",
+        "kind": "非公式動画掲載日（原曲の初公開日ではない）",
+        "medium": "YouTube（ねこくじら）",
+        "source_url": "https://www.youtube.com/watch?v=X3tMVHi0PLM",
+        "evidence": "投稿元と曲名を照合し、公開メタデータの日時を日本時間の日付に換算。実再生・地域制限は未検証。",
+        "version": "Minerva",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-239",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://p.eagate.573.jp/game/bpl/season3/sdvx/dream_match/top/index.html",
+        "label": "公式CD収録（限定品）",
+        "version": "Xeno Gravity",
+        "evidence": "KONAMI公式のDREAM TRACKS案内と公式曲目画像の第22曲 Xeno Gravity / xiを照合。アルバム収録を聴取可能とする表示方針。現在の新品販売や配信を確認した意味ではない。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-239-EVENT",
+        "date": "2024-03-20",
+        "precision": "day",
+        "kind": "公式大会楽曲披露日（会場での公開）",
+        "medium": "BEMANI PRO LEAGUE -SEASON 3- SOUND VOLTEX",
+        "source_url": "https://p.eagate.573.jp/game/bpl/season3/sdvx/game/semi/index.html",
+        "evidence": "公式セミファイナルの日付3月20日と、ページが参照する公式結果データsemi_01の大将戦最終楽曲 Xeno Gravityを照合。会場での披露日であり、無料配信開始日とは区別する。",
+        "version": "Xeno Gravity",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "AUDIO-XI-239-GAME",
+        "date": "2024-04-04",
+        "precision": "day",
+        "kind": "ゲームイベント解禁開始日",
+        "medium": "SOUND VOLTEX EXCEED GEAR",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/vi/news/index.html",
+        "evidence": "公式ニュース2024年4月2日付と告知画像240404_stamp.jpgに Xeno Gravity / xi、4月4日登場、対象期間2024.4.4 10:00開始を確認。",
+        "version": "Xeno Gravity",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-009",
+    "sources": [
+      {
+        "origin": "unofficial",
+        "url": "https://www.youtube.com/watch?v=UxGOfPbPBPw",
+        "label": "joei1382 · 音源動画",
+        "version": "deathpiano ~for four pianos~",
+        "evidence": "動画名「Xi - Death Piano」、投稿者joei1382、長さ2分53秒を照合。第三者投稿として区別する。YouTubeの公開情報で再生可能・埋め込み可能・日本での視聴対象であることを確認。掲載情報に基づく全曲音源の案内であり、音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": []
+  },
+  {
+    "work_id": "XI-018",
+    "sources": [
+      {
+        "origin": "unofficial",
+        "url": "https://www.youtube.com/watch?v=6hba4NjMXV4",
+        "label": "e=mc · BMS音源・BGA動画",
+        "version": "up in the air",
+        "evidence": "動画名「[BMS] up in the air / xi┃BGA Upscaled [BOF2008]」、投稿者e=mc、長さ2分13秒を照合。BMS版の第三者による掲載として区別する。YouTubeの公開情報で再生可能・埋め込み可能・日本での視聴対象であることを確認。掲載情報に基づく全曲音源の案内であり、音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": []
+  },
+  {
+    "work_id": "XI-023",
+    "sources": [
+      {
+        "origin": "unofficial",
+        "url": "https://www.youtube.com/watch?v=Q63_BLJw8Bs",
+        "label": "emcoco / aico · BOF2009音源動画",
+        "version": "Time files",
+        "evidence": "動画名「[BMS/'09] xi - Time files」、投稿者emcoco / aico、長さ1分43秒を照合。説明のBMS:xi / BGA:鵺、BOF2009表記と一致する。第三者投稿として区別する。YouTubeの公開情報で再生可能・埋め込み可能・日本での視聴対象であることを確認。掲載情報に基づく全曲音源の案内であり、音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": []
+  },
+  {
+    "work_id": "XI-025",
+    "sources": [
+      {
+        "origin": "unofficial",
+        "url": "https://www.youtube.com/watch?v=OcmY0sdiOIY",
+        "label": "Lul lulu · 音源動画",
+        "version": ".357 Magnum",
+        "evidence": "動画名「xi .357 Magnum」、投稿者Lul lulu、長さ2分13秒を照合。第三者投稿として区別する。YouTubeの公開情報で再生可能・埋め込み可能・日本での視聴対象であることを確認。掲載情報に基づく全曲音源の案内であり、音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": []
+  },
+  {
+    "work_id": "XI-068",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=eFZCw4_NYys",
+        "label": "Hiromitsu Kawasaki · 制作関係者公式BGA",
+        "version": "After Burner（BMS版）",
+        "evidence": "動画名「[BOFU2015] After Burner / ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。【BGA】」、投稿者Hiromitsu Kawasaki、長さ2分29秒を照合。FRENZ2016公式出展者プロフィール（https://frenz.jp/2016/participant）の鑓田(alpha complex)代表作が同じ動画URLで、BMS本人登録のmovie 鑓田(alpha complex)/しもとも一致するため、制作関係者による公式BGA掲載として区別する。4分06秒のLong Versionとは別のBMS版。YouTubeの公開情報で再生可能・埋め込み可能・日本での視聴対象であることを確認。掲載情報に基づく全曲音源の案内であり、音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": []
+  },
+  {
+    "work_id": "XI-162",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://music.youtube.com/watch?v=V4RzqUmyfAQ",
+        "label": "xi - Topic · YouTube Music",
+        "version": "ULTIM@TE☆BE∀M!! [Game Size]",
+        "evidence": "配信曲名「ULTIM@TE☆BE∀M!! (feat. 初音ミク) [Game Size]」、長さ2分00秒を照合。説明の「Provided to YouTube by xi」、権利表記「℗ 2026 xi」、配信日2026-10-05、自動生成の配信音源表記を確認。Game Sizeの独立した公式配信として案内し、本人MVや3分04秒の長尺版とは区別する。YouTubeの公開情報で再生可能・埋め込み可能・日本での視聴対象を確認。音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": []
+  },
+  {
+    "work_id": "XI-244",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=kLs6UW43MsQ",
+        "label": "BlackY · 合作参加者公式",
+        "version": "創 -汝ら新世界へ歩む者なり-（CHUNITHM X-VERSE掲載音源）",
+        "evidence": "投稿者BlackY、動画ID kLs6UW43MsQ、動画長180秒を照合。BlackYの公式Bandcamp（https://blackysbeatfloor.bandcamp.com/）が案内するYouTube名義と投稿元を照合。動画の共同投稿者欄にもxi本人チャンネルが含まれ、説明の合作名義・SEGA表記とも一致する。 YouTubeの公開情報で再生可能・埋め込み可能・日本での視聴対象を確認。本人プレイリストへの掲載だけで公式扱いしたものではない。音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-244-VIDEO",
+        "date": "2025-11-28",
+        "precision": "day",
+        "kind": "公式動画公開日（当該動画版・初出未確定）",
+        "medium": "YouTube（BlackY）",
+        "source_url": "https://www.youtube.com/watch?v=kLs6UW43MsQ",
+        "evidence": "公式の曲別動画・投稿元・対象版を照合し、公開情報のpublishDate=2025-11-28T01:01:18-08:00を日本時間の2025-11-28に換算。記録対象はこの動画版の公開。ゲーム初収録日・作曲日・曲の真の初公開日を確定したものではない。BlackYの公式Bandcamp（https://blackysbeatfloor.bandcamp.com/）が案内するYouTube名義と投稿元を照合。動画の共同投稿者欄にもxi本人チャンネルが含まれ、説明の合作名義・SEGA表記とも一致する。",
+        "version": "創 -汝ら新世界へ歩む者なり-（CHUNITHM X-VERSE掲載音源）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-247",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=n5ihQvx3mlc",
+        "label": "BNAM · 太鼓の達人公式",
+        "version": "狂瀾怒濤（太鼓の達人公式紹介音源）",
+        "evidence": "投稿者バンダイナムコ アミューズメントユニット公式チャンネル、動画ID n5ihQvx3mlc、動画長144秒を照合。バンダイナムコ公式サイトの案内（https://bandainamco-am.co.jp/tp/namja/NEWS/info/20260615.html）の公式チャンネル名義と投稿元を照合。動画説明の太鼓の達人公式URL・運営会社表記も一致する。説明にある2022年8月27日はゲーム追加予定日であり、今回の動画公開日や実装確認日として採用しない。 YouTubeの公開情報で再生可能・埋め込み可能・日本での視聴対象を確認。本人プレイリストへの掲載だけで公式扱いしたものではない。音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-247-VIDEO",
+        "date": "2022-08-26",
+        "precision": "day",
+        "kind": "公式動画公開日（当該動画版・初出未確定）",
+        "medium": "YouTube（バンダイナムコ アミューズメントユニット公式チャンネル）",
+        "source_url": "https://www.youtube.com/watch?v=n5ihQvx3mlc",
+        "evidence": "公式の曲別動画・投稿元・対象版を照合し、公開情報のpublishDate=2022-08-26T01:00:17-07:00を日本時間の2022-08-26に換算。記録対象はこの動画版の公開。ゲーム初収録日・作曲日・曲の真の初公開日を確定したものではない。バンダイナムコ公式サイトの案内（https://bandainamco-am.co.jp/tp/namja/NEWS/info/20260615.html）の公式チャンネル名義と投稿元を照合。動画説明の太鼓の達人公式URL・運営会社表記も一致する。説明にある2022年8月27日はゲーム追加予定日であり、今回の動画公開日や実装確認日として採用しない。",
+        "version": "狂瀾怒濤（太鼓の達人公式紹介音源）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-201",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=qZm9hZgEqWk",
+        "label": "CHRONO CIRCLE · 公式BGA",
+        "version": "MEGALØDON（CHRONO CIRCLE ver.1.270 BGA）",
+        "evidence": "投稿者CHRONO CIRCLE OFFICIAL(クロノサークル公式チャンネル)、動画ID qZm9hZgEqWk、動画長134秒を照合。保存済みの同一公式BGAとも照合。投稿元はCHRONO CIRCLE公式で、説明にComposer xi、ver.1.270、Andamiroの権利表記と公式サイトへの案内がある。 YouTubeの公開情報で再生可能・埋め込み可能・日本での視聴対象を確認。本人プレイリストへの掲載だけで公式扱いしたものではない。音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-201-VIDEO",
+        "date": "2022-07-18",
+        "precision": "day",
+        "kind": "公式動画公開日（当該動画版・初出未確定）",
+        "medium": "YouTube（CHRONO CIRCLE OFFICIAL(クロノサークル公式チャンネル)）",
+        "source_url": "https://www.youtube.com/watch?v=qZm9hZgEqWk",
+        "evidence": "公式の曲別動画・投稿元・対象版を照合し、公開情報のpublishDate=2022-07-17T21:00:15-07:00を日本時間の2022-07-18に換算。記録対象はこの動画版の公開。ゲーム初収録日・作曲日・曲の真の初公開日を確定したものではない。保存済みの同一公式BGAとも照合。投稿元はCHRONO CIRCLE公式で、説明にComposer xi、ver.1.270、Andamiroの権利表記と公式サイトへの案内がある。",
+        "version": "MEGALØDON（CHRONO CIRCLE ver.1.270 BGA）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-206",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=8vexmJlrPgc",
+        "label": "Diverse System · 公式音源",
+        "version": "Mistilteinn（DEEMO 4.0 - xi Collection）",
+        "evidence": "投稿者Diverse System、動画ID 8vexmJlrPgc、動画長147秒を照合。Diverse System公式サイト（https://diverse.jp/）のYouTube案内と投稿元を照合。動画説明のxiクレジット・本人Twitterへのリンク・Rayark/DEEMOの権利表記も一致する。 YouTubeの公開情報で再生可能・埋め込み可能・日本での視聴対象を確認。本人プレイリストへの掲載だけで公式扱いしたものではない。音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-206-VIDEO",
+        "date": "2021-02-04",
+        "precision": "day",
+        "kind": "公式動画公開日（当該動画版・初出未確定）",
+        "medium": "YouTube（Diverse System）",
+        "source_url": "https://www.youtube.com/watch?v=8vexmJlrPgc",
+        "evidence": "公式の曲別動画・投稿元・対象版を照合し、公開情報のpublishDate=2021-02-03T23:42:13-08:00を日本時間の2021-02-04に換算。記録対象はこの動画版の公開。ゲーム初収録日・作曲日・曲の真の初公開日を確定したものではない。Diverse System公式サイト（https://diverse.jp/）のYouTube案内と投稿元を照合。動画説明のxiクレジット・本人Twitterへのリンク・Rayark/DEEMOの権利表記も一致する。",
+        "version": "Mistilteinn（DEEMO 4.0 - xi Collection）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "DATE-XI-206-DEEMO-GAME",
+        "date": "2021-02-04",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（DEEMO 4.0 xi Collection・資料照合）",
+        "medium": "DEEMO 4.0 / xi Collection",
+        "source_url": "https://rayark.com/ja/news/20210204_dr/",
+        "evidence": "Rayark公式の2021-02-04当日の4.0更新・xi Collection追加と、既存の公式曲別動画 https://www.youtube.com/watch?v=8vexmJlrPgc のMistilteinn / xi、DEEMO 4.0 xi Collection表記を照合。動画投稿日だけをゲーム実装日に置換したものではなく、2つの一次資料の対応に基づく。",
+        "version": "Mistilteinn（DEEMO 4.0 xi Collection）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-089",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=FOQbWtauVrQ",
+        "label": "t+pazolite · 原曲作者公式",
+        "version": "Kick-ass Kung-fu Carnival (xi Remix)（the Best of tpz 2 the BEST!!!掲載版）",
+        "evidence": "投稿者t+pazolite、動画ID FOQbWtauVrQ、動画長263秒を照合。原曲作者の公式サイト（https://c-h-s.me/）から案内されるYouTube名義と投稿元を照合。公式アーティスト表示と、動画説明のアルバム名・公式Bandcampリンクも確認。原曲や別のリミックスと区別する。 YouTubeの公開情報で再生可能・埋め込み可能・日本での視聴対象を確認。本人プレイリストへの掲載だけで公式扱いしたものではない。音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "AUDIO-XI-089-VIDEO",
+        "date": "2020-03-26",
+        "precision": "day",
+        "kind": "公式動画公開日（当該動画版・初出未確定）",
+        "medium": "YouTube（t+pazolite）",
+        "source_url": "https://www.youtube.com/watch?v=FOQbWtauVrQ",
+        "evidence": "公式の曲別動画・投稿元・対象版を照合し、公開情報のpublishDate=2020-03-26T02:00:06-07:00を日本時間の2020-03-26に換算。記録対象はこの動画版の公開。ゲーム初収録日・作曲日・曲の真の初公開日を確定したものではない。原曲作者の公式サイト（https://c-h-s.me/）から案内されるYouTube名義と投稿元を照合。公式アーティスト表示と、動画説明のアルバム名・公式Bandcampリンクも確認。原曲や別のリミックスと区別する。",
+        "version": "Kick-ass Kung-fu Carnival (xi Remix)（the Best of tpz 2 the BEST!!!掲載版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-065",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-065-ALBUM",
+        "date": "2015-08-16",
+        "precision": "day",
+        "kind": "アルバム発売日（当該収録版・初出未確定）",
+        "medium": "Voltage Ignition 3",
+        "source_url": "https://tpazolite.bandcamp.com/track/angelic-party",
+        "evidence": "作者・レーベル管理の曲別ページでAngelic Partyの名義xi、収録アルバムVoltage Ignition 3と発売表示2015-08-16を確認。後日の配信日やゲーム収録日と区別する。",
+        "version": "Angelic Party（Voltage Ignition 3収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-080",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-080-ALBUM",
+        "date": "2016-08-14",
+        "precision": "day",
+        "kind": "アルバム頒布日（C90物理CD・初出未確定）",
+        "medium": "Monochrome Rainbow / HKCD-0011",
+        "source_url": "https://hkcd-0011.tumblr.com/",
+        "evidence": "共同作者側の公式特設でC90頒布日2016-08-14、track03 Keraunos、Xiphoid Sphere (xi + siromaru)を同じ商品で照合。後のCROSS×BEATS移植日と区別。",
+        "version": "Keraunos（Monochrome Rainbow収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-084",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-084-ALBUM",
+        "date": "2016-11-09",
+        "precision": "day",
+        "kind": "アルバム発売日（CD収録版・初出未確定）",
+        "medium": "TAITO GAME MUSIC REMIXS / ZTTL-0079",
+        "source_url": "https://www.taito.co.jp/mob/topics/2271",
+        "evidence": "TAITO公式の商品発売日2016-11-09と、ZUNTATA公式 https://zuntata.jp/lineup/zttl0079.html のtrack21 Got more raves? -xiRemix- / xiを照合。記事更新日2016-08-29を発売日にしない。",
+        "version": "Got more raves? -xiRemix-（ZTTL-0079収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-116",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-116-ALBUM",
+        "date": "2019-12-31",
+        "precision": "day",
+        "kind": "アルバム頒布日（C97物理CD・初出未確定）",
+        "medium": "オールナイト・オブ・ナイツ ルナティック / CCCD-59",
+        "source_url": "https://cool-create.cc/cd/cccd59/",
+        "evidence": "COOL&CREATE公式の商品情報のC97頒布日時2019-12-31とtrack09 ナイト・オブ・ナイツ (xi Remix) / xiを照合。オンゲキ移植とは別のCD頒布記録。",
+        "version": "ナイト・オブ・ナイツ (xi Remix)（CCCD-59収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-121",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-121-EP-DIGITAL",
+        "date": "2020-10-26",
+        "precision": "day",
+        "kind": "アルバム発売日（EPデジタル版・初出未確定）",
+        "medium": "Reasons EP / Sta・Bit192",
+        "source_url": "https://bit192.bandcamp.com/album/reasons",
+        "evidence": "共同作者Staの公式Bandcampで発売表示2020-10-26、track1 Reasonsとxiの作曲クレジットを照合。2022 RemasterのXI-140とは別。物理EPの先行頒布日とは区別する。",
+        "version": "Reasons（Sta / Bit192 EP版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-152",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-152-ALBUM",
+        "date": "2024-10-27",
+        "precision": "day",
+        "kind": "アルバム発売日（当該収録版・初出未確定）",
+        "medium": "PUPA -Metamorphoses- / NNRR-0017",
+        "source_url": "https://ats024.com/release/nnrr-0017/",
+        "evidence": "原曲作者公式の商品情報2024.10.27 / NNRR-0017とtrack02 PUPA (xi Remix)、Remixed by xiを照合。サイト記事の作成・更新日や原曲PUPAの公開日と区別する。",
+        "version": "PUPA (xi Remix)（NNRR-0017収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-156",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-156-ALBUM",
+        "date": "2025-10-26",
+        "precision": "day",
+        "kind": "アルバム頒布日（M3物理盤・初出未確定）",
+        "medium": "World’s Eclipse",
+        "source_url": "https://worldseclipsedddice.netlify.app/",
+        "evidence": "原曲作者の公式特設で2025秋M3の物理盤発売日2025-10-26、track11 World’s end BLACKBOX (xi Remix) / Remix by xiを照合。原曲full ver.と後日のデジタル配信を区別。",
+        "version": "World's end BLACKBOX (xi Remix)（World’s Eclipse物理盤収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-166",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-166-AOU",
+        "date": "2015-10-15",
+        "precision": "day",
+        "kind": "ゲームイベント解禁開始日（maimai AOU先行・初出未確定）",
+        "medium": "天下一音ゲ祭 / maimai",
+        "source_url": "https://x.com/com_giko_31/status/654650204520484867",
+        "evidence": "X公式の公開埋め込み本文で、xi本人の2015-10-15投稿にAiolos書き下ろし・本日解禁を確認。AOU公式 https://x.com/AOU_Tenkatui/status/654128274839334913 の10月14日告知も、Aiolosを含む5曲が翌15日に先行配信開始と明記。告知投稿日と先行配信日を区別する。",
+        "version": "Aiolos（maimai AOU先行配信）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-168",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-168-SDVX",
+        "date": "2023-08-09",
+        "precision": "day",
+        "kind": "ゲームイベント解禁開始日（HEXA DIVER 憧憬の銀幕篇・初出未確定）",
+        "medium": "SOUND VOLTEX EXCEED GEAR",
+        "source_url": "https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/230809_hexadiver.jpg",
+        "evidence": "KONAMI公式ニュース https://p.eagate.573.jp/game/sdvx/vi/news/index.html の8月8日予告と埋込画像を照合。画像にAPØCALYPSE RAY / xi、配信開始2023年8月9日、HEXA DIVER憧憬の銀幕篇を明記。告知投稿日8月8日を配信日にしない。",
+        "version": "APØCALYPSE RAY（HEXA DIVER配信版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-167",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-167-UM-PREPLAY",
+        "date": "2021-08-13",
+        "precision": "day",
+        "kind": "ゲームイベント解禁開始日（UM期間限定先行・初出未確定）",
+        "medium": "beatmania IIDX ULTIMATE MOBILE",
+        "source_url": "https://p.eagate.573.jp/game/2dx/mobile/top/info/2021/29loca_campaign.html",
+        "evidence": "KONAMI公式の8月13日開始キャンペーンにAngel's Ladder / xiが明記。ULTIMATE MOBILEでの期間限定先行プレイの記録で、アーケード版の一般稼働と別。",
+        "version": "Angel's Ladder（ULTIMATE MOBILE期間限定先行）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "DATE-XI-167-AC",
+        "date": "2021-10-13",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（IIDX 29アーケード版・初出未確定）",
+        "medium": "beatmania IIDX 29 CastHour",
+        "source_url": "https://p.eagate.573.jp/game/2dx/29/info/index.html",
+        "evidence": "公式のCastHour稼働日2021-10-13と曲別紹介 https://p.eagate.573.jp/game/2dx/29/newsong/song09.html のAngel's Ladder / xiを照合。先行UM公開とは別。",
+        "version": "Angel's Ladder（IIDX 29アーケード版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-170",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://soundcloud.com/xi_com_giko_31/artemis-xiremix-mono-remixed",
+        "label": "xi · 本人公式SoundCloud",
+        "version": "Artemis -xiRemix-",
+        "evidence": "本人SoundCloudの曲別ページ。曲名と原曲作者MONOのクレジット・原曲への案内を照合。 掲載情報に基づく案内。音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "DATE-XI-170-SOUNDCLOUD",
+        "date": "2013-12-28",
+        "precision": "day",
+        "kind": "公式音源公開日（本人SoundCloud・アルバム発売ではない）",
+        "medium": "SoundCloud（xi_com_giko_31）",
+        "source_url": "https://soundcloud.com/xi_com_giko_31/artemis-xiremix-mono-remixed",
+        "evidence": "本人公式の曲名、track id126808656、公開日時2013-12-28T07:27:39Zとcreated_at/display_dateの一致を確認。日本時間でも同日。説明はMONOのArtemisのリミックスと明記。release_dateはnullで、アルバム発売日としない。",
+        "version": "Artemis -xiRemix-（MONO原曲のリミックス）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-177",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-177-GC-EVENT",
+        "date": "2018-03-29",
+        "precision": "day",
+        "kind": "ゲームイベント解禁開始日（GC4イベント先行・初出未確定）",
+        "medium": "グルーヴコースター4",
+        "source_url": "https://groovecoaster.jp/event/11860.html",
+        "evidence": "TAITO公式のイベント開始2018-03-29と、1000EP達成でCrimson Phoenix / xi vs MASAKIを即時解禁する報酬を照合。記事更新4月6日やランキング報酬配布4月23日とは別。より早い大会披露は未確定。",
+        "version": "Crimson Phoenix（GC4イベント先行）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-181",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-181-DLC",
+        "date": "2026-05-29",
+        "precision": "day",
+        "kind": "配信発売日（KALPA Origin Vol.2 DLC・初出未確定）",
+        "medium": "KALPA: Cosmic Symphony / Origin Vol.2 Pack",
+        "source_url": "https://store.steampowered.com/app/4724940/",
+        "evidence": "Steam公式DLC発売日2026-05-29と、ゲーム公式ニュース[ KALPA ] Origin VOL.2 Out Now!の曲一覧DURAND4L - xiを照合。公式ニュースID1833968530890561、公開UNIX日時1780048808。元ゲームや別音源の初出とは断定しない。",
+        "version": "DURAND4L（Origin Vol.2 DLC収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-182",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-182-AUTHOR-ANNOUNCEMENT",
+        "date": "2018-02-12",
+        "precision": "day",
+        "kind": "本人のゲーム収録告知日（DEEMO 3.2・初出未確定）",
+        "medium": "DEEMO 3.2 / Funkot Collection",
+        "source_url": "https://x.com/com_giko_31/status/963018657113632768",
+        "evidence": "X公式の公開埋め込み本文で、xi本人の2018-02-12投稿にDEEMO 3.2のFunkot CollectionへDusk to Dawn / xiが収録されたという記述を直接確認。App Storeの3.2.0更新日2月12日とも一致。翌日記事の日付とは区別し、ここでは本人の収録告知日を記録する。",
+        "version": "Dusk to Dawn（DEEMO 3.2収録告知）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-184",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-184-SDVX",
+        "date": "2018-08-09",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（SDVX IV・初出未確定）",
+        "medium": "SOUND VOLTEX IV",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/iv/p/news/info7.html",
+        "evidence": "公式8月9日当日のΩ Dimension配信開始と、その案内先第51弾 https://p.eagate.573.jp/game/sdvx/iv/p/music/detail.html?list_id=51 のFailnaught / xiを照合。前日の告知日とは区別。",
+        "version": "Failnaught（SDVX IV配信版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-185",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-185-SDVX",
+        "date": "2014-03-06",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（SDVX II・初出未確定）",
+        "medium": "SOUND VOLTEX II",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/ii/p/news/index.html",
+        "evidence": "公式2014年3月6日の配信案内と第27弾 https://p.eagate.573.jp/game/sdvx/ii/p/music/detail.html?list_id=27 のFiat Lux / xiを照合。",
+        "version": "Fiat Lux（SDVX II配信版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-190",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-190-BEMANI-EVENT",
+        "date": "2016-08-10",
+        "precision": "day",
+        "kind": "ゲームイベント解禁開始日（夏のニュージェネ流星フェスタ・初出未確定）",
+        "medium": "BEMANI 夏のニュージェネ流星フェスタ2016",
+        "source_url": "https://p.eagate.573.jp/game/2dx/23/p/index.html",
+        "evidence": "KONAMI公式の2016-08-10当日開始案内と公式楽曲紹介 https://p.eagate.573.jp/game/bemani/fansite/p/music/201608/ のGrand Chariot / xi、同イベント収録を照合。2018年CD発売とは別。",
+        "version": "Grand Chariot（夏のニュージェネ流星フェスタ2016）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "DATE-XI-190-PHYSICAL-CD",
+        "date": "2018-12-30",
+        "precision": "day",
+        "kind": "アルバム頒布日（C95物理CD・初出未確定）",
+        "medium": "Quietus Ray / DVSP-0214（物理CD）",
+        "source_url": "https://xi5th.diverse.jp/",
+        "evidence": "公式特設のC95頒布日2018-12-30、物理盤track3 Grand Chariot / xiを照合。この曲はBandcamp電子版から除外されるため、物理CDへの収録記録とする。電子版の配信や無料の全曲再生があるという記録ではない。",
+        "version": "Grand Chariot（Quietus Ray物理CD収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-215",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-215-PHYSICAL-CD",
+        "date": "2018-12-30",
+        "precision": "day",
+        "kind": "アルバム頒布日（C95物理CD・初出未確定）",
+        "medium": "Quietus Ray / DVSP-0214（物理CD）",
+        "source_url": "https://xi5th.diverse.jp/",
+        "evidence": "公式特設のC95頒布日2018-12-30、物理盤track1 Quietus Ray / xiを照合。この曲はBandcamp電子版から除外されるため、物理CDへの収録記録とする。電子版の配信や無料の全曲再生があるという記録ではない。",
+        "version": "Quietus Ray（Quietus Ray物理CD収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "DATE-XI-215-SDVX",
+        "date": "2013-09-05",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（SDVX II・初出未確定）",
+        "medium": "SOUND VOLTEX II",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/ii/p/",
+        "evidence": "公式2013-09-05当日ニュースと、その第10弾 https://p.eagate.573.jp/game/sdvx/ii/p/music/detail.html?list_id=10 のQuietus Ray / xiを照合。後年の物理CD発売とは別のゲーム配信記録。",
+        "version": "Quietus Ray（SDVX II配信版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-194",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-194-SDVX",
+        "date": "2016-04-01",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（SDVX III・曲の初出ではない）",
+        "medium": "SOUND VOLTEX III",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/iii/p/news/info6.html",
+        "evidence": "公式3月30日予告と4月1日当日案内、その第55弾 https://p.eagate.573.jp/game/sdvx/iii/p/music/detail.html?list_id=55 のInixia / xiを照合。FLOOR ANTHEM EP.01の書き下ろし楽曲をゲーム収録した記録で、先行アルバムの発売日を確定するものではない。",
+        "version": "Inixia（SDVX IIIゲーム配信版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-197",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-197-SDVX",
+        "date": "2018-02-22",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（SDVX IV・初出未確定）",
+        "medium": "SOUND VOLTEX IV",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/iv/p/news/info5.html",
+        "evidence": "公式2018-02-22当日ニュースの全国配信開始と、その第38弾 https://p.eagate.573.jp/game/sdvx/iv/p/music/detail.html?list_id=38 のLast Resort / xiを照合。二次資料の2月21日を採用しない。",
+        "version": "Last Resort（SDVX IV配信版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-198",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://soundcloud.com/sakuzyo/lunar-mare",
+        "label": "Sakuzyo · 共同作者公式SoundCloud",
+        "version": "Lunar Mare",
+        "evidence": "共同作者の曲別ページでxi vs sakuzyoと本人SoundCloudへのリンクを確認。 掲載情報に基づく案内。音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "DATE-XI-198-SOUNDCLOUD",
+        "date": "2019-01-12",
+        "precision": "day",
+        "kind": "公式音源公開日（共同作者SoundCloud・ゲーム初収録未確定）",
+        "medium": "SoundCloud（Sakuzyo）",
+        "source_url": "https://soundcloud.com/sakuzyo/lunar-mare",
+        "evidence": "共同作者公式ページの曲名Cytus II Lunar Mare、xi vs sakuzyoの説明、xi公式SoundCloudリンク、公開日時2019-01-12T13:08:21Zを照合。日本時間でも同日。Cytus II 2.0の更新日との一致だけでゲーム初収録日とは断定しない。",
+        "version": "Lunar Mare（共同作者公開音源）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-200",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-200-BPL",
+        "date": "2026-03-21",
+        "precision": "day",
+        "kind": "公式大会楽曲披露日（BPL S5・一般配信日未確定）",
+        "medium": "BEMANI PRO LEAGUE SEASON 5 セミファイナル",
+        "source_url": "https://p.eagate.573.jp/game/bpl/season5/game/semi/sdvx/index.html",
+        "evidence": "公式セミファイナル第2試合のMasterstrokeと、開催案内 https://p.eagate.573.jp/game/bpl/season5/event/finals/ の2026-03-21を照合。大会披露の記録で、ゲーム一般配信日とは別。",
+        "version": "Masterstroke（BPL S5大会披露）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-203",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-203-CYTUS-II",
+        "date": "2026-09-08",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（Cytus II 5.2.18・初出未確定）",
+        "medium": "Cytus II 5.2.18",
+        "source_url": "https://apps.apple.com/dz/app/cytus-ii/id1290687550",
+        "evidence": "Rayark提供のApp Store履歴5.2.18のtime datetime=2026-09-08とMESSiΛH COMPL3X / xiを照合。公式ストアイベント https://apps.apple.com/cm/app/id1290687550?eventid=6809520213 も同曲を明記。9月11日・17日の再掲を曲の追加日としない。",
+        "version": "MESSiΛH COMPL3X（Cytus II 5.2.18）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-210",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-210-BMS-YEAR",
+        "date": "2012",
+        "precision": "year",
+        "kind": "BMS本人出展の確認年（月日未確認・初出未確定）",
+        "medium": "コロシアム シャッフル / 本人出展ページ",
+        "source_url": "https://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=53",
+        "evidence": "本人出展ページのPandemoniumと2012年の存在を確認。4月5日はupdated、4月1日は感想の日付なので作品の初公開日に転用しない。イベント開始候補3月24日も個別曲の初出としない。",
+        "version": "Pandemonium（BMS出展版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-216",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-216-SDVX-ROUND",
+        "date": "2021-12-23",
+        "precision": "day",
+        "kind": "ゲーム配信回の開始日（第13回対象曲との資料照合）",
+        "medium": "SOUND VOLTEX EXCEED GEAR / 第13回配信",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/vi/news/index.html",
+        "evidence": "公式12月23日当日追加の案内と https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/27/index.html のRapsodia d'amoreを第13回配信対象曲として照合。回次の対応に基づく記録で、11月11日の第12回告知をこの曲の配信日にしない。",
+        "version": "Rapsodia d'amore（第13回配信対象）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-218",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-218-OST",
+        "date": "2015-09-21",
+        "precision": "day",
+        "kind": "アルバム発売日（公式OSTデジタル配信・初出未確定）",
+        "medium": "Cytus公式サウンドトラック",
+        "source_url": "https://open.spotify.com/album/4iv9GCOGdjr4kOPbY45ckG",
+        "evidence": "公式OST配信の曲目REVOLUXIONISTと2015-09-21を、Amazon Music https://music.amazon.com/albums/B015QK2G0A の曲目・発売日とも照合。Cytus Chapter Sへの初収録日や2013年の章追加日と同一視しない。",
+        "version": "REVOLUXIONIST（公式OST収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-223",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-223-AOU",
+        "date": "2015-10-15",
+        "precision": "day",
+        "kind": "ゲームイベント解禁開始日（GC2 AOU先行・初出未確定）",
+        "medium": "天下一音ゲ祭 / GROOVE COASTER 2",
+        "source_url": "https://x.com/AOU_Tenkatui/status/654128274839334913",
+        "evidence": "X公式の公開埋め込み本文でAOU公式の2015-10-14告知を直接確認。Solar Stormを含む5曲は10月15日から先行配信開始と明記。告知投稿日14日と対象イベントの開始日15日を区別し、後日の一般解禁や曲の真の初出を確定する記録とはしない。",
+        "version": "Solar Storm（AOU先行配信）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-225",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-225-AUTHOR-ANNOUNCEMENT",
+        "date": "2018-03-08",
+        "precision": "day",
+        "kind": "本人のゲーム収録告知日（STAR ep.IV・初出未確定）",
+        "medium": "CHUNITHM STAR ep.IV",
+        "source_url": "https://x.com/com_giko_31/status/971610029051723776",
+        "evidence": "X公式の公開埋め込み本文で、xi本人の2018-03-08投稿に新マップSTAR ep.IVへSparking Revolver / xiが収録されたという記述を直接確認。ここでは本人の収録告知日を記録し、2018-10-25の通常解禁や曲の真の初出とは区別する。",
+        "version": "Sparking Revolver（STAR ep.IV収録告知）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-226",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-226-ONGEKI",
+        "date": "2020-09-30",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（オンゲキRED・初出未確定）",
+        "medium": "オンゲキRED",
+        "source_url": "https://ongeki.sega.jp/news/20200930/",
+        "evidence": "SEGA公式の2020-09-30当日稼働案内とStargazing Dreamerの曲一覧を照合。公開カタログの内部date値だけから推定したものではない。",
+        "version": "Stargazing Dreamer（オンゲキRED収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-227",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://soundcloud.com/sakuzyo/cytus-chapter-m-xi-vs-sakuzyo-storia",
+        "label": "Sakuzyo · 共同作者公式SoundCloud",
+        "version": "STORIA（Cytus Chapter M）",
+        "evidence": "共同作者の公式曲別ページでCytus Chapter M、xi vs sakuzyo、STORIAの表記を照合。 掲載情報に基づく案内。音を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "DATE-XI-227-CYTUS-CHAPTER",
+        "date": "2015-07-01",
+        "precision": "day",
+        "kind": "ゲーム章追加日（Chapter M曲所属との資料照合）",
+        "medium": "Cytus 8.0 / Chapter M",
+        "source_url": "https://apps.apple.com/tw/app/cytus/id485246824",
+        "evidence": "公式App Storeの8.0.0更新日2015-07-01とChapter Million追加、共同作者公式SoundCloud https://soundcloud.com/sakuzyo/cytus-chapter-m-xi-vs-sakuzyo-storia のCytus Chapter M所属表記を組み合わせた記録。曲単独の配信日時を直接示す資料ではなく、翌日の公式音源公開記録とは別に扱う。",
+        "version": "STORIA（Cytus Chapter M所属）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "DATE-XI-227-SOUNDCLOUD",
+        "date": "2015-07-02",
+        "precision": "day",
+        "kind": "公式音源公開日（共同作者SoundCloud・初出未確定）",
+        "medium": "SoundCloud（Sakuzyo）",
+        "source_url": "https://soundcloud.com/sakuzyo/cytus-chapter-m-xi-vs-sakuzyo-storia",
+        "evidence": "共同作者公式のCytus Chapter M xi vs sakuzyo STORIAの公開表示2015-07-02を確認。ここでは表示日を採用し、未記録の時刻やタイムゾーンを補わない。ゲーム初収録日時とは別の公式音源公開記録。",
+        "version": "STORIA（共同作者公開音源）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-234",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-234-SDVX",
+        "date": "2016-07-14",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（SDVX III・初出未確定）",
+        "medium": "SOUND VOLTEX III",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/iii/p/",
+        "evidence": "公式2016-07-14当日ニュースと第67弾 https://p.eagate.573.jp/game/sdvx/iii/p/music/detail.html?list_id=67 のTime to Air -Fly High Remix- / xiを照合。原曲とは別のリミックス版。",
+        "version": "Time to Air -Fly High Remix-（SDVX III配信版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-236",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-236-SDVX",
+        "date": "2014-12-04",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（SDVX III・初出未確定）",
+        "medium": "SOUND VOLTEX III",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/iii/p/",
+        "evidence": "公式2014-12-04当日ニュースと第4弾 https://p.eagate.573.jp/game/sdvx/iii/p/music/detail.html?list_id=4 のTU-MA-MI△ALL-NIGHTER / xi undergroundを照合。名義は原資料どおりとし、この記録だけで帰属判定を変更しない。",
+        "version": "TU-MA-MI△ALL-NIGHTER（xi underground名義）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-238",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-238-SDVX",
+        "date": "2014-08-14",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（SDVX II・初出未確定）",
+        "medium": "SOUND VOLTEX II",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/ii/p/",
+        "evidence": "公式2014-08-14当日ニュースと第42弾 https://p.eagate.573.jp/game/sdvx/ii/p/music/detail.html?list_id=42 のWish upon Twin Stars / xiを照合。2016年のGRAVITY譜面追加日とは別。",
+        "version": "Wish upon Twin Stars（SDVX II配信版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-243",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-243-SDVX",
+        "date": "2020-02-27",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（SDVX V・初出未確定）",
+        "medium": "SOUND VOLTEX V / 幻想御伽篇",
+        "source_url": "https://p.eagate.573.jp/game/sdvx/v/p/top/",
+        "evidence": "公式2020-02-27当日案内と第25弾 https://p.eagate.573.jp/game/sdvx/v/p/music/detail.html?list_id=25 のЯeviveR / Diceros Bicornis(xi+BlackY)、幻想御伽篇を照合。",
+        "version": "ЯeviveR（SDVX V配信版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-245",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-245-VOCALIST-ANNOUNCEMENT",
+        "date": "2023-10-18",
+        "precision": "day",
+        "kind": "歌唱作詞担当の収録告知日（IIDX EPOLIS・初出未確定）",
+        "medium": "beatmania IIDX 31 EPOLIS / Risa Yuzuki",
+        "source_url": "https://x.com/Yuzurisa15/status/1714591219685511227",
+        "evidence": "X公式の公開埋め込み本文で、歌唱作詞担当Risa Yuzukiの2023-10-18投稿に本日稼働のIIDX EPOLIS新曲夢縁、xi feat. Risa Yuzukiを直接確認。公式曲別紹介 https://p.eagate.573.jp/game/2dx/31/newsong/song24.html と照合し、担当者による当日収録告知の記録とする。",
+        "version": "夢縁（IIDX EPOLIS収録告知）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-248",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-248-TAIKO",
+        "date": "2016-04-15",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（太鼓ホワイト・初出未確定）",
+        "medium": "太鼓の達人 ホワイトver.",
+        "source_url": "https://www.nekomirin.com/worklist.htm",
+        "evidence": "共同作者ねこみりん公式の制作実績で超絶技巧系少女、太鼓の達人ホワイトver.収録日2016-04-15を照合。2015年公募公開の可能性とは別のゲーム収録記録で、曲の真の初公開日を確定しない。",
+        "version": "超絶技巧系少女（太鼓ホワイト収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-187",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-187-B1-CROSS-SOURCE",
+        "date": "2018-02-01",
+        "precision": "day",
+        "kind": "ゲーム収録日の資料照合（B1リリース日・初出未確定）",
+        "medium": "WAR OF BRAINS / B1 Riot for Freedom",
+        "source_url": "https://x.com/wob_ocg/status/958613861833228288",
+        "evidence": "WAR OF BRAINS公式の2018-01-31投稿が翌2月1日のB1リリースを明記。第4弾Riot for Freedomの2月1日リリース予告 https://x.com/wob_ocg/status/958548093489766400 と、2018-05-05の公式紹介 https://x.com/wob_ocg/status/992691188074401792 にあるB1・予言システム プリノウズ・xi・Fortunaの対応を照合した。いずれもX公式公開oEmbed本文を根拠とする。曲単独の配信日を直接記した投稿ではなく、B1リリース日と公式の曲・カード所属情報の組合せ。5月5日の紹介日や後年のFull ver.サウンドトラックとは区別する。",
+        "version": "Fortuna（WAR OF BRAINS B1ゲーム収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "DATE-XI-187-OFFICIAL-INTRODUCTION",
+        "date": "2018-05-05",
+        "precision": "day",
+        "kind": "公式音源紹介日（WAR OF BRAINS公式投稿・初出未確定）",
+        "medium": "WAR OF BRAINS 公式X",
+        "source_url": "https://x.com/wob_ocg/status/992691188074401792",
+        "evidence": "WAR OF BRAINS公式の2018-05-05投稿がB1の予言システム プリノウズとxiのFortunaを紹介していることをX公式公開oEmbed本文で確認。これは公式の紹介イベントとして記録し、ゲーム初配信日や現在のフル音源再生確認を意味しない。後年のFull ver.サウンドトラックとも区別する。",
+        "version": "Fortuna（B1収録曲の公式紹介）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "DATE-XI-187-PROGRAM-PREVIEW",
+        "date": "2017-12-12",
+        "precision": "day",
+        "kind": "先行試聴の資料照合（本人予告・番組開催確認／曲の再生未監査）",
+        "medium": "WAR OF BRAINS 公式番組・真冬の音楽フェスSP",
+        "source_url": "https://x.com/com_giko_31/status/937542053646385152",
+        "evidence": "xi本人の2017-12-04投稿は、第4弾NEUTRALの予言システム プリノウズの楽曲担当と、12月12日のゲーム公式番組で聴けるという先行試聴予定を告知している。制作元の2017年番組一覧 https://getnews.jp/livearchive2017 に2017-12-12(火)19:00のウォーブレ公式番組と視聴統計があり、出演者KOTOKOの12月14日の振り返り https://ameblo.jp/kotoko-kirakira/entry-12336391731.html も出演とアーカイブ https://freshlive.tv/wob/173583 および http://live.nicovideo.jp/watch/lv309089059 を案内する。曲名Fortunaとの対応は2018-05-05のゲーム公式紹介 https://x.com/wob_ocg/status/992691188074401792 のカード名・xi・Fortunaの組合せで照合。本人の予告、番組開催、後の曲同定を組み合わせた記録で、番組音声中の当該曲再生・全尺公開は未監査。告知日12月4日やB1リリースの2018年2月1日と区別し、真の初出を確定しない。",
+        "version": "Fortuna（公式番組での先行試聴に関する記録）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-188",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-188-MAIMAI-CHALLENGE",
+        "date": "2016-05-26",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（maimaiチャレンジトラック・初出未確定）",
+        "medium": "maimai / チャレンジトラック",
+        "source_url": "https://x.com/maimai_official/status/735365074014089216",
+        "evidence": "maimai公式の2016-05-25投稿が翌5月26日のGlorious Crown / xiのチャレンジトラック登場を明記していることをX公式公開oEmbed本文で確認。告知投稿日5月25日と配信日5月26日を分ける。6月23日の一般解禁とは異なる先行チャレンジトラックの配信イベントで、曲のすべての媒体を通じた初出まで確定したものではない。",
+        "version": "Glorious Crown（maimaiチャレンジトラック版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-017",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-017-CHUNITHM",
+        "date": "2016-05-26",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（CHUNITHM移植・曲の初出ではない）",
+        "medium": "CHUNITHM",
+        "source_url": "https://x.com/chunithm/status/735365008234848257",
+        "evidence": "CHUNITHM公式の2016-05-25投稿が翌5月26日のFREEDOM DiVE登場を明記していることをX公式公開oEmbed本文で確認。告知の曲名表記は末尾の↓なしだが、既存作品FREEDOM DiVE↓のCHUNITHM移植に対応する。同投稿はmaimaiでリアレンジ版Glorious Crownが同日公開とも説明しており、両曲を同一レコードとして統合しない。2008年のmuzie・BMS登録や2011年のアルバム収録を上書きせず、移植イベントを追加する。",
+        "version": "FREEDOM DiVE↓（CHUNITHM収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-213",
+    "sources": [
+      {
+        "origin": "official",
+        "url": "https://www.youtube.com/watch?v=iIoKisgSjHs",
+        "label": "PUMP IT UP Official · 公式BGA",
+        "version": "PRiMA MATERiA（PIU PHOENIX公式BGA）",
+        "evidence": "PUMP IT UP公式チャンネルのPHOENIX Original BGA。説明のPRiMA MATERiA・Composer xi・ver.1.08.0、尺123秒、公開日2024-04-11を照合。第8回更新の予告動画wNKu6nlKlgsとは別の全尺BGA掲載先。掲載情報に基づく判定で、実音声を通して聴く再生検証は未実施。",
+        "checked_on": "2026-10-31"
+      }
+    ],
+    "records": [
+      {
+        "id": "DATE-XI-213-PHOENIX-108",
+        "date": "2024-04-18",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（PIU PHOENIX 1.08.0・初出未確定）",
+        "medium": "PUMP IT UP PHOENIX / V1.08.0",
+        "source_url": "https://www.youtube.com/watch?v=wNKu6nlKlgs",
+        "evidence": "PUMP IT UP公式のThe 8th Content Update Teaser (V1.08.0)が、説明にApril 18, 2024の第8回更新と曲一覧5番PRiMA MATERiA - xiを明記。韓国語の2024年4月18日公開表記も一致する。動画投稿日2024-04-09は予告日で、ゲーム追加日の4月18日と区別する。別の公式BGA https://www.youtube.com/watch?v=iIoKisgSjHs は音源掲載先であり、更新予告動画そのものをフル音源とは扱わない。",
+        "version": "PRiMA MATERiA（PIU PHOENIX V1.08.0収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      },
+      {
+        "id": "DATE-XI-213-OFFICIAL-BGA",
+        "date": "2024-04-11",
+        "precision": "day",
+        "kind": "公式動画公開日（当該BGA版・ゲーム収録前）",
+        "medium": "PUMP IT UP Official / PHOENIX Original BGA",
+        "source_url": "https://www.youtube.com/watch?v=iIoKisgSjHs",
+        "evidence": "PUMP IT UP公式の曲別BGAで、説明にPHOENIX Original BGA・ver.1.08.0 Released Song・PRiMA MATERiA・Composer xiを確認。公開ページのpublishDateとuploadDateはいずれも2024-04-11T02:00:35-07:00（日本時間同日18:00:35）、尺は123秒。これは当該公式BGAの全尺掲載日で、4月18日のゲーム収録より前。4月9日の全体更新予告とは別動画。掲載情報の照合であり、実音声を通して聴く再生検証は未実施。すべての媒体を通じた真の初出確定を意味しない。",
+        "version": "PRiMA MATERiA（PHOENIX公式BGA・2:03）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-164",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-164-SDVX-STAMP",
+        "date": "2019-08-01",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（SDVXウィークリースタンプ・初出未確定）",
+        "medium": "SOUND VOLTEX / ウィークリースタンプ",
+        "source_url": "https://x.com/com_giko_31/status/1156780702353879040",
+        "evidence": "xi本人の2019-08-01投稿が、同日8月1日からSDVXのウィークリースタンプ楽曲Aerial Fortress / xiを遊べるようになると明記していることをX公式公開oEmbed本文で確認。第三者の引用だけだった以前の候補を、曲名・名義・配信日が揃う本人の一次告知で補完した。8月29日の再開催とは区別し、すべての媒体を通じた真の初出まで確定したものではない。",
+        "version": "Aerial Fortress（SDVXウィークリースタンプ収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  },
+  {
+    "work_id": "XI-183",
+    "sources": [],
+    "records": [
+      {
+        "id": "DATE-XI-183-SDVX-REMIX",
+        "date": "2021-03-18",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（SDVX・本人告知・初出未確定）",
+        "medium": "SOUND VOLTEX",
+        "source_url": "https://x.com/com_giko_31/status/1371723656552849408",
+        "evidence": "xi本人の2021-03-16投稿が、3月18日木曜からSDVXでElemental Creation -xiRemix-を遊べるようになると明記していることをX公式公開oEmbed本文で確認。投稿日3月16日は予告日、本文が示すゲーム配信日は3月18日であり区別する。原曲の公開日やxiによるリミックスの他媒体での初出を、この投稿のみで確定しない。",
+        "version": "Elemental Creation -xiRemix-（SDVX収録版）",
+        "checked_on": "2026-10-31",
+        "true_first_publication_confirmed": false
+      }
+    ]
+  }
+]

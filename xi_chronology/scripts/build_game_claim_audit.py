@@ -96,11 +96,11 @@ def build():
         all_works.append(dict(work_id=work['id'],title=work['title'],
             input_claim_ids=[r['input']['id'] for r in rows if work['id'] in r['work_ids']],
             game_records=records,status='収録・提供関係あり' if records else '掲載根拠未取得（不収録とは断定しない）',
-            checked_on=CHECKED))
-    result=dict(checked_on=CHECKED,input_claim_count=len(rows),work_count=len(all_works),
+            checked_on=max(CHECKED, work['checked_on'])))
+    result=dict(checked_on=max(w['checked_on'] for w in all_works),input_claim_count=len(rows),work_count=len(all_works),
         status_counts=dict(Counter(r['status'] for r in rows)),claims=rows,works=all_works,
         rules=['入力123行を保持。World Fragmentsの1行はI・II・IIIの3項目に対応する。',
-            '全251項目を台帳に残す。掲載根拠未取得は全ゲームでの不収録を意味しない。',
+            f'全{len(all_works)}項目を台帳に残す。掲載根拠未取得は全ゲームでの不収録を意味しない。',
             '確認したゲーム別一覧の範囲と、全作品の全収録先の網羅調査は区別する。'])
     (DATA/'game_claim_audit.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     out=io.StringIO(newline=''); writer=csv.writer(out,lineterminator='\n')
@@ -131,7 +131,7 @@ def build():
         '- HypnosはDiverse System公式曲別動画、NoctilucaはTunerGames公式曲別動画で本人com_giko_31への直接リンクを確認し、曲別帰属根拠・公式試聴へ追加。音声は未聴取なので曲調のコメントは加えていない。',
         '- SEGAの公式公開曲目を全件取得し、CHUNITHM 1763行・maimai 1605行・オンゲキ1112行から曲名と名義を照合。SHIKIのLapisをxiの同名曲へ対応させない。追加のWORLD’S END・宴・LUNATIC譜面を別の曲として数えない。',
         '- maimaiのHeavenly Blastは原曲への収録関係。Long Version・2022 Remasterを独立したゲーム収録として計上しない。Mjölnirのゲーム音源とGame Size版との同定は未了。',
-        '- ArcaeaのWorld Fragments III(radio edit)は関連する版として候補に保持。アルバム版と同じ音源とは確定しない。Parallaxは二次資料上2026-10-29追加予定で、確認日より未来のため現在の収録へ加えない。',
+        '- ArcaeaのWorld Fragments III(radio edit)は関連する版として候補に保持。アルバム版と同じ音源とは確定しない。Parallaxは10月26日に公式Xを確認し、XI-252として追加。10月24日を初公開日（利用者確認）とし、ゲームは10月29日予定の追加告知として保持。詳細は[new-releases-20261026.md](new-releases-20261026.md)。',
         '- ノスタルジアの2021-12-22は告知日、2021-12-23 10:00はイベント解禁開始。公開ニュース本文のdata-dateと本文の日時を分けて確認。',
         '- 太鼓の達人は今回Nintendo Switch・Apple Arcade版を確認。アーケードへの初収録日へ転用しない。プロセカの大会向け提供・追加告知も通常収録と区別する。','',
         '## 追加調査の順序','',
@@ -150,7 +150,7 @@ def build():
         report.append(f'|{e["id"]}|{e["subsection"]}|{title}|{r["status"]}|'+(f'[資料]({source})' if source else '未取得')+'|')
     report += ['', '## 保存・再生成','',
         '- `xi_chronology/data/game_claim_audit.csv`：元123行の照合表。Excel等で読めるUTF-8 BOM付き。',
-        '- `xi_chronology/data/game_claim_audit.json`：全123行と全251項目の収録関係台帳。元の入力オブジェクトを保持。掲載根拠未取得は不収録と断定しない。',
+        f'- `xi_chronology/data/game_claim_audit.json`：全123行と全{len(all_works)}項目の収録関係台帳。元の入力オブジェクトを保持。掲載根拠未取得は不収録と断定しない。',
         '- `xi_chronology/data/game_song_findings.json`：今回の曲別判断114件。一次・メーカー資料転載・二次を区別。前段階のgame_research.jsonを上書きしない。',
         '- `xi_chronology/sources/game-song-audit-20261025/`：URL、取得日時、成否、原バイト、SHA256、抽出テキスト。取得原文は無変更。HTTPの文字コード宣言と本文が食い違うページは原バイトをUTF-8優先・CP932補完で再読している。',
         '- 再生成順：`research_game_song_audit.py` → `site/scripts/generate-contracts.mjs`。後者は公開データ・API契約に加え、`build_game_claim_audit.py`で本台帳・本稿も更新する。',

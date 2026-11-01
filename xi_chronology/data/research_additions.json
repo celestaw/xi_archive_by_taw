@@ -1782,12 +1782,29 @@
         "summary": "SEGA公式maimaiの公開曲目に「ANiMA / xi」を確認。対応する一覧レコード：724。",
         "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
         "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "xi本人のANiMA制作意図の投稿",
+        "url": "https://x.com/com_giko_31/status/616629483831865345",
+        "locator": "投稿本文（公式埋め込みで確認）",
+        "credit": "xi（@com_giko_31）",
+        "summary": "DEEMO向けに暗く速い曲を目指し、複雑な和音を避けたクラシック寄りのアプローチ、展開のための多い転調、ピアノ中心のハードルネッサンスについて本人が説明。譜面の難しさは想定以上だったとも述べる。",
+        "identity_note": "利用者提供の転記を手掛かりに、本人アカウントcom_giko_31の公式埋め込み本文と照合。embedの日付は2015-07-02で、日本時間の2015-07-03と区別する。",
+        "checked_on": "2026-10-30"
       }
     ],
     "records": [],
     "listening": [],
     "issues": [],
-    "checked_on": "2026-10-25"
+    "checked_on": "2026-10-30",
+    "comment": "『World Fragments』への収録を確認。DEEMOでの先行公開日を追加調査中。\n\n本人は2015年7月3日（日本時間）の投稿で、DEEMOに暗く速い曲を入れたいという発想から、複雑な和音を避けたクラシック寄りのアプローチを取り、展開を付けるために転調を多くして、ピアノ中心のハードルネッサンスに仕上げたと説明している。譜面があれほど難しくなるとは思わなかったとも述べている。[作者の投稿](https://x.com/com_giko_31/status/616629483831865345)",
+    "user_provided_transcription": {
+      "supplied_post_date": "2015-07-03",
+      "date_timezone": "Asia/Tokyo",
+      "text": "ANiMAはDeemoに暗くて速い曲入れたいな！と思ったので、古典的というか難しい和音を使わず若干クラシック的なアプローチをして、音ゲー的に展開をつけるため転調多めにし、ピアノ中心のハードルネッサンスに仕上げてみました。あと譜面はあんなに難しくなると思いませんでした（",
+      "verification": "公式埋め込みの本文と照合。公開日・作曲日を確定する根拠としては扱わない。"
+    }
   },
   "XI-155": {
     "title": "RE!NCARN4T10N",
@@ -2678,5 +2695,120 @@
     "listening": [],
     "issues": [],
     "checked_on": "2026-10-25"
+  },
+  "XI-252": {
+    "title": "Parallax",
+    "checked_on": "2026-10-26",
+    "verified_credit": true,
+    "credited_name": "xi vs. ak+q (lowiro)",
+    "role": "合作：xi・ak+q (lowiro)。個別の制作工程は未確認。",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "Arcaea公式 X",
+        "url": "https://x.com/arcaea_jp/status/2113786378047619133",
+        "locator": "曲別告知・2026年10月24日 9:15（日本時間）",
+        "credit": "xi vs. ak+q (lowiro)",
+        "summary": "公式投稿に曲名Parallaxとxi vs. ak+q (lowiro)名義を掲載。",
+        "identity_note": "xi本人または公式運営の曲別告知を照合。合作の制作工程の内訳は推測しない。",
+        "checked_on": "2026-10-26"
+      },
+      {
+        "kind": "primary",
+        "label": "xi本人 X",
+        "url": "https://x.com/com_giko_31/status/2113806371250643454",
+        "locator": "合作提供の告知・2026年10月24日",
+        "credit": "xi vs. ak+q (lowiro)",
+        "summary": "本人がak+qとの合作を提供したことと、パックの10月29日配信予定を告知。",
+        "identity_note": "xi本人または公式運営の曲別告知を照合。合作の制作工程の内訳は推測しない。",
+        "checked_on": "2026-10-26"
+      }
+    ],
+    "records": [
+      {
+        "id": "NEW-XI-252-1",
+        "date": "2026-10-24",
+        "precision": "day",
+        "kind": "プレビュー公開日（X告知・初公開、利用者確認）",
+        "medium": "Arcaea",
+        "source_url": "https://x.com/arcaea_jp/status/2113786378047619133",
+        "evidence": "Arcaea公式Xの曲別告知日を確認。告知日と初公開日が同日であるとの利用者補足（USER-20261026-001）に基づき、初公開日として登録。",
+        "version": "Parallax",
+        "checked_on": "2026-10-26",
+        "true_first_publication_confirmed": true
+      }
+    ],
+    "listening": [],
+    "issues": [
+      "ゲーム配信は2026年10月29日予定。確認日現在は追加告知として保持し、ゲーム実装済みとは扱わない。"
+    ]
+  },
+  "XI-253": {
+    "title": "Re：End of a Dream (Diceros Bicornis Remix)",
+    "checked_on": "2026-10-26",
+    "verified_credit": true,
+    "credited_name": "Diceros Bicornis (xi + BlackY)",
+    "role": "リミックス合作：xi・BlackY（Diceros Bicornis）。原曲：uma vs. モリモリあつし。",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "xi本人 X",
+        "url": "https://x.com/com_giko_31/status/2113637093142605951",
+        "locator": "Tr. 04・曲名・BlackYとの合作表明・2026年10月23日 23:22（日本時間）",
+        "credit": "Diceros Bicornis",
+        "summary": "本人が第4曲のリミックス参加とBlackYとの合作を明記。",
+        "identity_note": "xi本人または公式運営の曲別告知を照合。合作の制作工程の内訳は推測しない。",
+        "checked_on": "2026-10-26"
+      },
+      {
+        "kind": "primary",
+        "label": "モリモリあつし公式 X",
+        "url": "https://x.com/ats024/status/2113631686579953892",
+        "locator": "アルバム告知・2026年10月23日 23:00（日本時間）",
+        "credit": "Astral Sky vs. 非可逆リズム",
+        "summary": "Re：End of DreamerZの公式告知に2026.10.25 Releaseと記載。動画の添付を確認。",
+        "identity_note": "xi本人または公式運営の曲別告知を照合。合作の制作工程の内訳は推測しない。",
+        "checked_on": "2026-10-26"
+      }
+    ],
+    "records": [
+      {
+        "id": "NEW-XI-253-1",
+        "date": "2026-10-23",
+        "precision": "day",
+        "kind": "クロスフェード公開日（X告知・初公開、利用者確認）",
+        "medium": "Re：End of DreamerZ",
+        "source_url": "https://x.com/com_giko_31/status/2113637093142605951",
+        "evidence": "xi本人の参加告知と同日付のアルバム公式動画告知を照合。告知日と初公開日が同日であるとの利用者補足（USER-20261026-001）に基づき、初公開日として登録。",
+        "version": "Re：End of a Dream (Diceros Bicornis Remix)",
+        "checked_on": "2026-10-26",
+        "true_first_publication_confirmed": true
+      },
+      {
+        "id": "NEW-XI-253-2",
+        "date": "2026-10-25",
+        "precision": "day",
+        "kind": "アルバム発売日（公式告知）",
+        "medium": "Re：End of DreamerZ",
+        "source_url": "https://x.com/com_giko_31/status/2113637093142605951",
+        "evidence": "本人の第4曲参加告知が引用するアルバム公式告知に2026.10.25 Releaseと記載。初公開日の10月23日とは分離。",
+        "version": "Re：End of a Dream (Diceros Bicornis Remix)",
+        "checked_on": "2026-10-26",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://x.com/ats024/status/2113631686579953892",
+        "label": "アルバム公式X・告知動画",
+        "version": "アルバム告知動画。曲全編の公開ではない。",
+        "official_basis": "アルバム頒布元の公式アカウントによる動画付き告知。xi本人の参加告知が引用。",
+        "officialness_source_url": "https://x.com/com_giko_31/status/2113637093142605951",
+        "availability": "動画の添付は確認。ブラウザーでは再生できず、音声は未聴取。"
+      }
+    ],
+    "issues": [
+      "原曲はこのアーカイブに未登録。xi・BlackYによるリミックスであり、xiの新規原曲として数えない。"
+    ]
   }
 }

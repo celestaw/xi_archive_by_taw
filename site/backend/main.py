@@ -9,7 +9,10 @@ from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse
 from starlette.exceptions import HTTPException as StarletteHTTPException
 
-from models import ApiError, ArchiveMeta, CollectionDetail, CollectionList, CollectionSummary, Health, WorkDetail, WorkList, WorkSummary
+from models import ApiError, ArchiveMeta, CollectionDetail, CollectionList, CollectionSummary, Health, PublicCatalogue, PublicCollections, TimelineList, WorkContext, WorkDetail, WorkList, WorkSummary
+from timeline import timeline_entry
+from audio_supplement import apply_audio_supplements
+from work_context import work_context
 
 app = FastAPI(
     title="xi archive API", version="1.0.0",
@@ -17,12 +20,19 @@ app = FastAPI(
     docs_url="/api/v1/docs", openapi_url="/api/v1/openapi.json", redoc_url=None,
     responses={422: {"model": ApiError}, 500: {"model": ApiError}},
 )
-data = json.loads((Path(__file__).parent / "data/catalogue.json").read_text(encoding="utf-8"))
-meta = ArchiveMeta.model_validate(data["meta"])
-works = [WorkDetail.model_validate(w) for w in data["works"]]
+data = PublicCatalogue.model_validate_json((Path(__file__).parent / "data/catalogue.json").read_text(encoding="utf-8"))
+meta = data.meta
+works = apply_audio_supplements(data.works, Path(__file__).parent / "data/audio_sources.json")
+meta = meta.model_copy(update={
+    "dated_entries": sum(work.earliest_record is not None for work in works),
+    "undated_entries": sum(work.earliest_record is None for work in works),
+    "years": sorted({int(work.earliest_record.date[:4]) for work in works if work.earliest_record and work.earliest_record.date}),
+    "mediums": sorted({record.medium for work in works for record in work.records}),
+    "checked_on": max([meta.checked_on, *(source.checked_on for work in works for source in work.audio_sources)]),
+})
 by_id = {w.id: w for w in works}
-collection_data = json.loads((Path(__file__).parent / "data/collections.json").read_text(encoding="utf-8"))
-collections = [CollectionDetail.model_validate(c) for c in collection_data["collections"]]
+collection_data = PublicCollections.model_validate_json((Path(__file__).parent / "data/collections.json").read_text(encoding="utf-8"))
+collections = collection_data.collections
 collections_by_id = {(c.kind, c.id): c for c in collections}
 
 
@@ -63,6 +73,13 @@ def health():
 @app.get("/api/v1/meta", response_model=ArchiveMeta, operation_id="getMeta")
 def get_meta():
     return meta
+
+
+@app.get("/api/v1/timeline", response_model=TimelineList, operation_id="getTimeline")
+def get_timeline():
+    from datetime import datetime, timedelta, timezone
+    as_of = datetime.now(timezone(timedelta(hours=9))).date().isoformat()
+    return TimelineList(items=[timeline_entry(work) for work in works], checked_on=meta.checked_on, as_of=as_of)
 
 
 def collection_list(kind: str):
@@ -136,3 +153,8 @@ def get_work(work_id: str):
     if work_id not in by_id:
         raise HTTPException(404, "該当する作品の記録がありません。")
     return by_id[work_id]
+
+
+@app.get("/api/v1/works/{work_id}/context", response_model=WorkContext, responses={404: {"model": ApiError}}, operation_id="getWorkContext")
+def get_work_context(work_id: str):
+    return work_context(get_work(work_id), collections, by_id)

@@ -70,5 +70,36 @@
     ],
     "review_file": "dusk_crimson_comparison.json",
     "external_primary_source_status": "利用者の確認とは別に、本人の2018-02-12収録報告をX公式oEmbedで取得。日付の食い違いと公開順の留保は比較データへ保存。"
+  },
+  {
+    "id": "USER-20261026-001",
+    "date": "2026-10-26",
+    "source_type": "user_clarification",
+    "source": "このチャットでの利用者の補足",
+    "original_text": "それぞれの楽曲にたいするコメントですね\nとはいえ超古代曲はまじできいたことないんで最新曲からいきたいかな\nちなみに最近また二曲増えました。arcaeaに一曲、さらにモリモリあつしのアルバムにリミックス一曲です。xから探せます。どちらも初公開の日とxでの発表日が一緒なのでそれで登録して",
+    "interpretation": [
+      "新しい曲から順に利用者本人の感想を付ける。感想は未提供なので空欄を保持。",
+      "2曲の初公開日はX発表日と同日として登録。投稿日時は公式Xで確認し、初公開との同一性の根拠は利用者補足として分離。"
+    ],
+    "work_ids": [
+      "XI-252",
+      "XI-253"
+    ],
+    "external_primary_source_status": "曲名・合作・告知日を公式Xで確認。音声は未聴取。"
+  },
+  {
+    "id": "USER-20261028-001",
+    "date": "2026-10-28",
+    "source_type": "user_clarification",
+    "source": "このチャットでの利用者の補足",
+    "original_text": "xiの2017年あたり、というか過去のtwitterのポストをみれば結構色々書いてあったりします。\nちなみにxi undergroundは違う作風の時にそうしてるとのこと",
+    "interpretation": [
+      "豆知識調査では、2017年前後を含む本人の過去Twitter投稿を重点的に参照する。",
+      "xi undergroundは、xi本人が普段と違うノリや雰囲気の曲で使う名義という補足。"
+    ],
+    "work_ids": ["XI-236"],
+    "external_primary_source_status": "補足を手掛かりにKONAMI公式のTU-MA-MI△ALL-NIGHTER採用コメントを確認。xi本人としての挨拶と、普段とノリや雰囲気が違う時にundergroundを付けたいという説明を直接確認し、豆知識文書の未確定扱いを訂正。",
+    "external_primary_source_url": "https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/14/index_2.html",
+    "research_file": "trivia_twitter_additions.json"
   }
 ]

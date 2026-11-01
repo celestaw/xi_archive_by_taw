@@ -24,6 +24,35 @@ class ContractTests(unittest.TestCase):
         self.assertEqual(result.total, meta['undated_entries'])
         self.assertTrue(all(w.earliest_record is None for w in result.items))
 
+    def test_genres_keep_original_labels_and_sources_without_guessing(self):
+        result = WorkList.model_validate(self.client.get('/api/v1/works?q=FREEDOM%20DiVE').json())
+        original = next(work for work in result.items if work.id == 'XI-017')
+        self.assertEqual(original.genre.label, 'HAPPY HARDCORE')
+        self.assertEqual(original.genre.medium, 'BMSイベント')
+        self.assertIn('event=50&num=15', original.genre.source_url)
+        self.assertEqual(self.client.get('/api/v1/works/XI-221').json()['genre']['label'],
+                         'PIANO CONCERTINO + JAZZ FUSION')
+        # A new release and an unidentified work must not inherit a guessed genre.
+        for work_id in ['XI-001', 'XI-252']:
+            self.assertIsNone(self.client.get(f'/api/v1/works/{work_id}').json()['genre'])
+
+    def test_bms_genre_followup_does_not_infer_other_versions_or_dates(self):
+        expected = {
+            'XI-019': 'postrock', 'XI-025': 'JAZZ FUSION', 'XI-033': 'マジックジャズ',
+            'XI-037': 'SYMPHONIC SCHRANZ', 'XI-169': 'DARKSTEP MIX',
+            'XI-186': 'ANTHEM SPEEDCORE', 'XI-210': '無調音楽',
+        }
+        for work_id, label in expected.items():
+            with self.subTest(work=work_id):
+                work = self.client.get(f'/api/v1/works/{work_id}').json()
+                self.assertEqual(work['genre']['label'], label)
+                self.assertEqual(work['genre']['checked_on'], '2026-10-27')
+                self.assertTrue(work['genre']['source_url'].startswith('https://'))
+        peace = self.client.get('/api/v1/works/XI-037').json()
+        self.assertEqual(peace['earliest_record']['date'], '2011-10-30')
+        acid = self.client.get('/api/v1/works/XI-028').json()
+        self.assertEqual(acid['genre']['label'], "DRUM'N'BASS")
+
     def test_distinct_registration_dates(self):
         work = WorkDetail.model_validate(self.client.get('/api/v1/works/XI-017').json())
         self.assertEqual(work.earliest_record.date, '2008-03-19')
@@ -31,35 +60,51 @@ class ContractTests(unittest.TestCase):
         self.assertIn('2008-03-21', [r.date for r in work.records])
         self.assertTrue(all(r.source_url.startswith(('http://', 'https://')) for r in work.records))
 
-    def test_each_work_has_traceable_attribution_and_inclusion(self):
+    def test_new_x_announcements_keep_first_publication_and_release_separate(self):
+        for key, first in [('XI-252', '2026-10-24'), ('XI-253', '2026-10-23')]:
+            with self.subTest(work=key):
+                work = WorkDetail.model_validate(self.client.get(f'/api/v1/works/{key}').json())
+                self.assertEqual(work.earliest_record.date, first)
+                self.assertTrue(work.earliest_record.true_first_publication_confirmed)
+                self.assertIn('利用者補足', work.earliest_record.evidence)
+                self.assertEqual(work.attribution, 'credited')
+        remix = WorkDetail.model_validate(self.client.get('/api/v1/works/XI-253').json())
+        self.assertTrue(remix.is_variant)
+        self.assertIn('2026-10-25', [r.date for r in remix.records])
+
+    def test_future_arcaea_release_is_an_announcement(self):
+        game = self.client.get('/api/v1/games/arcaea').json()
+        track = next(t for t in game['tracks'] if t['work_id'] == 'XI-252')
+        self.assertEqual(track['listing_kind'], '追加告知')
+        self.assertIn('10月29日', track['evidence'])
+        work = WorkDetail.model_validate(self.client.get('/api/v1/works/XI-252').json())
+        self.assertFalse(any(r.date == '2026-10-29' for r in work.records))
+
+    def test_public_citations_preserve_attribution_without_inclusion_notes(self):
         for work in works:
-            basis = work.attribution_basis
-            self.assertTrue(basis.summary, work.id)
-            self.assertTrue(basis.inclusion, work.id)
-            self.assertEqual(work.attribution == 'credited', basis.verdict == 'primary_credit', work.id)
             if work.attribution == 'credited':
-                self.assertTrue(any(s.kind == 'primary' and s.url for s in basis.sources), work.id)
-            for source in basis.sources:
-                self.assertNotEqual(source.kind, 'input', work.id)
-                self.assertTrue(source.summary and source.identity_note and source.checked_on, work.id)
+                self.assertTrue(any(s.kind == 'primary' and s.url for s in work.sources), work.id)
+            for source in work.sources:
+                self.assertIn(source.kind, {'primary', 'secondary'}, work.id)
+                self.assertTrue(source.label and source.checked_on, work.id)
+            self.assertNotIn('attribution_basis', work.model_dump())
+            self.assertNotIn('issues', work.model_dump())
 
     def test_third_party_video_does_not_promote_attribution_or_listening(self):
         work = WorkDetail.model_validate(self.client.get('/api/v1/works/XI-029').json())
         self.assertEqual(work.attribution, 'unverified')
         self.assertIsNone(work.earliest_record)
         self.assertEqual(work.listening, [])
-        source = next(s for s in work.attribution_basis.sources if s.url and 'zeQWTuJRDGU' in s.url)
+        source = next(s for s in work.sources if 'zeQWTuJRDGU' in s.url)
         self.assertEqual(source.kind, 'secondary')
         self.assertIn('CHAGGERS Gaming', source.label)
-        self.assertTrue(any('要確認候補' in s.locator and '10行目' in s.locator for s in work.attribution_basis.inclusion))
-        self.assertFalse(any(s.url and 'note.com' in s.url for s in work.attribution_basis.inclusion))
+        self.assertNotIn('inclusion', work.model_dump())
 
     def test_alias_credit_does_not_prove_xi_identity(self):
         work = WorkDetail.model_validate(self.client.get('/api/v1/works/XI-049').json())
         self.assertEqual(work.title, 'HEAVENLY GALAXiES')
-        self.assertIn(work.title, work.attribution_basis.summary)
         self.assertEqual(work.attribution, 'unverified')
-        self.assertTrue(any(s.kind == 'primary' and s.credit == 'Xiphoid Sphere' for s in work.attribution_basis.sources))
+        self.assertTrue(any(s.kind == 'primary' and s.credit == 'Xiphoid Sphere' for s in work.sources))
 
     def test_creation_year_is_separate_and_not_padded(self):
         work = WorkDetail.model_validate(self.client.get('/api/v1/works/XI-076').json())

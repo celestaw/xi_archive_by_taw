@@ -18,8 +18,10 @@
 | --- | --- |
 | `GET /api/v1/health` | `{status: "ok", api_version: "v1"}` |
 | `GET /api/v1/meta` | 件数、年・媒体の選択肢、調査確認日、日付の注意書き |
+| `GET /api/v1/timeline` | グラフ用の全作品と、プレビュー・本公開・公開形態未確認の最古の有日付記録 |
 | `GET /api/v1/works` | 作品・別版・候補の一覧と総件数、ページ情報 |
-| `GET /api/v1/works/{id}` | 公開履歴、制作記録、公式試聴、別名、関連する版、未確認事項 |
+| `GET /api/v1/works/{id}` | 公開履歴、制作記録、公式試聴、別名、関連する版、公開用解説と出典 |
+| `GET /api/v1/works/{id}/context` | 曲IDで照合した収録アルバム・ゲーム、原曲から派生したリミックス |
 | `GET /api/v1/openapi.json` | 機械可読の通信契約 |
 | `GET /api/v1/docs` | Swagger UI |
 
@@ -39,6 +41,16 @@
 
 ## データの意味
 
+曲別の`context`は`albums`・`games`・`remixes`を返す。収録先ごとに`collection`と該当する`tracks`をまとめ、曲IDの完全一致だけを使う。追加告知・収録候補・版・曲順・出典は元の収録情報を保持する。`remixes`は原曲から派生した方向の編曲・リミックス関係と、既存の公式アルバム曲目にある他者リミックスの明示的な対応を使い、原曲の収録先へ混入させない。リミックス元への逆方向リンク、ロング版、リマスターは含めない。未確定の関係は`evidence_status`を保持する。
+
+公開APIのモデルから `attribution_basis` と `issues` を除外する。内部の判定過程・入力表の位置・人物照合メモは調査正本に保持し、開発時にも公開APIや画面へ流さない。曲名・名義の公開出典 `sources` は `kind`（primary/secondary）・`label`・公開URL・資料の名義・確認日のみに限定する。入力資料・未検証の探索先・内部コメントは含めない。公開出典があることだけを理由に帰属判定を昇格させない。
+
+曲解説は `xi_chronology/data/public_annotations.json`、収録情報の説明文は `public_collection_annotations.json` のレビュー済み本文だけを書き出す。元の調査コメント・内部issues・帰属判断の自由記述を自動で混ぜない。公開用モデルは全階層で未知のフィールドを拒否し、ローカルパス・連絡先・既知の資格情報形式と、私設アドレスや認証情報を含む出典URLも拒否する。新しい収録曲の説明が未承認なら生成を停止する。公開用JSON・OpenAPI・TypeScript型を同じ契約で再生成する。
+
+グラフ用APIはページングせず全作品を一度に返す。`preview`と`release`は公開記録の種類の先頭を照合して個別に選ぶ。発売日の補足にある「先行クロスフェードあり」はプレビューの記録へ変換しない。本公開の記録がない場合はnullのままとする。`reference`は、プレビュー・本公開に分類できない有日付の公開記録のうち最古のものを、`preview`・`release`の最古の日付より前にある場合、または両方がない場合に保持する。後年の本公開が確認できても、それより前の公開形態未確認の記録は残る。制作記録・日付のない記録はグラフ上の点にしない。
+
+`connect_preview`は、プレビューの日付の精度から分かる期間全体が、本公開の日付の期間より前の場合のみtrue。年・月の重なり、同日、後年のプレビューには未公開期間を推定する点線を引かない。各点は元の`PublicationRecord`を保持し、出典・精度・初公開未確定の状態を参照できる。
+
 - `id`：調査データから引き継ぐXI-番号。曲名から生成し直さない。
 - `earliest_record`：確認できた最も早い公開記録。不明ならnull。真の初公開とは限らない。
 - `date`：`YYYY`、`YYYY-MM`、`YYYY-MM-DD`またはnull。`precision`は`year`、`month`、`day`またはnull。モデルで組を検証。
@@ -48,6 +60,7 @@
 - `true_first_publication_confirmed`：その記録を真の初公開として確認したか。未確認ならfalse。
 - `attribution: credited`：一次資料にクレジットがある意味。全制作工程や初出日の確定ではない。
 - `attribution_basis`（詳細）：掲載に至った入力資料、帰属判断の要約、曲別の根拠資料、資料中の名義と該当箇所、本人との照合説明、確認日、未解決点。`sources[].kind`は`primary`（一次資料）、`secondary`（二次資料）、`lead`（未検証の調査先）。入力資料は`inclusion`に分け、入力だけでは一次確認に昇格させない。`reviewed_on`は整理日で、各資料の再取得日ではない。
+- `genre`：確認できたジャンル、またはnull。`label`はBMS登録ページやIIDX公式曲紹介の原表記、`medium`・`source_url`・`checked_on`はその出典。作品一覧とゲームの収録曲に含む。同じ作品IDの移植曲も原出典を保持し、FLOORなどの収録カテゴリや別バージョンからの推測は採用しない。
 - `is_variant`：原曲に関連付けた別版か。別版もIDを保持するが新規作曲数として数えない。原曲側からも関連版へ移動できる。
 - `aliases[].evidence_status`：利用者補足など、外部一次資料で未検証の別名の根拠を保持。
 - `listening`：公式性の根拠を持つリンクのみ。対象の版、確認範囲と公式性の出典も保持。試聴不可は空配列で示す。
@@ -75,5 +88,9 @@
 `site/`で`npm run contracts`を実行すると、公開JSON→OpenAPI→TypeScript型を順に再生成する。モデル変更後は必ず生成し直し、APIテスト・型チェック・ビルドを通す。契約の破壊的変更は`v2`へ分ける。現時点のv1は試作段階。
 
 APIテストは公開／制作の区別、日付精度、別名検索、未確認項目の保持、ページング、エラー形式、内部情報の除外、OpenAPIスナップショットを確認する。
+
+`WorkDetail.pronunciation`は任意の読み方情報。`reading`、`basis`（`author_suggestion` / `author_confirmed`）、`source_url`、任意の`source_date`、`checked_on`を持つ。作者の提案を確定した公式発音へ強めず、未確認の曲はnullのまま詳細に表示しない。原題・別名・一覧検索・曲名コピーは変更しない。
+
+`/songs`と`/songs.csv`はNext.js側で公開用台帳の全件を読み、検索条件・ページングから独立して提供する。一括コピーはヘッダーなし、CSVは「曲名」1列・UTF-8 BOM・CRLF。元の並び順と別版・候補の各項目を保持する。
 
 2026-10-24追記：全251項目の帰属根拠を`xi_chronology/scripts/review_attribution.py`で整理し、JSON・CSV・Markdownを保存。APIの帰属判定はそのレビューを採用する。旧`works.json`の判定は履歴として保持し、変更理由を`attribution_overrides.json`に記録。Xiphoid Sphereとxi本人の関係が未確認のXI-049を保留へ戻し、現時点は一次クレジット135項目・帰属未確認116項目。Giudizio Universaleの利用者提示動画は第三者投稿の二次資料として保持し、日付確定や公式試聴への昇格はしない。

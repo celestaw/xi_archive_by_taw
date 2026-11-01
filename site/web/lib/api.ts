@@ -2,6 +2,7 @@ import type { components, paths } from "./schema";
 
 export type Work = components["schemas"]["WorkSummary"];
 export type WorkDetail = components["schemas"]["WorkDetail"];
+export type WorkContext = components["schemas"]["WorkContext"];
 export type RecordDate = components["schemas"]["PublicationRecord"];
 export type Meta = components["schemas"]["ArchiveMeta"];
 export type WorkList = components["schemas"]["WorkList"];
@@ -10,6 +11,8 @@ export type CollectionSummary = components["schemas"]["CollectionSummary"];
 export type CollectionDetail = components["schemas"]["CollectionDetail"];
 export type CollectionList = components["schemas"]["CollectionList"];
 export type CollectionKind = "album" | "game";
+export type TimelineEntry = components["schemas"]["TimelineEntry"];
+export type TimelineList = components["schemas"]["TimelineList"];
 
 export class ApiFailure extends Error {
   constructor(public status: number, message: string) { super(message); }
@@ -36,6 +39,7 @@ async function request<T>(path: string, signal?: AbortSignal): Promise<T> {
 
 export const api = {
   meta: (signal?: AbortSignal) => request<Meta>("/meta", signal),
+  timeline: (signal?: AbortSignal) => request<TimelineList>("/timeline", signal),
   works: (query: WorkQuery, signal?: AbortSignal) => {
     const params = new URLSearchParams();
     for (const [key, value] of Object.entries(query)) {
@@ -44,6 +48,7 @@ export const api = {
     return request<WorkList>(`/works?${params}`, signal);
   },
   work: (id: string, signal?: AbortSignal) => request<WorkDetail>(`/works/${encodeURIComponent(id)}`, signal),
+  workContext: (id: string, signal?: AbortSignal) => request<WorkContext>(`/works/${encodeURIComponent(id)}/context`, signal),
   collections: (kind: CollectionKind, signal?: AbortSignal) => request<CollectionList>(kind === "album" ? "/albums" : "/games", signal),
   collection: (kind: CollectionKind, id: string, signal?: AbortSignal) => request<CollectionDetail>(`${kind === "album" ? "/albums" : "/games"}/${encodeURIComponent(id)}`, signal),
 };

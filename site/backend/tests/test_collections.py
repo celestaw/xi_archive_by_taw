@@ -26,6 +26,19 @@ class CollectionTests(unittest.TestCase):
         self.assertTrue({'project-sekai', 'cytus', 'osu', 'bms', 'arcaea', 'chrono-circle',
                          'music-diver', 'groove-coaster'} <= {c.id for c in games.items})
 
+    def test_game_genres_retain_provenance_across_ports(self):
+        for game_id in ['bms', 'sdvx']:
+            game = self.client.get(f'/api/v1/games/{game_id}').json()
+            halcyon = next(track for track in game['tracks'] if track['work_id'] == 'XI-026')
+            self.assertEqual(halcyon['genre']['label'], 'RENAISSANCE HARDCORE')
+            self.assertEqual(halcyon['genre']['medium'], 'BMSイベント')
+            self.assertIn('event=65&num=237', halcyon['genre']['source_url'])
+        sdvx = self.client.get('/api/v1/games/sdvx').json()
+        quietus = next(track for track in sdvx['tracks'] if track['work_id'] == 'XI-215')
+        self.assertIsNone(quietus['genre'])  # FLOOR is a listing category, not a musical genre.
+        album = self.client.get('/api/v1/albums/parousia').json()
+        self.assertTrue(all(track['genre'] is None for track in album['tracks']))
+
     def test_album_order_and_reissue_do_not_change_work_chronology(self):
         album = CollectionDetail.model_validate(self.client.get('/api/v1/albums/parousia').json())
         self.assertEqual([t.track_number for t in album.tracks], list(range(1, 13)))
@@ -101,13 +114,14 @@ class CollectionTests(unittest.TestCase):
         self.assertEqual(qualia.earliest_record.date, '2025-04-27')
         self.assertIn('動画公開日', qualia.earliest_record.kind)
         self.assertFalse(qualia.earliest_record.true_first_publication_confirmed)
-        self.assertTrue(any('xi Official' in s.identity_note for s in qualia.attribution_basis.sources))
+        self.assertTrue(any(s.kind == 'primary' and 'youtube.com/' in s.url for s in qualia.sources))
         self.assertTrue(all(r.date != '2021-01-01' for r in qualia.records))
         arcaea = next(c for c in collections if c.id == 'arcaea')
         overwhelm = next(t for t in arcaea.tracks if t.work_id == 'XI-135')
         self.assertIn('Nintendo Switch', overwhelm.edition)
-        candidates = [t for t in arcaea.tracks if t.work_id != 'XI-135']
+        candidates = [t for t in arcaea.tracks if t.listing_kind == '収録候補']
         self.assertEqual(len(candidates), 4)
+        self.assertEqual({t.work_id for t in candidates}, {'XI-026', 'XI-075', 'XI-069', 'XI-078'})
         self.assertTrue(all(t.source_kind == 'secondary' and t.listing_kind == '収録候補' for t in candidates))
         app = next(c for c in collections if c.id == 'groove-coaster')
         self.assertTrue(all('アプリ' in t.edition and 'アーケードモード' in t.note for t in app.tracks))
@@ -145,7 +159,7 @@ class CollectionTests(unittest.TestCase):
         self.assertEqual(by_id['XI-171'].credited_name, 'Hekatoncheir')
         self.assertEqual(by_id['XI-193'].attribution, 'credited')
         self.assertEqual(by_id['XI-208'].attribution, 'credited')
-        self.assertTrue(any('com_giko_31' in s.identity_note for s in by_id['XI-193'].attribution_basis.sources))
+        self.assertTrue(any(s.kind == 'primary' for s in by_id['XI-193'].sources))
 
     def test_extra_charts_and_internal_dates_do_not_create_new_works(self):
         chuni = next(c for c in collections if c.id == 'chunithm')

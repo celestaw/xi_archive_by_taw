@@ -82,6 +82,44 @@
         }
       }
     },
+    "/api/v1/timeline": {
+      "get": {
+        "summary": "Get Timeline",
+        "operationId": "getTimeline",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TimelineList"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Unprocessable Entity",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/v1/albums": {
       "get": {
         "summary": "List Albums",
@@ -474,6 +512,65 @@
           }
         }
       }
+    },
+    "/api/v1/works/{work_id}/context": {
+      "get": {
+        "summary": "Get Work Context",
+        "operationId": "getWorkContext",
+        "parameters": [
+          {
+            "name": "work_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Work Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WorkContext"
+                }
+              }
+            }
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Unprocessable Entity"
+          },
+          "500": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Internal Server Error"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            },
+            "description": "Not Found"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -576,107 +673,31 @@
         ],
         "title": "ArchiveMeta"
       },
-      "AttributionBasis": {
+      "AudioSource": {
         "properties": {
-          "verdict": {
+          "origin": {
             "type": "string",
             "enum": [
-              "primary_credit",
-              "unverified"
+              "official",
+              "unofficial"
             ],
-            "title": "Verdict"
+            "title": "Origin"
           },
-          "summary": {
+          "url": {
             "type": "string",
-            "title": "Summary"
-          },
-          "inclusion": {
-            "items": {
-              "$ref": "#/components/schemas/AttributionSource"
-            },
-            "type": "array",
-            "title": "Inclusion"
-          },
-          "sources": {
-            "items": {
-              "$ref": "#/components/schemas/AttributionSource"
-            },
-            "type": "array",
-            "title": "Sources"
-          },
-          "limitations": {
-            "items": {
-              "type": "string"
-            },
-            "type": "array",
-            "title": "Limitations"
-          },
-          "reviewed_on": {
-            "type": "string",
-            "title": "Reviewed On"
-          }
-        },
-        "additionalProperties": false,
-        "type": "object",
-        "required": [
-          "verdict",
-          "summary",
-          "inclusion",
-          "sources",
-          "limitations",
-          "reviewed_on"
-        ],
-        "title": "AttributionBasis"
-      },
-      "AttributionSource": {
-        "properties": {
-          "kind": {
-            "type": "string",
-            "enum": [
-              "primary",
-              "secondary",
-              "lead",
-              "input"
-            ],
-            "title": "Kind"
+            "title": "Url"
           },
           "label": {
             "type": "string",
             "title": "Label"
           },
-          "url": {
-            "anyOf": [
-              {
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Url"
-          },
-          "locator": {
+          "version": {
             "type": "string",
-            "title": "Locator"
+            "title": "Version"
           },
-          "credit": {
-            "anyOf": [
-              {
-                "type": "string"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Credit"
-          },
-          "summary": {
+          "evidence": {
             "type": "string",
-            "title": "Summary"
-          },
-          "identity_note": {
-            "type": "string",
-            "title": "Identity Note"
+            "title": "Evidence"
           },
           "checked_on": {
             "type": "string",
@@ -686,16 +707,15 @@
         "additionalProperties": false,
         "type": "object",
         "required": [
-          "kind",
-          "label",
+          "origin",
           "url",
-          "locator",
-          "credit",
-          "summary",
-          "identity_note",
+          "label",
+          "version",
+          "evidence",
           "checked_on"
         ],
-        "title": "AttributionSource"
+        "title": "AudioSource",
+        "description": "A full recording listing; unofficial uploads stay explicitly separate."
       },
       "CollectionDetail": {
         "properties": {
@@ -952,6 +972,16 @@
             "type": "string",
             "title": "Source Label",
             "default": ""
+          },
+          "genre": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Genre"
+              },
+              {
+                "type": "null"
+              }
+            ]
           }
         },
         "additionalProperties": false,
@@ -995,6 +1025,36 @@
           "message"
         ],
         "title": "ErrorBody"
+      },
+      "Genre": {
+        "properties": {
+          "label": {
+            "type": "string",
+            "title": "Label"
+          },
+          "medium": {
+            "type": "string",
+            "title": "Medium",
+            "description": "ジャンル表記を確認した媒体。移植先独自のジャンルとは限らない。"
+          },
+          "source_url": {
+            "type": "string",
+            "title": "Source Url"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "label",
+          "medium",
+          "source_url",
+          "checked_on"
+        ],
+        "title": "Genre"
       },
       "Health": {
         "properties": {
@@ -1053,6 +1113,99 @@
           "availability"
         ],
         "title": "ListeningLink"
+      },
+      "Pronunciation": {
+        "properties": {
+          "reading": {
+            "type": "string",
+            "minLength": 1,
+            "title": "Reading"
+          },
+          "basis": {
+            "type": "string",
+            "enum": [
+              "author_suggestion",
+              "author_confirmed"
+            ],
+            "title": "Basis",
+            "description": "作者の読み方案と、作者が確定した読みを区別する。推測読みは含めない。"
+          },
+          "source_url": {
+            "type": "string",
+            "title": "Source Url"
+          },
+          "source_date": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Source Date",
+            "description": "読みを示した本人投稿の日付。確認できた場合のみYYYY-MM-DDで保持。"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "reading",
+          "basis",
+          "source_url",
+          "checked_on"
+        ],
+        "title": "Pronunciation"
+      },
+      "PublicSource": {
+        "properties": {
+          "kind": {
+            "type": "string",
+            "enum": [
+              "primary",
+              "secondary"
+            ],
+            "title": "Kind"
+          },
+          "label": {
+            "type": "string",
+            "title": "Label"
+          },
+          "url": {
+            "type": "string",
+            "title": "Url"
+          },
+          "credit": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Credit"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "kind",
+          "label",
+          "url",
+          "credit",
+          "checked_on"
+        ],
+        "title": "PublicSource",
+        "description": "Public citation only; no input locators, identity investigation or workflow."
       },
       "PublicationRecord": {
         "properties": {
@@ -1162,6 +1315,219 @@
         ],
         "title": "Relationship"
       },
+      "TimelineEntry": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "aliases": {
+            "items": {
+              "$ref": "#/components/schemas/Alias"
+            },
+            "type": "array",
+            "title": "Aliases"
+          },
+          "attribution": {
+            "type": "string",
+            "enum": [
+              "credited",
+              "unverified"
+            ],
+            "title": "Attribution"
+          },
+          "is_variant": {
+            "type": "boolean",
+            "title": "Is Variant"
+          },
+          "preview": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PublicationRecord"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "release": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PublicationRecord"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "reference": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PublicationRecord"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "connect_preview": {
+            "type": "boolean",
+            "title": "Connect Preview",
+            "description": "プレビューの期間全体が本公開の期間より前と確認できる場合のみtrue。"
+          },
+          "audio_status": {
+            "type": "string",
+            "enum": [
+              "available",
+              "unavailable",
+              "unverified"
+            ],
+            "title": "Audio Status",
+            "default": "unverified"
+          },
+          "full_audio_links": {
+            "items": {
+              "$ref": "#/components/schemas/ListeningLink"
+            },
+            "type": "array",
+            "title": "Full Audio Links",
+            "description": "抜粋・クロスフェード・告知を除いた全曲音源の候補。リンクの存在だけで現在の再生可否を確定しない。"
+          },
+          "audio_note": {
+            "type": "string",
+            "title": "Audio Note",
+            "default": ""
+          },
+          "full_record": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PublicationRecord"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "現在の全曲公開として扱う音源の、確認できた最も早い公開記録。日付を推測して補わない。"
+          },
+          "audio_sources": {
+            "items": {
+              "$ref": "#/components/schemas/AudioSource"
+            },
+            "type": "array",
+            "title": "Audio Sources"
+          },
+          "audio_access": {
+            "type": "string",
+            "enum": [
+              "official",
+              "unofficial",
+              "unverified"
+            ],
+            "title": "Audio Access",
+            "default": "unverified"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "aliases",
+          "attribution",
+          "is_variant",
+          "preview",
+          "release",
+          "reference",
+          "connect_preview"
+        ],
+        "title": "TimelineEntry"
+      },
+      "TimelineList": {
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/components/schemas/TimelineEntry"
+            },
+            "type": "array",
+            "title": "Items"
+          },
+          "checked_on": {
+            "type": "string",
+            "title": "Checked On"
+          },
+          "as_of": {
+            "type": "string",
+            "title": "As Of",
+            "description": "グラフ右端の現在日。Asia/Tokyoの年月日。再生確認日とは区別する。"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "items",
+          "checked_on",
+          "as_of"
+        ],
+        "title": "TimelineList"
+      },
+      "WorkCollection": {
+        "properties": {
+          "collection": {
+            "$ref": "#/components/schemas/CollectionSummary"
+          },
+          "tracks": {
+            "items": {
+              "$ref": "#/components/schemas/CollectionTrack"
+            },
+            "type": "array",
+            "title": "Tracks"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "collection",
+          "tracks"
+        ],
+        "title": "WorkCollection"
+      },
+      "WorkContext": {
+        "properties": {
+          "albums": {
+            "items": {
+              "$ref": "#/components/schemas/WorkCollection"
+            },
+            "type": "array",
+            "title": "Albums"
+          },
+          "games": {
+            "items": {
+              "$ref": "#/components/schemas/WorkCollection"
+            },
+            "type": "array",
+            "title": "Games"
+          },
+          "remixes": {
+            "items": {
+              "$ref": "#/components/schemas/WorkRemix"
+            },
+            "type": "array",
+            "title": "Remixes"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "albums",
+          "games",
+          "remixes"
+        ],
+        "title": "WorkContext"
+      },
       "WorkDetail": {
         "properties": {
           "id": {
@@ -1213,8 +1579,22 @@
             "type": "boolean",
             "title": "Is Variant"
           },
-          "attribution_basis": {
-            "$ref": "#/components/schemas/AttributionBasis"
+          "genre": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Genre"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "sources": {
+            "items": {
+              "$ref": "#/components/schemas/PublicSource"
+            },
+            "type": "array",
+            "title": "Sources"
           },
           "comment": {
             "type": "string",
@@ -1249,16 +1629,27 @@
             "type": "array",
             "title": "Relationships"
           },
-          "issues": {
-            "items": {
-              "type": "string"
-            },
-            "type": "array",
-            "title": "Issues"
-          },
           "checked_on": {
             "type": "string",
             "title": "Checked On"
+          },
+          "pronunciation": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Pronunciation"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "audio_sources": {
+            "items": {
+              "$ref": "#/components/schemas/AudioSource"
+            },
+            "type": "array",
+            "title": "Audio Sources",
+            "description": "追加で確認した全曲音源の掲載先。公式と非公式を区別する。実再生確認を意味しない。"
           }
         },
         "additionalProperties": false,
@@ -1273,13 +1664,12 @@
           "earliest_record",
           "has_official_listening",
           "is_variant",
-          "attribution_basis",
+          "sources",
           "comment",
           "records",
           "creation_records",
           "listening",
           "relationships",
-          "issues",
           "checked_on"
         ],
         "title": "WorkDetail"
@@ -1315,6 +1705,75 @@
           "offset"
         ],
         "title": "WorkList"
+      },
+      "WorkRemix": {
+        "properties": {
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "work_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Work Id"
+          },
+          "credited_name": {
+            "type": "string",
+            "title": "Credited Name"
+          },
+          "evidence_status": {
+            "type": "string",
+            "title": "Evidence Status"
+          },
+          "source_url": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Source Url"
+          },
+          "album_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Album Id"
+          },
+          "album_title": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Album Title"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "title",
+          "work_id",
+          "credited_name",
+          "evidence_status"
+        ],
+        "title": "WorkRemix"
       },
       "WorkSummary": {
         "properties": {
@@ -1366,6 +1825,16 @@
           "is_variant": {
             "type": "boolean",
             "title": "Is Variant"
+          },
+          "genre": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Genre"
+              },
+              {
+                "type": "null"
+              }
+            ]
           }
         },
         "additionalProperties": false,

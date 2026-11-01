@@ -11,7 +11,10 @@ from urllib.parse import urlparse
 SITE = Path(__file__).resolve().parents[1]
 ROOT = SITE.parent
 sys.path.insert(0, str(SITE / "backend"))
-from models import CollectionDetail, CollectionList, CollectionSummary
+from models import CollectionDetail, CollectionList, CollectionSummary, PublicCollections
+from public_annotations import apply_collection_annotations
+sys.path.insert(0, str(ROOT / "xi_chronology/scripts"))
+from review_attribution import build_reviews, load_research
 
 SOLO = {"Parousia", "Agartha", "World Fragments", "Evolved Chronicles", "Quietus Ray", "Storm and Impulse"}
 # Product titles explicitly identified in the saved BOOTH evidence, not inferred
@@ -53,6 +56,9 @@ class GameLinks(HTMLParser):
 
 def build():
     works = json.loads((SITE / "backend/data/catalogue.json").read_text(encoding="utf-8"))["works"]
+    research = load_research()
+    events = json.loads((ROOT / "xi_chronology/data/publication_events.json").read_text(encoding="utf-8"))
+    reviews = build_reviews(research, events)
     albums = json.loads((ROOT / "xi_chronology/data/album_metadata.json").read_text(encoding="utf-8"))
     videos = {v["url"]: v for v in json.loads((ROOT / "xi_chronology/data/youtube_metadata.json").read_text(encoding="utf-8"))}
     collections = []
@@ -150,7 +156,7 @@ def build():
     for title, members in sorted(extras.items()):
         tracks = []
         for work, record in members.values():
-            sources = [s for s in work["attribution_basis"]["sources"] if s["kind"] == "primary" and s["url"] == record["source_url"]]
+            sources = [s for s in reviews[work["id"]]["sources"] if s["kind"] == "primary" and s["url"] == record["source_url"]]
             locator = " ".join(s["locator"] for s in sources)
             num = re.search(r"(?:第|tr\.?\s*)(\d+)(?:曲)?", locator, re.I)
             disc = re.search(r"Disc\.?\s*(\d+)", locator, re.I)
@@ -179,7 +185,7 @@ def build():
             item["note"] = (f"資料上の{record['kind']}：{record['date']}。作曲日・真の初公開日とは断定しない。"
                 if id == "bms" else "公式に許諾された音源。個別譜面のRanked状況やゲーム標準搭載は意味しない。")
             games.setdefault(id, {}).setdefault(work["id"], item)
-        for source in work["attribution_basis"]["sources"]:
+        for source in reviews[work["id"]]["sources"]:
             if source["kind"] != "primary" or not source["url"]:
                 continue
             url = source["url"]
@@ -218,7 +224,7 @@ def build():
                     evidence, source["checked_on"], note="ゲームの初収録日・現在の配信状況は未確認。",
                     listening=next((link for link in work["listening"] if link["url"] == url), None)))
     by_id = {w["id"]: w for w in works}
-    for filename in ["game_research.json", "game_song_findings.json"]:
+    for filename in ["game_research.json", "game_song_findings.json", "game_announcements.json"]:
         additions = json.loads((ROOT / "xi_chronology/data" / filename).read_text(encoding="utf-8"))
         for game in additions["games"]:
             id = game["id"]
@@ -247,15 +253,20 @@ def build():
         review["held"].extend(additions.get("candidates", []))
         review["rules"].extend(additions["limitations"])
     for id, members in sorted(games.items(), key=lambda item: GAME_NAMES[item[0]]):
+        for item in members.values():
+            item["genre"] = by_id[item["work_id"]]["genre"]
         tracks = sorted(members.values(), key=lambda t: norm(t["title"]))
         add_collection(id, "game", GAME_NAMES[id], "ゲーム", tracks[0]["source_url"], tracks,
             note=game_notes.get(id, "既存資料で確認できた収録・提供記録。初収録日と現在の配信状況は未確認です。"))
 
     if len({(c["kind"], c["id"]) for c in collections}) != len(collections):
         raise ValueError("Duplicate collection IDs")
-    public = {"collections": collections}
-    for destination in [ROOT / "xi_chronology/data/media_collections.json", SITE / "backend/data/collections.json"]:
-        destination.write_text(json.dumps(public, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    annotations = json.loads((ROOT / "xi_chronology/data/public_collection_annotations.json").read_text(encoding="utf-8"))
+    public = PublicCollections(collections=apply_collection_annotations(collections, annotations)).model_dump()
+    # Preserve the local research mirror and its audit inputs separately.
+    (ROOT / "xi_chronology/data/media_collections.json").write_text(
+        json.dumps({"collections": collections}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    (SITE / "backend/data/collections.json").write_text(json.dumps(public, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     ids = {"albums": [c["id"] for c in collections if c["kind"] == "album"], "games": [c["id"] for c in collections if c["kind"] == "game"]}
     (SITE / "web/lib/collection-ids.json").write_text(json.dumps(ids, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (ROOT / "xi_chronology/data/media_collection_review.json").write_text(json.dumps(review, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "note": "作者本人の投稿本文で確認できた読みのみを登録する。この投稿は提案調のため、確定した公式発音ではなく作者の読み方案として扱う。",
+  "entries": {
+    "XI-051": {
+      "reading": "ニヴルヘイム",
+      "basis": "author_suggestion",
+      "source_url": "https://x.com/com_giko_31/status/302655586108055552",
+      "source_date": "2013-02-16",
+      "checked_on": "2026-10-30"
+    },
+    "XI-052": {
+      "reading": "ザウバークーゲル",
+      "basis": "author_suggestion",
+      "source_url": "https://x.com/com_giko_31/status/302655586108055552",
+      "source_date": "2013-02-16",
+      "checked_on": "2026-10-30"
+    },
+    "XI-034": {
+      "reading": "パルーシア",
+      "basis": "author_suggestion",
+      "source_url": "https://x.com/com_giko_31/status/119053529179631616",
+      "source_date": "2011-09-28",
+      "checked_on": "2026-10-30"
+    }
+  }
+}
