@@ -34,6 +34,91 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/api/v1/timeline": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Timeline */
+        get: operations["getTimeline"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/api/v1/albums": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Albums */
+        get: operations["listAlbums"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/api/v1/albums/{album_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Album */
+        get: operations["getAlbum"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/api/v1/games": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Games */
+        get: operations["listGames"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/api/v1/games/{game_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Game */
+        get: operations["getGame"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/api/v1/works": {
         parameters: {
             query?: never;
@@ -60,6 +145,23 @@ export interface paths {
         };
         /** Get Work */
         get: operations["getWork"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/api/v1/works/{work_id}/context": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Work Context */
+        get: operations["getWorkContext"];
         put?: never;
         post?: never;
         delete?: never;
@@ -110,45 +212,131 @@ export interface components {
             /** Date Notice */
             date_notice: string;
         };
-        /** AttributionBasis */
-        AttributionBasis: {
+        /**
+         * AudioSource
+         * @description A full recording listing; unofficial uploads stay explicitly separate.
+         */
+        AudioSource: {
             /**
-             * Verdict
+             * Origin
              * @enum {string}
              */
-            verdict: "primary_credit" | "unverified";
-            /** Summary */
-            summary: string;
-            /** Inclusion */
-            inclusion: components["schemas"]["AttributionSource"][];
-            /** Sources */
-            sources: components["schemas"]["AttributionSource"][];
-            /** Limitations */
-            limitations: string[];
-            /** Reviewed On */
-            reviewed_on: string;
+            origin: "official" | "unofficial";
+            /** Url */
+            url: string;
+            /** Label */
+            label: string;
+            /** Version */
+            version: string;
+            /** Evidence */
+            evidence: string;
+            /** Checked On */
+            checked_on: string;
         };
-        /** AttributionSource */
-        AttributionSource: {
+        /** CollectionDetail */
+        CollectionDetail: {
+            /** Id */
+            id: string;
             /**
              * Kind
              * @enum {string}
              */
-            kind: "primary" | "secondary" | "lead" | "input";
-            /** Label */
-            label: string;
-            /** Url */
-            url: string | null;
-            /** Locator */
-            locator: string;
-            /** Credit */
-            credit: string | null;
-            /** Summary */
-            summary: string;
-            /** Identity Note */
-            identity_note: string;
+            kind: "album" | "game";
+            /** Title */
+            title: string;
+            /** Category */
+            category: string;
+            /** Entry Count */
+            entry_count: number;
+            /** Source Url */
+            source_url: string;
+            /** Release Records */
+            release_records: components["schemas"]["PublicationRecord"][];
             /** Checked On */
             checked_on: string;
+            /** Tracks */
+            tracks: components["schemas"]["CollectionTrack"][];
+            /** Note */
+            note: string;
+        };
+        /** CollectionList */
+        CollectionList: {
+            /** Items */
+            items: components["schemas"]["CollectionSummary"][];
+        };
+        /** CollectionSummary */
+        CollectionSummary: {
+            /** Id */
+            id: string;
+            /**
+             * Kind
+             * @enum {string}
+             */
+            kind: "album" | "game";
+            /** Title */
+            title: string;
+            /** Category */
+            category: string;
+            /** Entry Count */
+            entry_count: number;
+            /** Source Url */
+            source_url: string;
+            /** Release Records */
+            release_records: components["schemas"]["PublicationRecord"][];
+            /** Checked On */
+            checked_on: string;
+        };
+        /** CollectionTrack */
+        CollectionTrack: {
+            /** Work Id */
+            work_id: string | null;
+            /** Title */
+            title: string;
+            /** Credited Name */
+            credited_name: string;
+            /** Role */
+            role: string;
+            /**
+             * Attribution
+             * @enum {string}
+             */
+            attribution: "credited" | "unverified";
+            /** Disc */
+            disc: number | null;
+            /** Track Number */
+            track_number: number | null;
+            /** Source Url */
+            source_url: string;
+            /** Evidence */
+            evidence: string;
+            /** Checked On */
+            checked_on: string;
+            listening: components["schemas"]["ListeningLink"] | null;
+            /** Note */
+            note: string;
+            /**
+             * Listing Kind
+             * @default 収録
+             * @enum {string}
+             */
+            listing_kind: "収録" | "BMS登録" | "公式許諾曲" | "追加告知" | "大会向け提供" | "収録候補";
+            /**
+             * Edition
+             * @default
+             */
+            edition: string;
+            /**
+             * Source Kind
+             * @default primary
+             * @enum {string}
+             */
+            source_kind: "primary" | "primary_reproduction" | "secondary";
+            /**
+             * Source Label
+             * @default
+             */
+            source_label: string;
+            genre?: components["schemas"]["Genre"] | null;
         };
         /** ErrorBody */
         ErrorBody: {
@@ -159,6 +347,20 @@ export interface components {
             code: "not_found" | "invalid_request" | "internal_error";
             /** Message */
             message: string;
+        };
+        /** Genre */
+        Genre: {
+            /** Label */
+            label: string;
+            /**
+             * Medium
+             * @description ジャンル表記を確認した媒体。移植先独自のジャンルとは限らない。
+             */
+            medium: string;
+            /** Source Url */
+            source_url: string;
+            /** Checked On */
+            checked_on: string;
         };
         /** Health */
         Health: {
@@ -189,6 +391,45 @@ export interface components {
             officialness_source_url: string;
             /** Availability */
             availability: string;
+        };
+        /** Pronunciation */
+        Pronunciation: {
+            /** Reading */
+            reading: string;
+            /**
+             * Basis
+             * @description 作者の読み方案と、作者が確定した読みを区別する。推測読みは含めない。
+             * @enum {string}
+             */
+            basis: "author_suggestion" | "author_confirmed";
+            /** Source Url */
+            source_url: string;
+            /**
+             * Source Date
+             * @description 読みを示した本人投稿の日付。確認できた場合のみYYYY-MM-DDで保持。
+             */
+            source_date?: string | null;
+            /** Checked On */
+            checked_on: string;
+        };
+        /**
+         * PublicSource
+         * @description Public citation only; no input locators, identity investigation or workflow.
+         */
+        PublicSource: {
+            /**
+             * Kind
+             * @enum {string}
+             */
+            kind: "primary" | "secondary";
+            /** Label */
+            label: string;
+            /** Url */
+            url: string;
+            /** Credit */
+            credit: string | null;
+            /** Checked On */
+            checked_on: string;
         };
         /** PublicationRecord */
         PublicationRecord: {
@@ -227,6 +468,83 @@ export interface components {
             /** Evidence Status */
             evidence_status: string;
         };
+        /** TimelineEntry */
+        TimelineEntry: {
+            /** Id */
+            id: string;
+            /** Title */
+            title: string;
+            /** Aliases */
+            aliases: components["schemas"]["Alias"][];
+            /**
+             * Attribution
+             * @enum {string}
+             */
+            attribution: "credited" | "unverified";
+            /** Is Variant */
+            is_variant: boolean;
+            preview: components["schemas"]["PublicationRecord"] | null;
+            release: components["schemas"]["PublicationRecord"] | null;
+            reference: components["schemas"]["PublicationRecord"] | null;
+            /**
+             * Connect Preview
+             * @description プレビューの期間全体が本公開の期間より前と確認できる場合のみtrue。
+             */
+            connect_preview: boolean;
+            /**
+             * Audio Status
+             * @default unverified
+             * @enum {string}
+             */
+            audio_status: "available" | "unavailable" | "unverified";
+            /**
+             * Full Audio Links
+             * @description 抜粋・クロスフェード・告知を除いた全曲音源の候補。リンクの存在だけで現在の再生可否を確定しない。
+             */
+            full_audio_links?: components["schemas"]["ListeningLink"][];
+            /**
+             * Audio Note
+             * @default
+             */
+            audio_note: string;
+            /** @description 現在の全曲公開として扱う音源の、確認できた最も早い公開記録。日付を推測して補わない。 */
+            full_record?: components["schemas"]["PublicationRecord"] | null;
+            /** Audio Sources */
+            audio_sources?: components["schemas"]["AudioSource"][];
+            /**
+             * Audio Access
+             * @default unverified
+             * @enum {string}
+             */
+            audio_access: "official" | "unofficial" | "unverified";
+        };
+        /** TimelineList */
+        TimelineList: {
+            /** Items */
+            items: components["schemas"]["TimelineEntry"][];
+            /** Checked On */
+            checked_on: string;
+            /**
+             * As Of
+             * @description グラフ右端の現在日。Asia/Tokyoの年月日。再生確認日とは区別する。
+             */
+            as_of: string;
+        };
+        /** WorkCollection */
+        WorkCollection: {
+            collection: components["schemas"]["CollectionSummary"];
+            /** Tracks */
+            tracks: components["schemas"]["CollectionTrack"][];
+        };
+        /** WorkContext */
+        WorkContext: {
+            /** Albums */
+            albums: components["schemas"]["WorkCollection"][];
+            /** Games */
+            games: components["schemas"]["WorkCollection"][];
+            /** Remixes */
+            remixes: components["schemas"]["WorkRemix"][];
+        };
         /** WorkDetail */
         WorkDetail: {
             /** Id */
@@ -249,7 +567,9 @@ export interface components {
             has_official_listening: boolean;
             /** Is Variant */
             is_variant: boolean;
-            attribution_basis: components["schemas"]["AttributionBasis"];
+            genre?: components["schemas"]["Genre"] | null;
+            /** Sources */
+            sources: components["schemas"]["PublicSource"][];
             /** Comment */
             comment: string;
             /** Records */
@@ -263,10 +583,14 @@ export interface components {
             listening: components["schemas"]["ListeningLink"][];
             /** Relationships */
             relationships: components["schemas"]["Relationship"][];
-            /** Issues */
-            issues: string[];
             /** Checked On */
             checked_on: string;
+            pronunciation?: components["schemas"]["Pronunciation"] | null;
+            /**
+             * Audio Sources
+             * @description 追加で確認した全曲音源の掲載先。公式と非公式を区別する。実再生確認を意味しない。
+             */
+            audio_sources?: components["schemas"]["AudioSource"][];
         };
         /** WorkList */
         WorkList: {
@@ -278,6 +602,23 @@ export interface components {
             limit: number;
             /** Offset */
             offset: number;
+        };
+        /** WorkRemix */
+        WorkRemix: {
+            /** Title */
+            title: string;
+            /** Work Id */
+            work_id: string | null;
+            /** Credited Name */
+            credited_name: string;
+            /** Evidence Status */
+            evidence_status: string;
+            /** Source Url */
+            source_url?: string | null;
+            /** Album Id */
+            album_id?: string | null;
+            /** Album Title */
+            album_title?: string | null;
         };
         /** WorkSummary */
         WorkSummary: {
@@ -301,6 +642,7 @@ export interface components {
             has_official_listening: boolean;
             /** Is Variant */
             is_variant: boolean;
+            genre?: components["schemas"]["Genre"] | null;
         };
     };
     responses: never;
@@ -387,6 +729,218 @@ export interface operations {
             };
         };
     };
+    getTimeline: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["TimelineList"];
+                };
+            };
+            /** @description Unprocessable Entity */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+            /** @description Internal Server Error */
+            500: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+        };
+    };
+    listAlbums: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["CollectionList"];
+                };
+            };
+            /** @description Unprocessable Entity */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+            /** @description Internal Server Error */
+            500: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+        };
+    };
+    getAlbum: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                album_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["CollectionDetail"];
+                };
+            };
+            /** @description Not Found */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+            /** @description Unprocessable Entity */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+            /** @description Internal Server Error */
+            500: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+        };
+    };
+    listGames: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["CollectionList"];
+                };
+            };
+            /** @description Unprocessable Entity */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+            /** @description Internal Server Error */
+            500: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+        };
+    };
+    getGame: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                game_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["CollectionDetail"];
+                };
+            };
+            /** @description Not Found */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+            /** @description Unprocessable Entity */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+            /** @description Internal Server Error */
+            500: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+        };
+    };
     listWorks: {
         parameters: {
             query?: {
@@ -451,6 +1005,55 @@ export interface operations {
                 };
                 content: {
                     "application/json": components["schemas"]["WorkDetail"];
+                };
+            };
+            /** @description Not Found */
+            404: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+            /** @description Unprocessable Entity */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+            /** @description Internal Server Error */
+            500: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ApiError"];
+                };
+            };
+        };
+    };
+    getWorkContext: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                work_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["WorkContext"];
                 };
             };
             /** @description Not Found */

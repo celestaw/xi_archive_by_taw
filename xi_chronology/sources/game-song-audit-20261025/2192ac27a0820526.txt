@@ -1,0 +1,1639 @@
+Arcaea Wiki*
+ブラウザの JavaScript がオフ（ブロックまたは許可しない）に設定されているため、このページは正常に機能しません。
+[ ホーム | 新規 | 編集 | 添付 ]
+Menu
+新規
+編集
+添付
+一覧
+最終更新
+差分
+バックアップ
+凍結
+複製
+名前変更
+ヘルプ
+Arcaea Wiki
+Last-modified: 2026-10-24 (土) 16:11:28
+これらのキーワードがハイライトされています：
+Today's song!
+Today's song!
+※毎日午前9時頃に更新されます。公式楽曲ランキングはこちら。
+新作リズムゲーム「In Falsus」
+絶賛リリース中！
+DLページ  (Steam) / リンク一覧
+iOS 7.0.260(bundle) | Android 7.0.260(bundle) | Switch 2.0.3
+iOS/Android
+【注意喚起】iOS 26 環境下での不具合
+2025年9月16日に配信された iOS 26 へのアップデートを行うと、下記不具合が発生することがSNSで報告されている。
+何もタップされていない状態から4点を同時にタップし、即座に左右方向へのフリックやスライドを行うと判定が消失する。
+上記不具合はアクセスガイドをオンにしてプレイすることで一時的に解消する可能性がある。
+次期アップデート予定内容 (ver.7.1.0)
+2026年10月29日配信予定
+コラボレーション企画「Arcaea × Diverse System」を開催。
+新規楽曲パックに新規楽曲を5曲追加。
+「蘭」by Feryquitous
+「Ether Drive」by crayvxn
+「Schra Go (Uchina Time)」by REMO-CON
+「Fatality」by Renpul
+「Parallax」by xi vs. ak+q (lowiro)
+新規楽曲を1曲追加。
+「Voyage to The Future」by Shunji Fujii feat. 千花
+新規パートナー「ネネ&シルキー」の追加。
+アップデート内容の詳細はこちら。
+2026年09月19日 :  ver.7.0.260リリース！
+「Memory Archive」に新規楽曲を1曲追加。
+「Château de cartes」 by Inverted Silence ft. Pernelle
+TOKYO GAME SHOW 2026にて先行配布。後日一般公開予定。
+アップデート内容の詳細はこちら。
+2026年09月02日 :  ver.7.0.255リリース！
+「Divine Oblivion」に新規コンテンツを追加。
+新規楽曲を1曲追加。
+「⊥⊬」 by Silentroom Dismantled XOR かたぎり
+新規パートナー「Nullified 識眼/ラクリミラ」を追加。
+新規ストーリーを追加。
+アップデート内容の詳細はこちら。
+2026年08月27日 :  ver.7.0.0リリース！
+第5弾メインストーリーAct IIパック「Divine Oblivion」の追加。
+新規楽曲を7曲追加。
+「Balor」by Redsign 　Eternal
+「DREAD AREA」by Ashrount vs. 打打だいず 　Inscribed
+「un」by 黒魔 　Eternal
+「Riven Pilgrimage」by rejection & Supire feat. eili 　Inscribed
+「Cataclysm Cry」by Aid 　Inscribed
+「DEINOS PHAINEIN」by Blacklolita vs Juggernaut. 　Inscribed
+「Ember」by Powerless & siqlo feat. Tia
+新規難易度「　Inscribed　」を追加。
+解禁には「Sigil of the Abyss」の進行が必要。
+新規ストーリーを追加。
+新規パートナー「Absolution サヤ」を追加。
+「Memory Archive」に新規楽曲を1曲追加。
+「DIE IN」by TAK x Sobrem 　Eternal
+ポテンシャルシステムの改修。
+Recent枠が廃止され、Best枠が30→50へ拡張。
+Best枠上位10曲のポテンシャルが2倍になる。
+ポテンシャルの小数点以下の桁数を2桁から3桁に拡張。
+TRACK COMPLETEした場合にポテンシャル値に+0.2のボーナスが加算されるようになった。
+難易度の調整を実施。
+アップデート内容の詳細はこちら。
+Nintendo Switch
+2023年3月16日 : ver.2.0.0リリース！
+メインストーリーパック最終章「Final Verdict」の無料追加。
+「Arcaea」パックを更新。
+新規DLC「Lanota Collaboration」を追加。
+新規DLC「WACCA Collaboration」を追加。
+新規楽曲
+「XTREME」by USAO 【Nintendo Switch版限定】
+「eden」by "漆黒"の堕天使《Gram》†Versus†"聖刻"の熾天使《Gram》 【Nintendo Switch版限定】
+「Meta-Mysteria」by DJ Noriken 【Nintendo Switch版限定】
+新規DLC「Shared Time + Memory Archive Append 3」を追加。
+「コースモード」を追加。
+アップデート内容の詳細はこちら。
+フリートーク
+ストーリー関連のコメントは「ストーリーの考察」に投稿をお願いいたします。
+このコメント欄は掲示板zawazawaのトピック「フリートーク」と連携しています。
+名前は空欄でも構いません。
+各コメントの先頭にあるラジオボタンを選択することで、そのコメントに返信する形で書き込むことができます。
+管理者より
+Twitterアカウント(@ArcaeaWiki)を開設しました。
+収録楽曲の公式音源のみを集めたプレイリスト(YouTube / SoundCloud)を公開しています。
+左カラム(スマートフォン表示ではページ下部)のメニューバーは、荒らしの標的になりやすいため常時凍結処理を行っています。原則管理者が編集しますので、リンク追加等のご要望は都度ご連絡をお願いいたします。
+情報提供を必要としている主なページです。各ページ上部の「編集」ボタンから加筆修正が可能です。編集経験がある方もそうでない方も、ぜひご協力をお願いいたします。
+各楽曲ページ
+総ノーツ数/楽曲情報/アートワーク作成者(アプリ内で記載のないもの)/攻略情報と譜面定数/プレイ映像(特段の理由がない限りはPM達成かつ運指が確認できるもの)へのリンク など。
+ワールドモード | Extra Chapter | Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Lost Chapter | Breached Chapter
+コンポーザー順
+各コンポーザーの情報。
+高レベル非公式難易度(TRACK COMPLETE基準)
+個人差が激しいため、なるべく多くの方の考察が必要です。ぜひご意見をお寄せください。
+ポテンシャル研究所
+ポテンシャルや譜面定数についての考察や検証方法、またそれを用いて算出した譜面定数の情報を募集しております。
+遅延調整報告
+各種デバイスの遅延調整情報。特にAndroidデバイス。
+人気投票
+お気に入りの曲やパートナーに1票をどうぞ。使用デバイスについてのアンケート投票も行っています。
+管理者へのご意見・ご連絡は管理人への要望、Twitter(@ArcaeaWiki)、もしくは以下メールアドレスにどうぞ。
+【ご連絡の前に】 アプリ内課金の未反映やログインパスワードの紛失、アカウントデータの消失等で問い合わせをする方が増えています。アプリに関するお問い合わせは開発元のlowiro様へご連絡ください。こちらでは『Wikiに関するお問い合わせ』のみ受け付けております。
+基本情報
+- New Dimension Rhythm Game -
+A HARMONY OF LIGHT
+AWAITS YOU IN A LOST WORLD
+OF MUSICAL CONFLICT...
+アプリ名称
+Arcaea (アーケア)
+開発元
+lowiro limited
+対応言語
+日本語 / 英語 / 韓国語
+中国語(繁体字) / 中国語(簡体字)
+規約等
+利用規約
+個人情報保護方針
+二次創作ガイドライン
+配信ガイドライン
+リリース
+iOS
+2017年3月9日
+Android
+Switch
+2021年5月18日
+サポートOS
+iOS
+iPadOS
+iOS 12.4 以降
+iPadOS 12.4 以降
+Android
+Android 5.0 以降
+Switch
+-
+基本価格
+iOS
+無料
+Android
+Switch
+4,400円 ($39.99)
+アプリ内課金
+iOS
+1,020メモリー(1,400円)
+510メモリー(700円)
+100メモリー(140円)
+―
+計35,600メモリー
+(ver.6.8.0)
+詳細はこちら
+Android
+Switch
+計8,580円
+(ver.2.0.1)
+詳細はこちら
+公式サイト内課金
+(iOS/Android)
+2,200メモリー(2,800円)
+1,100メモリー(1,400円)
+550メモリー(700円)
+公式プレビュー映像
+楽曲パック『Divine Oblivion』プレビュー映像
+2026年8月21日公開
+loading...
+2025年
+【サウンドトラック】Arcaea Next Stage: Crossing Collection プレビュー映像 (2025年10月25日公開)
+詳細はこちら
+収録楽曲一覧
+収録楽曲一覧
+「Xterfusion」by REDALiCE × t+pazolite
+「zephyrlasting」by s-don × nitro (lowiro)
+「MARENYX」by BlackY × Aoi
+「INCARNATOR₀₀」by Silentroom × N²
+「INFINITE DIMENSION」by DJ Noriken × P*Light
+「Code: Oblivion」by Kobaryo × Gram
+「ΛZΛLEΛ」by ak+q × onoken
+楽曲パック『Liminal Eclipse』プレビュー映像 (2025年9月23日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Viola Illyria」by Kolaa
+「Vainspire」by satella
+「No Way Back」by Nhato
+「ANDORXOR」by Sobrem
+「Undying Macula」by Ashrount
+Pack Append『Chapter Experientia』プレビュー映像 (2025年8月16日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Factorder」by 瀬名 feat. 梨雛
+「incomplete the one」by Halv feat.Kuroa*
+「CHAOSBLAST」by QURELESS + 柚子花
+「Welcome, Queen of Fiction.」by 打打だいず
+「AlterGate」by MisoilePunch♪ ~タケノコ添え~
+楽曲パック『Extant Anima』プレビュー映像 (2025年7月18日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「See the Lights!」by polysha feat. しろさきあや
+「朱月ノ姫」by technoplanet feat. 夕月ティア
+「Dual Dependency」by seatrus
+「Lilly」by Juggernaut.
+「多次元宇宙融合論」by TAKIO feat. つぐ
+2024年
+2024年
+楽曲パック『Lucent Historia』プレビュー映像 (2024年11月13日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Swan Song」by void (Mournfinale)
+「Renegade」by sky_delta
+「Rays of Remnant」by May × Felysrator
+「Breach of Faith」by Supire feat.eili
+「Lament Rain」by Ashrount vs. 打打だいず
+「Designant.」by Designant
+「Astral Quantization」by Dj Grimoire
+『Arcaea × Rotaeno Collaboration』プレビュー映像 (2024年8月24日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「epitaxy」by Camellia (「World Extend 3: Illusions」に収録)
+「Waltz for Lorelei」by Sobrem & 庭師
+「Dual Doom Deathmatch」by Kobaryo vs HyuN
+「Inverted World」by ARForest
+「MVURBD」by ETIA.
+「Vulcānus」by Team Grimoire vs Aoi
+楽曲パック『Absolute Nihil』プレビュー映像 (2024年7月23日公開)
+※公開当初はサイドストーリーとされていたが、ver.6.0.0の告知後に改題された。
+パック収録楽曲一覧
+パック収録楽曲一覧
+「In Vain」by ryhki
+「Hypnotize」by rejection
+「Ashen 6oundary」by YUKIYANAGI
+「Judgement」by Tatsunoshin
+「ALTER EGO」by Yuta Imai vs Qlarabelle
+【サウンドトラック】Arcaea Sound Collection 7 "Memories of Serenity" プレビュー映像 (2024年3月17日公開)
+詳細はこちら
+2023年
+2023年
+Pack Append『Lasting Eden Chapter 2』 / 楽曲パック『Severed Eden』プレビュー映像 (2023年9月20日公開)
+※公開当初はPack Append『Lasting Eden Chapter 2』のプレビュー映像とされていたが、ver.5.0.0配信後に改題され、サムネイルも『Severed Eden』パックのものに差し替えられた。
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Primeval Texture」by くるぶっこちゃん
+「Technicolour」by Maozon
+「Logos」by polysha feat. 高城みよ
+「Ego Eimi」by BlackY feat. Risa Yuzuki
+「Arghena」by Feryquitous vs Laur
+楽曲パック『Lasting Eden』プレビュー映像 (2023年8月14日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「WAIT FOR DAWN」by U-ske feat. 棗いつき
+「レイヴンズ・プライド」by みーに feat. はらもりよしな
+「Rise of the World」by cosMo@暴走P
+「UNKNOWN LEVELS」by Yuta Imai
+「Abstruse Dilemma」by Ashrount vs. 打打だいず
+『Arcaea × Cytus II Collaboration Chapter 2』プレビュー映像 (2023年7月14日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「syūten」 by Apo11o"COLLAPSAR"program ft. 大瀬良あい
+「DRG」by onoken
+「99 Glooms」by Sta
+「͟͝͞Ⅱ́̕」by Cytus
+「Magnolia」by M2U Vocal by Guriri
+『Arcaea × Cytus II Collaboration』プレビュー映像 (2023年6月20日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Bullet Waiting for Me (James Landino remix)」by Nikki Simmons
+「Devillic Sphere」by 3R2
+「Lucid Traveler」 by Akira Complex vs 3R2
+「CHAOS」by Æsir
+「Used to be」by KIVΛ
+【サウンドトラック】Arcaea Sound Collection 6 "Memories of Myth" プレビュー映像 (2023年1月19日公開)
+詳細はこちら
+2022年
+2022年
+パートナー「天々音」・楽曲「Free Myself」プレビュー映像 (2022年11月6日公開)
+メインストーリーエピローグ『Silent Answer』アナウンス映像 (2022年7月12日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Loveless Dress」by かねこちはる
+「Last」by onoken
+「Last | Moment」by onoken
+「Last | Eternity」by onoken
+「Callima Karma」by t+pazolite vs Feryquitous
+楽曲パック『Final Verdict』アナウンス映像 (2022年6月23日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Defection」by TeddyLoid feat. DELTA
+「Infinite Strife,」by BlackYooh vs. siromaru
+「魔王」by sasakure.UK × TJ.hangneil
+「Pentiment」by Nothing But Requiem with Museo
+「Arcana Eden」by Team Grimoire vs Sakuzyo vs Laur
+「Testify」by void (Mournfinale) feat. 星熊南巫
+2021年
+2021年
+【サウンドトラック】Arcaea Sound Collection 5 "Memories of Wrath" プレビュー映像 (2021年11月4日公開)
+詳細はこちら
+【サウンドトラック】Arcaea Sound Collection 4 "Memories of Dreams" プレビュー映像 (2021年11月4日公開)
+詳細はこちら
+『Arcaea × WACCA Collaboration』プレビュー映像 (2021年8月3日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Mazy Metroplex」by aran
+「Quon」by DJ Noriken
+「with U」by t+pazolite & Massive New Krew feat.リリィ(CV:青木志貴)
+「GENOCIDER」by DJ Myosuke
+「Let you DIVE! (nitro rmx)」by nitro (lowiro)
+「Sheriruth (Laur Remix)」by Laur (Memory Archiveでの収録)
+楽曲パック『Esoteric Order』プレビュー映像 (2021年5月5日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Crystal Gravity」by Tanchiky vs. siromaru
+「Paper Witch」by Yu-dachi
+「Far Away Light」by technoplanet feat. はるの&黒沢ダイスケ
+「Löschen」by BlackY feat. Risa Yuzuki
+「Aegleseeker」by Silentroom vs Frums
+「Seclusion」by Laur feat.Sennzai (映像内未収録) ※2021年7月21日追加
+Pack Append『Pale Tapestry』プレビュー映像 (Twitter / Facebook) (2021年5月6日公開)
+※YouTubeにはアップロードされていません。Twitterでは720p、Facebookでは1080pの画質で視聴できます。
+「ΟΔΥΣΣΕΙΑ」by Sober Bear
+「Coastal Highway」by Glitch Droids
+「Overwhelm」by xi
+Pack Append『Light of Salvation』プレビュー映像 (Twitter) (2021年7月15日公開)
+※YouTubeにはアップロードされていません。Twitterでは720pの画質で視聴できます。
+「Small Cloud Sugar Candy」by テヅカ × Aoi feat.桃雛なの
+「AlterAle」by Arik Kau Delay (アラ&かゆき&でり)
+「光速神授説 - Divine Light of Myriad -」by yoho
+Nintendo Switch版 / 楽曲パック『Divided Heart』トレーラー映像 (2021年4月30日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「First Snow」by 黒魔
+「Blocked Library」by 影虎。
+「Lightning Screw」by HiTECH NINJA
+「nέο κόsmo」by ak+q × Street
+「Blue Rose」by Cosmograph
+2020年
+2020年
+楽曲パック『Ephemeral Page』プレビュー映像 (2020年11月30日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Alice à la mode」by Masanori Akita
+「Eccentric Tale」by Yamajet
+「Alice's Suitcase」by Endorfin.
+「Jump」by Rasmus Faber
+「Felis」by M2U
+「Beside You」by 江口孝宏 (映像内未収録)
+「Heart Jackin'」by Yu_Asahina (映像内未収録)
+「アリス・リデルに捧ぐ」by モリモリあつし (映像内未収録)
+【サウンドトラック】Arcaea Sound Collection 3 "Memories of Realms" プレビュー映像 (2020年10月19日公開)
+CD
+CD
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+楽曲パック『Black Fate』プレビュー映像 (2020年5月16日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Antagonism」by Yooh vs. siromaru
+「Equilibrium」by Maozon
+「Lost Desire」by Powerless feat. Sennzai
+「Dantalion」by Team Grimoire
+「#1f1e33」by かめりあ (EDP)
+「Tempestissimo」by t+pazolite (映像内未収録)
+「Arcahv」by Feryquitous (映像内未収録)
+『Arcaea × HARDCORE TANO*C』プレビュー映像 (2020年1月16日公開)
+収録楽曲一覧
+収録楽曲一覧
+「La'qryma of the Wasteland」by DJ Noriken
+「Einherjar Joker」by DJ Genki vs Gram
+「IZANA」by t+pazolite vs P*Light
+「最強STRONGER」by REDALiCE vs USAO
+2019年
+2019年
+楽曲パック『Sunset Radiance』プレビュー映像 (2019年8月14日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「AI[UE]OON」by MYUKKE.
+「Chelsea」by 7mai
+「迷える音色は恋の唄」by からとPαnchii少年 feat.はるの
+「Tie me down gently」by 溝口ゆうま feat. 大瀬良あい
+「Valhalla:0」by Juggernaut.
+【サウンドトラック】Arcaea Sound Collection 1 "Memories of Light" プレビュー映像 (2019年10月21日公開)
+詳細はこちら
+【サウンドトラック】Arcaea Sound Collection 2 "Memories of Conflict" プレビュー映像 (2019年10月21日公開)
+詳細はこちら
+楽曲パック『Adverse Prelude』プレビュー映像 (2019年7月12日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Vindication」by Laur
+「Heavensdoor」by LeaF
+「Ringed Genesis」by Edelritter
+「Particle Arts」by Virtual Self (映像内未収録)
+楽曲パック『Absolute Reason』プレビュー映像 (2019年3月15日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Antithese」by Blacklolita
+「Corruption」by 3R2
+「Black Territory」by DJ Myosuke
+「Vicious Heroism」by Kobaryo
+「Cyaegha」by USAO
+楽曲「虚空の夢」プレビュー映像 (2019年3月1日公開)
+2018年
+2018年
+楽曲パック『Luminous Sky』プレビュー映像 (2018年7月4日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「The Message」by Jun Kuroda
+「Sulfur」by ぺのれり
+「九番目の迷路」by アリスシャッハと魔法の楽団
+「Halcyon」by xi
+「Ether Strike」by Akira Complex
+「Fracture Ray」by Sakuzyo (映像内未収録)
+楽曲パック『Binary Enfold』プレビュー映像 (2018年3月14日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「next to you」by uma feat. 橘花音
+「Silent Rush」by Soleily
+「Strongholds」by Yooh
+「Memory Forest」by ETIA.
+「Singularity」by ETIA.
+2017年
+2017年
+楽曲パック『Vicious Labyrinth』プレビュー映像 (2017年10月23日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Iconoclast」by Yamajet
+「SOUNDWiTCH」by HATE
+「妖艶魔女 -trappola bewitching-」by gmtn.
+「conflict」by siromaru + cranky
+「Axium Crisis」by ak+q
+「Grievous Lady」by Team Grimoire vs Laur (映像内未収録)
+楽曲パック『Ambivalent Vision』プレビュー映像 (2017年8月3日公開)
+パック収録楽曲一覧
+パック収録楽曲一覧
+「Blossoms」by T2Kazuya
+「vsキミ戦争」by U-ske (feat. lueur)
+「Moonheart」by 翡乃イスカ
+「Genesis」by Iris
+「Lethaeus」by Silentroom
+「Arcaea」Gameplay Trailer (2017年2月20日公開)
+「Arcaea」Reveal Trailer (2017年1月21日公開)
+お知らせ
+2026年05月04日 ver.6.14.1が配信された。アップデート内容はこちら。
+2026年04月30日 ver.6.14.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × UNDERTALE」が開催され、以下の楽曲3曲が追加された。
+「スパイダーダンス」by Toby Fox
+「正義の槍」by Toby Fox
+「アズゴア」by Toby Fox
+2026年04月01日 ver.6.13.10が配信された。アップデート内容はこちら。
+2026年03月09日  【リリース9周年】 ver.6.13.2が配信された。アップデート内容はこちら。
+2026年03月09日 ver.6.13.0が配信された。アップデート内容はこちら。
+2026年02月19日 ver.6.12.11が配信された。アップデート内容はこちら。
+2026年02月19日 ver.6.12.10が配信された。アップデート内容はこちら。
+2026年01月30日 ver.6.12.1が配信された。アップデート内容はこちら。
+2026年01月29日 ver.6.12.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × MEGAREX」が開催され、以下の楽曲5曲が追加された。
+「CHAIN2NITE」 by asuzora feat. cyber milk ちゃん
+「One Step Closer」 by Mameyudoufu × 藍月なくる
+「My life is mine alone!」 by Mylta feat. ねんね
+「メルティーラプソディー」 by lapix feat. PANXI
+「Signal」 by rejection feat. Such
+2026年01月09日 ver.6.11.9が配信された。アップデート内容はこちら。
+2026年01月07日 ver.6.11.8が配信された。アップデート内容はこちら。
+2026年01月01日 運営からのお年玉として、以下条件を満たしたアカウントに100メモリーが配布された。
+配布期間 : 2026年1月1日 0:00 ～ 同2日 8:59
+上記期間内にアプリ内で再ログインするか、アプリを再起動することで受け取ることができる。
+2025年12月31日より前にオンライン環境で1曲以上プレイしているアカウントのみが対象。
+2025年 7月～12月
+2025年 7月～12月を編集
+2025年12月31日 ver.6.11.6が配信された。アップデート内容はこちら。
+2025年12月29日 ver.6.11.5が配信された。アップデート内容はこちら。
+2025年12月24日 ver.6.11.3が配信された。アップデート内容はこちら。
+2025年12月24日 ver.6.11.2が配信された。アップデート内容はこちら。
+2025年11月27日 ver.6.11.0が配信された。アップデート内容はこちら。
+2025年11月22日 ver.6.10.8が配信された。アップデート内容はこちら。
+チケット購入者向けに「Arcaea Next Stage」パックを先行配信。以下の書き下ろし楽曲6曲が追加された。
+「INFINITE DIMENSION」by DJ Noriken × P*Light
+「INCARNATOR₀₀」by Silentroom × N²
+「zephyrlasting」by s-don × Nitro (lowiro)
+「MARENYX」by BlackY × Aoi
+「Code: Oblivion」by Kobaryo × Gram
+「ΛZΛLEΛ」by ak+q × onoken
+2025年11月22日 豊洲PIT(東京都江東区)にてArcaea公式ライブイベント「Arcaea Next Stage - Crossing HARDCORE TANO*C」が開催された。
+lowiro公式YouTubeチャンネルにて一枠目「かめりあ × DJ Genki」を無料配信。視聴はこちらから。
+2025年11月21日 ver.6.10.7が配信された。アップデート内容はこちら。
+2025年11月06日 ver.6.10.5が配信された。アップデート内容はこちら。
+2025年11月02日 ver.6.10.3が配信された。アップデート内容はこちら。
+2025年10月30日 ver.6.10.1が配信された。アップデート内容はこちら。
+2025年10月30日 ver.6.10.0が配信された。アップデート内容はこちら。
+「Arcaea Next Stage」開催に先駆けて、本イベントのテーマソングが追加された。
+「Xterfusion」by REDALiCE × t+pazolite
+2025年10月14日 ver.6.9.5が配信された。アップデート内容はこちら。
+2025年10月03日 ver.6.9.3が配信された。アップデート内容はこちら。
+2025年10月03日 ver.6.9.1が配信された。アップデート内容はこちら。
+2025年10月02日 ver.6.9.0が配信された。アップデート内容はこちら。
+2025年09月25-28日 幕張メッセ(千葉県千葉市)にて開催された「TOKYO GAME SHOW 2025」に出展。
+ver.6.9.0の一部内容が先行公開された。
+現地ブース来場者にのみ下記楽曲が先行配布された。
+「Eternity Break」by Puru
+2025年09月24日 ver.6.8.4が配信された。アップデート内容はこちら。
+2025年09月04日 ver.6.8.2が配信された。アップデート内容はこちら。
+2025年08月22日 ver.6.8.1が配信された。アップデート内容はこちら。
+2025年08月21日 ver.6.8.0が配信された。アップデート内容はこちら。
+2025年07月24日 ver.6.7.1が配信された。アップデート内容はこちら。
+2025年07月24日 ver.6.7.0が配信された。アップデート内容はこちら。
+2025年07月03日 ver.6.6.1が配信された。アップデート内容はこちら。
+2025年 1月～6月
+2025年 1月～6月を編集
+2025年06月26日 ver.6.6.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × DJMAX」が開催され、以下の楽曲7曲が追加された。
+「Someday」by NieN
+「Miles」by Electronic Boutique
+「I want You」by Lin-G
+「Syriana」by BEXTER
+「Liar」by zts
+「BlythE」by M2U
+「We're All Gonna Die」by Paul Bazooka
+2025年06月19日 ver.6.5.3が配信された。アップデート内容はこちら。
+2025年06月09日 ver.6.5.2が配信された。アップデート内容はこちら。
+2025年05月22日 ver.6.5.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × DJMAX」が開催され、以下の楽曲8曲が追加された。
+「Don't Die」by Paul Bazooka
+「Tic! Tac! Toe!」by TAK x Corbin
+「Won't Back Down」by Pure 100% / KASA
+「Ladymade Star」by ESTi
+「End of The Moonlight」by Forte Escape
+「U.A.D」by HAYAKO
+「OBLIVION」by ESTi
+「Nightmare」by M2U
+2025年05月01日 lowiro社のPC (Steam) 向け新作リズムゲーム「In Falsus」が発表された。
+公式サイト
+公式X (日本語 / 英語)
+トレーラー映像
+2025年04月25日 ver.6.4.1が配信された。アップデート内容はこちら。
+2025年04月24日 ver.6.4.0が配信された。アップデート内容はこちら。
+2025年04月22日 PeroPeroGames社主催のオリジナル音楽募集イベント「Cosmic Radio 2025」へのArcaeaの参加が決定。告知ツイートはこちら。
+公式サイト
+公式X
+2025年04月15日 各種ストリーミング配信サービスで公式サウンドトラック「Memories of Serenity」の取扱が開始された。
+※YouTube Musicは7月28日に配信開始。
+Apple Music
+YouTube Music
+Spotify
+2025年04月01日 ver.6.3.5が配信された。アップデート内容はこちら。
+2025年04月01日 ver.6.3.3が配信された。アップデート内容はこちら。
+2025年03月27日 ver.6.3.2が配信された。アップデート内容はこちら。
+2025年03月14日 ver.6.3.1が配信された。アップデート内容はこちら。
+2025年03月10日  新しいArcaea公式グッズの予約受付が開始された。購入予約は以下リンクから。
+ぬいぐるみ (Fracture 光)
+DIVERSE DIRECT
+あみあみ
+AKIBA-HOBBY
+TANO*C STORE
+ぬいぐるみ (Grievous Lady 対立)
+DIVERSE DIRECT
+あみあみ
+AKIBA-HOBBY
+TANO*C STORE
+発送予定は1次生産分が同年8月上旬、2次生産分が2026年1月上旬。
+2025年03月09日 【リリース8周年】 ver.6.3.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × UNDERTALE」が開催され、以下の楽曲6曲が追加された。
+「MEGALOVANIA (Camellia Remix)」by Camellia
+「心の痛み」by Toby Fox
+「華麗なる死闘」by Toby Fox
+「最高の悪夢」by Toby Fox
+「これでホントにサヨナラ」by Toby Fox
+「MEGALOVANIA」by Toby Fox
+2025年02月26日 ver.6.2.6が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea vs CHUNITHM - Cross Axis」のイベント報酬として、以下の楽曲が追加された。
+「Aether Crest: Astral」by void (Mournfinale) × 水野健治
+2025年02月25-26日 コラボレーション企画「Arcaea vs CHUNITHM - Cross Axis」が開催された。
+2025年02月21日 ver.6.2.5が配信された。アップデート内容はこちら。
+2025年01月28日 ver.6.2.3が配信された。アップデート内容はこちら。
+2025年01月23日 ver.6.2.1が配信された。アップデート内容はこちら。
+2025年01月23日 ver.6.2.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × maimai でらっくす PRiSM」が開催され、以下の楽曲4曲が追加された。
+「BREaK! BREaK! BREaK!」by HiTECH NINJA vs Cranky
+「Straight into the lights」by Cosmograph
+「ViRTUS」by hiro
+「ヨミビトシラズ」by Limonène (サノカモメ+月島春果)
+2025年01月01日 運営からのお年玉として、以下条件を満たしたアカウントに100メモリーが配布された。
+配布期間 : 2025年1月1日 0:00 ～ 同2日 8:59
+上記期間内にアプリ内で再ログインするか、アプリを再起動することで受け取ることができる。
+2024年12月31日より前にオンライン環境で1曲以上プレイしているアカウントのみが対象。
+2024年 7月～12月
+2024年 7月～12月を編集
+2024年12月19日 ver.6.1.1が配信された。アップデート内容はこちら。
+2024年12月19日 ver.6.1.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × CHUNITHM VERSE」が開催され、以下の楽曲4曲が追加された。
+「Ignition」by パソコン音楽クラブ
+「BlazinG AIR」by kanone
+「8-EM」by Sampling Masters AYA
+「DA'AT -The First Seeker of Souls-」by 水野健治 VS 大国奏音
+2024年11月27日 ver.6.0.5が配信された。アップデート内容はこちら。
+2024年11月23日 ver.6.0.3が配信された。アップデート内容はこちら。
+2024年11月22日 ver.6.0.1が配信された。アップデート内容はこちら。
+2024年11月21日 ver.6.0.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × O.N.G.E.K.I. bright MEMORY」が開催され、以下の楽曲4曲が追加された。
+「LiftOff」by MAYA AKAI
+「SUPER AMBULANCE」by AJURIKA
+「Don't Fight The Music」by 黒魔
+「And Revive The Melody」by 黒魔
+2024年10月24日 ver.5.10.6が配信された。アップデート内容はこちら。
+2024年09月26日 ver.5.10.4が配信された。アップデート内容はこちら。
+2024年09月13-14日 lowiroスタッフがLink Playの公開ルームに参加。
+参加日程 (日本時間)
+09/13 20:00 ～ 09/14 03:00
+09/14 09:00 ～ 09/14 16:00
+09/14 20:00 ～ 09/14 24:00
+2024年09月12日 ver.5.10.2が配信された。アップデート内容はこちら。
+2024年08月30日 ver.5.10.1が配信された。アップデート内容はこちら。
+2024年08月29日 ver.5.10.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × Rotaeno」が開催され、以下の楽曲6曲が追加された。
+「epitaxy」by Camellia
+「Waltz for Lorelei」by Sobrem & 庭師
+「Dual Doom Deathmatch」by Kobaryo vs HyuN
+「Inverted World」by ARForest
+「MVURBD」by ETIA.
+「Vulcānus」by Team Grimoire vs Aoi
+2024年08月06日 ver.5.9.3が配信された。アップデート内容はこちら。
+2024年07月30日 ver.5.9.1が配信された。アップデート内容はこちら。
+2024年07月30日 ver.5.9.0が配信された。アップデート内容はこちら。
+2024年07月03日 ver.5.8.1が配信された。アップデート内容はこちら。
+2024年 1月～6月
+2024年 1月～6月を編集
+2024年06月27日 ver.5.8.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × Groove Coaster」が開催され、以下の楽曲3曲が追加された。
+「Sign of "10.5km"」by 渡部恭久
+「10pt8ion」by Lite Show Magic
+「Black MInD」by COSIO
+2024年06月03日 ver.5.7.1が配信された。アップデート内容はこちら。
+2024年05月30日 ver.5.7.0が配信された。アップデート内容はこちら。
+2024年05月21日 ver.5.6.3が配信された。アップデート内容はこちら。
+2024年05月15日 第4回楽曲公募企画「Arcaea Song Contest『Coalescence』」を開催。
+応募期間 : 2024年05月15日 - 2024年07月23日
+2024年05月07日 ver.5.6.1が配信された。アップデート内容はこちら。
+2024年04月26日 ver.5.6.0が配信された。アップデート内容はこちら。
+2024年04月02日 ver.5.5.8が配信された。アップデート内容はこちら。
+2024年04月01日 ver.5.5.6が配信された。アップデート内容はこちら。
+2024年03月25日 ver.5.5.0が配信された。アップデート内容はこちら。
+2024年03月13日 ver.5.4.3が配信された。アップデート内容はこちら。
+2024年03月11日 ver.5.4.1が配信された。アップデート内容はこちら。
+2024年03月09日 Arcaea公式グッズの販売が開始された。
+2024年03月09日 7枚目の公式サウンドトラック「Memories of Serenity」の事前予約が開始された。発売は同月25日。
+DIVERSE DIRECT
+TANO*C STORE
+2024年03月08日 【リリース7周年】 ver.5.4.0が配信された。アップデート内容はこちら。
+2024年01月26日 ver.5.3.1が配信された。アップデート内容はこちら。
+2024年01月25日 ver.5.3.0が配信された。アップデート内容はこちら。
+2024年01月12日 ver.5.2.6が配信された。アップデート内容はこちら。
+2024年01月01日 運営からのお年玉として、以下条件を満たしたアカウントに100メモリーが配布された。
+配布期間 : 2024年1月1日 0:00 ～ 同2日 8:59
+上記期間内にアプリ内で再ログインするか、アプリを再起動することで受け取ることができる。
+2023年12月31日より前にオンライン環境で1曲以上プレイしているアカウントのみが対象。
+2023年 7月～12月
+2023年 7月～12月を編集
+2023年12月24日 ver.5.2.5が配信された。アップデート内容はこちら。
+2023年12月21日 二次創作ガイドラインが改定された。
+2023年12月21日 ver.5.2.3が配信された。アップデート内容はこちら。
+2023年12月21日 ver.5.2.2が配信された。アップデート内容はこちら。
+2023年11月30日 ver.5.2.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × WACCA Reverse」の第2弾が開催され、以下の楽曲5曲が追加された。
+「Stratoliner」by C-Show
+「Ouvertüre」by USAO & DJ Genki feat. ルーン(CV:河瀬茉希)
+「XTREME」by USAO
+「eden」by "漆黒"の堕天使《Gram》†Versus†"聖刻"の熾天使《Gram》
+「Meta-Mysteria」by DJ Noriken
+2023年11月21日 AMNIBUS × Arcaeaのコラボグッズの予約開始が発表された。購入予約はこちらから。
+グッズ一覧
+グッズ一覧
+Ani-Art aqua label フルグラフィックTシャツ (光/対立)
+Ani-Art aqua label 強化ガラスiPhoneケース (光/対立)
+対応機種
+対応機種
+iPhone 7/8/SE2/SE3
+iPhone X/XS
+iPhone XR
+iPhone 11
+iPhone 12/12 Pro
+iPhone 12 mini
+iPhone 13 Pro
+iPhone 13 mini
+iPhone 13/14
+Ani-Art aqua label A3マット加工ポスター (光/対立)
+Ani-Art aqua label 缶バッジ (光/対立)
+2023年11月10日 ver.5.1.3が配信された。アップデート内容はこちら。
+2023年10月27日 ver.5.1.1が配信された。アップデート内容はこちら。
+2023年10月26日 ver.5.1.0が配信された。アップデート内容はこちら。
+2023年10月07日 各種ストリーミング配信サービスで公式サウンドトラック「Memories of Myth」の取扱が開始された。
+※Apple Musicは10月27日に配信開始。
+Apple Music
+YouTube Music
+Spotify
+2023年10月02日 ver.5.0.5が配信された。アップデート内容はこちら。
+2023年09月27日 ver.5.0.1が配信された。アップデート内容はこちら。
+2023年09月27日 ver.5.0.0が配信された。アップデート内容はこちら。
+2023年09月21-24日 幕張メッセ(千葉県千葉市)にて開催された「TOKYO GAME SHOW 2023」に出展。
+ver.5.0.0の一部内容が先行公開された。
+現地ブース来場者にのみ下記楽曲が先行配布された。
+「彼方の夢へと」by ii/night feat. 綺良雪
+2023年09月14日 ver.4.7.2が配信された。アップデート内容はこちら。
+2023年08月18日 ver.4.7.0が配信された。アップデート内容はこちら。
+2023年07月27日 ver.4.6.1が配信された。アップデート内容はこちら。
+2023年07月19日 ver.4.6.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × Cytus II Chapter 2」が開催され、以下の楽曲5曲が追加された。
+「syūten」 by Apo11o"COLLAPSAR"program ft. 大瀬良あい
+「DRG」by onoken
+「99 Glooms」by Sta
+「͟͝͞Ⅱ́̕」by Cytus
+「Magnolia」by M2U Vocal by Guriri
+2023年 1月～6月
+2023年 1月～6月を編集
+2023年06月30日 ver.4.5.3が配信された。アップデート内容はこちら。
+2023年06月28日 ver.4.5.1が配信された。アップデート内容はこちら。
+2023年06月28日 ver.4.5.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × Cytus II」が開催され、以下の楽曲5曲が追加された。
+「Bullet Waiting for Me (James Landino remix)」by Nikki Simmons
+「Devillic Sphere」by 3R2
+「Lucid Traveler」 by Akira Complex vs 3R2
+「CHAOS」by Æsir
+「Used to be」by KIVΛ
+2023年06月13日 Arcaea Onlineがアップデートされた。詳細はこちら。
+2023年05月25日 ver.4.4.6が配信された。アップデート内容はこちら。
+2023年05月08日 App Store(iOS) / Google Play ストア(Android) / 公式サイトでのメモリーの価格が改定された。詳細はこちら。
+2023年05月02日 Apleberute × Arcaeaのコラボアイテム「Arcaea × Apleberute 対立ver. - 晴雨兼用 雨傘 UVカット フリル」が発売された。
+2023年04月27日 Arcaea公式サイトに「Arcaea Online」が追加され、下記機能が実装された。
+無料
+全世界のスコアボード
+パートナー情報の参照
+月額プラン(200メモリー)
+楽曲別のスコアデータ
+フレンド内のスコアボード
+ポテンシャルの経過などポテンシャルに関する情報の分析機能
+2023年04月27日 ver.4.4.4が配信された。アップデート内容はこちら。
+2023年04月13日 ver.4.4.3が配信された。アップデート内容はこちら。
+2023年04月01日 ver.4.4.2が配信された。アップデート内容はこちら。
+2023年03月23日 ver.4.4.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × CHUNITHM SUN」が開催され、以下の楽曲5曲が追加された。
+「コスモポップファンクラブ」by ナユタン星人
+「Genesis」by Morrigan feat.Lily
+「IMPACT」by USAO feat. 光吉猛修 　Beyond
+「Trrricksters!!」by s-don vs. 翡乃イスカ
+「蜘蛛の糸」by きくお×cosMo＠暴走P feat.影縫英
+2023年03月16日 【Nintendo Switch版】 ver.2.0.0が配信された。アップデート内容はこちら。
+2023年03月09日 【リリース6周年】 ver.4.3.2が配信された。アップデート内容はこちら。
+2023年03月02日 ver.4.3.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × maimai でらっくす FESTiVAL」が開催され、以下の楽曲4曲が追加された。
+「CYCLES」by Masayoshi Minoshima feat. 綾倉盟
+「MAXRAGE」by EBIMAYO
+「[X]」by Blacklolita
+「TEmPTaTiON」by かねこちはる
+2023年02月23日 App Store/Google Playでの合計ダウンロード数が1,200万を突破したことを記念し、12名の当選者にそれぞれ26,000メモリーを配布するリツイートキャンペーンが開催された。
+2023年02月13日 ver.4.2.3が配信された。アップデート内容はこちら。
+2023年01月26日 ver.4.2.1が配信された。アップデート内容はこちら。
+2023年01月26日 ver.4.2.0が配信された。アップデート内容はこちら。
+2023年01月23日 公式サウンドトラックの購入者向けに、Webサイト上でデジタル音源をダウンロードできる機能が実装された。
+2023年01月17日 利用規約が改定された。
+2023年01月12日 6枚目の公式サウンドトラック「Memories of Myth」の事前予約が開始された。発売は同月26日。
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+2023年01月01日 運営からのお年玉として、以下条件を満たしたアカウントに100メモリーが配布された。
+配布期間 : 2023年1月1日 0:00 ～ 同2日 8:59
+アプリ内で再ログインするか、アプリを再起動することで受け取ることができる。
+2022年12月31日より前にオンライン環境で1曲以上プレイしているアカウントのみが対象。
+2022年 7月～12月
+2022年 7月～12月を編集
+2022年12月23日 ver.4.1.9が配信された。アップデート内容はこちら。
+2022年12月22日 ver.4.1.7が配信された。アップデート内容はこちら。
+2022年12月22日 ver.4.1.6が配信された。アップデート内容はこちら。
+2022年11月10日 ver.4.1.4が配信された。アップデート内容はこちら。
+2022年10月27日 ver.4.1.3が配信された。アップデート内容はこちら。
+2022年10月21日 ver.4.1.1が配信された。アップデート内容はこちら。
+2022年10月06日 第3回楽曲公募企画「Arcaea Song Contest『Imagining After』」を開催。
+応募期間 : 2022年10月06日 - 2022年12月14日
+2023年1月26日に入賞者へメールが送られた。
+2023年8月17日に入賞した20組のアーティスト名が公開された。
+入賞者名
+入賞者名(※アルファベット順)
+参照元 : Twitter
+特賞
+Ashrount vs. 打打だいず
+楽曲『Abstruse Dilemma』
+入賞
+BlackY feat. Risa Yuzuki
+楽曲『Ego Eimi』
+cosMo@暴走P
+楽曲『Rise of the World』
+Dimier√Lisb
+楽曲『Crimson Throne』
+Feryquitous vs Laur
+楽曲『Arghena』
+Katali
+楽曲『TeraVolt』
+Maozon
+楽曲『Technicolour』
+MEMODEMO X AQUASINE
+楽曲『RGB』
+Moon Jelly & YUKIYANAGI
+楽曲『FANTA5Y』
+polysha feat. 高城みよ
+楽曲『Logos』
+Ponchi♪ feat. はぁち
+楽曲『アローンアンドローン』
+Prower
+楽曲『Dynitikós』
+sleepless, Gardens, aspect
+楽曲『Transient Space』
+Yuta Imai
+楽曲『UNKNOWN LEVELS』
+U-ske feat. 棗いつき
+楽曲『WAIT FOR DAWN』
+天束 feat. Sennzai
+楽曲『Nameless Passion』
+荒谷サトル
+楽曲『雨神楽』
+くるぶっこちゃん
+楽曲『Primeval Texture』
+打打だいず
+楽曲『Wish Upon a Snow』
+みーに feat. はらもりよしな
+楽曲『レイヴンズ・プライド』
+2022年10月05日 App Store(iOS) / Google Play ストア(Android) でのメモリーの価格が改定された。詳細はこちら。
+2022年10月04日 ver.4.1.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × O.N.G.E.K.I. bright MEMORY」が開催され、以下の楽曲5曲が追加された。
+「Ai Drew」by Feryquitous
+「心」by 削除 (Violin : Katali)
+「FLUFFY FLASH」by Kobaryo
+「Good bye, Merry-Go-Round.」by Yooh
+「LAMIA」by BlackY
+2022年09月10日 各種ストリーミング配信サービスで公式サウンドトラック「Memories of Dreams」「Memories of Wrath」の取扱が開始された。
+※この日Apple Musicで「Memories of Dreams」のみ配信されず、4日後の9月14日に遅れて公開された。
+Apple Music (Dreams / Wrath)
+YouTube Music (Dreams / Wrath)
+Spotify (Dreams / Wrath)
+2022年07月28日 【Nintendo Switch版】 ver.1.3.2が配信された。アップデート内容はこちら。
+2022年07月27日 ver.4.0.256が配信された。アップデート内容はこちら。
+2022年07月14日 ONKYO × Arcaeaのコラボイヤホンの受注生産が発表された。
+告知ページ / 購入予約ページ
+予約期間 : 2022年7月15日 15:00 ～ 同年8月31日 15:00
+出荷予定 : 2022年10月下旬～同年11月上旬
+2022年07月13日 ver.4.0.255が配信された。アップデート内容はこちら。
+2022年07月09日 ver.4.0.1が配信された。アップデート内容はこちら。
+2022年07月07日 ver.4.0.0が配信された。アップデート内容はこちら。
+2022年07月03日 Arcaea公式サイトからメモリーの購入が可能になった(要ログイン)。
+2022年 1月～6月
+2022年 1月～6月を編集
+2022年05月25日 ver.3.12.10が配信された。アップデート内容はこちら。
+2022年04月28日 ver.3.12.8が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × Lanota」の第2弾が開催され、以下の楽曲3曲が追加された。
+「Prism」by bermei.inazawa ft. Chata
+「Protoflicker」by Silentroom
+「Stasis」by Maozon
+2022年04月01日 ver.3.12.6が配信された。アップデート内容はこちら。
+2022年03月23日 ver.3.12.4が配信された。アップデート内容はこちら。
+2022年03月18日 【Nintendo Switch版】 ver.1.3.1が配信された。アップデート内容はこちら。
+2022年03月10日 ver.3.12.3が配信された。アップデート内容はこちら。
+2022年03月09日 【リリース5周年】 ver.3.12.2が配信された。アップデート内容はこちら。
+2022年02月24日 【Nintendo Switch版】 ver.1.3.0が配信された。アップデート内容はこちら。
+2022年02月19日  ver.3.12.1のiOS版が配信された。アップデート内容はこちら。
+2022年02月18日  ver.3.12.1のAndroid版が配信された。アップデート内容はこちら。
+2022年02月17日  ver.3.12.0が配信された。アップデート内容はこちら。
+App Store/Google Playでの合計ダウンロード数が800万を突破したことを記念し、期間限定マップが解放された。
+2022年01月20日  ver.3.11.2が配信された。アップデート内容はこちら。
+2022年01月01日 運営からのお年玉として、以下条件を満たしたアカウントに100メモリーが配布された。
+配布期間 : 2022年1月1日 0:00 ～ 同2日 8:59
+アプリ内で再ログインするか、アプリを再起動することで受け取ることができる。
+2021年12月31日より前にオンライン環境で1曲以上プレイしているアカウントのみが対象。
+2021年 7月～12月
+2021年 7月～12月を編集
+2021年12月24日  ver.3.11.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × Muse Dash」が開催され、以下の楽曲4曲が追加された。
+「Lights of Muse」by Ayatsugu_Otowa
+「Final Step!」by Lime
+「秋の陽炎」by karatoPαnchii feat.はるの
+「Medusa」by HiTECH NINJA
+2021年12月16日  ver.3.10.2が配信された。アップデート内容はこちら。
+2021年12月09日  ver.3.10.1が配信された。アップデート内容はこちら。
+2021年12月09日  ver.3.10.0が配信された。アップデート内容はこちら。
+2021年11月24日-12月04日 Nintendo Switch版の20%オフセールを開催。
+2021年11月12日  ver.3.9.1が配信された。アップデート内容はこちら。
+2021年11月11日  ver.3.9.0が配信された。アップデート内容はこちら。
+2021年11月11日 4, 5枚目の公式サウンドトラック「Memories of Dreams」「Memories of Wrath」が発売された。
+DIVERSE DIRECT (Dreams / Wrath)
+TANO*C STORE (Dreams / Wrath)
+2021年10月22日  iOS版のver.3.8.9が配信された。アップデート内容はこちら。
+2021年10月21日  ver.3.8.8が配信された。アップデート内容はこちら。
+2021年10月12日 【Nintendo Switch版】 ver.1.2.2が配信された。アップデート内容はこちら。
+2021年10月07-10日 イギリス・ロンドンで開催されたEGXに出展。
+2021年09月29日  ver.3.8.6が配信された。アップデート内容はこちら。
+2021年09月24日 【Nintendo Switch版】 ver.1.2.1が配信された。アップデート内容はこちら。
+2021年09月16日 【Nintendo Switch版】 ver.1.2.0が配信された。アップデート内容はこちら。
+2021年09月15日 スタミナが消費されてもWorld Modeを始められない不具合への対応として、7日以内にログインした全プレイヤーに運営からスタミナが12個補填された。詳細はこちら。
+2021年09月08日  ver.3.8.4が配信された。アップデート内容はこちら。
+2021年08月24日  ver.3.8.2が配信された。アップデート内容はこちら。
+2021年08月12日  ver.3.8.1が配信された。アップデート内容はこちら。
+2021年08月10日  ver.3.8.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × WACCA Reverse」が開催され、以下の楽曲6曲が追加された。
+「Mazy Metroplex」by aran
+「Quon」by DJ Noriken
+「with U」by t+pazolite & Massive New Krew feat.リリィ(CV:青木志貴)
+「GENOCIDER」by DJ Myosuke
+「Let you DIVE! (nitro rmx)」by nitro (lowiro)
+「Sheriruth (Laur Remix)」by Laur
+2021年07月29日 ver.3.7.1が配信された。アップデート内容はこちら。
+2021年07月22日 ver.3.7.0が配信された。アップデート内容はこちら。
+2021年07月18日 Arcaeaの配信ガイドラインが公開された。
+2021年 1月～6月
+2021年 1月～6月を編集
+2021年06月30日 ver.3.6.4が配信された。アップデート内容はこちら。
+2021年06月28日 ゲーム情報誌『アプリスタイル 2021年夏号』にてArcaeaが紹介された。
+2021年06月22日 【Nintendo Switch版】 ver.1.1.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea  × グルーヴコースター ワイワイパーティー!!!!」が開催され、以下の楽曲8曲が追加された。
+「MERLIN」by REDALiCE
+「BUCHiGiRE Berserker」by REDALiCE vs MASAKI
+「ouroboros -twin stroke of the end-」by Cranky VS MASAKI
+「Scarlet Lance」by MASAKI (ZUNTATA)
+「OMAKENO Stroke」by t+pazolite
+「DX超性能フルメタル少女」by IOSYS TRAX (uno with.ちよこ)
+「Got hive of Ra」by E.G.G.
+「Aurgelmir」by 溝口ゆうま feat. 大瀬良あい
+2021年06月15日 ver.3.6.3が配信された。アップデート内容はこちら。
+2021年06月10日 ver.3.6.2が配信された。アップデート内容はこちら。
+2021年05月27日 各種ストリーミング配信サービスで公式サウンドトラック「Memories of Realms」の取扱が開始された。
+Apple Music
+YouTube Music
+Spotify
+2021年05月18日 Nintendo Switch版がリリースされた。
+特設サイト / トレーラー映像
+2021年05月14日 ver.3.6.1が配信された。アップデート内容はこちら。
+2021年05月11日 ver.3.6.0が配信された。アップデート内容はこちら。
+2021年04月09日 ver.3.5.5が配信された。アップデート内容はこちら。
+2021年04月09日 ver.3.5.4が配信された。アップデート内容はこちら。
+2021年04月01日 ver.3.5.3が配信された。アップデート内容はこちら。
+2021年03月27日 ゲーム情報誌『アプリスタイル 2021年春号』にてArcaeaが紹介された。
+2021年03月09日 【リリース4周年】 ver.3.5.2が配信された。アップデート内容はこちら。
+2021年02月11日 ver.3.5.1が配信された。アップデート内容はこちら。
+2021年01月21日 ver.3.5.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × CHUNITHM PARADISE」が開催され、以下の楽曲4曲が追加された。
+「Climax」by USAO
+「業 -善なる神とこの世の悪について-」by 光吉猛修 VS 穴山大輔
+「Last Celebration」by Laur vs CK
+「AttraqtiA」by かめりあ
+2021年01月20日 SEGAの公式YouTubeチャンネルで配信された「CHUNITHM PARADISE 稼働直前！ゲキチュウマイ公式生放送」で、翌日公開のコラボレーション企画が特集された。Arcaea開発元のlowiro limitedからプロデューサーのGuy氏がリモートで出演した。
+CHUNITHMに収録された「Cyaegha [MASTER 13]」のプレイ映像先行公開
+Arcaeaに収録された「Climax [Future 10]」のプレイ映像先行公開
+新規楽曲2曲「Last Celebration」「AttraqtiA」及びパートナー「イゼヴェル・ヤグルーシュ」の情報公開
+2021年01月20日 Arcaea公式ウェブサイトのデザインが刷新された。
+2021年01月08日 ver.3.4.1が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × maimai でらっくす Splash」が開催され、以下の楽曲4曲が追加された。
+「四月の雨」by cubesato
+「7thSense」by 削除
+「Oshama Scramble!」by t+pazolite
+「AMAZING MIGHTYYYY!!!!」by WAiKURO
+2021年01月01日 運営からのお年玉として、以下条件を満たしたアカウントに100メモリーが配布された。
+配布期間 : 2021年1月1日 0:00 ～ 同2日 8:59
+アプリ内で再ログインするか、アプリを再起動することで受け取ることができる。
+「2020年内にオンライン環境で1曲以上プレイしている」「ポテンシャルが1.0以上である」の2点を満たすアカウントのみが対象。
+2020年 7月～12月
+2020年 7月～12月を編集
+2020年12月22-31日 以下の期間限定パートナーの復刻イベントを開催。
+開催期間 : 2020年12月22日 9:00 - 同31日 23:59
+ウィンター エト&ルナ
+2020年12月17日 ver.3.4.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × O.N.G.E.K.I. R.E.D.」が開催され、以下の楽曲4曲が追加された。
+「Lazy Addiction」by sky_delta
+「Dazzle hop」by Sampling Masters MEGA
+「Viyella's Tears」by Laur
+「ω4」by 穴山大輔 VS 光吉猛修 VS Kai
+2020年12月09日 ver.3.3.1が配信された。アップデート内容はこちら。
+2020年12月03日 ver.3.3.0が配信された。アップデート内容はこちら。
+2020年12月01-24日 Arcaea公式Discordサーバーにてメモリー配布イベントが開催された。
+2020年11月21日 ver.3.2.4が配信された。アップデート内容はこちら。
+2020年11月19日 ver.3.2.3が配信された。アップデート内容はこちら。
+2020年11月01日 COMIC ZIN 秋葉原店の外壁面にArcaeaの広告が掲げられた。またApp Store/Google Playでの合計ダウンロード数が500万を突破したことが広告内容より明らかとなった。
+2020年10月30日 ver.3.2.2が配信された。アップデート内容はこちら。
+2020年10月26日 3枚目の公式サウンドトラック「Memories of Realms」が発売された。
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+2020年10月07日 ver.3.2.1が配信された。アップデート内容はこちら。
+2020年09月16日 ver.3.2.0が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × Groove Coaster」の第2弾が開催され、以下の楽曲2曲が追加された。第1弾はこちら。
+「Got hive of Ra」by E.G.G.
+「BUCHiGiRE Berserker」by REDALiCE vs MASAKI
+2020年09月04日 ver.3.1.2が配信された。アップデート内容はこちら。
+2020年08月25日 ver.3.1.1が配信された。アップデート内容はこちら。
+2020年08月21日 ver.3.1.0が配信された。アップデート内容はこちら。
+2020年08月07日 ver.3.0.6が配信された。アップデート内容はこちら。
+2020年07月24日 第2回楽曲公募企画「Arcaea Song Contest 2020」を開催。
+応募期間 : 2020年07月24日 - 2020年09月30日
+同年11月4日に入賞者へメールが送られた。
+2021年5月5日に入賞した16組のアーティスト名が公開された。
+入賞者名
+入賞者名(アルファベット順)
+参照元 : Twitter
+特賞
+Silentroom vs Frums
+楽曲『Aegleseeker』
+入賞
+A/I
+楽曲『Turbocharger』
+Arik Kau Delay (アラ&かゆき&でり)
+楽曲『AlterAle』
+Ashrount
+楽曲『Vandalism』
+BlackY feat. Risa Yuzuki
+楽曲『Löschen』
+Glitch Droids
+楽曲『Coastal Highway』
+Laur feat.Sennzai
+楽曲『Seclusion』
+Sober Bear
+楽曲『ΟΔΥΣΣΕΙΑ』
+Tanchiky vs. siromaru
+楽曲『Crystal Gravity』
+technoplanet feat. はるの&黒沢ダイスケ
+楽曲『Far Away Light』
+xi
+楽曲『Overwhelm』
+yoho
+楽曲『光速神授説 - Divine Light of Myriad -』
+Yu-dachi
+楽曲『Paper Witch』
+影虎。 & ikaruga_nex
+楽曲『狂言綺語』
+かたぎり
+楽曲『HIVEMIND』
+テヅカ x Aoi feat.桃雛なの
+楽曲『Small Cloud Sugar Candy』
+2020年07月16日 ver.3.0.5が配信された。アップデート内容はこちら。
+コラボレーション企画「Arcaea × CHUNITHM」の第2弾が開催され、以下の有料楽曲1曲が追加された。第1弾はこちら。
+「Teriqma」by owl*tree
+2020年07月09日 ver.3.0.4が配信された。アップデート内容はこちら。
+2020年07月08日 ver.3.0.3が配信された。アップデート内容はこちら。
+2020年07月01-15日 期間限定パートナー「調」の復刻イベントを開催。
+開催期間 : 2020年7月1日 9:00 ～ 同15日 23:59
+2020年 1月～6月
+2020年 1月～6月を編集
+2020年06月15日 ver.3.0.2が配信された。アップデート内容はこちら。
+2020年05月28日 ver.3.0.1が配信された。アップデート内容はこちら。
+2020年05月27日 ver.3.0.0が配信された。アップデート内容はこちら。
+2020年05月24日 App Store/Google Playでの合計ダウンロード数が450万を突破。
+2020年05月05日 ver.2.6.2が配信された。アップデート内容はこちら。
+2020年04月10日 各種ストリーミング配信サービスで公式サウンドトラックの取扱が開始された。その後5月上旬頃に全サービスで配信終了となったが、8月上旬に再び解禁されている。
+Apple Music (Light / Conflict)
+YouTube Music (Light / Conflict)
+Spotify (Light / Conflict)
+2020年04月01日 ver.2.6.1が配信された。アップデート内容はこちら。
+2020年03月25日 ver.2.6.0が配信された。アップデート内容はこちら。
+2020年03月09日 【リリース3周年】 ver.2.5.3が配信された。アップデート内容はこちら。
+2020年02月21日 ver.2.5.2が配信された。アップデート内容はこちら。
+2020年02月06日 Arcaeaの二次創作ガイドラインが公開された。
+2020年02月04日 ver.2.5.1が配信された。アップデート内容はこちら。
+2020年01月21日 ver.2.5.0が配信された。アップデート内容はこちら。
+2020年01月15日 ver.2.4.9が配信された。アップデート内容はこちら。
+2020年01月01日 運営からのお年玉として、以下条件を満たしたアカウントに100メモリーが配布された。
+配布期間 : 2020年1月1日 0:00 ～ 同2日 9:00
+アプリ内で再ログインするか、アプリを再起動することで受け取ることができる。
+2020年1月1日より前にオンライン環境で1曲以上プレイしているアカウントのみが対象。
+2019年 7月～12月
+2019年 7月～12月を編集
+2019年12月29日 ver.2.4.8が配信された。アップデート内容はこちら。
+2019年12月23-30日 以下の期間限定パートナーの復刻イベントを開催。
+開催期間 : 2019年12月23日 9:00 ～ 同30日 23:59
+イリス / ウィンター エト&ルナ
+2019年12月16-23日 以下の期間限定パートナーの復刻イベントを開催。
+開催期間 : 2019年12月16日 9:00 ～ 同23日 23:59
+調 / ユメ
+2019年12月09日 ver.2.4.7が配信された。アップデート内容はこちら。
+2019年11月27日 ver.2.4.6が配信された。アップデート内容はこちら。
+2019年11月22日 Amazon/TANO*C STORE/メロンブックスで公式サウンドトラックの取扱が開始された。
+Amazon (Light / Conflict)
+TANO*C STORE (Light / Conflict)
+メロンブックス (Light / Conflict)
+2019年11月21日 lowiroのコーポレートサイトが公開された。
+2019年11月18日 ver.2.4.5が配信された。アップデート内容はこちら。
+2019年10月27日 東京流通センターで開催されたM3-2019秋のDiverse Systemブース(第一展示場 P-16a,b)及び通販サイトDIVERSE DIRECTにて、公式サウンドトラック2枚が発売された。通販サイトでは同21日より予約受付が解禁となった。
+Arcaea Sound Collection - Memories of Light
+Arcaea Sound Collection - Memories of Conflict
+2019年10月26日 ver.2.4.3が配信された。アップデート内容はこちら。
+2019年10月20-27日 期間限定パートナー「彩夢」の復刻イベントを開催。
+開催期間 : 2019年10月20日 9:00 - 同28日 0:00
+2019年10月11日 ver.2.4.2が配信された。アップデート内容はこちら。
+2019年10月08日 ver.2.4.0が配信された。アップデート内容はこちら。
+2019年09月23日 楽曲「Mirzam」が一般公開された。
+2019年09月12-15日 TOKYO GAME SHOW 2019(5-C04)に出展。
+楽曲「Mirzam」の先行配布。
+オリジナル缶バッジの配布。
+2019年09月07日 東京都内(地下鉄神田駅周辺)にてArcaea運営公認のファンイベントが開催された。詳細はこちら。
+楽曲「Mirzam」の先行配布。
+2019年09月05日 ver.2.3.2が配信された。アップデート内容はこちら。
+Arcaeaの利用規約と個人情報保護方針を追加。
+2019年08月29日 Android版のver.2.3.1が配信された。アップデート内容はこちら。
+2019年08月22日 ver.2.3.0が配信された。アップデート内容はこちら。
+2019年08月03-10日 以下の期間限定パートナーの復刻イベントを開催。
+開催期間 : 2019年08月03日 9:00 ～ 同11日 0:00
+サマー 光 / サマー 対立
+2019年07月18日 ver.2.2.0が配信された。アップデート内容はこちら。
+2019年 1月～6月
+2019年 1月～6月を編集
+2019年06月04日 Arcaea公式LINEアカウントが開設。シエラ氏が描いたLINEスタンプが同時発売された。
+2019年05月23日 ver.2.1.0が配信された。アップデート内容はこちら。
+コラボレーション企画第6弾「Arcaea × CHUNITHM」が開催され、以下の有料楽曲3曲が追加された。
+「Garakuta Doll Play」by t+pazolite
+「怒槌」by 光吉猛修
+「World Vanquisher」by void (Mournfinale)
+2019年05月02日 ver.2.0.3が配信された。アップデート内容はこちら。
+2019年04月30日 App Store/Google Playでの合計ダウンロード数が300万を突破。
+2019年04月01日 ver.2.0.2が配信された。アップデート内容はこちら。
+2019年03月28-31日 アメリカ合衆国マサチューセッツ州ボストン市にて開催されるPAX Eastに出展。
+2019年03月24日 ver.2.0.1が配信された。アップデート内容はこちら。
+2019年03月21日 ver.2.0.0が配信された。アップデート内容はこちら。
+2019年03月19日 Arcaea公式Twitter(韓国語)とArcaea公式BiliBili(簡体字中国語)が開設され、同21日のver.2.0.0アップデートとともに運用を開始した。
+2019年03月09日 【リリース2周年】 ver.1.9.3が配信された。アップデート内容はこちら。
+2019年02月11日 ver.1.9.2が配信された。アップデート内容はこちら。
+2019年01月11日 Android版のver.1.9.1が配信された。アップデート内容はこちら。
+2019年01月09日 ver.1.9.0が配信された。アップデート内容はこちら。
+コラボレーション企画第5弾「Arcaea × Groove Coaster」が開催され、以下の有料楽曲5曲が追加された。
+「MERLIN」by REDALiCE
+「DX超性能フルメタル少女」by IOSYS TRAX (uno with.ちよこ)
+「OMAKENO Stroke」by t+pazolite
+「Scarlet Lance」by MASAKI (ZUNTATA)
+「ouroboros -twin stroke of the end-」by Cranky VS MASAKI
+2019年01月02日 楽曲公募企画「Arcaea Song Contest 2019」を開催。
+応募期間 : 2019年01月02日 - 2019年03月09日
+同年4月12日に入賞者へメールが送られた。
+同年8月12日に入賞した13組のアーティスト名が公開され、そのうち特賞を含む5作品を収録した楽曲パックの情報が解禁された。
+入賞者名
+入賞者名(アルファベット順)
+参照元 : Twitter
+特賞
+からとPαnchii少年 feat.はるの
+楽曲『迷える音色は恋の唄』
+入賞
+7mai
+楽曲『Chelsea』
+Aoi vs. siqlo
+楽曲『Mirzam』
+Juggernaut.
+楽曲『Valhalla:0』
+Kolaa
+楽曲『Diode』
+MYTK
+楽曲『Senkyou』
+MYUKKE.
+楽曲『AI[UE]OON』
+Noah
+楽曲『Heavenly caress』
+polysha
+楽曲『Monochrome Princess』
+Puru
+楽曲『Filament』
+uma vs. モリモリあつし
+楽曲『GLORY：ROAD』
+YUKIYANAGI
+楽曲『FREEF4LL』
+溝口ゆうま feat. 大瀬良あい
+楽曲『Tie me down gently』
+2018年 7月～12月
+2018年 7月～12月を編集
+2018年12月22日 ver.1.8.3が配信された。アップデート内容はこちら。
+2018年12月09-22日 期間限定パートナーの復刻イベントを開催。
+Shirabe(調)
+開催期間 : 2018年12月09日 9:00 ～ 同15日 23:59
+Ilith(イリス)
+開催期間 : 2018年12月16日 9:00 ～ 同22日 23:59
+2018年11月29日 ver.1.8.2が配信された。アップデート内容はこちら。
+2018年11月08日 ver.1.8.1が配信された。アップデート内容はこちら。
+2018年10月26-28日 ロンドンで開催されたMCM Comic Conに出展。
+2018年10月07日 ver.1.8.0が配信された。アップデート内容はこちら。
+コラボレーション企画第4弾「Arcaea × Tone Sphere」が開催され、以下の有料楽曲5曲が追加された。
+「光」by THB
+「Hall of Mirrors」by Sta
+「STAGER (ALL STAGE CLEAR)」by Ras
+「Linear Accelerator」by THE SHAFT
+「Tiferet」by xi + Sta
+2018年09月20-23日 TOKYO GAME SHOW 2018(9-B47)に出展。
+楽曲「Alexandrite」の先行配布。
+コラボレーション企画第4弾「Arcaea × Tone Sphere」の先行体験。
+2018年09月18日 iOS版のver.1.7.6が配信された。アップデート内容はこちら。
+2018年09月17日 ver.1.7.5が配信された。アップデート内容はこちら。
+2018年08月31日 ver.1.7.4が配信された。アップデート内容はこちら。
+2018年08月29日 Arcaea公式サイトにて「楽曲ランキング」ページが公開された。
+2018年08月18日 Android版のver.1.7.3が配信された。アップデート内容はこちら。
+2018年08月13日 iOS版のver.1.7.3が配信された。アップデート内容はこちら。
+2018年08月13日 ver.1.7.2が配信された。アップデート内容はこちら。
+2018年07月20日 ver.1.7.1が配信された。アップデート内容はこちら。
+2018年07月16日 ver.1.7.0が配信された。アップデート内容はこちら。
+2018年07月11日 App Store/Google Playでの合計ダウンロード数が200万を突破。
+2018年 1月～6月
+2018年 1月～6月を編集
+2018年06月22日 ver.1.6.6が配信された。アップデート内容はこちら。
+2018年06月03日 ver.1.6.5が配信された。アップデート内容はこちら。
+2018年06月01日 ver.1.6.4が配信された。アップデート内容はこちら。
+2018年05月03日 ver.1.6.3が配信された。アップデート内容はこちら。
+2018年04月29日 ver.1.6.2が配信された。アップデート内容はこちら。
+2018年04月01日 ver.1.6.1が配信された。アップデート内容はこちら。
+2018年03月23日 ver.1.6.0が配信された。アップデート内容はこちら。
+2018年03月09日 【リリース1周年】 ver.1.5.7が配信された。アップデート内容はこちら。
+2018年02月19日 Android版が50万ダウンロードを突破。
+2018年02月16日 ver.1.5.6が配信された。アップデート内容はこちら。
+2018年02月01日 ver.1.5.5が配信された。アップデート内容はこちら。
+コラボレーション企画第3弾「Arcaea × Lanota」が開催され、以下の有料楽曲5曲が追加された。
+「Dream goes on」by Tiny Minim
+「Journey」by ARForest
+「Specta」by Junk
+「Quon」by Feryquitous
+「cyanine」by jioyi
+2018年01月25-29日 Taipei Game Show(TGS 2018)に出展。
+コラボレーション企画第3弾「Arcaea × Lanota」の先行体験を実施。
+2018年01月22日 Arcaea公式Discordサーバーが公開された。
+2017年 7月～12月
+2017年 7月～12月を編集
+2017年12月23日 ver.1.5.4が配信された。アップデート内容はこちら。
+2017年12月21日 ver.1.5.3が配信された。アップデート内容はこちら。
+2017年12月15日 「TapTap Game Awards 2017」の音楽ゲーム部門に選出。
+2017年11月24日 ver.1.5.2が配信された。アップデート内容はこちら。
+コラボレーション企画第2弾「Arcaea × STELLIGHTS」が開催され、以下の有料楽曲2曲が追加された。
+「Surrender」by void
+「夜桜吹雪」by A.SAKA
+2017年11月07日 ver.1.5.1が配信された。アップデート内容はこちら。
+2017年11月03日 ver.1.5.0が配信された。アップデート内容はこちら。
+2017年10月14日 App Store/Google Playでの合計ダウンロード数が100万を突破。
+2017年09月25日 ver.1.1.6が配信された。アップデート内容はこちら。
+2017年09月15-17日 韓国・釜山にて開催されたBusan Indie Connect(BIC)に出展。
+ver.1.1.6/ver.1.5の新規楽曲や新機能を先行公開。
+「Best Audio」を受賞。
+2017年08月20日 コミックマーケット92で先行配布された楽曲「Auxesia」が有料(120円)で一般公開された。
+2017年08月11日 コミックマーケット92(金-東す28a)に出展。
+缶バッジやタペストリーの販売。
+楽曲「Auxesia」の先行体験・シリアルコード配布。
+2017年08月10日 ver.1.1.4が配信された。アップデート内容はこちら。
+2017年07月18日 ver.1.1.3が配信された。アップデート内容はこちら。
+2017年 1月～6月
+2017年 1月～6月を編集
+2017年06月23日 ver.1.1.2が配信された。アップデート内容はこちら。
+コラボレーション企画第1弾「Arcaea × Dynamix」が開催され、以下の有料楽曲5曲が追加された。
+「Moonlight of Sand Castle」by 旅人E
+「REconstruction」by Ryazan
+「Evoltex (poppi'n mix)」by Arch vs n3pu
+「Oracle」by TQ☆
+「αterlβus」by Aoi
+2017年06月03日 ver.1.1.1が配信された。アップデート内容はこちら。
+2017年06月02日 ver.1.1.0が配信された。アップデート内容はこちら。
+2017年05月11日 ver.1.0.11が配信された。アップデート内容はこちら。
+2017年04月12日 ver.1.0.10が配信された。アップデート内容はこちら。
+2017年04月01日 以下6種のインディーリズムゲームのコラボレーション企画が発表された。
+Arcaea (lowiro)
+MUSYNC (qiu chi zhang)
+Dynamix (C4Cat Entertainment Ltd.) - 2017年6月23日開催
+CIRCLINK (FULSE Co., Ltd.)
+Lanota (Noxy Games Inc.) - 2018年2月1日開催
+STELLIGHTS (COLLESTA, Inc.) - 2017年11月24日開催
+※STELLIGHTSの配信終了に伴って楽曲パックは削除され、収録楽曲はMemory Archiveに移動された。
+2017年03月30日-04月01日 イギリス・ロンドンで開催されたEGX Rezzedにlowiroが出展し、新規楽曲2曲が先行公開された。
+「Infinity Heaven」 by HyuN
+「Anökumene」 by Jun Kuroda
+2017年03月20日 ver.1.0.9が配信された。アップデート内容はこちら。
+2017年03月13日 Arcaea Wikiの開設。
+2017年03月09日 ver.1.0.8が配信された。アップデート内容はこちら。
+2017年03月09日 【正式リリース】 ver.1.0.5が配信された。アップデート内容はこちら。
+2017年01月22日 クローズドベータテスト開始。応募フォームは英語版の公式Twitterでのみ告知された。応募者多数のため翌23日に募集終了。
+リンク
+公式関連
+期間限定イベントの告知はアプリ内で行われないため(期間中に残時間が小さく表示されるのみ)、下記のSNSの利用を推奨する。
+Arcaea 公式サイト
+Arcaea Online (要ログイン)
+公式楽曲ランキング - 前日のプレイ回数をもとに毎日更新されるランキングページ。
+/ Arcaea 公式Twitter/X (日本語 / 英語 / 韓国語)
+#arcaea
+#arcaea_art - ファンアート向け
+#arcaeaswitch - Nintendo Switch版向け
+#arcaea_link - Link Play向け
+Arcaea 公式BiliBili (簡体字中国語)
+Arcaea 公式Facebook (英語/繁体字中国語)
+Arcaea 公式bandcamp
+Arcaea 公式LINE (日本語) / 公式LINEスタンプ
+lowiro コーポレートサイト(日本語/英語)
+/ lowiro 公式Twitter/X (日本語/英語)
+lowiro 公式YouTubeチャンネル
+arcaea.app
+iOS/Androidを判別し、App Store/Google Play Storeのアプリダウンロードページに遷移する。他人にArcaeaを紹介したい時などに利用するとよい。PCブラウザでアクセスすると公式サイトにリダイレクトされる。
+掲示板・コミュニティ
+5ちゃんねる 現行スレッド
+【iOS/Android】Arcaea(アーケア) part55【Switch】
+テンプレートはこちら。
+過去スレッド
+過去スレッド
+カッコ内はスレッド消費にかかった期間とその日数(Lifetime)。
+【iOS/Android】Arcaea(アーケア) part54【Switch】 (240824 - 250528 276日23時間37分54秒)
+【iOS/Android】Arcaea(アーケア) part53【Switch】 (231209 - 240824 259日14時間21分1秒)
+【iOS/Android】Arcaea(アーケア) part52【Switch】 (230502 - 231218 229日20時間25分45秒)
+【iOS/Android】Arcaea(アーケア) part51【Switch】 (230201 - 230507 95日13時間50分37秒)
+【iOS/Android】Arcaea(アーケア) part50【Switch】 (221014 - 230202 111日7時間54分0秒)
+【iOS/Android】Arcaea(アーケア) part49【Switch】 (220726 - 221022 88日4時間6分18秒)
+【iOS/Android】Arcaea(アーケア) part48【Switch】 (220707 - 220728 20日23時間31分9秒)
+【iOS/Android】Arcaea(アーケア) part47【Switch】 (220510 - 220707 57日19時間43分32秒)
+【iOS/Android】Arcaea(アーケア) part46【Switch】 (220314 - 220510 57日0時間33分44秒)
+【iOS/Android】Arcaea(アーケア) part45【Switch】 (220117 - 220314 55日23時間36分49秒)
+【iOS/Android】Arcaea(アーケア) part44【Switch】 (211204 - 220119 45日22時間41分3秒)
+【iOS/Android】Arcaea(アーケア) part43【Switch】 (211017 - 211205 50日3時間52分45秒)
+【iOS/Android】Arcaea(アーケア) part42【Switch】 (210904 - 211017 43日8時間51分48秒)
+【iOS/Android】Arcaea(アーケア) part41【Switch】 (210729 - 210904 37日5時間0分58秒)
+【iOS/Android】Arcaea(アーケア) part40【Switch】 (210621 - 210730 38日17時間2分36秒)
+【iOS/Android】Arcaea(アーケア) part39 (210515 - 210622 37日15時間35分42秒)
+【iOS/Android】Arcaea(アーケア) part38 (210405 - 210516 40日11時間44分55秒)
+【iOS/Android】Arcaea(アーケア) part37 (210221 - 210406 44日23時間13分48秒)
+【iOS/Android】Arcaea(アーケア) part36 (210114 - 210222 38日14時間49分23秒)
+【iOS/Android】Arcaea(アーケア) part35 (201215 - 210114 31日6時間41分56秒)
+【iOS/Android】Arcaea(アーケア) part34 (201106 - 201215 38日16時間51分25秒)
+【iOS/Android】Arcaea(アーケア) part33 (200925 - 201106 41日22時間31分25秒)
+【iOS/Android】Arcaea(アーケア) part32 (200830 - 200926 26日11時間20分10秒)
+【iOS/Android】Arcaea(アーケア) part31 (200802 - 200830 28日14時間39分5秒)
+【iOS/Android】Arcaea(アーケア) part30 (200715 - 200802 18日4時間17分43秒)
+【iOS/Android】Arcaea(アーケア) part29 (200623 - 200715 23日19時間16分24秒)
+【iOS/Android】Arcaea(アーケア) part28 (200601 - 200623 21日19時間2分55秒)
+【iOS/Android】Arcaea(アーケア) part27 (200527 - 200601 5日0時間36分18秒)
+【iOS/Android】Arcaea(アーケア) part26 (200517 - 200527 10日3時間45分36秒)
+【iOS/Android】Arcaea(アーケア) part25 (200415 - 200517 31日20時間21分50秒)
+【iOS/Android】Arcaea(アーケア) part24 (200309 - 200416 37日19時間39分31秒)
+【iOS/Android】Arcaea(アーケア) part23 (200127 - 200309 42日17時間43分58秒)
+【iOS/Android】Arcaea(アーケア) part22 (200111 - 200127 16日6時間43分3秒)
+【iOS/Android】Arcaea(アーケア) part21 (191218 - 200111 24日0時間46分1秒)
+【iOS/Android】Arcaea(アーケア) part20 (191103 - 191218 45日7時間13分57秒)
+【iOS/Android】Arcaea(アーケア) part19 (191008 - 191103 26日9時間18分52秒)
+【iOS/Android】Arcaea(アーケア) part18 (190822 - 191008 47日2時間54分3秒)
+【iOS/Android】Arcaea(アーケア) part17 (190722 - 190822 31日0時間17分35秒)
+【iOS/Android】Arcaea(アーケア) part16 (190702 - 190722 20日9時間52分13秒)
+【iOS/Android】Arcaea(アーケア) part15 (190611 - 190702 21日11時間53分31秒)
+【iOS/Android】Arcaea(アーケア) part14 (190526 - 190611 16日0時間15分53秒)
+【iOS/Android】Arcaea(アーケア) part13 (190510 - 190526 16日10時間37分0秒)
+【iOS/Android】Arcaea(アーケア) part12 (190401 - 190510 39日22時間49分35秒)
+【iOS/Android】Arcaea(アーケア) part11 (190313 - 190401 18日7時間3分33秒)
+【iOS/Android】Arcaea(アーケア) part10 (190129 - 190314 43日19時間41分20秒)
+【iOS/Android】Arcaea(アーケア) part9 (181227 - 190130 33日14時間36分3秒)
+【iOS/Android】Arcaea(アーケア) part8 (181118 - 181228 40日12時間41分45秒)
+【iOS/Android】Arcaea(アーケア) part7 (181008 - 181118 40日23時間28分57秒)
+【iOS/Android】Arcaea(アーケア) part6 (180903 - 181008 35日1時間0分10秒)
+【iOS/Android】Arcaea(アーケア) part5 (180721 - 180903 44日10時間21分29秒)
+【iOS/Android】Arcaea(アーケア) part4 (180620 - 180722 31日14時間3分58秒)
+【iOS】Arcaea(アーケア) part3 (180503 - 180621 48日20時間28分22秒)
+【iOS】Arcaea(アーケア) part2 (180219 - 180504 73日1時間26分14秒)
+【iOS】Arcaea(アーケア) part1 [無断転載禁止]©2ch.net (170309 - 180221 348日2時間20分7秒)
+フレンド募集用スレッド
+【iOS/Android】Arcaea(アーケア) フレンド募集スレ
+zawazawa
+Arcaea Wiki@zawazawa
+Discord
+Arcaea - Discord
+Arcaea公式のDiscordサーバー。開発陣やコンポーザーも多数参加しており、様々なトピックについてコミュニケーションを取ることができる。
+チャンネル一覧
+チャンネル一覧 (2025年9月26日現在)
+Information
+#rules
+利用上の注意。
+#discord-announcements
+お知らせ。
+#welcome
+新しくサーバーに参加した人たち。
+In Falsus
+In Falsusに関する雑談。
+#infalsus-en
+英語圏ユーザー用チャンネル。
+#infalsus-日本語
+日本語圏ユーザー用チャンネル。
+Arcaea International/国際/국제/国际
+この中のチャンネルは日本語でも投稿可能。
+#arcaea-art
+公式イラスト、ファンアートについて。
+#music
+楽曲について。未収録も可。
+#creative
+二次創作物などに関する雑談。
+#friend-ids
+フレンド募集。
+#link-play
+Link Playのルームコード共有。
+#server-discussion
+Discordサーバーの運用について。
+#server-discussion-old
+Discordサーバーの運用について。
+Arcaea English
+英語圏ユーザー用チャンネル。
+#arcaea-discussion-1
+Arcaeaに関する雑談。
+#arcaea-discussion-2
+待避所。
+#scores
+スコアや実績について。
+#gameplay
+Arcaeaのゲームプレイに関する雑談。
+#story
+ストーリーの考察。
+#questions-and-advice
+Arcaeaをプレイする上での小技やアドバイスなど。
+General English
+#off-topic-general
+ジャンルを問わない雑談。
+#gaming-rhythm
+他音楽ゲームに関する雑談。
+#gaming-general
+ゲームなら何でもありの雑談。
+#memes
+インターネットミームについて。
+Arcaea 日本語
+日本語圏ユーザー用チャンネル。
+#ルール
+利用上の注意の日本語訳。
+#arcaea-日本語-1
+Arcaeaに関する雑談。リザルトの投稿は禁止。
+#arcaea-日本語-2
+Arcaeaに関する雑談。リザルトの投稿は禁止。
+#arcaea-スコア
+リザルトの共有。
+#ゲーミング
+Arcaea以外のゲームに関して。
+#音楽ゲーム
+#創作
+#雑談
+Arcaea 한국어
+韓国語圏ユーザー用チャンネル。
+#규정
+利用上の注意の韓国語訳。
+#arcaea-채널-1
+#arcaea-채널-2
+#arcaea-스코어
+#잡담
+#기타-게임
+Arcaea 中文
+中国語圏ユーザー用チャンネル。
+#公告
+#歡迎-欢迎
+利用上の注意の中国語訳。
+#arcaea-中文
+#arcaea-成績-成绩
+#閒聊-闲聊
+Bit192 Official - Discord
+Tone Sphereの開発元であるBit192 LabsのDiscordサーバー。コラボレーション企画の縁によりArcaea専用のチャンネルが用意されている。(GAMES > #arcaea)
+Reddit
+英語圏の電子掲示板。
+r/arcaea - Reddit
+他言語Wiki
+英語版Wiki - Fandom
+英語版Wiki - Miraheze
+韓国語版Wiki - Namuwiki
+中国語版Wiki
+中国語版Wiki - 萌娘百科
+その他
+Arcaea - 4Gamer.net
+Arcaea - Wikipedia
+Arcaea - スマホ音ゲー・スマホリズムゲーム総合 Wiki*
+Arcaeaとは - ニコニコ大百科
+Arcaea (あーけあ)とは - ピクシブ百科事典
+#Arcaea / #arcaea_art - pixiv
+関連作 (In Falsus)
+In Falsus 公式サイト
+In Falsus 公式Discordサーバー
+In Falsus Steamストアページ
+/ In Falsus 公式Twitter/X (日本語 / 英語)
+In Falsus 公式Facebook (英語)
+In Falsus 公式BiliBili (簡体字中国語)
+In Falsus 公式TikTok
+In Falsus 公式Instagram
+日本語版Wiki - wikiwiki
+英語版Wiki - Miraheze
+CONTENTS
+― はじめに ―
+Arcaea Wiki
+ルール
+初心者の方へ
+FAQ
+リズムゲーム用語解説
+― 収録曲 ―
+パック順
+タイトル順
+レベル順
+コンポーザー順
+A～O
+P～Z
+日本語・その他
+ボーカリスト
+イラストレーター順
+アルファベット
+日本語・その他
+ノーツ数順
+演奏時間順
+非公式難易度(PM基準)
+非公式難易度(TC基準)
+― ゲーム関連 ―
+ストーリー
+Main Story Act I
+Main Story Act II
+Side Story
+Archive Story
+パートナー
+恒常
+期間限定
+ワールドモード
+Extra Chapter
+Chapter 1
+Breached
+Chapter 2
+Breached
+Chapter 3
+Breached
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Chapter 9
+Chapter 10
+Lost Chapter
+解放期間終了
+コースモード
+― システム関連 ―
+アップデート履歴
+ver.1.x / ver.2.x
+ver.3.x
+ver.4.x / ver.5.x
+ver.6.x
+ver.7.x
+ポテンシャル研究所
+譜面定数表(Lv.1～7+)
+譜面定数表(Lv.8～12)
+遅延調整報告
+― その他 ―
+人気投票
+譜面制作者
+こぼれ話
+公式サウンドトラック
+管理人への要望
+テンプレート
+楽曲ページ
+Nintendo Switch
+基本情報
+楽曲リスト
+ストーリー
+パートナー
+ワールドモード
+Extra Chapter
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+コースモード
+アップデート履歴
+4,400円
+購入はこちらから
+― More ―
+― More ―
+zawazawa
+サウンドトラック
+詳細はこちら
+Memories of Light
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+メロンブックス
+Apple Music
+YouTube Music
+Spotify
+Memories of Conflict
+(26曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+メロンブックス
+Apple Music
+YouTube Music
+Spotify
+Memories of Realms
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Dreams
+(27曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Wrath
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Myth
+(27曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Serenity
+(26曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+Spotify
+Crossing Collection
+(7曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Bandcamp
+LINEスタンプ
+250円(100コイン)
+Today : ?
+Yesterday : ?
+Total : ?
+Online : ?
+© 2017-2026 Arcaea Wiki
+レンタルWIKI by WIKIWIKI.jp* /
+Designed by Olivia /
+広告について /
+無料レンタル掲示板 zawazawa

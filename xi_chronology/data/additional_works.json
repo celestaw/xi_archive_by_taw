@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "works": [
+    {
+      "id": "XI-252",
+      "title": "Parallax",
+      "original_sheet": null,
+      "notes_claim": null,
+      "original_list_spellings": [],
+      "note_entry_ids": [],
+      "events": [],
+      "official_listening": [],
+      "relationships": [],
+      "issues": [],
+      "comment": "",
+      "credited_name": "xi vs. ak+q (lowiro)",
+      "role": "合作：xi・ak+q (lowiro)。個別の制作工程は未確認。",
+      "identity_status": "一次資料にクレジットあり",
+      "first_medium": "Arcaea",
+      "aliases": [],
+      "group_ids": [],
+      "user_clarification_ids": [
+        "USER-20261026-001"
+      ],
+      "earliest_verified_record": null,
+      "date": "2026-10-24",
+      "date_precision": "day",
+      "date_type": "X告知・初公開日（利用者確認）",
+      "first_publication_date": "2026-10-24",
+      "first_medium_status": "公式告知を確認",
+      "confidence": "曲別一次クレジット確認・初公開日は利用者補足に基づく",
+      "checked_on": "2026-10-26",
+      "composition_records": [],
+      "composition_date": null,
+      "composition_date_precision": null,
+      "source_urls": [
+        "https://x.com/arcaea_jp/status/2113786378047619133",
+        "https://x.com/com_giko_31/status/2113806371250643454"
+      ],
+      "source_urls_candidates": [],
+      "evidence_summary": "Xの告知日を確認。告知日と初公開日が同日であることは利用者補足に基づく。",
+      "family_id": "XI-252",
+      "count_as_independent_new_composition": true
+    },
+    {
+      "id": "XI-253",
+      "title": "Re：End of a Dream (Diceros Bicornis Remix)",
+      "original_sheet": null,
+      "notes_claim": null,
+      "original_list_spellings": [],
+      "note_entry_ids": [],
+      "events": [],
+      "official_listening": [],
+      "relationships": [],
+      "issues": [],
+      "comment": "",
+      "credited_name": "Diceros Bicornis (xi + BlackY)",
+      "role": "リミックス合作：xi・BlackY（Diceros Bicornis）。原曲：uma vs. モリモリあつし。",
+      "identity_status": "一次資料にクレジットあり",
+      "first_medium": "Re：End of DreamerZ",
+      "aliases": [],
+      "group_ids": [],
+      "user_clarification_ids": [
+        "USER-20261026-001"
+      ],
+      "earliest_verified_record": null,
+      "date": "2026-10-23",
+      "date_precision": "day",
+      "date_type": "X告知・初公開日（利用者確認）",
+      "first_publication_date": "2026-10-23",
+      "first_medium_status": "公式告知を確認",
+      "confidence": "曲別一次クレジット確認・初公開日は利用者補足に基づく",
+      "checked_on": "2026-10-26",
+      "composition_records": [],
+      "composition_date": null,
+      "composition_date_precision": null,
+      "source_urls": [
+        "https://x.com/com_giko_31/status/2113637093142605951",
+        "https://x.com/ats024/status/2113631686579953892"
+      ],
+      "source_urls_candidates": [],
+      "evidence_summary": "Xの告知日を確認。告知日と初公開日が同日であることは利用者補足に基づく。",
+      "family_id": "XI-253",
+      "count_as_independent_new_composition": false,
+      "relationships_external": [
+        {
+          "title": "Re：End of a Dream",
+          "kind": "原曲",
+          "credited_name": "uma vs. モリモリあつし"
+        }
+      ]
+    }
+  ]
+}

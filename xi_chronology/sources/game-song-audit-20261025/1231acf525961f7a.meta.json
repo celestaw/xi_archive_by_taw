@@ -1,0 +1,28 @@
+{
+  "url": "https://www.youtube.com/watch?v=sWUyYtR1gCc",
+  "key": "1231acf525961f7a",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://www.youtube.com/watch?v=sWUyYtR1gCc",
+  "sha256": "706a0ade21e9945b91d22d94c70c0d6354ef208df1e6cd98a9ba887f983f4183",
+  "bytes": 1423968,
+  "read_limit_reached": false,
+  "title": "【Paradigm: Reboot】xi - Noctiluca - YouTube",
+  "links": [
+    "/",
+    "/",
+    "https://www.youtube.com/about/",
+    "https://www.youtube.com/about/press/",
+    "https://www.youtube.com/about/copyright/",
+    "/t/contact_us/",
+    "https://www.youtube.com/creators/",
+    "https://www.youtube.com/ads/",
+    "https://developers.google.com/youtube",
+    "/t/terms",
+    "/t/privacy",
+    "https://www.youtube.com/about/policies/",
+    "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen",
+    "/new"
+  ]
+}

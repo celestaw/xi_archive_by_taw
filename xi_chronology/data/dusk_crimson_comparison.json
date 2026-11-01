@@ -1,0 +1,94 @@
+{
+  "checked_on": "2026-10-25",
+  "work_ids": ["XI-182", "XI-177"],
+  "titles": ["Dusk to Dawn", "Crimson Phoenix"],
+  "conclusion": {
+    "scope": "一般プレイヤー向けのゲーム配信開始の順序",
+    "earlier": "XI-182",
+    "later": "XI-177",
+    "summary": "Dusk to DawnのDEEMO 3.2収録は2018年2月に確認でき、Crimson Phoenixのグルーヴコースターでのイベント先行配信は2018年3月29日。ゲーム配信開始ではDusk to Dawnが先。",
+    "first_publication_order": "未確定。Crimson Phoenixは2018年2月10日の大会で先行披露。Dusk to Dawnの2018年2月8日・9日という二次資料の日付と、App Storeの2月12日・メーカー資料転載の2月13日との違いが未解決。",
+    "composition_order": "未確認。公開・配信の前後から作曲順を推定しない。"
+  },
+  "evidence": [
+    {
+      "work_id": "XI-182",
+      "kind": "primary",
+      "source_url": "https://x.com/com_giko_31/status/963018657113632768",
+      "retrieval_url": "https://publish.twitter.com/oembed?url=https%3A%2F%2Ftwitter.com%2Fcom_giko_31%2Fstatus%2F963018657113632768&omit_script=true",
+      "date": "2018-02-12",
+      "date_kind": "本人による収録報告日",
+      "summary": "X公式oEmbedのauthor_urlがcom_giko_31であることを確認。本人がDEEMO 3.2のFunkot CollectionにDusk to Dawn / xi、Ice CollectionにScherzo -pain in rain- / xi vs Iceが収録されたと報告。報告日をゲーム初収録日にはしない。"
+    },
+    {
+      "work_id": "XI-182",
+      "kind": "primary",
+      "source_url": "https://apps.apple.com/jp/app/deemo/id700637744",
+      "date": "2018-02-12",
+      "date_kind": "App Store記載のバージョン3.2.0更新日",
+      "summary": "開発元提供の履歴にFunkot Collection等の追加を確認。Dusk to Dawnの曲名自体は履歴にない。曲別の対応は本人の収録報告で確認。プラットフォーム・地域・日付表示の違いは未解決。"
+    },
+    {
+      "work_id": "XI-182",
+      "kind": "primary_reproduction",
+      "source_url": "https://www.inside-games.jp/article/2018/02/13/112740.html",
+      "date": "2018-02-13",
+      "date_kind": "アップデート配信の報道日・記事本文でいう実施日",
+      "summary": "冒頭に本日2月13日実施と記載。『以下、リリースより引用』以降はメーカー資料で、Funkot Collectionとxiの参加を説明。前年RayarkConでFunkotを公開したとの説明だけからDusk to Dawnの前年公開を断定しない。"
+    },
+    {
+      "work_id": "XI-182",
+      "kind": "secondary",
+      "source_url": "https://deemo.fandom.com/wiki/Update_History_for_DEEMO_I",
+      "date_claim": "2018-02-08",
+      "date_kind": "非公式Wikiの3.2更新日",
+      "summary": "検索で見つかった日付の食い違い。元ページは取得に失敗したため、採用せず探索候補として保持。"
+    },
+    {
+      "work_id": "XI-182",
+      "kind": "secondary",
+      "source_url": "https://wikiwiki.jp/deemo/SandBox",
+      "date_claim": "2018-02-09",
+      "date_kind": "非公式Wikiの更新日一覧に記載された3.2の日付",
+      "summary": "2月8日説・App Store記録・メーカー資料転載と差があるため初収録日の確定根拠へ昇格しない。"
+    },
+    {
+      "work_id": "XI-177",
+      "kind": "secondary",
+      "source_url": "https://www.famitsu.com/news/201802/11151629.html",
+      "date": "2018-02-10",
+      "date_kind": "大会での先行披露日（当時の取材記事による）",
+      "summary": "2018年2月9～11日のJAEPOの2日目に開催された第四回天下一音ゲ祭として記述され、Crimson Phoenixの先行プレイを報告。記事公開日の2月11日と大会開催日を区別。xiが作曲、MASAKIが編曲との説明もある。"
+    },
+    {
+      "work_id": "XI-177",
+      "kind": "primary",
+      "source_url": "https://groovecoaster.jp/news/11585.html",
+      "date": "2018-03-29",
+      "date_kind": "ゲーム内イベント先行配信日",
+      "summary": "タイトー公式の2018年3月27日付告知が、3月29日配信の曲目にCrimson Phoenix / xi vs MASAKIを明記。1000EP達成賞取得者向けのイベント先行配信。"
+    },
+    {
+      "work_id": "XI-177",
+      "kind": "primary",
+      "source_url": "https://groovecoaster.jp/event/11860.html",
+      "date": "2018-03-29",
+      "date_kind": "イベント開始日・条件達成による先行解禁",
+      "summary": "本文のイベント期間は2018年3月29日9:00開始。1000EP達成でCrimson Phoenix / xi vs MASAKIを獲得し先行プレイ可能と説明。ページ更新日の4月6日、後日の無条件配信とは区別。"
+    }
+  ],
+  "unverified_leads": [
+    {
+      "url": "https://www.youtube.com/watch?v=bgVRLcbb5Qc",
+      "summary": "Rayark公式DEEMO 3.2予告の公開日時は2018-02-09T04:00:03-08:00（日本時間2月9日21:00）。説明欄はFunkot Collection等のパック名のみ。映像内でDusk to Dawnの曲名・音源が登場するかは未視聴のため、この曲の2月9日公開の証拠には未採用。"
+    }
+  ],
+  "listener_comparison": {
+    "source_type": "user_observation",
+    "source_id": "USER-20261025-002",
+    "description": "利用者の聴感では、Dusk to DawnはCrimson Phoenixに近い曲調。",
+    "relationship_type": "曲調の比較・所感",
+    "official_derivation_or_sequel_confirmed": false,
+    "counting_rule": "独立した2曲として保持。原曲・別バージョンの関係や作曲順を示すものではない。"
+  }
+}

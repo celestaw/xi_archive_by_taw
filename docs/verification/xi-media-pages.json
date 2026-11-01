@@ -1,0 +1,29 @@
+{
+  "mobile320": {
+    "overflow": false,
+    "width": 320
+  },
+  "desktop1280": {
+    "headerHeight": 82,
+    "overflow": false,
+    "width": 1280
+  },
+  "album": {
+    "overflow": false,
+    "tracks": 12,
+    "url": "http://127.0.0.1:3210/albums/world-fragments",
+    "width": 390
+  },
+  "games": {
+    "games": 10,
+    "overflow": false,
+    "url": "http://127.0.0.1:3210/games",
+    "width": 390
+  },
+  "maimai": {
+    "overflow": false,
+    "tracks": 5,
+    "url": "http://127.0.0.1:3210/games/maimai"
+  },
+  "errors": []
+}

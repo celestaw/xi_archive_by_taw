@@ -1,0 +1,28 @@
+{
+  "url": "https://www.youtube.com/watch?v=qZm9hZgEqWk",
+  "key": "4e8e087bd4b97406",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://www.youtube.com/watch?v=qZm9hZgEqWk",
+  "sha256": "b388870a23f7c82e8e15e292cbbc4e5d3721cb26997bdd2be801e069cc1786c0",
+  "bytes": 1290213,
+  "title": "『Chrono Circle』 BGA - MEGALØDON(xi) - YouTube",
+  "links": [
+    "/",
+    "/",
+    "https://www.youtube.com/about/",
+    "https://www.youtube.com/about/press/",
+    "https://www.youtube.com/about/copyright/",
+    "/t/contact_us/",
+    "https://www.youtube.com/creators/",
+    "https://www.youtube.com/ads/",
+    "https://developers.google.com/youtube",
+    "/t/terms",
+    "/t/privacy",
+    "https://www.youtube.com/about/policies/",
+    "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen",
+    "/new"
+  ],
+  "read_limit_reached": false
+}

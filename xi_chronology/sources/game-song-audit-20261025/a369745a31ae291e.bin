@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="description" content="メンテナンスのお知らせ">
+<title>メンテナンスのお知らせ | バンダイナムコアミューズメント</title>
+<link rel="stylesheet" href="groupHeader/css/groupHeader.css" media="all">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGJT5BS');</script>
+
+<!--// 独自CSS・JS▼▼▼ -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+<style>
+html {font-size: 62.5%;}
+body{margin:0; font-family: 'Noto Sans JP', sans-serif; font-size: clamp(1.3rem, 3.3vw, 1.6rem); line-height: 2; background-color: #fff;}
+div, p, ul, ol, dl {margin: 0; padding: 0;}
+*+div, *+p, *+ul, *+ol, *+dl {margin-top: 1.5em;}
+#common_page_header {border-bottom: 1px solid #eee;}
+.p-groupHeader__groupLogo a, .p-groupHeader__companyLogo a {pointer-events: none;}
+.contents, .contents * { box-sizing: border-box;}
+.contents {width: 100%; max-width: 1200px; margin: 0 auto; padding: 20px 1em 40px; border-bottom: 1px solid #eee;}
+h1.title {font-size: min(6.5vw, 1.8em); font-weight: bold; margin: 0 0 1.4em; padding: 0 0 calc(.1em + 3px); position: relative;}
+h1.title:before {content: ""; display: block; width: 100%; height: 3px; background-color: #ddd; box-shadow: 1.5em 0px 0 0 #e60000 inset; position: absolute; left: 0; bottom: 0;}
+.date {border-left: 6px solid #ddd; padding: 0 .75em; position: relative;}
+strong {display: inline-block; background-color: #e60000; border-radius: 2em; color: #fff; line-height: 1.4; margin-bottom: .3em; padding: .5em 1em;}
+strong, time {font-size: 1.1em;}
+small {display: inline-block;}
+.contents p+ul {margin-top: 0; list-style: none;}
+.contents ul li {margin: 0; padding: 0 0 0 1.3em; position: relative;}
+.contents ul li:after {content: ""; display: block; width: 6px; height: 6px; background-color: #999; border-radius: 3px; position: absolute; left: calc(.5em - 3px); top: calc(1em - 3px);}
+/*.contents ul li:before {content: attr(data-type); display: inline-block; width: 6.5em; border-radius: 1em; font-size: 75%; lin-height: 2.4; background-color: rgb(230 0 0 / 30%); color: #fff; text-align: center; margin-right: .5em;}*/
+footer .bnam_copyright {text-align: center; padding: 2em 0;}
+</style>
+<!--// 独自CSS・JS▲▲▲ -->
+</head>
+
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MGJT5BS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<header id="common_page_header">
+    <div id="pageTop">
+        <!-- groupHeader category-01-white start -->
+        <div class="p-groupHeader-01">
+            <div class="p-groupHeader__groupLogo">
+                <a href="./">
+                <img src="groupHeader/logo/groupLogo-01.svg" alt="BANDAI NAMCO Fun for All into the Future" width="176" class="p-groupHeader__groupLogo--pc">
+                <img src="groupHeader/logo/groupLogo-01-sp.svg" alt="BANDAI NAMCO" width="60" class="p-groupHeader__groupLogo--sp"></a>
+            </div>
+            <div class="p-groupHeader__inner">
+                <div class="p-groupHeader__lineElement"><!-- --></div>
+                <div class="p-groupHeader__companyLogo">
+                    <a href="./"><img src="groupHeader/logo/companyLogoBNAMU.svg" alt="アミューズメントユニット"></a>
+                </div>
+            </div>
+        </div>
+        <!-- groupHeader category-01-white end -->
+    </div>
+</header>
+
+<main>
+
+<!--// 独自コンテンツここから▼▼▼ -->
+<article>
+<div class="contents">
+    <h1 class="title">サーバーメンテナンスのお知らせ</h1>
+    <div class="inner">
+        <p>日頃は、弊社サービスをご利用いただき誠にありがとうございます。<br>現在、バンダイナムコエクスペリエンス・バンダイナムコアミューズメントが運営する公式サイトの一部でメンテナンスを実施中です。</p>
+
+        <p><strong>メンテナンス日時</strong><br><time>10月21日（水）22:00頃 ～ </time><br><small>※作業状況により、メンテナンス時間が前後する場合がございます。</small></p>
+        
+        <p>ご利用の皆さまには大変ご迷惑をおかけいたしますが、何卒ご理解とご協力をお願いいたします。</p>
+    </div>
+</div>
+</article>
+<!--// 独自コンテンツここまで▲▲▲ -->
+
+</main>
+
+<footer>
+    <p class="bnam_copyright">© Bandai Namco Amusement Inc. ©Bandai Namco Amusement Lab Inc. ©Bandai Namco Experience Inc. ©HANAYASHIKI Co., Ltd. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>

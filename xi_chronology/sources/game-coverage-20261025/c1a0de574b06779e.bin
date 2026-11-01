@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>MUSIC DIVER 公式サイト｜株式会社タイトー</title>
+
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0" />
+
+  <meta name="description" content="誰でも簡単！スティックで直感的な演奏！楽曲にマッチしたサウンドで華麗にキメろ！「MUSIC DIVER」登場！">
+  <meta name="keywords" content="TAITO,MUSIC DIVER,ミュージックダイバー,音楽ゲーム,アーケードゲーム,ダンス,アクションゲーム">
+
+  <!-- Facebook -->
+  <meta property="og:locale" content="ja_JP" />
+  <meta property="fb:app_id" content="1842979865816074" />
+  <meta property="og:title" content="MUSIC DIVER 公式サイト｜株式会社タイトー">
+  <meta property="og:site_name" content="MUSIC DIVER 公式サイト｜株式会社タイトー">
+  <meta property="og:description" content="誰でも簡単！スティックで直感的な演奏！楽曲にマッチしたサウンドで華麗にキメろ！「MUSIC DIVER」登場！">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://musicdiver.jp/">
+  <meta property="og:image" content="https://musicdiver.jp/images/banner_1200675_musicdiver.jpg">
+  <!-- /Facebook -->
+
+  <!-- Twitter -->
+  <meta name="twitter:title" content="MUSIC DIVER 公式サイト｜株式会社タイトー">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@MUSICDIVER_T">
+  <meta name="twitter:image" content="https://musicdiver.jp/images/banner_1200675_musicdiver.jpg">
+  <!-- /Twitter -->
+
+  <!-- ファビコン -->
+  <link rel="icon" href="https://musicdiver.jp/favicon.ico">
+
+  <!-- スマホ用アイコン -->
+  <link rel="apple-touch-icon" sizes="180x180" href="https://musicdiver.jp/apple-touch-icon.png">
+
+  <!-- Windows用アイコン -->
+  <meta name="application-name" content="MUSIC DIVER" />
+  <meta name="msapplication-square70x70logo" content="https://musicdiver.jp/small.jpg" />
+  <meta name="msapplication-square150x150logo" content="https://musicdiver.jp/medium.jpg" />
+  <meta name="msapplication-wide310x150logo" content="https://musicdiver.jp/wide.jpg" />
+  <meta name="msapplication-square310x310logo" content="https://musicdiver.jp/large.jpg" />
+  <meta name="msapplication-TileColor" content="#000000" />
+
+  <link href="/lib/fontawesome/css/all.min.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/lib/bootstrap/bootstrap-4.5.0-dist/css/bootstrap.min.css" type="text/css">
+  <link rel="stylesheet" href="../css/main.css" type="text/css">
+  <script src="/lib/js/jquery.js"></script>
+  <script src="/lib/bootstrap/popper.js"></script>
+  <script src="/lib/bootstrap/bootstrap-4.5.0-dist/js/bootstrap.min.js"></script>
+  <script src='/lib/js/phina.js'></script>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script src="/preview/config.js"></script>
+  <script src="/preview/components.js"></script>
+  <script src="/preview/mainscene.js"></script>
+  <script src="/preview/titlescene.js"></script>
+  <script src="/js/react/bundle.js"></script>
+</body>
+
+</html>

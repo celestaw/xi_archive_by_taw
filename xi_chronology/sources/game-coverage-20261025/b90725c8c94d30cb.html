@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<?xml version="1.0" encoding="UTF-8"?>
+<html
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+>
+  <head>
+    <title>Cytus Official Website</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta property="og:title" content="Cytus - Best iOS Music Game Ever" />
+    <meta property="og:type" content="game" />
+    <meta property="og:url" content="https://www.rayark.com/g/cytus/about.html" />
+    <meta property="og:image" content="https://www.rayark.com/g/cytus/images/cytus_icon.png" />
+    <meta property="og:site_name" content="Cytus" />
+    <meta property="fb:admins" content="alvcc" />
+    <meta
+      property="og:description"
+      content="Cytus is an easy and ituitive music/rhythm game,
+			   collects masterpiece of famous composers from all around the world.
+			   Just follow the active scan line,feel MUSIC' N ART, BEAT' N REBOUND!"
+    />
+
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link type="text/css" rel="stylesheet" href="base.css" />
+    <script
+      src="//ajax.googleapis.com/ajax/libs/dojo/1.6/dojo/dojo.xd.js"
+      djConfig="parseOnLoad: true"
+      type="text/javascript"
+    ></script>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(["_setAccount", "UA-28188782-1"]);
+      _gaq.push(["_setDomainName", "rayark.com"]);
+      _gaq.push(["_trackPageview"]);
+
+      (function () {
+        var ga = document.createElement("script");
+        ga.type = "text/javascript";
+        ga.async = true;
+        ga.src =
+          ("https:" == document.location.protocol ? "https://ssl" : "http://www") +
+          ".google-analytics.com/ga.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+    <!-- pv -->
+    <link type="text/css" rel="stylesheet" href="pv.css" />
+    <script type="text/javascript" src="swfobject.js"></script>
+
+    <script type="text/javascript">
+      var pvs = {
+        chemicalstar: "fk0RNSz4zeg",
+        drg: "89xWtLJiK0w",
+        entrance: "d9Z3PET_3as",
+        green_eyes: "UY-nPvUo2nM",
+        nocturn_type: "aqCtJ28gXQA",
+        perfume: "W3rbLKURDuo",
+        precipitation: "S_SxXqFZyeU",
+        retrospective: "-P_uxSKMEn0",
+        sacred: "lrSBEnuqmgo",
+        saika: "Tu6MN7iUHjA",
+        sanctity: "xXCAKszl_KE",
+        secret_garden: "nI1m2i5a5cA",
+        the_silence: "gdQg0XaTwMc",
+        ververg: "kI3qd6rKSL4",
+        visions: "nG-lRcFZARI",
+        hard_landing: "d1OEN-nZsq0",
+        lightupmylove: "xb_T16PqQDE",
+        iris: "gwRAYN3NUVI",
+        the_riddle_story: "fZJ16GyZab0",
+        spectrum: "X5Jesw5G9O8",
+        liberame: "vtJglEUNkw0",
+        otome: "F9A77DFFIs8",
+        halcyon: "laTdlSCf7mc",
+        lollipop: "z4lmEEpYg6Q",
+        the_black_case: "2oVtniw62B4",
+        cosmo: "gIL-Kfhmmss",
+      };
+
+      var ytplayer;
+
+      function onYouTubePlayerReady(playerId) {
+        ytplayer = document.getElementById("myytplayer");
+      }
+
+      var playVideo = function (id) {
+        ytplayer.cueVideoById(id, 0, null);
+        ytplayer.playVideo();
+      };
+
+      dojo.ready(function () {
+        var params = { allowScriptAccess: "always" };
+        var atts = { id: "myytplayer" };
+        swfobject.embedSWF(
+          "https://www.youtube.com/v/89xWtLJiK0w?enablejsapi=1&playerapiid=ytplayer&version=3",
+          "pv-video",
+          "540",
+          "348",
+          "8",
+          null,
+          null,
+          params,
+          atts
+        );
+
+        for (var key in pvs) {
+          res = dojo.query("#pv-" + key + " a");
+          if (res.length <= 0) continue;
+          res[0].href = 'javascript:playVideo( "' + pvs[key] + '")';
+        }
+      });
+    </script>
+
+    <!--  end of about -->
+  </head>
+
+  <body class="claro">
+    <div id="content">
+      <div id="header">
+        <div id="banner"></div>
+        <div id="kanban">
+          <a href="https://www.facebook.com/rayark.Cytus"><div id="rayark-fb"></div></a
+          ><a href="https://twitter.com/#!/CytusRayark"><div id="rayark-twitter"></div></a
+          ><a href="https://www.rayark.com"><div id="rayark-logo"></div></a>
+        </div>
+        <div id="app-store">
+          <img src="images/app.png" width="768" height="108" alt="" usemap="#storemap" />
+        </div>
+        <map name="storemap">
+          <area
+            shape="rect"
+            coords="75, 8, 355, 100"
+            href="https://itunes.apple.com/app/cytus/id485246824"
+            alt="iTunes Store"
+          />
+          <area
+            shape="rect"
+            coords="395, 8, 702, 100"
+            href="https://play.google.com/store/apps/details?id=com.rayark.Cytus.full"
+            alt="Google Play"
+          />
+        </map>
+
+        <ul id="menu">
+          <li id="nav-home">
+            <a href="index.html"><div></div></a>
+          </li>
+          <li id="nav-about">
+            <a href="about.html"><div></div></a>
+          </li>
+          <li id="nav-pv">
+            <a href="pv.html"
+              ><div><div class="click"></div></div
+            ></a>
+          </li>
+          <li id="nav-faq">
+            <a href="https://getsatisfaction.com/cytus"><div></div></a>
+          </li>
+        </ul>
+      </div>
+
+      <div id="main-content">
+        <!-- page content -->
+
+        <div id="pv-main">
+          <div id="pv-video"></div>
+        </div>
+
+        <div id="pv-menu">
+          <div id="pv-select-text">Select a song to play</div>
+          <ul id="pv-list">
+            <li id="pv-chemicalstar">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-drg">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-entrance">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-green_eyes">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-nocturn_type">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-perfume">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-precipitation">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-retrospective">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-sacred">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-saika">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-sanctity">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-secret_garden">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-the_silence">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-ververg">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-visions">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-hard_landing">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-lightupmylove">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-iris">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-the_riddle_story">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-spectrum">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-otome">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-the_black_case">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-halcyon">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-lollipop">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-liberame">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+            <li id="pv-cosmo">
+              <a href="#"><div class="pv-icon"></div></a>
+            </li>
+          </ul>
+        </div>
+
+        <!-- end of page content -->
+      </div>
+
+      <div id="footer">©2012 Rayark Inc. All Rights Reserved. E-Mail: service@rayark.com</div>
+    </div>
+  </body>
+</html>

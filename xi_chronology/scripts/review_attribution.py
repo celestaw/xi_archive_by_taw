@@ -20,6 +20,18 @@ def read(name):
     return json.loads((DATA / name).read_text(encoding="utf-8"))
 
 
+def load_research():
+    """Combine the reconciled input snapshot with later, separately curated works."""
+    research = read("works.json")
+    path = DATA / "additional_works.json"
+    if path.exists():
+        research["works"].extend(json.loads(path.read_text(encoding="utf-8"))["works"])
+    ids = [work["id"] for work in research["works"]]
+    if len(ids) != len(set(ids)):
+        raise ValueError("Duplicate work IDs in research data")
+    return research
+
+
 def comparable(title):
     title = unicodedata.normalize("NFKD", title).casefold()
     return "".join(c for c in title if c.isalnum() and not unicodedata.combining(c))
@@ -84,7 +96,7 @@ def primary_source(work, event, sources, albums):
 
 
 def build_reviews(research=None, events=None):
-    research = research or read("works.json")
+    research = research if research is not None else load_research()
     events = events if events is not None else read("publication_events.json")
     notes = {n["id"]: n for n in read("note_entries_raw.json")}
     sources = {s["url"]: s for s in read("sources.json")}
@@ -134,14 +146,14 @@ def build_reviews(research=None, events=None):
             limitations.append("資料の確認日は各出典に表示。追加資料は個別に確認したが、それ以前の全出典を再検証したことは意味しない。")
         limitations.extend(extra.get("issues", []))
         reviews[work["id"]] = dict(verdict=verdict, summary=summary, inclusion=inclusion, sources=evidence,
-                                    limitations=limitations, reviewed_on=REVIEWED_ON)
+                                    limitations=limitations, reviewed_on=max(REVIEWED_ON, work["checked_on"]))
     return reviews
 
 
 def main():
     reviews = build_reviews()
     (DATA / "attribution_reviews.json").write_text(json.dumps(reviews, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    works = {w["id"]: w for w in read("works.json")["works"]}
+    works = {w["id"]: w for w in load_research()["works"]}
     with (DATA / "attribution_reviews.csv").open("w", encoding="utf-8-sig", newline="") as stream:
         writer = csv.writer(stream)
         writer.writerow(["id", "title", "verdict", "summary", "inclusion", "sources", "limitations", "reviewed_on"])

@@ -1,0 +1,1530 @@
+曲名リスト(チャプター別) - Cytus Wiki*
+ブラウザの JavaScript がオフ（ブロックまたは許可しない）に設定されているため、このページは正常に機能しません。
+Cytus Wiki*
+[ ホーム | 新規 | 編集 | 添付 ]
+Menu
+新規
+編集
+添付
+一覧
+最終更新
+差分
+バックアップ
+凍結
+複製
+名前変更
+ヘルプ
+> 曲名リスト
+曲名リスト(チャプター別)
+Last-modified: 2026-10-16 (金) 02:05:25
+これらのキーワードがハイライトされています：
+目次
+目次
+Cytus
+Chapter 1-OPERATORS
+Chapter 2-DISASTER
+Chapter 3-CYTUS
+Chapter 4-THE SILENCE
+Chapter 5-VANESSA
+Chapter 6-THE LOST
+Chapter 7-LOOM
+Chapter 8-ANOTHER ME
+Chapter 9-BURIED
+Chapter 10-THE NEW WORLD
+Chapter PROLOGUE- LIVE
+Chapter S-SYMPHONY
+Chapter K-KNIGHT
+Chapter R-Retro
+Chapter T-TIMELINE
+Chapter D-DEEMO
+Chapter L-L
+【裏譜面】
+Chapter N-Nightkeepers
+Chapter M-MILLION
+収録集計
+システムBGM
+未収録曲
+Alive曲(メインテーマ曲)がChapter1～10、及びChapter Mに存在している。
+Alive曲の楽曲ページはChapter毎の小見出しにリンクがある。
+選択方法は各Chapterのクリア楽曲数をタップする。よくある質問プレイ前を参照。
+裏楽曲、裏譜面と説明されている楽曲は、特定の操作をして出現させる楽曲。
+選択方法はその曲のページを参照。
+楽曲ページに書かれた攻略のコツなどの用語が分からなかったら、ここを見ると参考になるかも。
+iOS/Googleplay版はChapter1～10+Symphony+Knight+Millionが本体価格で開放されている。他のChapterは追加課金をすることで開放できる
+Googleplay版は為替変動、 iOS版はStoreの価格改定で価格が上下する。
+1Chapter $4.99/800円、ChapterL $9.99/1500円、ChapterN $3.99/600円)
+Cytus α限定曲(2Chapter/20曲)
+赤字:最高Lv.9
+赤字太字:最高Lv.9の中で高レベル非公式難易度Lv.9.9以上の譜面
+Cytus
+Chapter 1-OPERATORS
+“Operators, preserving & continuing lifetime memories eternally
+desire for immortality finally comes true through pioneering technologies.”
+～2130 A.D. ExtenLife Corp. World leading Operator manufacturer
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Light up my LOVE
+3
+7
+ani feat.moco
+171
+Ververg
+4
+7
+ani feat.B
+190
+Ververg ver.B
+4
+9
+ani feat.B
+190
+裏楽曲
+Chemical Star
+1
+6
+Tsukasa
+138
+Visions
+1
+7
+Tsukasa
+177
+Les Parfums de L'Amour
+3
+6
+naotyu- feat.miyu
+240
+Retrospective
+3
+5
+naotyu- feat.maya
+130
+The Silence
+1
+7
+Sta
+165
+D R G
+4
+7
+ani
+155
+Secret Garden
+3
+7
+AILE
+137
+Hot Air Balloon
+3
+5
+Ice Bird
+106
+Chapter 2-DISASTER
+A mutated virus that is deadly contagious starting to spread out the universe sweepingly while there is absolutely no antidote to the disease, thousands of years of civilizations are on the line thereof.
+Cruelty shown forth, under the paling moonlight, calamity of destruction brought upon.
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Iris
+3
+7
+Sta
+195
+Sanctity
+5
+7
+Rabpit
+143
+Sacred
+5
+7
+Rabpit
+150
+Green Eyes
+4
+8
+Persona
+162
+Nocturnal Type
+2
+7
+switchworks
+160
+Precipitation
+7
+8
+Ice
+167
+Precipitation ver.B
+7
+9
+Ice
+168
+裏楽曲
+Hard Landing
+2
+8
+Yamajet
+141
+Entrance
+6
+9
+Ice
+180
+Precipitation at the Entrance
+6
+9
+Ice
+180
+裏楽曲
+Precipitation at the Entrance II
+7
+9
+Ice
+180
+裏楽曲
+Chapter 3-CYTUS
+[29/Jul/2970:12:57:55] OPERATOR 201173V: requesting memory data, name=Vanessa
+[29/Jul/2970:12:57:56] OPERATOR 201173V: 200 OK
+[29/Jul/2970:12:57:56] OPERATOR 201173V: requesting emotion data, name=Vanessa
+[29/Jul/2970:12:57:57] OPERATOR 201173V: ERROR: 501 not implemented
+[29/Jul/2970:12:57:57] OPERATOR 201173V: redirect to CYTUS to resolve conflicts
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+The Riddle Story
+5
+8
+Cranky
+175
+Libera me
+5
+7
+Cranky
+165
+COSMO
+5
+7
+HAMO
+212
+Prismatic Lollipops
+4
+7
+DJ mashiro
+202
+otome
+5
+7
+suzumetune
+147
+Spectrum
+4
+5
+suzumetune
+132
+Halcyon
+7
+9
+xi
+191
+The black Case
+5
+7
+Killerblood
+156
+Saika
+5
+7
+Rabpit
+145
+Saika ver.B
+6
+7
+Rabpit
+127
+裏楽曲
+Chapter 4-THE SILENCE
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Evil Force
+4
+8
+Alpha Legion
+180
+New world
+2
+6
+aioi feat.KAMATA JUNKO
+92
+Landscape
+4
+7
+LOW PASS
+160
+Future world
+4
+7
+Killerblood
+120
+Parousia
+6
+9
+xi
+158
+Skuld
+2
+6
+Rabpit
+132
+DARKNESS
+5
+8
+V.K.
+191.2
+Beyond
+3
+6
+Rabpit
+130
+AREA184
+6
+9
+Persona
+184
+Sweetness and Love
+4
+8
+3R2
+vs DJ Mashiro
+178
+Chapter 5-VANESSA
+Dear Diary:
+Is it a fortune or misfortune,
+to take part in the program of memory transferring?!
+I would be able to survive in such a way,
+when everybody else close to me passes away...
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+HOLY KNIGHT
+5
+8
+EYEMEDIA
+154
+DINO
+4
+7
+Cranky
+140
+Majestic Phoenix
+3
+7
+Ice
+180
+Sleepless Jasmine
+2
+6
+aioi feat.KAMATA
+180
+chocological
+3
+6
+Mili
+134
+Recollections
+6
+9
+Yamajet
+120
+Total Sphere
+6
+8
+Tsukasa
+142
+Just A Trip
+4
+8
+Killerblood
+180
+Zauberkugel
+4
+9
+xi
+153
+BIOTONIC
+4
+9
+ani
+175
+Chapter 6-THE LOST
+function Operator:allocateStorage(size)
+local db = self:acquireDatabase()
+while db:getAvailableSpace() < size do
+local dated_item = db:query{
+number = 1,
+tag = "emotion",
+sort = "timestamp",
+}
+db:remove(dated_item)
+end
+local chunk = db:reserveSpace(size)
+zeroMemory(chunk)
+return chunk
+end
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Dragon Warrior
+3
+7
+Hoskey
+200
+Selfish Gene
+3
+6
+ani vocal by Rin
+100
+Realize
+5
+7
+Persona
+181
+Colorful Skies
+4
+9
+3R2
+146
+It's a wonderful world
+3
+6
+HAMO
+152
+Bloody Purity
+8
+9
+EYEMEDIA
+154
+Logical Steps
+3
+8
+Yamajet
+130
+Niflheimr
+3
+8
+xi
+180
+OLD GOLD
+3
+8
+Cranky
+154
+THE BLOCKS WE LOVED
+2
+9
+Killerblood
+134
+Chapter 7-LOOM
+<<<<<<<<<<<GOVERNMENT SYSTEM>>>>>>>>>>>
+DELETE
+MEMORY IS REMOVED
+>>>>>>>>>>>   >>>>>>>>>>>
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Black Lair
+6
+9
+Sakuzyo
+(削除)
+150
+The Last Illusion
+4
+8
+Kiryu
+(桐生)
+132
+Galaxy Collapse
+6
+8
+Hero_C
+145
+L
+9
+9
+Ice
+155
+L2(Ver.A)
+9
+9
+Ice
+76
+裏楽曲
+L2(Ver.B)
+9
+9
+Ice
+152
+裏楽曲
+Gate of Expectancy
+5
+8
+Nocturne Moonrise
+190
+Rainbow Night Sky Highway
+6
+9
+Sakuzyo
+(削除)
+174.23
+Quantum Labyrinth
+4
+7
+Haloweak
+128
+Musik
+4
+7
+Killerblood
+138
+Hercule
+5
+7
+naotyu-
+174
+Aquatic Poseidon
+4
+8
+Ric
+142
+Chapter 8-ANOTHER ME
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Masquerade
+3
+9
+M2U
+127.8
+Her Sword
+2
+7
+Hoskey
+170
+Morpho
+5
+8
+orangentle
+126-142
+Slit
+3
+8
+EBICO
+& jioyi
+165
+Slit I
+5
+9
+jioyi
+165
+裏楽曲
+Slit O
+6
+9
+EBICO
+165
+裏楽曲
+Laplace
+4
+9
+Sakuzyo
+(削除)
+155
+Q
+2
+9
+Kiryu
+(桐生)
+192
+SCHERZO
+1
+7
+Baroque
+133
+AXION
+7
+9
+Sakuzyo
+(削除)
+160
+Code03
+2
+6
+Hoskey
+170
+Reverence
+3
+8
+Vospi
+172
+Chapter 9-BURIED
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Oriens
+6
+9
+ginkiha
+140-185
+Hey wonder ~人生は不思議~
+3
+6
+Bro's
+96
+Brionac ~Lugh Lamhfhata~
+3
+7
+Project Grimoire
+175
+First Gate
+4
+8
+NeLiME
+175
+First Gate OVERDRIVE
+7
+9
+NeLiME
+175
+裏楽曲
+Qualia
+4
+7
+KIVΛ
+160
+East West Wobble
+5
+8
+SHK
+140
+Warlords of Atlantis
+5
+8
+Sakuzyo
+(削除)
+140
+To Further Dream
+4
+8
+Shinichi Kobayashi
+(小林信一)
+140
+COMA
+4
+8
+ensou
+180
+Codename：Zero
+7
+9
+NeLiME
+200
+Chapter 10-THE NEW WORLD
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+FREEDOM DiVE
+6
+9
+xi
+222.22
+FREEDOM D↓VE
+9
+9
+xi
+222.22
+裏譜面
+Halloween Party
+4
+9
+SHK
+155
+YURERO~時間は過ぎ去ってイクから~
+4
+7
+Bro's
+110
+Twenty One
+4
+7
+Qrabit
+132
+Solar Wind
+5
+8
+KyuRu
+140
+Red Eyes
+2
+7
+Persona
+134
+Finite circuit
+4
+7
+Kiryu (桐生)
+128
+Set Free(KIVΛ Edition)
+2
+6
+KIVΛ
+138
+DO NOT WAKE
+4
+9
+Vospi
+175
+GATORIX
+6
+9
+NeLiME vs Presti
+160
+Chapter PROLOGUE- LIVE
+かって配信されていたCytus Lambda (PlayStationMobile)で独占チャプターだった。
+Ver6.1.0でiOS版やAndroid版でも購入することで開放されるようになった。
+各ページのチャプター略称は便宜上、小文字ラムダ「λ」で統一されている。
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Process
+2
+8
+Tsukasa
+170
+Endless Journey
+2
+7
+Hoskey
+82
+Shoot out
+4
+7
+Tsukasa
+140
+LNS OP
+3
+6
+Hoskey
+96
+Blue Eyes
+6
+9
+Persona
+151
+Diskord
+4
+7
+Sta
+135
+Infernus
+5
+8
+Alpha Legion
+170
+Megaera
+4
+8
+switchworks
+180
+Violet
+3
+9
+EYEMEDIA
+152
+iAzucar!
+3
+8
+Rabpit
+136
+Chapter S-SYMPHONY
+Cytusになかったジャンルのリミックスシンフォニーで構成されている。
+Project Symphonyの予告としての位置付けでもある。
+当初はアーティスト名は隠されていたが、後にPSMの紹介サイトにて判明した。→
+ttp://www.jp.playstation.com/psn/psm/title/#!0056(現在は削除されている)
+icon
+曲名
+EASY
+HARD
+Artist
+Character
+BPM
+備考
+LVBNR5 SCHWARZ
+2
+7
+Cranky
+Telharmonius:Destructor of Balance
+143
+VIVERE LA VITA
+3
+7
+Sta
+The rest:Null of Silence
+225
+Rain of Fire
+2
+7
+Ice Bird
+Acoda:Heir of Evolution
+115
+Molto Allegro
+4
+7
+Persona
+Rhymos:Sword of Justice
+160
+REVOLUXIONIST
+5
+9
+xi
+Thaddeus:Claw of Chaos
+180
+LVBNR5 WEIβ
+2
+6
+Cranky
+Orchestius:Reign of Harmony
+165
+CHAOTIC DRIVE
+4
+7
+switchworks
+Theremin:Pawn of Calamity
+180
+Outsider
+2
+8
+Yamajet
+Dak:Gear of Destiny
+140
+REQUIEM
+4
+9
+EYEMEDIA
+Thundergar:Storm of Rage
+155
+The Purified
+5
+9
+Hoskey
+Archbishop:Eyes of Purification
+176
+Chapter K-KNIGHT
+The reunion on the battlefield brings back childhood memories and refreshes broken friendships.
+The destiny,driven by forces of love and hate,turns them into shining roses and irises.
+非公式訳:戦場での再会は、子供の頃の記憶を思い出させ、壊れてしまった友情をよみがえらせる。
+その運命は、愛と憎しみの力によって駆り立てられ、それはバラやアヤメの輝きに変化する。
+「HOLY KNIGHT」の2人(IrisとRosabel)にフィーチャーしたChapter。
+イラスト担当はＲyｏrｉ★氏。
+icon
+Story
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Memories
+The Way We Were
+3
+6
+Nicode
+140
+Blessing
+The Sanctuary
+4
+8
+EYE AC
+160
+Calamity
+The Red Coronation
+5
+9
+EYE RH
+154
+Bewitched
+Forbidden Codex
+2
+7
+Hoskey
+176
+The Chevalier
+Knight of Firmament
+2
+7
+EYE XY
+feat. Yoneko
+155
+The Queen
+Load of Crimson Rose
+2
+8
+EYE DT
+feat. Searlait
+125
+Farewell
+Predawn
+3
+7
+Nicode & M2U
+140
+The Duel
+The Fallen BLOOM
+4
+7
+Hoskey
+160
+The Fallen Bloom以外の7曲全てクリアするとイラストが変化
+Curtain Fall
+Where You Are Not
+4
+8
+Nicode
+180
+上記の8曲全てクリアすると出現
+Alternative
+Music. The eternity of us
+2
+7
+Mai Aoyagi
+102
+Where You Are Notをクリアすると出現
+Chapter R-Retro
+8bit/チップチューン形の音楽を集めたチャプター
+イラスト担当はＲyｏrｉ★氏。
+themeの頭文字を取ると…？
+icon
+theme
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Start Menu
+Theme of Kingdom No.8
+4
+7
+Killerblood
+150
+Help Button
+Jump to the future
+6
+8
+Yamajet
+190
+Origin
+Let's go on an Adventure
+3
+9
+3R2
+60-160
+Treasure Box
+Hay Fields
+3
+8
+Ice
+170
+∞ Fields
+6
+9
+Ice
+170
+裏楽曲
+Along tree
+Adventure
+4
+8
+Verdammt
+188
+4：TR33
+Dream(Chiptune Edit)
+3
+7
+Rabpit
+150
+Evasion
+VitMaster
+6
+8
+Sakuzyo (削除)
+180
+Versus
+Fight with your Devil
+5
+9
+Killerblood
+180
+Enormous Alpaca
+Devil In Wonderland
+4
+9
+VILA
+160
+Round∞
+conflict(YM2151 Edit)
+4
+7
+siromaru+cranky
+160
+conflict
+8
+9
+siromaru+cranky
+160
+裏楽曲
+Chapter T-TIMELINE
+ストーリー(PhubbingのQRコードと同様)(アーカイブサイトに飛ぶ/個別ページにも日本語のみ掲載)
+配信にあたってのメッセージ
+Cytusプレイヤーの皆様、皆様の応援のおかげで、驚異的な100万ダウンロード計画を達成することができました。プレイヤーの皆様を数百万年の時を超える旅へと導く、「Chapter Timeline」を製作するにあたり、このことは私たちにとって大きな励みとなりました。
+本チャプターでは、VGO Game Orchestraと共に製作した素晴らしい音楽を通じて、Rayarkの故郷を皆様に思う存分体験いただけます。
+Rayarkより
+「Chapter Timeline」はフィクション作品です。名前、キャラクター、場所、出来事は、作者の想像力の産物として登場、または架空のものとして使用されています。実際の出来事、場所、（故人、現存する人を問わず）人物の類似は、すべて偶然によるものです。
+左側の年数をタップすると背景のみの表示になる。
+イラスト担当はLDT氏。
+icon
+year
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+6,000,000 B.C.
+Penglaimovement
+3
+8
+Video Game Orchestra
+157.5
+8,000 B.C.
+Aboriginal
+4
+7
+Video Game Orchestra
+173.5
+1644
+Dutch Formosa
+7
+9
+Video Game Orchestra
+156
+1936
+Empire of Japan
+2
+5
+Video Game Orchestra
+84
+1970
+Money & Money
+5
+7
+Video Game Orchestra
+170
+2015
+Phubbing
+4
+8
+Video Game Orchestra
+120
+2057
+Protest
+6
+9
+Video Game Orchestra
+144
+2059
+Catastrophe
+4
+8
+Video Game Orchestra
+100
+2245
+Rebirth
+3
+6
+Video Game Orchestra
+83
+∞
+A New Home
+5
+8
+Video Game Orchestra
+185
+Chapter D-DEEMO
+Rayark社の音楽ゲーム「Deemo」からの移植曲で構成されたChapter。
+特徴的なイラストはAub Ergine氏によるもの。
+icon
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Rainy Memory
+2
+6
+Rabpit
+135
+Undo
+4
+7
+Yuk-cheung Chun
+feat. Misi Ke
+141
+Hua Sui Yue
+2
+6
+V.K.
+148
+I race the dawn
+1
+8
+Kevin Penkin
+feat. Michiyo Honda
+162
+Wings of Piano
+2
+7
+V.K.
+68-84
+Utopiosphere
+3
+6
+Mili
+176
+Fable
+3
+8
+Mili
+146
+Angelic Sphere
+4
+7
+3R2
+143
+Leviathan
+7
+9
+NeLiME
+185
+Magnolia
+7
+9
+M2U
+Vocal by Guriri
+160
+Myosotis
+7
+9
+M2U
+Arranger: M2U & NICODE
+Vocal: Guriri & Lucy
+160
+裏楽曲
+Chapter L-L
+Chapter 7のIce氏の楽曲「L」「L2(Ver.A)」「L2(Ver.B)」のオーケストラアレンジ版。
+曲によってはIce氏の別曲フレーズも出てくる。(ストーリー展開でも関わっている)
+2016/1/21にてアップデート、ver.9.0の譜面は全て裏譜面になり、新たに新譜面が全て追加された。
+裏譜面への進み方はジャケットが表示された後、一瞬だけ「L」のマークが現れた所を押すと遊べるようになる。
+詳しくは各楽曲のページを参照。
+譜面的特徴については高レベル非公式難易度の該当項目に詳しい。
+イラスト担当はK@I氏。
+2026/05/23現在、確認できるChapter L全理論値達成者は12人。
+初代達成者のツイートはこちら
+二代目達成者のツイートはこちらから。
+韓国のwikiがLについてのストーリーをまとめています。
+icon
+theme
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+Loneliness
+L1
+8
+9
+Ice
+77.5
+Liberation
+L2
+7
+9
+Ice
+68
+Leverage
+L3
+7
+9
+Ice
+63.5
+Latent
+L4
+7
+9
+Ice
+72
+Lapse
+L5
+7
+8
+Ice
+75
+Lunatic
+L6
+8
+9
+Ice
+72
+Legion
+L7
+8
+9
+Ice
+72
+Lost
+L8
+8
+9
+Ice
+72
+Lament
+L9
+6
+9
+Ice
+72
+上記の8曲全てクリアすると出現
+Largo
+L10
+6
+8
+Ice
+60
+L9をクリアすると出現
+【裏譜面】
+削除されたわけではないが、旧譜面と呼ばれていることもある。
+通常の裏楽曲と異なり、同じ音源で4譜面楽しめる。
+難易度は全てEASY、HARDともに「9」で固定されており、演奏時間も長いため、かなりの根気と実力が必要となる。
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+L1 : THE DEVASTATED LOWER
+9
+9
+Ice
+77.5
+裏譜面
+L2 : ASCENSION TO THE UPPER
+9
+9
+Ice
+68
+裏譜面
+L3 : ROAR, ON THE DESERTED LANDS
+9
+9
+Ice
+63.5
+裏譜面
+L4 : THE UNREVEALED
+9
+9
+Ice
+72
+裏譜面
+L5 : THE REVEALED
+9
+9
+Ice
+75
+裏譜面
+L6 : VIZ AWAKENED
+9
+9
+Ice
+72
+裏譜面
+L7 : ALMIGHTY
+9
+9
+Ice
+72
+裏譜面
+L8 : METEOR - FAREWELL
+9
+9
+Ice
+72
+裏譜面
+L9 : METEO - MOURN
+9
+9
+Ice
+72
+裏譜面
+L10 : IN MEMORY OF MANEO.
+9
+9
+Ice
+60
+裏譜面
+METEO:金髪
+METEOR:黒髪
+VIZ:L2で囁いてる方L5茶髪の兄さん
+Chapter N-Nightkeepers
+台湾の音楽グループ Night Keepers -守夜人-とのコラボしたChapter。
+長い間不眠に悩まされ、自分をも見失った主人公Nightは永夜島(Secret Island)と呼ばれる世界へ迷い込み、途中出会ったLeafとKitと共に自分の使命を探す旅へと出発する。
+様々な危険と誘惑との戦いの中で本当の自分と向き合い、自分を覆っていた偽物の仮面を取り払ってゆく物語。
+Night KeepersのYOUTUBEチャンネルでMVが公開されている。
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+The secret of nightland
+5
+8
+Night Keepers
+130
+The spy's name
+2
+5
+Night Keepers
+132
+Night Festival
+5
+8
+Night Keepers
+104
+Times Difference War
+6
+9
+Yuk-Cheung Chun,
+Marc Lin
+feat. Misi Ke
+120
+Fantasy Hotel
+3
+6
+Night Keepers
+152
+Steven Bites Time
+3
+6
+Night Keepers
+111
+The Cure of Sleep
+2
+6
+Night Keepers
+146
+Choice
+4
+7
+Night Keepers
+146
+Chapter M-MILLION
+100万ダウンロード記念のチャプターであり、無料開放されている。過去のチャプターに収録された様々な楽曲のリミックスによるチャプター。
+難易度はタイトル曲以外全てHARD「9」で固定されている。
+イラスト担当はＲyｏrｉ★氏。
+icon
+No.
+曲名
+EASY
+HARD
+Artist
+BPM
+備考
+I
+Stardust Sphere
+6
+9
+Tsukasa
+146
+II
+The Ricochet
+7
+9
+sta
+180
+The Long Years
+5
+9
+sta
+135
+裏楽曲
+III
+The Sacred Story
+4
+9
+VILA
+158
+IV
+AREA 184 -Platinum mix-
+5
+9
+Persona
+184
+V
+Gardenia
+3
+9
+yamajet
+140
+VI
+Sweetness Overload!!!
+5
+9
+3R2
+& DJ Mashiro
+202
+VII
+Les Parfums de Celebrez
+3
+9
+naotyu-
+180
+VIII
+Afterglow
+4
+9
+jioyi
+120
+IX
+GENESYS
+7
+9
+KIVΛ
+158
+X
+Storia
+7
+9
+xi
+vs Sakuzyo (削除)
+180
+収録集計
+Chapter数
+曲数
+譜面
+本体価格
+13
+149※
+300
+追加課金
+6
+61※
+142
+合計
+19
+210
+442
+※ : FD裏(FREEDOM D↓VE)、ChapterLの裏は表と同曲扱いで数える。
+システムBGM
+タイトル
+Cytus-Title Screen
+LOOM
+THE LOST
+リザルト
+Cytus-Result Screen
+未収録曲
+The World of Tune: Tones and Souls
+Burning Battleground
+The Noble: Orchestius
+基本テンプレート
+メニュー
+Top
+ストーリー
+ルール
+よくある質問
+Switch版「Cytusα」情報
+■曲名リスト
+チャプター別
+レベル別
+アーティスト別
+■ゲーム関連
+高レベル非公式難易度
+小ネタ・裏技・バグ
+音ゲー用語解説
+遅延調整報告
+遊び方考察
+■ゲームシステム関連
+100万ダウンロード計画
+アップデート
+ロング曲・リミックス曲一覧
+■その他
+人気投票
+質問・雑談など
+SandBox
+規制リスト
+編集者議論
+〔人気/今日人気〕〔最新〕
+T.?　Y.?
+NOW.?　TOTAL.?
+Admin(一応管理人):http://twitter.com/cytuswiki
+レンタルWIKI by WIKIWIKI.jp* /
+Designed by Olivia /
+広告について /
+無料レンタル掲示板 zawazawa

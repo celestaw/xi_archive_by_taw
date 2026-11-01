@@ -1,0 +1,189 @@
+{
+  "checked_on": "2026-10-25",
+  "base_url": "http://127.0.0.1:3210",
+  "game_collections": 20,
+  "relationships": 101,
+  "api": [
+    {
+      "id": "arcaea",
+      "status": 200,
+      "tracks": 1,
+      "matches_saved_data": true
+    },
+    {
+      "id": "bms",
+      "status": 200,
+      "tracks": 14,
+      "matches_saved_data": true
+    },
+    {
+      "id": "chunithm",
+      "status": 200,
+      "tracks": 5,
+      "matches_saved_data": true
+    },
+    {
+      "id": "cytus",
+      "status": 200,
+      "tracks": 2,
+      "matches_saved_data": true
+    },
+    {
+      "id": "cytus2",
+      "status": 200,
+      "tracks": 1,
+      "matches_saved_data": true
+    },
+    {
+      "id": "deemo2",
+      "status": 200,
+      "tracks": 2,
+      "matches_saved_data": true
+    },
+    {
+      "id": "in-falsus",
+      "status": 200,
+      "tracks": 1,
+      "matches_saved_data": true
+    },
+    {
+      "id": "music-diver",
+      "status": 200,
+      "tracks": 4,
+      "matches_saved_data": true
+    },
+    {
+      "id": "museca",
+      "status": 200,
+      "tracks": 1,
+      "matches_saved_data": true
+    },
+    {
+      "id": "sdvx",
+      "status": 200,
+      "tracks": 2,
+      "matches_saved_data": true
+    },
+    {
+      "id": "iidx",
+      "status": 200,
+      "tracks": 4,
+      "matches_saved_data": true
+    },
+    {
+      "id": "maimai",
+      "status": 200,
+      "tracks": 5,
+      "matches_saved_data": true
+    },
+    {
+      "id": "osu",
+      "status": 200,
+      "tracks": 40,
+      "matches_saved_data": true
+    },
+    {
+      "id": "ongeki",
+      "status": 200,
+      "tracks": 3,
+      "matches_saved_data": true
+    },
+    {
+      "id": "chrono-circle",
+      "status": 200,
+      "tracks": 1,
+      "matches_saved_data": true
+    },
+    {
+      "id": "groove-coaster-switch",
+      "status": 200,
+      "tracks": 1,
+      "matches_saved_data": true
+    },
+    {
+      "id": "groove-coaster",
+      "status": 200,
+      "tracks": 3,
+      "matches_saved_data": true
+    },
+    {
+      "id": "sdvx-konaste",
+      "status": 200,
+      "tracks": 8,
+      "matches_saved_data": true
+    },
+    {
+      "id": "project-sekai",
+      "status": 200,
+      "tracks": 2,
+      "matches_saved_data": true
+    },
+    {
+      "id": "danmaku",
+      "status": 200,
+      "tracks": 1,
+      "matches_saved_data": true
+    },
+    {
+      "work_id": "XI-214",
+      "status": 200,
+      "attribution": "credited"
+    },
+    {
+      "work_id": "XI-223",
+      "status": 200,
+      "attribution": "credited"
+    }
+  ],
+  "tests": {
+    "backend_passed": 22,
+    "production_build": "passed",
+    "typescript": "passed"
+  },
+  "limitations": [
+    "掲載件数は通常収録・BMS登録・公式許諾・追加告知・大会向け提供を含む。全ゲーム・全曲の網羅を意味しない。"
+  ],
+  "sources_manifest": "xi_chronology/sources/game-coverage-20261025/",
+  "browser": {
+    "index_links": 20,
+    "visited": [
+      "/games",
+      "/games/music-diver",
+      "/games/project-sekai"
+    ],
+    "source_disclosure": "Qualia Crystalの出典・担当を展開し、公式APIの根拠・日付の留保を表示確認",
+    "classification_labels": [
+      "追加告知",
+      "大会向け提供"
+    ],
+    "viewport_checks": [
+      {
+        "page": "/games/music-diver",
+        "width": 1497,
+        "scroll_width": 1497
+      },
+      {
+        "page": "/games/project-sekai",
+        "width": 390,
+        "scroll_width": 390
+      },
+      {
+        "page": "/games/project-sekai",
+        "width": 320,
+        "scroll_width": 320
+      },
+      {
+        "page": "/games",
+        "width": 320,
+        "scroll_width": 305
+      }
+    ],
+    "console_errors": [],
+    "screenshots": [
+      "xi-games-expanded.png",
+      "xi-music-diver-sources.png",
+      "xi-project-sekai-mobile.png"
+    ],
+    "viewport_restored": true
+  }
+}

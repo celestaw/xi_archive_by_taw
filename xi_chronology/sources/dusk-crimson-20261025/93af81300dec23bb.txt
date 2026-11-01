@@ -1,0 +1,1485 @@
+SandBox - Deemo Wiki*
+ブラウザの JavaScript がオフ（ブロックまたは許可しない）に設定されているため、このページは正常に機能しません。
+Deemo Wiki*
+[ ホーム | 新規 | 編集 | 添付 ]
+Menu
+新規
+編集
+添付
+一覧
+最終更新
+差分
+バックアップ
+凍結
+複製
+名前変更
+ヘルプ
+> SandBox
+SandBox
+Last-modified: 2026-06-13 (土) 17:14:49
+これらのキーワードがハイライトされています：
+SandBox: お砂場(練習ページ)です
+編集の練習・メモ・心の叫び等ご自由にお使いください。
+Contents
+SandBox: お砂場(練習ページ)です
+大見出し 1
+中見出し 1-1
+小見出し 1-1-1
+中見出し 1-2
+大見出し 2
+小見出し 2-1
+小見出し 2-2
+日付
+リンク
+その他の文字装飾
+音源埋め込み
+色一覧
+zawazawa訓練所
+zawazawa：管理総合(埋め込み実験)
+zawazawa：最新トピック一覧(埋め込み実験)
+zawazawa：編集ルール
+編集メモ
+DEEMO2  [発売前情報]
+DEEMO -Reborn- [発売前情報]
+DEEMO -Reborn-[発売後情報]
+Sdorica(スドリカ)
+他社コラボ
+CHUNITHM(チュウニズム)(アーケード/セガ)
+太鼓の達人(バンダイナムコ)
+DJMAX
+Arcaea
+maimai でらっくす (アーケード/セガ)
+プロジェクトセカイカラフルステージ！feat. 初音ミク(プロセカ)
+アプデ日
+達成項目・実績・トロフィー
+プレイスタイルなど
+LV6非公式難易度表（試作)
+アンケート設置について
+難易度の大小に着目した自動集計スコア
+コメント
+大見出し 1
+中見出し 1-1
+小見出し 1-1-1
+項目1
+項目2
+項目3
+段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1
+段落1段落1段落1段落1段落1段落強調1段落1段落1段落1段落1段落1
+段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1
+段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2
+段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2
+段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2
+中見出し 1-2
+用語1
+いろいろ書いた解説文1と強調単語 *1
+段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1
+段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1
+段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1
+用語2
+いろいろ書いた解説文2 *2
+用語3
+いろいろ書いた解説文3 *4
+大見出し 2
+小見出し 2-1
+小見出し 2-2
+段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1
+段落1段落1段落1段落イタリック1段落1段落1段落1段落1段落1段落1段落1
+段落1段落1段落1段落イタリックボールド1段落1段落1段落1段落1段落1
+段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2
+段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2
+段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2
+レベル0レベル0レベル0レベル0レベル0レベル0
+レベル1
+レベル1
+レベル1
+レベル2
+レベル2
+レベル2
+レベル3
+はろ1
+はろ2
+ろろろろ2
+はろ3
+はろ2
+はろ3
+はろ2
+はろ3
+レベル3
+レベル3
+レベル3
+日付
+日付 2020-08-15
+日付 2004-08-16
+2020-08-15
+2004-08-16
+時刻 21:25:58
+時刻 07:29:03
+21:25:58
+07:29:03
+日時 2020-08-15 (土) 21:25:58
+日時 2004-08-16 (月) 07:30:27
+2020-08-15 (土) 21:25:58
+2004-08-16 (月) 07:29:03
+リンク
+曲名
+Difficulty
+Artist
+BPM
+Notes
+MagiCatz
+Hard
+Sakuzyo
+135-145
+1042
+ver.2.3追加曲。高速右2連&タップスライド複合と非常にとがった側面をもつ、気まぐれな譜面。
+ANiMA
+Hard
+xi
+183.5
+1120
+ver.2.0追加曲。高密度のタップ連打と複雑なスライドが終始間断なく降り注ぐ。その配置と物量からからほぼ全域がコンボカッター。
+URLやメールアドレスは自動的にリンクになります
+URL -- http://example.org/
+メールアドレス -- foo@example.org
+URLが各種画像ファイルであればそのまま表示します
+http://pukiwiki.sourceforge.jp/image/b_pukiwiki.official.png
+その他の文字装飾
+整形済みテキスト整形済みテキスト整形済みテキスト
+整形済みテキスト整形済みテキスト整形済みテキスト
+AAAAAAAAAAA
+色の変更も可能なルール(COLOR(#e6f2ff))
+サイズの変更も可能なルール(SIZE(10))
+両方指定(SIZE(20)COLOR(#ffeee6))
+AAAAAAAAAAA
+AAAAAAAAAAAAA
+打ち消し線
+aaaa
+左寄せ
+中寄せ
+右寄せ
+↑#hr 水平線(----)の60%
+&nbsp;
+de emo
+delemo
+&emsp;
+de emo
+deＭemo
+&ntbr
+ネタバレ防止に使える。タップで読める。何重かにして誤タップ防止も。
+画像にかけたり表全体隠したりもできる。反転処理や二重折り込みにしてる部分に選択肢が増えた。
+Deemoの正体はゲームで確かめよう
+-注意
+~-注意
+注意
+-注意
+(~を文頭に置けば*や+、//なども文頭に表示可能です)
+「 &ruby(さよならも言わずに消えてしまわないで){Never Left Without Saying Goodbye}; ｣
+「 Never Left Without Saying Goodbye(さよならも言わずに消えてしまわないで) ｣
+(わかりづらいですがルビが振れます)
+#marquee(Deemo,slide,,Black,White,15);
+#marquee(少女,alternate,2,Silver,Black,8);
+#marquee(仮面の少女,,,Gray,White,9);
+Deemo
+少女
+仮面の少女
+#areaedit(btn:変更)
+指定した範囲が&areaedit{編集可能};になります
+#areaedit(end)
+変更
+指定した範囲が編集可能[e]になります
+(#commentと併用すると便利です)
+#related
+#related: relatedプラグインは廃止されました。
+(｢設置したページへのリンク｣が貼ってあるページ、及び｢設置したページにある表組み｣内のリンク先となっているページを表示します)
+#ls2(A,compact,link,Aで始まるページ一覧)
+Hで始まるページ一覧
+#ls2(H,compact)
+Aで始まるページ一覧
+Hで始まるページ一覧
+H
+Hakoniwa Daybreak
+Hana no Kotoba
+Hanomai
+Heart of Witch (Deemo Arr.)
+Hello (Deemo Ver.)
+Hello From Planet
+Hesitant Blade
+Hey Boy
+Holy Knight
+Hua Sui Yue
+HYAKKA RYOURAN
+Hypnos
+#jumplist([[ﾜｯﾁｮｰﾈｰﾝwww>Hey Boy]],[[ｼﾞｬﾝﾋﾟﾝｼﾞｬｰﾝ…>Jumpy star]],[[ﾁｬｲﾀｱｧｧｧｧ>Undo]])
+ﾜｯﾁｮｰﾈｰﾝwww
+ｼﾞｬﾝﾋﾟﾝｼﾞｬｰﾝ…
+ﾁｬｲﾀｱｧｧｧｧ
+#random(ランダム)
+ランダム
+(設置したページの下階層の中からランダムにページが選ばれます、つまりこのランダムはSandBox/コメントにしか飛びません)
+#calendar2(*,off)
+(+ #calendar_viewer(SandBox,3) )
+<<
+2026.10
+>>
+日
+月
+火
+水
+木
+金
+土
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+(色々細かいことも出来るそうです)
+#fold([[ストーリー]]){{
+#include(ストーリー,title)
+}}
+ストーリー
+ストーリー
+とある城の中で孤独な日々を過ごす神秘的なキャラクター、Deemo。
+ある日、自分が誰なのか分からず、どこから来たのかも覚えていない……そんな少女が空から落ちてくる。
+少女を空の上の世界に帰そうとするDeemoは、ピアノの音色を聴くたびに成長する木を見つけるが……。
+孤独な城の中では感じ得なかった、人の感情、そして少女のぬくもりに触れたとき、Deemoはどうなるのか。
+失っていた記憶を取り戻した時、少女はその真実を受けとめられるのだろうか……。
+「――――さよならも言わずに、消えてしまわないで。(Never Left Without Saying Goodbye)」
+(大きさの都合で畳みました、notitleだとタイトル表示がなくなります)
+#insert
+書き込みはここに来ます
+あ
+#memo
+書き込みはここに残ります
+音源埋め込み
+#youtube(ビデオID,横幅,高さ)
+CENTER:&YouTube(ビデオID,横幅,高さ);
+センタリングとかは&じゃないといけない
+#soundcloud(トラックID[, 色[, スタイル[, 高さ]]])
+soundcloudはソースかEmbedみて「api.soundcloud.com/tracks/ここの番号」
+その他WIKIWIKI さんぷるWIKIも参考に
+色一覧
+カラーコード表
+zawazawa：カラーコードリファレンス(おそらく共通、こちらの方が見やすい)
+zawazawa訓練所
+zawazawa：管理総合(埋め込み実験)
+この掲示板(zawazawa)についての管理・運用告知、また議論を行うトピックです。
+現在名前欄に何も入力しなかった場合表示される名前とアイコンの案を募集しています。
+zawazawa：最新トピック一覧(埋め込み実験)
+zawazawa：編集ルール
+wikiwikiとは編集ルールが異なる。詳しくはこちら。(こっちには基本的なルールが載っている。)
+編集メモ
+BOOK省略候補
+① collection→col.、selection→sel.
+Deemo's col.Vol.1A
+Deemo's col.Vol.1B
+Deemo's col.Vol.2
+Shattered Memories
+Rayark sel.Vol.1
+Rayark sel.Vol.2
+MILI col.
+V.K col.
+Brave Frontier sel.
+Brian Crain col.
+Eshen Chen col.Vol.1
+Rayark sel.Vol.3
+Cytus sel.Vol.1
+Cytus sel.Vol.2
+Knight Iris col.
+Knight Rosabell col.
+Aioi col.
+M2U×Nicode col.
+N.M.S.T. col.
+MILI col.Vol.2
+AD:PIANO col.
+Rabpit col.
+Book of A.
+Book of C.
+② ①+Vol.省略
+Deemo's col.1A
+Deemo's col.1B
+Deemo's col.2
+Shattered Memories
+Rayark sel.1
+Rayark sel.2
+MILI col.
+V.K col.
+Brave Frontier sel.
+Brian Crain col.
+Eshen Chen col.1
+Rayark sel.3
+Cytus sel.1
+Cytus sel.2
+Knight Iris col.
+Knight Rosabell col.
+Aioi col.
+M2U×Nicode col.
+N.M.S.T. col.
+MILI col.2
+AD:PIANO col.
+Rabpit col.
+Book of A.
+Book of C.
+③ ②+調整
+Deemo's col.1A
+Deemo's col.1B
+Deemo's col.2
+S.Memories
+Rayark sel.1
+Rayark sel.2
+MILI col.
+V.K col.
+Bra.Fro.sel.
+BrianCrain col.
+EshenChen col.1
+Rayark sel.3
+Cytus sel.1
+Cytus sel.2
+K.Iris col.
+K.Rosabell col.
+Aioi col.
+M2UxNicode col.
+N.M.S.T. col.
+MILI col.2
+AD:PIANO col.
+Rabpit col.
+Book of A.
+Book of C.
+曲数表組
+BOOK
+ver.
+曲
+体
+iOS
+Android
+au
+Amazon
+Vita
+Deemo's collection Vol.1A
+1.0～1.4
+13
+12
+◎
+◎
+◎
+◎
+◎
+Deemo's collection Vol.1B
+1.0～1.5
+14
+2
+◎
+◎
+◎
+◎
+◎
+Deemo's collection Vol.2
+2.0～2.1
+11
+×
+◎
+◎
+10
+10
+10
+Shattered Memories
+2.2～2.3
+9
+×
+◎
+◎
+×
+×
+×
+Rayark selection Vol.1
+1.0～1.4
+6
+×
+○
+○
+◎
+○
+○
+Rayark selection Vol.2
+1.0
+5
+×
+○
+○
+◎
+○
+○
+MILI collection
+1.4
+5
+×
+○
+○
+◎
+○
+○
+V.K collection
+1.4
+5
+×
+○
+○
+◎
+○
+○
+Brave Frontier selection
+1.5
+3
+◎
+◎
+◎
+◎
+◎
+×
+Brian Crain collection
+1.5
+5
+×
+○
+○
+×
+○
+○
+Eshen Chen collection
+Vol.1 Transmission
+1.5
+5
+×
+○
+○
+◎
+○
+○
+Rayark selection Vol.3
+1.5
+5
+×
+○
+○
+◎
+○
+○
+Cytus selection Vol.1
+1.5
+5
+×
+○
+○
+4
+4
+○
+Cytus selection Vol.2
+1.5
+5
+×
+○
+○
+◎
+○
+○
+Knight Iris collection
+1.5
+5
+×
+○
+○
+◎
+○
+○
+BOOK
+ver.
+曲
+体
+iOS
+Android
+au
+Amazon
+Vita
+Knight Rosabell collection
+2.0
+5
+×
+○
+○
+◎
+○
+○
+Aioi collection
+2.0
+5
+×
+○
+○
+◎
+○
+○
+M2U × Nicode collection
+2.0
+5
+×
+○
+○
+◎
+○
+○
+N.M.S.T. collection
+2.0
+5
+×
+○
+○
+◎
+○
+○
+MILI collection Vol.2
+2.1
+5
+×
+○
+○
+×
+×
+×
+AD:PIANO collection
+2.2
+5
+×
+○
+○
+×
+×
+×
+Rabpit collection
+2.2
+5
+×
+○
+○
+×
+×
+×
+L: The Lower collection
+2.3
+5
+×
+○
+○
+×
+×
+×
+L: The Upper collection
+2.3
+5
+×
+○
+○
+×
+×
+×
+RAC collection #1
+2.3
+5
+×
+○
+○
+×
+×
+×
+RAC collection #2
+2.3
+5
+×
+○
+○
+×
+×
+×
+Sakuzyo collection
+2.3
+5
+×
+○
+○
+×
+×
+×
+Book of A.
+Vita
+5
+×
+×
+×
+×
+×
+◎
+Book of C.
+Vita
+3
+×
+×
+×
+×
+×
+◎
+Duet collection Vol.1
+Vita
+1
+×
+×
+×
+×
+×
+◎(10)
+BOOK
+ver.
+曲
+体
+iOS
+Android
+au
+Amazon
+Vita
+8+22=30 BOOKs
+BOOK数
+3
+5+22=27
+17
+4+14=18
+6+14=20
+59+111=170 曲
+曲数
+17
+50+111=161
+105
+40+70=110
+46+71=117
+194+333=527 譜面
+譜面数
+51
+150+333=483
+315
+120+210=330
+155+213=368
+メモ修正
+Q＆A
+｢押しても反応しない…｣と｢カクつきます…｣の統合
+各楽曲ページ
+楽曲紹介欄の追加修正
+BOOK別リスト&VITA版楽追加楽曲
+アーティスト別への接続
+デュエットの不足情報収集、追加
+BPM, TIME入れ替え
+レベル別リスト
+表組みの完成
+掲載順番の見直し
+BPM, TIME入れ替え
+アーティスト別リスト
+BPM, TIME入れ替え
+高レベル非公式難易度
+新形式の作成(各難易度比較)
+TIME、ver追加アーティスト削除のアンケート
+(VITA版)製品情報&スマホ版との相違点
+トロフィー関連情報、曲入手順、ストーリー進行等の追加
+(VITA版)アフターストーリー
+内容のズレ修正
+(ネタバレ)考察・予想
+活用法の模索、仕様変更、もしくは処理
+zawazawa
+議論所及び情報収集手段の確立
+その他の楽曲
+情報収集、追加
+DEEMO2  [発売前情報]
+ジャンルは「アドベンチャーリズムゲーム」
+RayarkCon (2019年12月21日)に開発発表。あわせてティザームービー、公式サイトが開設された。
+2020年5月2日にコンセプトムービー公開
+「音楽、それは青空への願い――」
+頭の上に花が咲く女の子と不思議な白い人型の生物──「Deemo」
+駅の中から響く音色と共に、次第に雨が止み、空に再び晴れ間が広がって行く。
+二人は大雨が降り続く不思議な国で、世界を救う希望を探す旅に出る。
+Google Play 事前登録開始
+2020年9月16日　コンセプトソングタイトルと作曲者発表。「Away from the rain」/Chamber Chu
+2020年10月より毎月　駅の中の男の子シリーズとして文章が公開された。
+公式サイトと、Twitterに同様のものが記載
+「雨……また何か消えてしまうのかな？」
+2020年10月19日のツイート
+降りやまない大雨。
+この雨に濡れた物はみんな白い花が咲いて消えて行く。だから僕たちは駅の中に隠れているしかない。
+ここではピアノの音色が守ってくれるから心配しなくていいんだって。
+君のところは大丈夫？
+僕と妹は持ってた最後のコインを願いの池に投げ入れて、この世界が元通りになるように祈ってるんだ……
+2020年11月15日のツイート
+駅の中の男の子 chap.2
+夜、外の雨音が小さくなった。雲の隙間から空がのぞいていたんだ。
+お父さんはこれが雨のオアシスだと言った。あっという間に消えてしまうらしい。
+2020年12月15日のツイート
+駅にいる男の子 chap.3
+この日、ホームから言い争う声が聞こえてきた。列車がいつ発車できるのか大勢の人が質問していたんだ。
+みんな駅長のおじいさんを取り囲んで、どれだけ故郷に帰りたいか、家族に会えなくなることがどれだけ不安か、口々に言っていた……
+キツい口調で詰め寄られても、駅長のおじいさんは我慢強くみんなをなだめていた。ホームから人がいなくなって、ようやく一安心してたみたい。
+駅長のおじいさんだって故郷に帰って家族に会いたいはずだよね？でもこの雨がそんな当たり前の望みさえも、叶えられなくしてしまったんだ……
+2021年1月15日のツイート
+駅の中の男の子 chap.4
+「演奏をすれば、雨は次第に弱まっていく」
+雨が強く振ってるとき、駅長のおじいさんがピアノを弾きはじめるんだ。
+シンプルなメロディーなんだけど、聞いてると不思議と気持ちが穏やかになるんだよね。
+雨が弱まるからってだけじゃないよ。ゆったりとしたピアノの音色がみんなの焦りや不安をなだめてくれるんだ。
+2021年2月15日のツイート
+駅の中の男の子 chap.5
+消えた人がどこに行ってしまったのかは誰にも分からない。
+だけど彼らが何を残したのかは皆知っている。
+時々駅の水たまりに浮かんでるあの花びら、
+それこそが僕たちの、彼らを偲ぶことができる唯一のものなんだ……
+2021年3月15日のツイート
+駅の中の男の子 chap.6
+駅の外は土砂降りの雨。雨音がテントの中まで聞こえてきて、僕も妹も寝付けずにいた ……
+妹がまたママのことを聞いてきたけど……本当は二人ともママがどうなったか分かってる。
+だけど毎回この話をするたびに、心配いらない、大丈夫だって言い合うんだ。
+でももうこれ以上自分を騙し続けることはできないかもしれない。
+妹が何か言ったような気がしたけど、その声は雨音にかき消されて聞こえなかった。
+2021年4月15日のツイート
+駅の中の男の子 chap.7
+今日、テラスで魔法使いの楽譜を見つけたんだ！
+妹も駅長のおじいさんに見せたいって大はしゃぎ。僕もどんな曲なのか知りたいから急いで妹の後を追わないと。
+ウキウキするような曲だといいな！そしたらここに閉じ込められてるツラさをしばらく忘れて、笑顔を取り戻すことができるからさ。
+2021年5月15日のツイート
+駅の中の男の子 chap.8
+今日妹とテラスで楽譜を探してた時、何気なく遠くを見たら、白い髪の女の子が雨の中立ってるのが見えたんだ。
+2021年6月15日のツイート
+駅の中の男の子 chap.9
+僕らの駅に一人おかしな奴がいるんだ。からだが水みたいで帽子をかぶってて、話しかけてもいっつも無視するんだよ。
+2021年7月15日のツイート
+駅の中の男の子 chap.10
+魔法使いさんは偉大な人で、よく中央駅でも姿を見かけるって聞いたから、妹と一緒にずーっと待ってるんだけどいつになっても会えないんだ。
+駅の中の男の子 chap.11
+クラウスおじさんがまた雨漏りを修理してくれてる。
+2021年7月15日　New teaser公開。2021年末リリース予定であることが発表された。
+使用曲作曲はbqスタヂオ
+数曲タイトルが確認できる。「Reverie」satella、「Dream together」 Hydra Tsai (INSPION)、「Faiy's Crown」「KUMO」
+2021年7月21日　女の子の名前が「エコー」であることが判明。
+「アイザック」「クラウス」など駅で生活するその他のキャラクタービジュアルと名前判明
+【《 DEEMO II 》リリース前アンケート調査】日本時間　2021年7月29日～9月12日 24:59:59まで (終了しました)
+答えた人の中から抽選でクローズドテスト(1000人)に参加できる
+2021年9月11日　Rayark10周年にあわせて情報がいくつか公開。
+iOS事前登録開始
+コンセプトソング 『Endless dreams』公開
+作曲:安眠巫師(Sleepy WiFi)/演奏:守夜人(Night Keepers)
+心理テスト「音魂の旅」の公開
+エクスプロラー、ガーディアン(Deemo白)、ファシリテイター、プロデューサー、パフォーマー、クリエイター、ティチャー、リーダー等にそれぞれDeemoⅡのキャラクターが割り振られている。
+4つの質問回答の終了後、心理テストの結果シェア、先行予約することで、クローズドベータ参加やiPad Airなどと景品か当たる抽選に参加できる。　抽選は終了しました。(10月22日当選者発表済)
+2021年10月25日より「《DEEMO II》駅にいる人々……」としてキャラクター紹介開始
+エコー、Deemo。駅長、魔法使い、異郷人、クラウス、ラン、ファトマ&アーメット
+2021年11月15日-30日、DeemoⅡクローズドベータ版 当選者によるテストプレイ実施
+プレイヤーの総称は「帰還者」であるらしい
+2021年12月3日、事前登録イベント開始　抽選でiPhone13などが当たる
+心理テスト「魂の秘密の旅」(スマートフォン向け)の公開
+5つの質問(各3択)に答えた後、収録曲魂の曲として収録曲が1曲聴ける
+「Echo over you...」、「Kokoro Odoro」、「Daylight of life」、「Fairy's Crown」、「空の巣」ユアミトス、「Be Alive」、「Reverie」……など。
+2021年12月5日 　収録楽曲紹介「Echo over you...」Apo11o program
+2021年12月12日　収録楽曲紹介「Reverie」satella (Deemo提供なし,CytusⅡに有料楽曲「Nautilus」「Silver Lotus」提供あり)
+2021年12月19日　収録楽曲紹介「felzione」onoken
+Lv.10であることが予告されており、(全部でいくつレベルあるか不明ではあるが)初代ボス曲候補。
+2021年12月21日より　ゲーム内通貨の説明開始
+時の貝がら、音石、ピアノバトルチケット、遊び放題チケット、光の粒
+ゲーム内で定期的に「イベント」が行われることが予想される
+2021年12月24日　リリースが「2022年1月13日」&「ダウンロード無料」と正式アナウンスされた。
+2021年12月26日  収録楽曲紹介「Fairy's Crown」Powerless
+2021年12月31日 Rayark 10th Anniversary Concert Music Collection アルバム曲視聴
+DeemoⅡからは「Daylight of life」Sakiko Sakuragi、「Be Alive」naotyu-feat.美咲、「Kokoro Odoro」、「Echo over you...」、「空の巣」、「Away from the rain」
+2022年1月2日  収録楽曲紹介「Kokoro Odoro」(Youtube) / Tomggg (feat. m/lue. )
+Tomggg 公式　/  Twitter
+m/lue.(ミリュー) Twitter
+2022年1月9日  収録楽曲紹介「DRG (piano ver)」ani ,arranged by SLS
+Cytus、CytusⅡ、Deemo収録曲のアレンジ音源
+2022年1月13日  「DeemoⅡ」リリース(iОS/Android)(DL本体無料)
+2022年2月12日　「空への願い Rayark 10th Anniversary Concert」(配信ライブ)
+以降はDeemoⅡのwikiへ
+DEEMO -Reborn- [発売前情報]
+発売前情報です。変更された項目や推測が混ざっていることに留意して下さい。
+PlayStation4 TVモード、VRモード対応、2019年春発売予定、2019年11月21日発売。
+今後はPS4版についてこちらにまとめていきたいと思います。
+supercell のryoがプロデュースする架空のアーティスト「EGOIST」が主題歌とゲーム内楽曲を提供する
+公式
+DEEMO -Reborn- (仮) teaser
+TGS 2018 trailer
+DEEMO ‐Reborn‐ New Trailer Full
+TVCM
+Rayark Wonderland@Tokyo 試遊対象 (2019年6月8日)
+本編の楽曲数が60曲以上で，そのうちの半分近くが新楽曲
+追加DLC 5曲×12パック=60曲
+謎解き＆アドベンチャーパート
+基本的にはストーリー同じだが、新規演出やエピソードが追加される。
+4Gamer、Ming-Yang氏へのインタビュー記事より(9月19日)
+新キャラ「精霊」
+アプリと異なり、曲タイトルの英語表記かローマ字表記→曲名の漢字、ひらがな表記に対応？
+新規収録曲
+「あいたい」onoken feat.Rin(Trailer及びCM楽曲)
+「All Alone With You」EGOIST
+「Planetes」EGOIST
+「キミソラキセキ」EGOIST
+「Ghost of a smile」EGOIST
+「Departures　～あなたにおくるアイの歌～」EGOIST
+(《DEEMO -Reborn-》x《EGOIST》trailer)
+「Re:you ～彼の地を知りえたとして～」Apo11o program&ゆゆうた ft. OFFICE萬田㈱
+「Creation of Fighters」Apo11o program
+「Faith, Hope & Love」
+「Chance」Silaver
+「My Dear,Deemo」
+「Pharmacy of heart」
+「Intersteller Exploration」
+「Me」Laur(TVモードプレビュー)
+「Delphinium」SIHanatsuka(TVモードプレビュー)
+「The Last Bloom」(朝香智子氏演奏音源)
+新規BOOK
+Reborn Collection Vol.1
+Golden Sheets Collection
+Stone Collection
+既存曲
+Deemo's collection Vol.1
+「Nine point eight」
+「彩華」(TVモードプレビュー)
+「Walking by the sea」
+「Utopiosphere」(TVモードプレビュー)
+「指きりげんまん」
+「La Promesse」(VRモードプレビュー)
+「Entrance」
+「Sairai」(TVモードプレビュー)
+「Magnolia」(TVモードプレビュー)
+「Myosotis」
+「Fluffie Partie」
+Rayark selection Vol.1
+Vocal collection
+「Aurarobe」
+「Ukakuf Kins」
+「vandarhythm」
+DEEMO -Reborn-[発売後情報]
+TVモード3譜面/VRモード2譜面
+66曲(既存曲38:新曲28)
+楽曲リストは移動しました→PS4版楽曲リスト
+Sdorica(スドリカ)
+Deemoコラボストーリーについては、何度かイベント復刻を経て恒常化
+少女(アリス)のキャラスト「過去の間章」
+収録曲からDream、Shadow in the mirror、Run Go Run、I Hate to Tell You、Alice Good Nightが章タイトル採用
+少女アリス、Deemo、仮面の女の子がプレイアブルキャラクターとして実装
+特に表記は無いがSP(期間限定)枠、起源の魂の賦与(ガチャ)の対象
+他社コラボ
+主にDeemoから他機種に収録になった曲などのメモ。
+CHUNITHM(チュウニズム)(アーケード/セガ)
+2015/07
+「Altale」共通収録
+loading...
+(収録時のツイート(CHUNITHM公式))
+2026/04
+「Marigold」CHUNITHM側のLinked MUSIC 伝導楽曲として追加
+太鼓の達人(バンダイナムコ)
+太鼓の達人セッションでドドンがドン！(PS4/バンダイナムコ)
+Saika(無料DLC)
+HYAKKA RYOURAN(百花繚乱)をDeemoに収録。
+太鼓の達人プラス(アーケード/バンダイナムコ)
+４週連続楽曲収録
+Leviathan　2020年9月19日
+Wish upon a shooting star　2020年9月26日
+MagiCatz　2020年10月3日
+ANiMA　2020年10月10日
+『太鼓の達人プラス★新曲取り放題！』(iOS/Androidアプリ/バンダイナムコ) ※配信終了
+2020年冬コラボイベント
+太鼓の達人 Nintendo Switchば～じょん！
+『DEEMOパック』上記、PS4とアーケードで収録された5曲を収録予定。
+(太鼓の達人公式ブログ)2020年09月16日
+Deemo側ver4.0：Taiko no Tatsujin Collection
+RebornではPS4を除き有料配信
+DJMAX
+DJMAX RESPECT(PS4)
+DJMAX RESPECT V (Steam・PC/XBOX)
+「DJMAX」は韓国のリズムゲーム
+DEEMOパックとして以下の曲をDJMAXにて有料配信。
+Angelic Sphere
+ANiMA
+Dream
+Legacy
+Magnolia
+Nine point eight
+Sairai
+Undo
+Utopiosphere
+YUBIKIRI-GENMAN
+MyosotisのみCytus扱い
+Deemoへの収録はVer.3.6DJMAX collection
+Cytusα(Nintendo Switch)に10曲、CytusⅡに10曲収録されている。
+DJ Maxシリーズwikiリンク
+Arcaea
+2023/07
+正式なコラボではなく『CytusⅡ』のコラボで隠し曲のような扱いで追加
+Magnolia
+maimai でらっくす (アーケード/セガ)
+2026/04/17～
+Ⅱと合同らしい
+Deemoちほー追加
+ネームプレート：DEEMOちほー その1(Wings of piano)
+収録は3曲
+Nine point eight
+Myosotis
+ANiMA
+maimai公式
+プロジェクトセカイカラフルステージ！feat. 初音ミク(プロセカ)
+Cytus NEWS LIVE(05/22)でCytusⅡとのコラボが発表される
+プロセカ → CytusⅡに6曲
+ほぼ同時期に、韓国版公式で告知シリーズ合同コラボ(プロセカ側表記・タイアップ)であると明かされた。
+プロジェクトセカイ プロセカ放送局 #32 (2026/05/27)
+日本版でも正式に告知された。プロセカ収録曲は(Cytusシリーズ3曲 + DEEMOシリーズ3曲)
+1曲ずつ順番に追加される
+Sairai、Saika、ANiMA
+その他のカスタマイズ要素なども告知
+DEEMO IIからの予告：プロセカ側各グループロゴ (2026/06/05)
+ポスト
+2026/06/24 追加予定
+アプデ日
+ver.
+年月日
+5.0.11
+2026/02/13
+5.0.8
+2025/09/23
+5.0.6
+2023/09/06
+5.0.4
+2022/05/11
+5.0.2
+2021/12/12
+5.0.1
+2021/11/30
+4.3
+2021/10/15
+4.2
+2021/08/31
+4.1.1
+2021/07/05
+4.1.0
+2021/06/30
+4.0.5
+2021/04/14
+4.0.2
+2021/03/11
+4.0
+2021/02/04
+3.9.0
+2020/11/09
+3.8
+2020/08/04
+3.7.3
+2020/07
+3.7.2
+2020/05
+3.7.1
+2020/04/24
+3.5
+2019/10/23
+3.4
+2019/06/18
+3.3
+2018/11/16
+3.2
+2018/02/09
+3.0
+2017/03/30
+2.4.5
+2016/09/13
+2.4.4
+2016/09/09
+2.3
+2016/05/06
+2.0
+2015/05/27
+1.5.2
+2014/10/31
+1.4.0
+2014/03/16
+1.3
+2014/02/06
+1.2.0
+2014/01/27
+1.0.1
+2013/11/12
+1.0
+2013/11/06
+達成項目・実績・トロフィー
+iOS/Android  全12 和訳なし
+Nice Beginning
+First time clearing a song on EASY level.
+Become Good at This
+First time clearing a song on NORMAL level.
+Great Player
+First time clearing a song on HARD level.
+I Found Treasure
+Get a new song by exploring items in rooms.
+I Miss my Home
+Play the movie "I Miss my Home".
+Blossom
+Play the movie "Blossom".
+Growing
+Play the movie "Growing".
+Budding
+Play the movie "Budding".
+Falling Girl
+Play the movie "Falling Girl".
+Lonely Deemo
+Played Movie "Lonely Deemo".
+Full Combo!
+Played a song without any miss.
+100%
+Played a song with Charming Hit at every note.
+リサイタル(Vita) 全19
+墜落
+記憶「Falling Girl」を取り戻す
+芽生え
+記憶「Budding」を取り戻す
+枯れ葉
+記憶「Leaves」を取り戻す
+絵の秘密
+記憶「Where it Goes?」を取り戻す
+大樹
+記憶「The New Tree」を取り戻す
+鍵
+記憶「The Key」を取り戻す
+口ケンカ
+記憶「You Cannot Go」を取り戻す
+お別れ
+記憶「Goodbye」を取り戻す
+真相
+記憶「Where You Are Not」を取り戻す
+後日
+記憶「Another Day」を取り戻す
+現実？
+記憶「Reality」を取り戻す
+仮面
+記憶「The Masked Girl」を取り戻す
+新生
+記憶「Rebirth」を取り戻す
+連撃
+初回のフルコンボ達成
+完璧演奏
+初回の完璧演奏達成
+人気者
+デュエットモードで全曲プレイ済み
+デュエルの達人
+デュエルモードで10勝取得
+ピアニスト
+難易度Hardで10曲クリア
+プレイスタイルなど
+低速or高速プレイ
+SPEEDを極端な数値にする。
+親指
+タッチペン
+片手
+3点4点でも出来る人は出来る。
+手持ちor置き
+サドプラ/SUD+/SUDDEN+
+発祥は弐寺こと「beatmania IIDX」。紙やアプリ(Androidのみ)で画面上部を隠すことで視認性を上げる。
+SPEEDは低めにする
+BGM0/KEY音のみ
+ボーカルをオフする。CytusやVOEZではできないプレイ。
+どうしても歌が合わない時や、気分転換にどうぞ。
+端末の向きを変えてプレイ
+LV6非公式難易度表（試作)
+2次試作
+LV6.2
+Go or Stay
+裏拍主旋律、分断型スライド
+White Fantasy
+強大なソフラン
+LV6.3
+I hate to tell you
+前半の長階段、中盤の同時→３連
+Electron
+3連トリル、4連トリル
+Will
+ロングスライド、片手3連、終盤のスライド＆タップ混フレ
+LV6.4
+Shadow in the mirror
+長時間演奏、Ｔ字スライド、スライド＆タップ混フレ
+Wings of piano
+3連階段、縦連
+Sakura iro no yume
+長時間演奏、後半局所難
+Futarimiti
+2連タップ、縦連まがいの旋律
+White Rain
+長時間演奏、入れ替え型スライド
+nightfall
+ロングスライド＆スライド持ち替え
+The 105th Days
+同時押し物量
+LV6.5  ( =LV7.2-3))
+Evolution Era
+3連トリル、4連片手。単純な物量でWings of Piano以上の難易度
+Pulses
+後半の7連タップと関連するもの
+Untitled2
+3連トリル、16分トリル、ソフラン主旋律、縦連
+Kimi ga Nokoshita Sekai de
+長時間演奏、リズム崩れ、3連トリル
+Infinite Puzzle
+複雑リズム。Evolution Eraより若干簡単
+Lost in the nowhere
+スライド乱舞、ショートトリル。Legacy以下
+Rayark 7th Main Theme
+独特のハネリズム物量
+LV6.6 ( =LV7.3-4))
+Platinum(N)
+混フレ、同時押し込みの階段、誘拐スライド
+Legacy
+3縦連、16分トリル。局所難
+Sunset
+ハイスピード＋階段
+The Beautiful Moonlight
+ワンパターン物量
+Rainbow's End
+ソフラン付き乱打
+Lonely Pianist
+スライド込み混フレ、同時押し込み階段
+Voice of Cell
+同時押し込みの単旋律、誘拐スライド、4縦連の総合全体難
+LV6.7 ( =LV7.4))
+Jumpy star
+誘拐型スライド、縦連。乱打。
+Saika
+同時押し込み軸連打⇒ロングトリル⇒ロングスライド、左右逆転混フレ
+Platinum(H)
+混フレ、同時押し込み不規則階段、左右乱打
+Starting Wind
+2連縦連メインの超物量譜面
+Moonlight
+ぐらつき＋縦連。Rainbow's End以上
+Kimi no namae no kazegafuku
+5縦連＋同時押しの局所難
+LV6.8 ( =LV7.4-5))
+Piano Sonata No.3
+横暴な乱打＋認識難な縦連
+HYAKKA RYOURAN(E)
+縦連、2連3連タップ (LV7.5級とタメを張れる)
+LV6.9 ( =LV7.5))
+HYAKKA RYOURAN(N)
+スライド込み縦連混フレ、トリプルタップ連続。コンボカッターの鋭さが頭一つ抜けている
+コンボカッター
+縦連
+同時押しと通常押しの切り替わり
+誘拐型スライド
+トリル（8分でも大分厄介)
+要素の多様さ
+アンケート設置について
+アンケート開始前
+どういった目的でアンケートを実施するのかを明らかにし、アンケート文内でその意図を説明すべし。
+どのような期間で実施するのかを明らかにし、回答者に明確に示すべし。
+設置目的に沿った設問を用意し、期間を問わず、回答者から要請があったときは、設問の設置意図を説明すべし。
+設置者は設問に対し望ましい回答手法があれば、アンケート文の説明で厳格に述べるべし。
+設置者が説明文に記述した内容に沿った回答は、たとえ設置者が荒唐無稽と感じても正しい回答であり、回答者に撤回を求めたり無効にすることはできない。さもなくば、設置者が説明外にある私的な領域で回答を操作していることと同義である。これによりアンケート運用に支障が出るようならば、責は設置者の説明不足である。
+設置者は開始前に、アンケート終了時にどのような手法でアンケートの結果を公表するかを想定すべし。
+アンケート回答期間中
+どのような理由であっても、設置者の、回答者の回答心理に影響を与える言動・行動はあってはならない。たとえ当該言動・行動がアンケートの設置目的を達成するために有益と認められる場合でもである。この理由は回答者の前提を揃えるためであり、期間中に回答者の前提が崩れるとアンケートの信頼性を疑うことになる。
+例：回答期間中に設置者が回答傾向を述べること。以降の回答者は、その回答傾向を元手に回答する可能性がある。
+例：回答期間中に設置者が説明文に記述されていない事項を理由に回答を公の場に出し、修正を求めること。
+例：回答期間中に回答者から回答傾向の質問があったときに、これに答えること。
+例：回答期間中に設置者が設問や説明文を、回答者の前提が揃わなくなるほどに修正すること。
+但し、アンケートの広報を目的とする場合のみ、有効回答数は公表しても良いものとする。
+設置者は明らかにアンケートの継続を困難とする回答や説明文の内容から逸脱した回答を無効にできる。また、未回答者への注意喚起を目的で、違反内容の個所のみを公表することができる。
+設置者は回答期間を変更するときはその理由を明らかにしたうえで、変更日より数日猶予を持たせたうえで締め切りを変更すべし。さもなくば、設置者の私的な理由による回答の封殺と同義である。
+アンケート終了後
+アンケート終了後は、設置者は速やかに回答内容から設置目的に沿った結果を公表すべし。
+回答結果を公表するときは、個人情報保護に努めるべし。（回答時期を隠す、順序をシャッフルする等）
+如何なる場合であっても、アンケートにおける立場を問わず、アンケートの説明文に沿った回答は正しい回答であるから、これを無効にすることはできない。
+難易度の大小に着目した自動集計スコア
+グリコレーティング2による実験
+Deviationによる値を個人差の大きさととらえられないだろうか。
+連結用の捏造データについて
+同楽曲内の別難易度(Hard,Extra)について、Hardが難しい場合はあり得ない(正規のデータが存在するANiMAを除く)
+PUPA < Ragnalok (25%, 30%, 45%)
+Leviathan < Midnight Alley (25%,30%,45%)
+FWPW低すぎない？Mistil高すぎない？
+多分、FWPWがより難易度の低い結果に引きずられている
+Chart
+Rating
+Deviation
+Re-UNION
+3846.514034
+76.14932422
+Scherzo
+3763.304102
+72.33712289
+Aragami
+3599.122829
+62.21443207
+Parodia
+3506.923296
+56.55678473
+Marigold
+3207.970617
+44.56913365
+Mistilteinn
+3202.964736
+49.14722788
+ANiMA(E)
+3187.416267
+45.6925765
+ichizero
+3137.869802
+43.52496223
+Longinus
+3048.528262
+41.44418192
+Aya
+2976.413261
+40.35263788
+FWPW
+2895.5829
+38.39373332
+ANiMA(H)
+2862.098592
+34.58661579
+Nyanya
+2836.450514
+39.39027135
+Aragami(H)
+2695.79406
+35.40803751
+Bat Elixir
+2689.834404
+34.73475532
+Nightmare
+2653.280184
+35.03208076
+Lost
+2640.345365
+31.81830913
+Deerstaker
+2615.608618
+32.60873509
+CHAOS MAGNUV
+2593.420497
+32.42390086
+Altale
+2584.668308
+36.56761306
+Magicatz
+2527.053182
+33.16661575
+Rhuzerv
+2513.80768
+31.15540499
+Pandora
+2483.056912
+31.52231875
+Revival
+2396.583628
+31.9960984
+RLR
+2370.421098
+29.03183437
+Heart of Witch
+2321.619775
+30.67803059
+Amber
+2312.129198
+31.27093666
+Toys Etude
+2306.254674
+33.10621907
+ReUNION(H)
+2297.518908
+31.52517266
+LILI
+2281.839664
+33.62666982
+Conflict
+2264.309001
+35.61840033
+Myosotis
+2236.07485
+32.46155459
+Oceanus
+2200.572706
+30.62506608
+I lost my flp
+2191.273959
+29.48859092
+L7
+2187.230652
+29.42793468
+En ga chop
+2176.830861
+37.79717839
+Dyslexia
+2132.107934
+29.72482061
+Scherzo(H)
+2125.618427
+28.49927788
+Alexitymia
+2095.106614
+29.61844167
+Dusk to Dawn
+2073.838949
+29.26407107
+FEHLT
+2022.28079
+30.08417489
+Delusion
+1990.569352
+30.96853567
+kaguya
+1983.08633
+28.22162778
+Vallentining
+1937.98285
+31.90568055
+LaCampanella
+1925.734923
+29.54218331
+Pandora(H)
+1899.682833
+31.76875184
+Poem of Rapture
+1842.234601
+38.43147685
+Are you Ready
+1780.473994
+30.91754844
+kouyou
+1707.777536
+34.69411854
+Ragnalok
+1705.372834
+33.60852944
+Piano Sonata No.3
+1657.368417
+33.93064972
+L1 : Loneliness
+1635.52667
+32.05075231
+L5 : Lapse
+1630.8868
+42.45118278
+Leviathan
+1625.43105
+32.49365346
+Yaoyue
+1557.260088
+33.9224568
+Midnight Alley
+1557.170368
+42.90780364
+PUPA
+1518.871372
+38.28759073
+Angel False
+1505.809593
+36.32899979
+Libera me
+1483.779825
+39.60153148
+Altale(H)
+1479.51289
+32.07447129
+Hesitant Blade
+1468.172998
+34.87043804
+Parousia
+1449.906416
+47.6590127
+H
+1407.591721
+35.80349016
+Infinite Puzzle
+1379.866598
+38.64425842
+Never Ending Tales
+1366.761484
+41.55314953
+Pure White
+1351.842523
+36.39118017
+Ga1ahad
+1259.977644
+40.42722279
+コメント
+てす --  2016-01-22 (金) 23:09:02
+アンケート的なものを作ったんだけど、たたむと変な感じになるんだよな…。これどうにかならないかな？ --  2016-02-06 (土) 22:19:24
+Menu
+Top
+ストーリー
+ルール
+Q＆A
+■曲名リスト
+Book別
+レベル別
+アーティスト別
+■ゲーム関連
+高レベル非公式難易度
+「木」の成長
+遅延調整報告(Android版)
+遅延調整報告(iOS版)
+「忘れ去られた砂時計」における新楽曲と木の成長
+■VITA版
+製品情報
+スマホ版との相違点
+VITA版追加曲一覧
+アフターストーリー
+■Switch版
+Nintendo Switch版について
+■その他
+テンプレ
+(ネタバレ)考察・予想
+スコアシェア台詞
+ロング曲一覧
+人気投票
+雑談・質問
+SandBox
+編集報告・編集議論
+〔人気/今日人気〕〔最新〕
+掲示板 最新10件
+〔掲示板メインページ〕
+T.?　Y.?
+NOW.?　TOTAL.?
+〔MENU編集〕
+*1
+注釈1: WikiName
+*2
+注釈2: ブラケットネーム
+*3
+注釈の注釈を
+*4
+注釈3: 注釈の中にも*3作ることができます
+管理人 contact:@deemowikiJP　編集規制情報もこっちに載っけてます
+レンタルWIKI by WIKIWIKI.jp* /
+Designed by Olivia /
+広告について /
+無料レンタル掲示板 zawazawa
