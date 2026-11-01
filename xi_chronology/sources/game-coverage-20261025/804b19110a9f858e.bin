@@ -1,0 +1,2084 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TNX4TQG');</script>
+<!-- End Google Tag Manager -->
+<meta charset="utf-8">
+<title>MUSIC｜GROOVE COASTER（グルーヴコースター）</title>
+<meta name="Description" content="全世界で絶賛の嵐！疾走する次世代グルーヴゲーム「GROOVE COASTER（グルーヴコースター）」登場 ！" />
+<meta name="Keywords" content="GROOVE COASTER,space invaders infinity gene,taito,ゲーム,タイトー,タッチプレイタイトー,グルーヴコースター" />
+<meta property="og:title" content="MUSIC｜GROOVE COASTER（グルーヴコースター）" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="全世界で絶賛の嵐！疾走する次世代グルーヴゲーム「GROOVE COASTER（グルーヴコースター）」登場 ！" />
+<meta property="og:url" content="http://groovecoaster.com/apps/music.html" />
+<meta property="og:image" content="http://groovecoaster.com/apps/images/home.png" />
+<meta property="og:site_name" content="GROOVE COASTER（グルーヴコースター）" />
+<meta property="og:locale" content="ja_JP" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0">
+<link rel="stylesheet" type="text/css" href="css/boilerplate.css">
+<link rel="stylesheet" href="css/flexslider.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/content.css">
+<link rel="stylesheet" type="text/css" href="css/jquery.sidr.light.css">
+<link rel="apple-touch-icon-precomposed" href="apps/images/spico.png" />
+<link rel="shortcut icon" href="favicon.ico" type="image/ico" />
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNX4TQG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	
+<!--Facebook-->
+<div id="fb-root"></div>
+<!--Facebook-->
+<div id="primaryContainer" class="primaryContainer clearfix">
+	<!--モバイル用メニュー開閉ボタン-->
+	<div class="mobileMenuButton"><a class="right-menu" href="#sidr-right"></a></div>
+	<!--モバイル用メニュー開閉ボタン-->
+	<!--モバイル用メニューここから-->
+	<div id="sidr-right" style="display:none;">
+		<ul class="clearfix">
+			<li><a href="#sidr" class="right-menu"><span>MENU</span>メニュー</a></li>
+			<li><a href="index.html"><span>TOP</span>トップ</a></li>
+			<li><a href="news.html"><span>NEWS</span>ニュース</a></li>
+			<li><a href="about.html"><span>ABOUT</span>グルーヴコースターとは</a></li>
+			<li><a href="movie.html"><span>MOVIE</span>動画</a></li>
+			<li><a href="music.html"><span>MUSIC</span>楽曲情報</a></li>
+			<li><a href="extra.html"><span>EXTRA</span>エクストラ</a></li>
+			<li class="subType01"><a href="../index.html">ポータルトップ</a></li>
+			<li class="subType01"><a href="http://www.taito.co.jp/privacy/index.html" target="_blank">プライバシーポリシー</a></li>
+			<li class="subType01"><a href="guide.html">利用規約</a></li>
+			<li class="subType01"><a href="http://support.taito.co.jp/main.php?id=12781" target="_blank">お問い合わせ</a></li>
+			<li class="subType02 webfonts"><a href="en/index.html">English Site</a></li>
+
+		</ul>
+	</div>
+	<!--モバイル用メニューここまで-->
+
+	<!--Header Elements-->
+	<div id="header" class="clearfix">
+		<h1><a href="index.html"><img src="images/gc2_gc_logo.png" alt="グルーヴコースター"/></a></h1>
+	</div>
+	<!--Header Elements-->
+	<article id="content" class="clearfix">
+		<h2 class="webfonts">SONGS</h2>
+		<p class="center"><span class="ico ac">AC</span>：アーケードモード対応曲</p>
+		<div id="music_wr" class="clearfix">
+			<section id="mglistNavi" class="clearfix">
+				<ul>
+					<li id="jpop" class="webfonts"><a href="#jpopT">JPOP</a></li>
+					<!--<li id="pop"><a href="#lpop">洋楽</a></li>-->
+					<li id="anime"><a href="#animeT">アニメ</a></li>
+					<li id="vocalo"><a href="#vocaloT">ボーカロイド&#8482;</a></li>
+					<li id="touhou"><a href="#touhouT">東方アレンジ</a></li>
+					<li id="game"><a href="#gameT">ゲーム</a></li>
+					<li id="orig"><a href="#origT">オリジナル</a></li>
+					<li id="variety"><a href="#varietyT">バラエティ</a></li>
+					<li id="free"><a href="#freeT">無料曲</a></li>
+					<li id="pack"><a href="#packs">楽曲パック</a></li>
+				</ul>
+			</section>
+			<section id="jpopT" class="clearfix mglist">
+				<h4>J-POP</h4>
+				<ul>
+					<li>Alright!!</li>
+					<li>BACK ON MY FEET</li>
+					<li>JOY (ジョイ)</li>
+					<li>love the world</li>
+					<li>M.S.S.Phoenix / M.S.S Project<span class="ico ac">AC</span></li>
+					<li>traveling (トラヴェリング)</li>
+					<li>TREE CLIMBERS</li>
+					<li>YUMEGIWA LAST BOY</li>
+					<li>W.W.D<span class="ico ac">AC</span></li>
+					<li>Ｚ女戦争</li>
+					<li>アルクアラウンド<span class="ico ac">AC</span></li>
+					<li>行くぜっ！怪盗少女 -Z Ver.-<span class="ico ac">AC</span></li>
+					<li>美しく燃える森</li>
+					<li>ゴーゴー幽霊船 / 米津玄師<span class="ico ac">AC</span></li>
+					<li>サラバ、愛しき悲しみたちよ</li>
+					<li>じょいふる</li>
+					<li>すーぱーぬこになりたい / まふまふ<span class="ico ac">AC</span></li>
+					<li>大迷惑</li>
+					<li>だから僕は音楽を辞めた / ヨルシカ<span class="ico ac">AC</span></li>
+					<li>ただ君に晴れ / ヨルシカ<span class="ico ac">AC</span></li>
+					<li>チョコレイト・ディスコ</li>
+					<li>ちゅるりちゅるりら<span class="ico ac">AC</span></li>
+					<li>つけまつける<span class="ico ac">AC</span></li>
+					<li>天体観測<span class="ico ac">AC</span></li>
+					<li>でんでんぱっしょん<span class="ico ac">AC</span></li>
+					<li>でんぱーりーナイト<span class="ico ac">AC</span></li>
+					<li>夏祭り<span class="ico ac">AC</span></li>
+					<li>名もなき詩</li>
+					<li>虹</li>
+					<li>ねぇ</li>
+					<li>ファッションモンスター</li>
+					<li>フライングゲット</li>
+					<li>ヘビーローテーション</li>
+					<li>ポリリズム<span class="ico ac">AC</span></li>
+					<li>女々しくて<span class="ico ac">AC</span></li>
+					<li>猛烈宇宙交響曲・第七楽章「無限の愛」</li>
+					<li>リライト</li>
+					<li>リンダ リンダ</li>
+					<li>レーザービーム</li>
+					<li>ワールズエンド・スーパーノヴァ</li>
+				</ul>
+			</section>
+			<!--<section id="popT">
+                <table width="750" border="0" cellspacing="0">
+                  <ul>
+                    <th colspan="2"><a name="lpop" id="lpop"></a>洋楽</th>
+                  </ul>
+                </table>
+            </section>-->
+			<section id="animeT" class="clearfix mglist">
+				<h4>アニメ</h4>
+				<ul>
+					<li>Beautiful World</li>
+					<li>Can Do<span class="ico ac">AC</span></li>
+					<li>crossing field<span class="ico ac">AC</span></li>
+					<li>DreamRiser / J-POP<span class="ico ac">AC</span></li>
+					<li>ETERNAL BLAZE<span class="ico ac">AC</span></li>
+					<li>Fantastic future</li>
+					<li>God knows...<span class="ico ac">AC</span></li>
+					<li>INNOCENCE</li>
+					<li class="mg_size">LOVE!HUG!GROOVY!! / Happy Around!＆Peaky P-key<span class="ico ac">AC</span></li>
+					<li>only my railgun<span class="ico ac">AC</span></li>
+					<li>Photon Melodies / Photon Maiden<span class="ico ac">AC</span></li>
+					<li>Pray<span class="ico ac">AC</span></li>
+					<li>reunion</li>
+					<li>sister's noise<span class="ico ac">AC</span></li>
+					<li>The Other self<span class="ico ac">AC</span></li>
+					<li>V.I.P<span class="ico ac">AC</span></li>
+					<li>君の知らない物語</li>
+					<li>紅蓮の弓矢<span class="ico ac">AC</span></li>
+					<li class="mg_size">ぐるぐるDJ TURN!! / Happy Around! feat. KYOKO &amp; SAKI<span class="ico ac">AC</span></li>
+					<li>恋は渾沌の隷也<span class="ico ac">AC</span></li>
+					<li>コネクト<span class="ico ac">AC</span></li>
+					<li>残酷な天使のテーゼ<span class="ico ac">AC</span></li>
+					<li>自由の翼<span class="ico ac">AC</span></li>
+					<li>シュガーソングとビターステップ<span class="ico ac">AC</span></li>
+					<li>全力バタンキュー / J-POP<span class="ico ac">AC</span></li>
+					<li>創聖のアクエリオン<span class="ico ac">AC</span></li>
+					<li>空色デイズ<span class="ico ac">AC</span></li>
+					<li>電乱★カウントダウン / Peaky P-key<span class="ico ac">AC</span></li>
+					<li>ハレ晴レユカイ / J-POP<span class="ico ac">AC</span></li>
+					<li>白金ディスコ<span class="ico ac">AC</span></li>
+					<li>ナイショの話</li>
+					<li>ようこそジャパリパークへ / J-POP<span class="ico ac">AC</span></li>
+				</ul>
+			</section>
+			<section id="vocaloT" class="clearfix mglist">
+				<h4>ボーカロイド&#8482;</h4>
+				<ul>
+					<li>ANCIENT / M.S.S Project<span class="ico ac">AC</span></li>
+					<li>Bad &infin; End &infin; Night / ひとしずく&times;やま&#9651;<span class="ico ac">AC</span></li>
+					<li>CELESTIAL / M.S.S Project<span class="ico ac">AC</span></li>
+					<li>CITRUS / Orangestar feat. IA&amp;ONE<span class="ico ac">AC</span></li>
+					<li>Crazy &infin; nighT / ひとしずく&times;やま△<span class="ico ac">AC</span></li>
+                    <li>DYE / AVTechNO! feat. 巡音ルカ<span class="ico ac">AC</span></li>
+					<li>Heavenly Particle / M.S.S Project<span class="ico ac">AC</span></li>
+					<li class="">Into Starlight / KURIS&amp;YUICHI NAKASE feat. IA&amp;ONE<span class="ico ac">AC</span></li>
+					<li>Just Be Friends / Dixie Flatline feat. 巡音ルカ<span class="ico ac">AC</span></li>
+					<li>magician's operation / EZFG<span class="ico ac">AC</span></li>
+					<li>magnet / minato<span class="ico ac">AC</span></li>
+					<li>Mrs.Pumpkinの滑稽な夢 / ハチ<span class="ico ac">AC</span></li>
+					<li>M.S.S. Planet / M.S.S Project<span class="ico ac">AC</span></li>
+					<li>M.S.S.Phantom / M.S.S Project<span class="ico ac">AC</span></li>
+					<!--<li>NO feat. IA / ASY</li>-->
+					<li>Over Drive / TeddyLoid<span class="ico ac">AC</span></li>
+					<li>Perverse Love Rock! / 中沢伴行(I' ve) feat. IA<span class="ico ac">AC</span></li>
+					<li>Reload / IA&amp;ONE (song by out of service)<span class="ico ac">AC</span></li>
+					<li>RETROID / M.S.S Project<span class="ico ac">AC</span></li>
+					<li class="mg_size">Seyana.～何でも言うことを聞いてくれるアカネチャン～ / GYARI(ココアシガレットP)<span class="ico ac">AC</span></li>
+					<li>STAY GOLD / IA (song by COZMIC AGE)<span class="ico ac">AC</span></li>
+					<li>THE BLUE / M.S.S Project<span class="ico ac">AC</span></li>
+					<li>THE WORLDS / M.S.S Project<span class="ico ac">AC</span></li>
+					<li>Whereabouts of curry / M.S.S Project<span class="ico ac">AC</span></li>
+					<li>39みゅーじっく！ / みきとP feat. 初音ミク<span class="ico ac">AC</span></li>
+					<li>嗚呼、素晴らしきニャン生 / Nem<span class="ico ac">AC</span></li>
+					<li>アウターサイエンス / じん<span class="ico ac">AC</span></li>
+					<li>悪ノ娘 / mothy_悪ノP feat. 鏡音リン<span class="ico ac">AC</span></li>
+					<li>悪ノ召使 / mothy<span class="ico ac">AC</span></li>
+					<li>アザレアの亡霊 / トーマ<span class="ico ac">AC</span></li>
+					<li>アストロトルーパー / さつき が てんこもり<span class="ico ac">AC</span></li>
+					<li>アスノヨゾラ哨戒班 / Orangestar feat. IA<span class="ico ac">AC</span></li>
+					<li class="">アブストラクト・ナンセンス / Neru feat. 鏡音リン<span class="ico ac">AC</span></li>
+					<li>天ノ弱 / 164 feat. GUMI<span class="ico ac">AC</span></li>
+					<li>アヤノの幸福理論 / じん <span class="ico ac">AC</span></li>
+					<li>アルカリレットウセイ / かいりきベア<span class="ico ac">AC</span></li>
+					<li>アンダワ -GC remix- / 日向電工<span class="ico ac">AC</span></li>
+					<li>アンノウン・マザーグース / wowaka<span class="ico ac">AC</span></li>
+					<li>アンハッピーリフレイン / wowaka<span class="ico ac">AC</span></li>
+					<li class="">いーあるふぁんくらぶ / みきとP feat. 鏡音リン&amp;GUMI<span class="ico ac">AC</span></li>
+					<li>イカサマライフゲイム / kemu<span class="ico ac">AC</span></li>
+					<li>人生リセットボタン / kemu<span class="ico ac">AC</span></li>
+					<li>インビジブル / kemu<span class="ico ac">AC</span></li>
+					<li>ウミユリ海底譚 / n-buna<span class="ico ac">AC</span></li>
+					<li>裏表ラバーズ / wowaka<span class="ico ac">AC</span></li>
+					<li class="">エイリアンエイリアン / ナユタン星人 feat. 初音ミク<span class="ico ac">AC</span></li>
+					<li>エネの電脳紀行 / じん<span class="ico ac">AC</span></li>
+					<li>エンヴィキャットウォーク / トーマ<span class="ico ac">AC</span></li>
+					<li>オツキミリサイタル / じん<span class="ico ac">AC</span></li>
+					<li class="mg_size">おねがいダーリン / ONE (song by ナナホシ管弦楽団)<span class="ico ac">AC</span></li>
+					<li>オレンジ / トーマ<span class="ico ac">AC</span></li>
+					<li>骸骨楽団とリリア / トーマ<span class="ico ac">AC</span></li>
+					<li>快晴 / Orangestar feat. 初音ミク<span class="ico ac">AC</span></li>
+					<li>かくしごと / まふまふ feat. IA<span class="ico ac">AC</span></li>
+					<li>カゲロウデイズ / じん<span class="ico ac">AC</span></li>
+					<li>からくりピエロ / 40mP feat. 初音ミク<span class="ico ac">AC</span></li>
+					<li>如月アテンション / じん<span class="ico ac">AC</span></li>
+					<li>空想フォレスト / じん<span class="ico ac">AC</span></li>
+					<li>九龍レトロ / トーマ<span class="ico ac">AC</span></li>
+					<li>グラーヴェ / niki<span class="ico ac">AC</span></li>
+                    <li class="">クラブ＝マジェスティ / nyanyannya feat. 鏡音レン<span class="ico ac">AC</span></li>
+					<li>コノハの世界事情 / じん<span class="ico ac">AC</span></li>
+					<li>サマータイムレコード / じん<span class="ico ac">AC</span></li>
+					<li class="">サンドリヨン / Dios/シグナルP feat. 初音ミク&amp;KAITO<span class="ico ac">AC</span></li>
+					<li>ジベタトラベル / 日向電工<span class="ico ac">AC</span></li>
+					<li>十面相 / YM feat. GUMI<span class="ico ac">AC</span></li>
+					<li>少年ブレイヴ / じん<span class="ico ac">AC</span></li>
+					<li>深海シティアンダーグラウンド / 田中B feat. 鏡音リン<span class="ico ac">AC</span></li>
+					<li>ジャンキーナイトタウンオーケストラ / すりぃ<span class="ico ac">AC</span></li>
+					<li>人造エネミー / じん<span class="ico ac">AC</span></li>
+					<li class="">彗星ハネムーン / ナユタン星人 feat. 初音ミク<span class="ico ac">AC</span></li>
+					<li>ストリーミングハート / DECO*27<span class="ico ac">AC</span></li>
+					<li>スーサイドパレヱド / ユリイ・カノン<span class="ico ac">AC</span></li>
+					<li>セツナトリップ / Last Note. feat. GUMI<span class="ico ac">AC</span></li>
+					<li>千本桜 / 黒うさP<span class="ico ac">AC</span></li>
+					<li>太陽系デスコ / ナユタン星人 feat. 初音ミク<span class="ico ac">AC</span></li>
+					<li>脱法ロック / Neru feat. 鏡音レン<span class="ico ac">AC</span></li>
+					<li>ダブルラリアット / アゴアニキ<span class="ico ac">AC</span></li>
+					<li>だれかの心臓になれたなら / ユリイ・カノン<span class="ico ac">AC</span></li>
+					<li>ダンシング☆サムライ / mathru(かにみそP)<span class="ico ac">AC</span></li>
+					<li>ダンスロボットダンス / ナユタン星人<span class="ico ac">AC</span></li>
+					<li>だんだん早くなる / 40mP<span class="ico ac">AC</span></li>
+					<li>チルドレンレコード / じん<span class="ico ac">AC</span></li>
+					<li>テオ / Omoi<span class="ico ac">AC</span></li>
+					<li>てるみい / IA&amp;ONE (song by 石風呂)<span class="ico ac">AC</span></li>
+					<li>天使だと思っていたのに / 鬱P<span class="ico ac">AC</span></li>
+					<li>東京テディベア / Neru<span class="ico ac">AC</span></li>
+					<li>トリノコシティ	/ 40mP<span class="ico ac">AC</span></li>
+					<li>Nyanyanyanyanyanyanya! / daniwellP<span class="ico ac">AC</span></li>
+					<li>二息歩行 / DECO*27<span class="ico ac">AC</span></li>
+					<li class="mg_size">ネトゲ廃人シュプレヒコール / さつき が てんこもり feat. 初音ミク<span class="ico ac">AC</span></li>
+					<li>初音ミクの消失 / cosMo＠暴走P feat. 初音ミク<span class="ico ac">AC</span></li>
+					<li>初音ミクの暴走 / cosMo＠暴走P feat. 初音ミク<span class="ico ac">AC</span></li>
+                    <li>ハジメテノオト / malo feat. 初音ミク<span class="ico ac">AC</span></li>
+                    <li>ハッピーシンセサイザ / EasyPop<span class="ico ac">AC</span></li>
+					<li>バビロン / トーマ<span class="ico ac">AC</span></li>
+					<li>ハロ/ハワユ / ナノウ<span class="ico ac">AC</span></li>
+					<li>パンダヒーロー / ハチ<span class="ico ac">AC</span></li>
+					<li>独りんぼエンヴィー / koyori(電ポルP)<span class="ico ac">AC</span></li>
+                    <li>フィクサー / ぬゆり<span class="ico ac">AC</span></li>
+                    <li>プラグアウト / HSP feat. 初音ミク<span class="ico ac">AC</span></li>
+					<li>プラスチックケージ -GC remix- / 日向電工<span class="ico ac">AC</span></li>
+					<li>ブリキノダンス / 日向電工<span class="ico ac">AC</span></li>
+					<li>文学少女インセイン / カラスヤサボウ<span class="ico ac">AC</span></li>
+					<li>ヘッドフォンアクター / じん<span class="ico ac">AC</span></li>
+					<li>僕のサイノウ / wowaka<span class="ico ac">AC</span></li>
+					<li>ボロボロだ / n-buna feat. 初音ミク<span class="ico ac">AC</span></li>
+					<li>マトリョシカ / ハチ<span class="ico ac">AC</span></li>
+					<li>魔法少女幸福論 / トーマ<span class="ico ac">AC</span></li>
+					<li>右肩の蝶 / のりぴー<span class="ico ac">AC</span></li>
+					<li>ミライ / ATOLS feat. ONE<span class="ico ac">AC</span></li>
+					<li>メカクシコード / じん<span class="ico ac">AC</span></li>
+					<li>結ンデ開イテ羅刹ト骸 / ハチ<span class="ico ac">AC</span></li>
+					<li>モザイクロール / DECO*27<span class="ico ac">AC</span></li>
+					<li>夜咄ディセイブ / じん<span class="ico ac">AC</span></li>
+					<li>ヤンキーボーイ・ヤンキーガール / トーマ<span class="ico ac">AC</span></li>
+					<li>夕景イエスタデイ / じん<span class="ico ac">AC</span></li>
+					<li>弱虫モンブラン / DECO*27<span class="ico ac">AC</span></li>
+					<li>恋愛フィロソフィア / 黒うさP (WhiteFlame)<span class="ico ac">AC</span></li>
+					<li>恋愛勇者 / Last Note. feat. GUMI<span class="ico ac">AC</span></li>
+					<li>ロキ / みきとP<span class="ico ac">AC</span></li>
+					<li>六兆年と一夜物語 / kemu<span class="ico ac">AC</span></li>
+					<li>炉心融解 / iroha(sasaki) feat. 鏡音リン<span class="ico ac">AC</span></li>
+					<li>ロストワンの号哭 / Neru feat. 鏡音リン<span class="ico ac">AC</span></li>
+					<li>ロスタイムメモリー / じん<span class="ico ac">AC</span></li>
+					<li>ロミオとシンデレラ / doriko <span class="ico ac">AC</span></li>
+					<li>ローリンガール / wowaka<span class="ico ac">AC</span></li>
+					<li>ワールズエンド・ダンスホール / wowaka<span class="ico ac">AC</span></li>
+					<li>ワールド・コーリング(TeddyLoid Remix) / じん<span class="ico ac">AC</span></li>
+					<li>ワンダーランドと羊の歌 / ハチ<span class="ico ac">AC</span></li>
+				</ul>
+			</section>
+			<section id="touhouT" class="clearfix mglist">
+				<h4>東方アレンジ</h4>
+				<ul>
+                    <li>Bad Apple!! feat. nomico / Masayoshi Minoshima <span class="ico ac">AC</span></li>
+                    <li class="mg_size">beyond the star line / あにー(TaNaBaTa) × 厚志(インフェクテッド) <span class="ico ac">AC</span></li>
+                    <li>BlazeConductor / TatshMusicCircle<span class="ico ac">AC</span></li>
+                    <li>Border of Colour / Masayoshi Minoshima <span class="ico ac">AC</span></li>
+                    <li>Colors / REDALiCE feat. Ayumi Nomiya<span class="ico ac">AC</span></li>
+                    <li>Crime Wave / REDALiCE feat. Ayumi Nomiya <span class="ico ac">AC</span></li>
+                    <li>Cruel Moon NuMIX / TatshMusicCircle<span class="ico ac">AC</span></li>
+                    <li>CYBER Sparks / TatshMusicCircle<span class="ico ac">AC</span></li>
+                    <li>Dream Coaster / A-One <span class="ico ac">AC</span></li>
+                    <li>D+D→T+p / Minstrel feat. LIQU@。 <span class="ico ac">AC</span></li>
+                    <li>Endless Seeker / A-One <span class="ico ac">AC</span></li>
+                    <li>Faint Love / Silver Forest feat. アキ<span class="ico ac">AC</span></li>
+                    <li class="mg_size">FEEL MY BEAT! / Tatsh(TatshMusicCircle) × 黒田椋子(IOSYS) <span class="ico ac">AC</span></li>
+                    <li>Foughten Field / ALiCE'S EMOTiON <span class="ico ac">AC</span></li>
+                    <li class="mg_size">FOUR SEASONS OF LONELINESS verβ feat.サリヤ人 / TatshMusicCircle<span class="ico ac">AC</span></li>
+                    <li>FullMoon / TatshMusicCircle <span class="ico ac">AC</span></li>
+                    <li>Grow Bigger!! / A-One<span class="ico ac">AC</span></li>
+                    <li>HANIPAGANDA / 暁Records <span class="ico ac">AC</span></li>
+                    <li>Help me, ERINNNNNN!! / ビートまりお<span class="ico ac">AC</span></li>
+                    <li class="mg_size">Help me, ERINNNNNN!! -Cranky remix- / ビートまりお × Cranky <span class="ico ac">AC</span></li>
+                    <li>I / ZYTOKINE feat. itori <span class="ico ac">AC</span></li>
+                    <li class="mg_size">ID / ZYTOKINE feat. cold kiss (Nana Takahashi x Linjin)<span class="ico ac">AC</span></li>
+                    <li class="mg_size">INCOGNITO / ZYTOKINE feat. cold kiss (Nana Takahashi x Linjin) <span class="ico ac">AC</span></li>
+                    <li>IN MY LIFE / 発熱巫女～ず <span class="ico ac">AC</span></li>
+                    <li class="mg_size">I, SCREAM / ZYTOKINE feat. coldkiss(Nana Takahashi x Linjin) <span class="ico ac">AC</span></li>
+                    <li>Keep the Faith / Silver Forest feat. さゆり<span class="ico ac">AC</span></li>
+                    <li class="mg_size">LIMIT BURST(GC Mix.) / adaptor vs. モリモリあつし<span class="ico ac">AC</span></li>
+                    <li>LOVE FOR YOU / 暁Records <span class="ico ac">AC</span></li>
+                    <li>Material of Puppets / Silver Forest <span class="ico ac">AC</span></li>
+                    <li>Metamorphosis　/ 暁Records <span class="ico ac">AC</span></li>
+                    <li>My Voice is Dead. / t+pazolite (C.H.S / ALiCE'S EMOTiON)<span class="ico ac">AC</span></li>
+                    <li class="mg_size">Ring a bell beautifully -GAME Edit- / TatshMusicCircle <span class="ico ac">AC</span></li>
+                    <li>Sad Rain / REDALiCE <span class="ico ac">AC</span></li>
+                    <li>Spider's Blood / A-One<span class="ico ac">AC</span></li>
+                    <li>tete+a+tete / t+pazolite (C.H.S) <span class="ico ac">AC</span></li>
+                    <li>Treasure / 発熱巫女～ず <span class="ico ac">AC</span></li>
+                    <li>UFOロマンス / 石鹸屋 <span class="ico ac">AC</span></li>
+                    <li>Vanity on the future / 溝口ゆうま feat. 大瀬良あい <span class="ico ac">AC</span></li>
+                    <li>WARNING×WARNING×WARNING / 暁Records <span class="ico ac">AC</span></li>
+                    <li>White World feat. 小田ユウ / TatshMusicCircle <span class="ico ac">AC</span></li>
+                    <li>7 days a week / Silver Forest feat. アキ <span class="ico ac">AC</span></li>
+                    <li>あうんどばいみー / 森羅万象 <span class="ico ac">AC</span></li>
+                    <li>あの日の蜃気楼 / Minstrel feat. LIQU@。 <span class="ico ac">AC</span></li>
+                    <li>アマノジャック / 幽閉サテライト <span class="ico ac">AC</span></li>
+                    <li>悪戯センセーション / 森羅万象 <span class="ico ac">AC</span></li>
+                    <li>イニシャルイニシャルエコーエゴー / RD-Sounds <span class="ico ac">AC</span></li>
+                    <li>ウサテイ2013 / あまね＋ビートまりお<span class="ico ac">AC</span></li>
+                    <li>泡沫、哀のまほろば / 幽閉サテライト <span class="ico ac">AC</span></li>
+                    <li class="mg_size">色は匂へど散りぬるを(Fractal 1.5ver.) / 少女フラクタル(天宮みや、柚木梨沙) <span class="ico ac">AC</span></li>
+                    <li>エピクロスの虹はもう見えない / SYNC.ART'S <span class="ico ac">AC</span></li>
+                    <li>囲い無き世は一期の月影 / 豚乙女<span class="ico ac">AC</span></li>
+                    <li>大江山ジャイアントスイング / ARM(IOSYS) <span class="ico ac">AC</span></li>
+                    <li class="mg_size">お空のニュークリアフュージョン道場 / ARM(IOSYS) <span class="ico ac">AC</span></li>
+                    <li>カミノヒ / COSIO(ZUNTATA) × ランコ(豚乙女) <span class="ico ac">AC</span></li>
+                    <li class="mg_size">カリソメ / コンプ(豚乙女) × ichigo(岸田教団&amp;THE明星ロケッツ) <span class="ico ac">AC</span></li>
+                    <li class="mg_size">完全の模様を刳り貫いて / 少女フラクタル(天宮みや、柚木梨沙) <span class="ico ac">AC</span></li>
+                    <li class="mg_size">患部で止まってすぐ溶ける ～ 狂気の優曇華院 / ARM (IOSYS)<span class="ico ac">AC</span></li>
+                    <li>君色サブリミナル / 幽閉サテライト <span class="ico ac">AC</span></li>
+                    <li>響縁 / 豚乙女<span class="ico ac">AC</span></li>
+                    <li>清らかな幸福 / 豚乙女 <span class="ico ac">AC</span></li>
+                    <li>クリスタライズ！ / 石鹸屋 <span class="ico ac">AC</span></li>
+                    <li>ぐる☆ネーション / 森羅万象 <span class="ico ac">AC</span></li>
+                    <li class="mg_size">クレイジークレイジーダンサーズ / ビートまりお＋あまね（COOL&amp;CREATE） <span class="ico ac">AC</span></li>
+                    <li>穢れなきユーフォリア / 幽閉サテライト <span class="ico ac">AC</span></li>
+                    <li>ケロ9destiny / Silver Forest feat. めらみぽっぷ<span class="ico ac">AC</span></li>
+                    <li>幻想のサテライト / 豚乙女<span class="ico ac">AC</span></li>
+                    <li>幻想の旅人へ ～ Catch the Heart / RD-Sounds <span class="ico ac">AC</span></li>
+                    <li>鼓動、零れぬ酒 / 幽閉サテライト <span class="ico ac">AC</span></li>
+                    <li>孤独な花 / 豚乙女 <span class="ico ac">AC</span></li>
+                    <li>コノハズク / 豚乙女 <span class="ico ac">AC</span></li>
+                    <li>今夜はヴァンピン☆全世界ナイトメア / ARM (IOSYS)<span class="ico ac">AC</span></li>
+                    <li>最速最高シャッターガール / ビートまりお<span class="ico ac">AC</span></li>
+                    <li class="mg_size">最終鬼畜妹フランドール・S / ビートまりお（COOL&amp;CREATE） <span class="ico ac">AC</span></li>
+                    <li>サドマミホリック / ビートまりお <span class="ico ac">AC</span></li>
+                    <li>サトリアイ(feat. ｙｔｒ) / 魂音泉 <span class="ico ac">AC</span></li>
+                    <li class="mg_size">ジョーカー・ジュンコ ～ 永遠の純化 / ビートまりお <span class="ico ac">AC</span></li>
+                    <li>ジンガイクライシス / 魂音泉 <span class="ico ac">AC</span></li>
+                    <li>シンデレラケージ / 岸田教団&amp;THE明星ロケッツ <span class="ico ac">AC</span></li>
+                    <li>スターオーシャン / TaNaBaTa <span class="ico ac">AC</span></li>
+                    <li>聖少女サクリファイス / Silver Forest feat. ichiko<span class="ico ac">AC</span></li>
+                    <li>蒼空に舞え、墨染の桜 / Silver Forest feat. さゆり<span class="ico ac">AC</span></li>
+                    <li class="mg_size">そして誰もいなくなった / コバヤシユウヤ(IOSYS) × あにー(TaNaBaTa) <span class="ico ac">AC</span></li>
+                    <li>揺蕩うLove (feat. らっぷびと) / 魂音泉 <span class="ico ac">AC</span></li>
+                    <li>チルノのパーフェクトさんすう教室 / ARM (IOSYS)<span class="ico ac">AC</span></li>
+                    <li>月に叢雲華に風 / 幽閉サテライト <span class="ico ac">AC</span></li>
+                    <li>九十九星降 / 凋叶棕<span class="ico ac">AC</span></li>
+                    <li>ってゐ！ ～えいえんてゐver.～ / 石鹸屋 <span class="ico ac">AC</span></li>
+                    <li>天狗の詫び証文 / 魂音泉 <span class="ico ac">AC</span></li>
+                    <li>東方音銃夢 / COSIO<span class="ico ac">AC</span></li>
+                    <li>東方外魔伝　/ MASAKI (ZUNTATA) <span class="ico ac">AC</span></li>
+                    <li>東方散楽祭 / COSIO<span class="ico ac">AC</span></li>
+                    <li>東方双地舞 / COSIO <span class="ico ac">AC</span></li>
+                    <li>東方地神律 / COSIO<span class="ico ac">AC</span></li>
+                    <li>東方人-TOHO BEAT- / ビートまりお<span class="ico ac">AC</span></li>
+                    <li>東方不死鳥 / COSIO<span class="ico ac">AC</span></li>
+                    <li class="mg_size">バブルの呪文はシュー！ポッ！プッシュ！ / ARM × 七条レタス ft. 霧雨魔理沙 (CV:大空直美) <span class="ico ac">AC</span></li>
+                    <li>畢竟成仏 / 豚乙女 <span class="ico ac">AC</span></li>
+                    <li>ヒトリシズカ / 幽閉サテライト <span class="ico ac">AC</span></li>
+                    <li>ナイト・オブ・ナイツ / ビートまりお<span class="ico ac">AC</span></li>
+                    <li class="mg_size">ナイト・オブ・ナイツ (feat. y t r) - TOS Remix / ビートまりお × 魂音泉 <span class="ico ac">AC</span></li>
+                    <li>細い線 / TaNaBaTa <span class="ico ac">AC</span></li>
+                    <li>マウストゥーマウス / 幽閉サテライト <span class="ico ac">AC</span></li>
+                    <li>マーメイドダンス / コバヤシユウヤ（IOSYS）<span class="ico ac">AC</span></li>
+                    <li>魔理沙は大変なものを盗んでいきました / ARM (IOSYS)<span class="ico ac">AC</span></li>
+                    <li>待チ人ハ来ズ。 / 豚乙女<span class="ico ac">AC</span></li>
+                    <li>未確認幻想コースター / t+pazolite × ビートまりお <span class="ico ac">AC</span></li>
+                    <li>無間嫉妬劇場『666』 / 森羅万象 <span class="ico ac">AC</span></li>
+                    <li class="mg_size">メイドと血の懐中時計 / 岸田教団&amp;THE明星ロケッツ <span class="ico ac">AC</span></li>
+                    <li>リバース・デス / 石鹸屋 <span class="ico ac">AC</span></li>
+                    <li class="mg_size">ロストワードクロニカル / 東方LostWord feat. いとうかなこ <span class="ico ac">AC</span></li>
+                    <li>ゆけむり魂温泉 / 魂音泉<span class="ico ac">AC</span></li>
+                    <li class="mg_size">夢色プレリュード / 少女フラクタル(天宮みや、姫城碧海) <span class="ico ac">AC</span></li>
+				</ul>
+			</section>
+			<section id="gameT" class="clearfix mglist">
+			  <h4>ゲーム</h4>
+				<ul>
+                    <li>Agent Angels / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+                    <li>Arabesque / J99<span class="ico ac">AC</span></li>
+                    <li>A New Journey / Kenji Ito<span class="ico ac">AC</span></li>
+                    <li>Androgynos / WAiKURO<span class="ico ac">AC</span></li>
+                    <li>Apocalypse / アリスシャッハと魔法の楽団<span class="ico ac">AC</span></li>
+					<li class="mg_size">Awakening The Chaos / Daisuke Ishiwatari　(ARC SYSTEM WORKS)<span class="ico ac">AC</span></li>
+                    <li>Be There / PSYQUI<span class="ico ac">AC</span></li>
+					<li>BEFORE TEN ORB / COSIO<span class="ico ac">AC</span></li>
+                    <li>Bonetrousle / Toby Fox<span class="ico ac">AC</span></li>
+					<li>BURN ALT AIR / COSIO<span class="ico ac">AC</span></li>
+					<li class="mg_size">Catus Carnival / Daisuke Ishiwatari　(ARC SYSTEM WORKS)<span class="ico ac">AC</span></li>
+                    <li class="mg_size">CAPTAIN NEO～BOSS SCENE1(D4DJ MIX) / Arranged by MASAKI(ZUNTATA)<span class="ico ac">AC</span></li>
+					<li>Captain NEO -Confusion Mix-  / Sampling Masters MEGA<span class="ico ac">AC</span></li>
+					<li class="mg_size">CERAMIC HEART (REMIX) / Masayoshi Minoshima feat. anporin<span class="ico ac">AC</span></li>
+                    <li class="mg_size">CHAOS～BOSS SCENE7(D4DJ MIX) / Arranged by MASAKI(ZUNTATA)<span class="ico ac">AC</span></li>
+					<li class="mg_size">CHRONOPHANTASMA / Daisuke Ishiwatari　(ARC SYSTEM WORKS)<span class="ico ac">AC</span></li>
+                    <li class="mg_size">CHRONORISE / Daisuke Ishiwatari(ARC SYSTEM WORKS)<span class="ico ac">AC</span></li>
+                    <li class="mg_size">COSMIC AIR WAY -Trans Mountain Express MIX- / COSIO<span class="ico ac">AC</span></li>
+                    <li>Crowded Town / Sampling Masters AYA<span class="ico ac">AC</span></li>
+                    <li>cyanine / jioyi<span class="ico ac">AC</span></li>
+					<li>DADDY MULK -Groove remix- / Performed by [H.]<span class="ico ac">AC</span></li>
+                    <li class="mg_size">DADDY MULK (D4DJ MIX) / Arranged by MASAKI(ZUNTATA)<span class="ico ac">AC</span></li>
+                    <li>Departure / Kenji Ito<span class="ico ac">AC</span></li>
+                    <li>ＤＪノブナガのテーマ / 中田ヤスタカ<span class="ico ac">AC</span></li>
+                    <li>Don't Die / Paul Bazooka<span class="ico ac">AC</span></li>
+                    <li>Dragon's Den / Kenji Ito<span class="ico ac">AC</span></li>
+                    <li class="mg_size">Discover from W -Remix- / Shohei Tsuchiya/Yukio Nakajima<span class="ico ac">AC</span></li>
+                    <li>Exitium / Laur<span class="ico ac">AC</span> </li>
+					<li>FAKE (ALR REMIX) / Masayoshi Minoshima<span class="ico ac">AC</span></li>
+                    <li>Fermion / makou<span class="ico ac">AC</span></li>
+					<li>Flower of Gangster / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+                    <li>Freedom / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+                    <li>Frey's Philosophy / Powerless<span class="ico ac">AC</span></li>
+                    <li>Gate One / aran<span class="ico ac">AC</span> </li>
+					<li>Geometric City -GC Remix- / 矢鴇つかさ<span class="ico ac">AC</span></li>
+                    <li>glory day / BEXTER / Mycin.T<span class="ico ac">AC</span></li>
+                    <li class="mg_size">Gluttony Fang / Daisuke Ishiwatari(ARC SYSTEM WORKS)<span class="ico ac">AC</span></li>
+					<li>Good-bye my earth / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+                    <li>G ZERO / OGR<span class="ico ac">AC</span></li>
+					<li>Hard Head / Sampling Masters MEGA<span class="ico ac">AC</span></li>
+                    <li>Hayabusa / Yamajet<span class="ico ac">AC</span></li>
+					<li>Hello 31337 / 小倉久佳音画制作所<span class="ico ac">AC</span></li>
+                    <li>I want You / Lin-G<span class="ico ac">AC</span></li>
+                    <li>Ignotus / ak+q<span class="ico ac">AC</span></li>
+					<li>Invader Disco / COSIO<span class="ico ac">AC</span></li>
+					<li>Invader GIRL! / COSIO<span class="ico ac">AC</span></li>
+                    <li>Invisible Frenzy / Kobaryo<span class="ico ac">AC</span></li>
+                    <li>Journey / ARForest<span class="ico ac">AC</span></li>
+					<li>KIKIKAIKAI / YMCK<span class="ico ac">AC</span></li>
+                    <li>Knight Rider / USAO<span class="ico ac">AC</span></li>
+                    <li class="mg_size">Let you DIVE! / HARDCORE TANO*C &amp; エリザベス（CV:大西沙織）<span class="ico ac">AC</span> </li>
+                    <li>Lights of Muse / Ayatsugu_Otowa<span class="ico ac">AC</span></li>
+                    <li class="mg_size">Lust SIN / Daisuke Ishiwatari(ARC SYSTEM WORKS)<span class="ico ac">AC</span></li>
+                    <li>MEGALOVANIA / Toby Fox<span class="ico ac">AC</span></li>
+                    <li>Metallic Punisher / INNOCENT NOIZE<span class="ico ac">AC</span></li>
+                    <li>Modelista / HiTECH NINJA<span class="ico ac">AC</span></li>
+                    <li>Nevermind / Paul Bazooka<span class="ico ac">AC</span></li>
+					<li>Night Life / Sampling Masters AYA<span class="ico ac">AC</span></li>
+                    <li>OBLIVION / ESTi<span class="ico ac">AC</span></li>
+					<li class="mg_size">ON THE VERGE OF REVIVAL / ALiCE'S EMOTiON feat. ビートまりお<span class="ico ac">AC</span></li>
+					<li>Planet Connection / COSIO<span class="ico ac">AC</span></li>
+                    <li>Phone Dead Room / Sampling Masters AYA<span class="ico ac">AC</span></li>
+                    <li>Poseidon / Massive New Krew<span class="ico ac">AC</span> </li>
+                    <li>QiXiN MAdN3ss 2153 / DJ Noriken vs MASAKI<span class="ico ac">AC</span></li>
+					<li>Quartet Theme    [Reborn] / arranged by ZUNTATA<span class="ico ac">AC</span></li>
+                    <li class="mg_size">Queen of rose / Daisuke Ishiwatari(ARC SYSTEM WORKS)<span class="ico ac">AC</span></li>
+                    <li>Ray of Illuminati / ESTi<span class="ico ac">AC</span></li>
+					<li>Rebellion / Daisuke Ishiwatari　(ARC SYSTEM WORKS)<span class="ico ac">AC</span></li>
+                    <li class="mg_size">RIDGE RACER STEPS -GMT remix- / remixed by Yuji Masubuchi(BNSI)<span class="ico ac">AC</span></li>
+					<li>Roteen da Moon / Sampling Masters MEGA<span class="ico ac">AC</span></li>
+                    <li>say PaPa re:mix / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>Shadow / COSIO<span class="ico ac">AC</span></li>
+					<li>Shooting Star / Masashi Hamauzu / Mina<span class="ico ac">AC</span></li>
+                    <li>Singularity -Binary Enfold- / ETIA<span class="ico ac">AC</span></li>
+					<li>SiLent ErRors -Un-True- / 小倉久佳音画制作所</li>
+                    <li>SON OF SUN / Hosoe Shinji<span class="ico ac">AC</span></li>
+                    <li>Song for Sprites / Sta<span class="ico ac">AC</span></li>
+					<li>SPACE INVADERS 2003 / KEN ISHII VS FLARE<span class="ico ac">AC</span></li>
+					<li>Space Invaders    Infinity Gene Medley / COSIO<span class="ico ac">AC</span></li>
+                    <li>Specta / Junk<span class="ico ac">AC</span></li>
+                    <li>Stargazer / a_hisa<span class="ico ac">AC</span></li>
+					<li>Static Const Void / COSIO</li>
+                    <li>Stronger / Sampling Masters MEGA<span class="ico ac">AC</span></li>
+                    <li>Spider Control 16th / NAKAYAMA RAIDEN<span class="ico ac">AC</span></li>
+					<li>TGM in the Bottle / Sampling Masters MEGA<span class="ico ac">AC</span></li>
+                    <li>The Orb Festival / Kenji Ito<span class="ico ac">AC</span></li>
+                    <li>The world of spirit / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+                    <li>Thor / XeoN<span class="ico ac">AC</span></li>
+                    <li>U.A.D / HAYAKO<span class="ico ac">AC</span></li>
+                    <li class="mg_size">URBAN TRAIL(D4DJ MIX) / Arranged by Shohei Tsuchiya(ZUNTATA)<span class="ico ac">AC</span></li>
+					<li>VISIONNERZ～幻視人～ / OGR<span class="ico ac">AC</span></li>
+                    <li>Walking Through The Towers / Kenji Ito<span class="ico ac">AC</span></li>
+                    <li class="mg_size">Walking Through The Towers -Remix- / COSIO/Kenji Ito<span class="ico ac">AC</span></li>
+                    <li class="mg_size">with U / t+pazolite &amp; Massive New Krew feat. リリィ(CV:青木志貴)<span class="ico ac">AC</span></li>
+                    <li>XING / ginkiha<span class="ico ac">AC</span></li>
+                    <li>You are the Miserable　/ t+pazolite<span class="ico ac">AC</span></li>
+                    <li>アズゴア / Toby Fox<span class="ico ac">AC</span></li>
+                    <li>アルカノイドvsインベーダー / COSIO<span class="ico ac">AC</span></li>
+                    <li>怒りのマネキン！ / Toby Fox<span class="ico ac">AC</span> <span class="ico new">NEW</span></li>
+                    <li class="mg_size">オパ! オパ! RACER -GMT mashup- / mashup by COSIO<span class="ico ac">AC</span></li>
+                    <li>影の伝説 ～豚乙女mix～ / 豚乙女<span class="ico ac">AC</span></li>
+                    <li>華麗なる死闘 / Toby Fox<span class="ico ac">AC</span></li>
+                    <li>決戦！！ from Z / Kenji Ito<span class="ico ac">AC</span></li>
+                    <li>これでホントにサヨナラ / Toby Fox<span class="ico ac">AC</span></li>
+                    <li>最高の悪夢 / Toby Fox<span class="ico ac">AC</span></li>
+                    <li>小夜のテーマ ～とぱぞのアレンジ～ / t+pazolite<span class="ico ac">AC</span></li>
+                    <li>スパイダーダンス / Toby Fox<span class="ico ac">AC</span></li>
+                    <li>正義の槍 / Toby Fox<span class="ico ac">AC</span> <span class="ico new">NEW</span></li>
+                    <li>手ミーむら！手ミーみせ！ / Toby Fox<span class="ico ac">AC</span> <span class="ico new">NEW</span></li>
+                    <li class="mg_size">電車で電車でOPA!OPA!OPA! -GMT mashup-　/ mashup by Yuji Masubuchi<span class="ico ac">AC</span></li>
+                    <li class="mg_size">電車で電車でGO!GO!GO!GC! -GMT remix- / remixed by COSIO feat. 沢城千春<span class="ico ac">AC</span></li>
+                    <li class="mg_size">バトル#2 ～ヒゲドライバーMIX～ / ヒゲドライバー<span class="ico ac">AC</span></li>
+                    <li>バブルボブルメドレー / COSIO<span class="ico ac">AC</span></li>
+					<li class="mg_size">ピ・ピ・ピ・ミュージック / エイプリルズ(THE APRILS)<span class="ico ac">AC</span></li>
+					<li>ピリオドのない世界 / ZELKOKO<span class="ico ac">AC</span></li>
+                    <li class="mg_size">ファンタジーゾーン OPA-OPA! -GMT remix- / remixed by Hiro(SEGA)<span class="ico ac">AC</span></li>
+                    <li>粉骨砕身カジノゥ / モリモリあつし<span class="ico ac">AC</span></li>
+                    <li>本物のヒーローとの戦い / Toby Fox<span class="ico ac">AC</span></li>
+					<li>ミュージック・リボルバー / 世阿弥<span class="ico ac">AC</span></li>
+                    <li class="mg_size">リッジでリッジでGO!GO!GO! -GMT mashup- / mashup by Hiro(SEGA)<span class="ico ac">AC</span></li>
+                    <li>夢と希望 / Toby Fox<span class="ico ac">AC</span> <span class="ico new">NEW</span></li>
+				</ul>
+			</section>
+			<section id="origT" class="clearfix mglist">
+				<h4>オリジナル</h4>
+				<ul>
+					<li class="mg_size">1llusion 0f the FAIRYtALE hARMONY / リンカ・ユメ・セイネ<span class="ico ac">AC</span></li>
+					<li>ADRENA / C-Show<span class="ico ac">AC</span></li>
+					<li>Analysis Division / Masayoshi Minoshima<span class="ico ac">AC</span></li>
+					<li>APELIOTES / ginkiha<span class="ico ac">AC</span></li>
+					<li>Black MInD / COSIO<span class="ico ac">AC</span></li>
+					<li>Bright Lights / aran<span class="ico ac">AC</span></li>
+					<li>comet / Aikapin<span class="ico ac">AC</span></li>
+					<li>Caramel Mocha / KO3<span class="ico ac">AC</span></li>
+					<li>Cosmic Ray /  COSYS (COSIO &amp; YS)<span class="ico ac">AC</span></li>
+                    <li>Crowded space / Sampling Masters MEGA<span class="ico ac">AC</span></li>
+					<li>Dreamer / Takeharu Ishimoto・Yuriko Kaida<span class="ico ac">AC</span></li>
+					<li class="mg_size">DOTTED 8TH / SATO (SANODG &#9654;&#9664; KATO [noisycroak])<span class="ico ac">AC</span></li>
+					<li class="mg_size">DX超性能フルメタル少女 / IOSYS TRAX (uno with.ちよこ)<span class="ico ac">AC</span></li>
+					<li class="mg_size">DX超野生！サバイバルずんど子ちゃん / IOSYS TRAX with ちよこ<span class="ico ac">AC</span></li>
+                    <li>Eclipse Landscape / COSIO</li>
+					<li class="mg_size">ＦＭ音源黙示録-Apocalypse of FM Tone Generator- / Yu Shimoda (ZUNTATA)<span class="ico ac">AC</span></li>
+					<li>Five to Seven / Sampling Masters AYA<span class="ico ac">AC</span></li>
+					<li>Flakes / IMERUAT<span class="ico ac">AC</span></li>
+					<li>Flyaway / 櫻井浩司<span class="ico ac">AC</span></li>
+					<li>Freestyle Beats / Mitsuto Suzuki<span class="ico ac">AC</span></li>
+					<li>FUJIN Rumble / COSIO<span class="ico ac">AC</span></li>
+					<li>GO! SPIRAL GO! / CTO LAB.<span class="ico ac">AC</span></li>
+					<li>Good Night, Bad Luck. / t+pazolite<span class="ico ac">AC</span></li>
+					<li>Got noir forever. / E.G.G.<span class="ico ac">AC</span></li>
+					<li>Got hive of Ra / E.G.G.<span class="ico ac">AC</span></li>
+					<li>Got recover run / E.G.G.<span class="ico ac">AC</span></li>
+					<li>Got sorted view. / E.G.G.<span class="ico ac">AC</span></li>
+					<li>GLITHCRE / Relect<span class="ico ac">AC</span></li>
+					<li class="mg_size">Happy 10th anniversary / Shohei Tsuchiya feat. Huddleston Gary Scott<span class="ico ac">AC</span></li>
+					<li>HAPPY! LUCKY! FUTURE WORLD! / EmoCo.<span class="ico ac">AC</span></li>
+					<li>HB-axeleration / 矢鴇つかさ feat. 真崎エリカ<span class="ico ac">AC</span></li>
+					<li class="mg_size">HG魔改造ポリビニル少年 / IOSYS TRAX (D.watt with さきぴょ)<span class="ico ac">AC</span></li>
+					<li>Invader OnDo / COSIO<span class="ico ac">AC</span></li>
+					<li>JUMPEE! / D-Cee<span class="ico ac">AC</span></li>
+					<li>KUNG FU GIRL / ヒゲドライVAN<span class="ico ac">AC</span></li>
+					<li>Lethal Dose / sky_delta<span class="ico ac">AC</span></li>
+					<li>LINK LINK FEVER!!! / リンカ (CV: 豊田萌絵)<span class="ico ac">AC</span></li>
+					<li>Lost Colors / コバヤシユウヤ feat. 黒田椋子 (IOSYS)<span class="ico ac">AC</span></li>
+					<li>MAD FREAKS / DJ Myosuke<span class="ico ac">AC</span></li>
+					<li>Maiami Sound Beats / Mitsuto Suzuki (SQUARE ENIX)<span class="ico ac">AC</span></li>
+					<li>Marry me, Nightmare / t+pazolite<span class="ico ac">AC</span></li>
+					<li>MERLIN / REDALiCE<span class="ico ac">AC</span></li>
+					<li>MIRACLE PARTY / DJ Genki<span class="ico ac">AC</span></li>
+					<li>Music Plot Type Zero / COSIO</li>
+					<li>Negative Return / 小倉久佳音画制作所<span class="ico ac">AC</span></li>
+					<li>No more    labor / Shouhei Tsuchiya feat. KOTO<span class="ico ac">AC</span></li>
+					<li>No Way Out / ARM(IOSYS)<span class="ico ac">AC</span></li>
+					<li>OMAKENO Stroke / t+pazolite<span class="ico ac">AC</span></li>
+					<li>orbital / namae.<span class="ico ac">AC</span></li>
+					<li>OVER THE NIGHT / REDALiCE feat. Ayumi Nomiya<span class="ico ac">AC</span></li>
+					<li>Period of    Revolution / COSIO<span class="ico ac">AC</span></li>
+					<li>PIXEL STAR / YMCK<span class="ico ac">AC</span></li>
+					<li>PUT YOUR HANDS UP / RiraN<span class="ico ac">AC</span></li>
+					<li>QLWA / t+pazolite<span class="ico ac">AC</span></li>
+					<li>Satisfiction / t+pazolite<span class="ico ac">AC</span></li>
+					<li>Satisfiction (Massive New Krew Remix) / t+pazolite<span class="ico ac">AC</span></li>
+					<li>Scarlet Lance / MASAKI (ZUNTATA)<span class="ico ac">AC</span></li>
+					<li>Shiva / Massive New Krew<span class="ico ac">AC</span></li>
+					<li>Sign of "10.5km" / 渡部恭久<span class="ico ac">AC</span></li>
+					<li>SKYSCRAPER / Dr. ARM (IOSYS)<span class="ico ac">AC</span></li>
+					<li>Smash a mirror / Shohei Tsuchiya feat. SATOMI<span class="ico ac">AC</span></li>
+					<li>Solar Storm / xi<span class="ico ac">AC</span></li>
+					<li>SPACE ARCADIAN / CTO LAB.<span class="ico ac">AC</span></li>
+					<li>STAR COASTER / D.watt (IOSYS)<span class="ico ac">AC</span></li>
+					<li>Stardust Vox / DJ Laugh a.k.a. uno(IOSYS)<span class="ico ac">AC</span></li>
+					<li>Stratospheric Journey / D.watt (IOSYS)<span class="ico ac">AC</span></li>
+					<li class="mg_size">Sweet Love / コバヤシユウヤ feat. 黒田椋子 (IOSYS)<span class="ico ac">AC</span></li>
+					<li class="mg_size">TAKING OFF / SATO (SANODG &#9654;&#9664; KATO [noisycroak])<span class="ico ac">AC</span></li>
+					<li>TECHNO COMPLEX / DJ MURASAME a.k.a Tatsh<span class="ico ac">AC</span></li>
+					<li>tiny tales continue / 黒魔<span class="ico ac">AC</span></li>
+					<li class="mg_size">TRIPLE3T / SATO (SANODG &#9654;&#9664; KATO [noisycroak])<span class="ico ac">AC</span></li>
+					<li>Under Control / Takeharu Ishimoto (SQUARE ENIX)<span class="ico ac">AC</span></li>
+					<li>Under The Moon / void (Mournfinale)<span class="ico ac">AC</span></li>
+					<li>Valkyrja Requiem / iTIC<span class="ico ac">AC</span></li>
+					<li class="mg_size">VEGAS / SATO (SANODG &#9654;&#9664; KATO [noisycroak])<span class="ico ac">AC</span></li>
+					<li>VELVET / Massive New Krew<span class="ico ac">AC</span></li>
+					<li>VOLT / aran<span class="ico ac">AC</span></li>
+					<li>Wacky dance ethnic / Sampling Masters MEGA<span class="ico ac">AC</span></li>
+					<li>Wandering One / Maozon<span class="ico ac">AC</span></li>
+					<li>Warrior / Cranky<span class="ico ac">AC</span></li>
+					<li>Xand-Roid / Tatsh<span class="ico ac">AC</span></li>
+					<li>終わらないグルーヴ / Naoshi Mizuta (SQUARE ENIX)<span class="ico ac">AC</span></li>
+					<li>カンフーガール=ロンメイ / COSIO<span class="ico ac">AC</span></li>
+					<li>コスモスタート / 打打だいず<span class="ico ac">AC</span></li>
+					<li>グルーヴ・リボルバー / 世阿弥<span class="ico ac">AC</span></li>
+					<li>座和々 / MASAKI (ZUNTATA)<span class="ico ac">AC</span></li>
+					<li>聖者の祈願 / Tatsh<span class="ico ac">AC</span></li>
+          			<li>聖者の鼓動 / 世阿弥<span class="ico ac">AC</span></li>
+          			<li>聖者の息吹 / 世阿弥 vs Tatsh<span class="ico ac">AC</span></li>
+					<li>聖者の覚醒 / 世阿弥 a.k.a Tatsh<span class="ico ac">AC</span></li>
+          			<li>零式 &#060;Type-ZERO&#062; / 世阿弥<span class="ico ac">AC</span></li>
+					<li>全人類犬化計画 / 黒魔<span class="ico ac">AC</span></li>
+					<li>希 / technoplanet feat. Shun [RIGEL]<span class="ico ac">AC</span></li>
+					<li>平成快晴どってんしゃん / 豚乙女<span class="ico ac">AC</span></li>
+					<li>メシアの邂逅 / Tatsh<span class="ico ac">AC</span></li>
+					<li class="mg_size">ラバー★ポップ / ARM vs Pizuya' s Cell feat. ちよこ<span class="ico ac">AC</span></li>
+					<li>グルーヴ・ザ・ハート / ビートまりお＋あまね<span class="ico ac">AC</span></li>
+					<li>クレープ・to・ミー。 / HALI HALI<span class="ico ac">AC</span></li>
+				</ul>
+			</section>
+			<section id="varietyT" class="clearfix mglist">
+				<h4>バラエティ</h4>
+				<ul>
+					<li>AXION / 削除<span class="ico ac">AC</span></li>
+					<li>Altale / 削除<span class="ico ac">AC</span></li>
+					<li>B.B.K.K.B.K.K. / nora2r<span class="ico ac">AC</span></li>
+					<li>Black Lotus / wa.<span class="ico ac">AC</span></li>
+					<li>Brain Power / NOMA<span class="ico ac">AC</span></li>
+					<li>conflict / siromaru + cranky<span class="ico ac">AC</span></li>
+					<li>Dreamin' Attraction!! / 翡乃イスカ<span class="ico ac">AC</span></li>
+					<li>GO BACK 2 YOUR RAVE / nora2r<span class="ico ac">AC</span></li>
+					<li>GOODBOUNCE / EBIMAYO<span class="ico ac">AC</span></li>
+					<li>GOODTEK / EBIMAYO<span class="ico ac">AC</span></li>
+					<li>Halcyon / xi<span class="ico ac">AC</span></li>
+					<li>MilK / モリモリあつし<span class="ico ac">AC</span></li>
+					<li>Old Heaven / aran<span class="ico ac">AC</span></li>
+					<li>ouroVoros / Team Grimoire<span class="ico ac">AC</span></li>
+					<li>Party 4U -holy nite mix- / Cranky<span class="ico ac">AC</span></li>
+					<li>RAV#GIRL / Srav3R<span class="ico ac">AC</span></li>
+					<li>Re:End of a Dream / uma vs. モリモリあつし<span class="ico ac">AC</span></li>
+					<li>Valhalla / xi<span class="ico ac">AC</span></li>
+					<li>Jingle Bells -Trance Mix- / Remix by COSIO<span class="ico ac">AC</span></li>
+					<li>Shiny Memory feat. Yukacco / USAO &amp; DJ Genki<span class="ico ac">AC</span></li>
+					<li>The Star-Spangled Banner / COSIO</li>
+					<li>VALEDICT / void (Mournfinale)<span class="ico ac">AC</span></li>
+					<li>VALLISTA / 削除<span class="ico ac">AC</span></li>
+					<li class="mg_size">We Are The Massive New Krew -GC Edit- / Massive New Krew<span class="ico ac">AC</span></li>
+					<li>While Shining feat. Yukacco / aran &amp; Kobaryo<span class="ico ac">AC</span></li>
+					<li class="mg_size">バーチャルのじゃロリ狐娘Youtuberおじさんのうた / ねこます feat. さつき が てんこもり<span class="ico ac">AC</span></li>
+					<li>プナイプナイたいそう / 立秋 feat. ちょこ<span class="ico ac">AC</span></li>
+				</ul>
+			</section>
+
+			<section id="freeT" class="clearfix mglist">
+				<h4>無料曲</h4>
+				<ul>
+					<li>Black Moon Sympathy / TeddyLoid<span class="ico ac">AC</span></li>
+					<li>Breach of    faith / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>Cardiac Rhythm / COSIO<span class="ico ac">AC</span></li>
+					<li>COZMIC OPERATION / COSIO<span class="ico ac">AC</span></li>
+					<li>Eurythmics    Trip / COSIO</li>
+					<li>Fess up! / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>Fun-House / COSIO</li>
+					<li>Got a pain cover？/ E.G.G.<span class="ico ac">AC</span></li>
+					<li>Got more raves? / E.G.G.<span class="ico ac">AC</span></li>
+					<li>Groove Prayer / COSIO feat. ChouCho<span class="ico ac">AC</span></li>
+					<li>Happy Smiling♪-More Happy Mix- / COSIO</li>
+					<li>I CANNOT    APE / COSIO<span class="ico ac">AC</span></li>
+					<li>Invade You / COSIO</li>
+					<li>It's a pit world / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>Just no friend / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>Kanon / FREEDOM<span class="ico ac">AC</span></li>
+					<li>Music Plot    Type Three / COSIO<span class="ico ac">AC</span></li>
+					<li>Neptune Diving / COSIO</li>
+					<li>Not get wish / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>Play merrily / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>Play merrily NEO / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>Protocol    Signal Generation / COSIO<span class="ico ac">AC</span></li>
+					<li>Punk Silent    Night / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>Revenge Of    Arkanoid / Lil'B</li>
+					<li>Sakura Mankai / HIROTO<span class="ico ac">AC</span></li>
+					<li>Sakura Remix / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<!--<li>SEE THE LIGHTS feat. IA / ASY</li>-->
+					<li>Sleep / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>Spring to mind / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>Streetwalker / Shohei Tsuchiya</li>
+					<li>Symphony No. 9    -Groove MIX- / Remix by COSIO</li>
+					<li>Thrash Beat / COSIO<span class="ico ac">AC</span></li>
+					<li>The Beginning / COSIO</li>
+					<!--<li>The Party Has Just Begun / LastSecond<span class="ico ac">AC</span></li>-->
+					<li>You've Gatta    Luv / Shu Nakazawa</li>
+					<li>World Collapse / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>カンナンシンク / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+					<li>檄(GEKI) / Shohei Tsuchiya<span class="ico ac">AC</span></li>
+				</ul>
+			</section>
+			<p class="jasrac">プレゼント曲、配信曲ともぞくぞくリリース予定！<br>
+			<img src="images/jasrac.gif" alt="JASRAC" width="60" height="60" /></p>
+			
+			<section id="packs" class="clearfix mglist">
+				<h4>楽曲パック</h4>
+				<div id="mPack">
+				<div class="Fbox">
+					<section class="mPack">
+						<h5>ヒットソングパック1</h5>
+						<dl>
+							<dt>ポリリズム</dt>
+							<dt>ファッションモンスター</dt>
+							<dt>つけまつける</dt>
+							<dt>JOY</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ヒットソングパック2</h5>
+						<dl>
+							<dt>リライト</dt>
+							<dt>じょいふる</dt>
+							<dt>traveling</dt>
+							<dt>TREE CLIMBERS</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ヒットソングパック48</h5>
+						<dl>
+							<dt>フライングゲット</dt>
+							<dt>ヘビーローテーション</dt>
+							<dt>V.I.P</dt>
+							<dt>Pray</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>クラブパック</h5>
+						<dl>
+							<dt>SPACE INVADERS 2003</dt>
+							<dt>虹</dt>
+							<dt>BACK ON MY FEET</dt>
+							<dt>ワールズエンド・スーパーノヴァ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>オリジナルパック1</h5>
+						<dl>
+							<dt>Shooting Star</dt>
+							<dt>ピ・ピ・ピ・ミュージック</dt>
+							<dt>Dreamer</dt>
+							<dt>Happy Smiling♪-More Happy Mix-</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>オリジナルパック2</h5>
+						<dl>
+							<dt>Music Revolver</dt>
+							<dt>Wacky dance ethnic</dt>
+							<dt>Freestyle Beats</dt>
+							<dt>Not get wish</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>シューティングパック</h5>
+						<dl>
+							<dt>Good-bye my earth</dt>
+							<dt>VISIONNERZ～幻視人～</dt>
+							<dt>Hello 31337</dt>
+							<dt>Space Invaders Infinity Gene Medley</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ゲームパック</h5>
+						<dl>
+							<dt>KIKIKAIKAI</dt>
+							<dt>Quartet Theme [Reborn]</dt>
+							<dt>Planet Connection</dt>
+							<dt>Flower of Gangster</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>COSIOパック</h5>
+						<dl>
+							<dt>Invader Disco</dt>
+							<dt>Invade You</dt>
+							<dt>Jingle Bells　-Trance Mix-</dt>
+							<dt>The Star-Spangled Banner</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>チョコレイト・ディスコパック</h5>
+						<dl>
+							<dt>チョコレイト・ディスコ</dt>
+							<dt>レーザービーム</dt>
+							<dt>love the world</dt>
+							<dt>ねぇ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アニメパック1</h5>
+						<dl>
+							<dt>君の知らない物語</dt>
+							<dt>only my railgun</dt>
+							<dt>コネクト</dt>
+							<dt>Beautiful World</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アニメパック2</h5>
+						<dl>
+							<dt>白金ディスコ</dt>
+							<dt>ナイショの話</dt>
+							<dt>crossing field</dt>
+							<dt>INNOCENCE</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アニメパック3</h5>
+						<dl>
+							<dt>sister's noise</dt>
+							<dt>reunion</dt>
+							<dt>Fantastic future</dt>
+							<dt>恋は渾沌の隷也</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>バンドパック1</h5>
+						<dl>
+							<dt>リンダ リンダ</dt>
+							<dt>大迷惑</dt>
+							<dt>Alright!!</dt>
+							<dt>名もなき詩</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>カゲロウプロジェクトパック1</h5>
+						<dl>
+							<dt>カゲロウデイズ</dt>
+							<dt>如月アテンション</dt>
+							<dt>チルドレンレコード</dt>
+							<dt>夜咄ディセイブ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>バンドパック2</h5>
+						<dl>
+							<dt>YUMEGIWA LAST BOY</dt>
+							<dt>アルクアラウンド</dt>
+							<dt>天体観測</dt>
+							<dt>美しく燃える森</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック1</h5>
+						<dl>
+							<dt>千本桜</dt>
+							<dt>裏表ラバーズ</dt>
+							<dt>パンダヒーロー</dt>
+							<dt>magnet</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック2</h5>
+						<dl>
+							<dt>ダブルラリアット</dt>
+							<dt>ロミオとシンデレラ</dt>
+							<dt>ハッピーシンセサイザ</dt>
+							<dt>右肩の蝶</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック3</h5>
+						<dl>
+							<dt>アンハッピーリフレイン</dt>
+							<dt>僕のサイノウ</dt>
+							<dt>ローリンガール</dt>
+							<dt>ワールズエンド・ダンスホール</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック4</h5>
+						<dl>
+							<dt>マトリョシカ</dt>
+							<dt>結ンデ開イテ羅刹ト骸</dt>
+							<dt>Mrs.Pumpkinの滑稽な夢</dt>
+							<dt>ワンダーランドと羊の歌</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック5</h5>
+						<dl>
+							<dt>ダンシング☆サムライ</dt>
+							<dt>THE WORLDS</dt>
+							<dt>独りんぼエンヴィー</dt>
+							<dt>アストロトルーパー</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>Ｚパック</h5>
+						<dl>
+							<dt>行くぜっ！怪盗少女 -Z Ver.-</dt>
+							<dt>サラバ、愛しき悲しみたちよ</dt>
+							<dt>Ｚ女戦争</dt>
+							<dt>猛烈宇宙交響曲・第七楽章「無限の愛」</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック1</h5>
+						<dl>
+							<dt>Analysis Division</dt>
+							<dt>OVER THE NIGHT</dt>
+							<dt>GO! SPIRAL GO!</dt>
+							<dt>Invader GIRL!</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック2</h5>
+						<dl>
+							<dt>Stardust Vox</dt>
+							<dt>No Way Out </dt>
+							<dt>PIXEL STAR </dt>
+							<dt>Crowded space</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>カゲロウプロジェクトパック2</h5>
+						<dl>
+							<dt>コノハの世界事情</dt>
+							<dt>空想フォレスト</dt>
+							<dt>オツキミリサイタル</dt>
+							<dt>ロスタイムメモリー</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>パズドラパック1</h5>
+						<dl>
+							<dt>Departure</dt>
+							<dt>Walking Through The Towers</dt>
+							<dt>The Orb Festival</dt>
+							<dt>Walking Through The Towers -Remix-</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>IAクラブラインパック</h5>
+						<dl>
+							<dt>ワールド・コーリング(TeddyLoid Remix)</dt>
+							<dt>Over Drive</dt>
+							<!--<dt>NO feat. IA </dt>-->
+							<dt>エネの電脳紀行</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>カゲロウプロジェクトパック3</h5>
+						<dl>
+							<dt>ヘッドフォンアクター</dt>
+							<dt>アヤノの幸福理論</dt>
+							<dt>夕景イエスタデイ</dt>
+							<dt>人造エネミー</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ZUNTATAアレンジパック１</h5>
+						<dl>
+							<dt>Captain NEO -Confusion Mix-</dt>
+							<dt>Geometric City -GC Remix-</dt>
+							<dt>CERAMIC HEART (REMIX)</dt>
+							<dt>ON THE VERGE OF REVIVAL (REMIX)</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>てくてくビートパック1</h5>
+						<dl>
+							<dt>Roteen da Moon</dt>
+							<dt>Hard Head</dt>
+							<dt>TGM in the Bottle</dt>
+							<dt>Night Life</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック6</h5>
+						<dl>
+							<dt>M.S.S. Planet</dt>
+							<dt>THE BLUE</dt>
+							<dt>Whereabouts of curry</dt>
+							<dt>CELESTIAL</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>カゲロウプロジェクトパック4</h5>
+						<dl>
+							<dt>メカクシコード</dt>
+							<dt>少年ブレイヴ</dt>
+							<dt>アウターサイエンス</dt>
+							<dt>サマータイムレコード</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>パズドラパック2</h5>
+						<dl>
+							<dt>Dragon's Den</dt>
+							<dt>A New Journey</dt>
+							<dt>決戦！！ from Z</dt>
+							<dt>Discover from W -Remix-</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック7</h5>
+						<dl>
+							<dt>バビロン</dt>
+							<dt>ヤンキーボーイ・ヤンキーガール</dt>
+							<dt>アザレアの亡霊</dt>
+							<dt>魔法少女幸福論</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック3</h5>
+						<dl>
+							<dt>Satisfiction</dt>
+							<dt>SKYSCRAPER</dt>
+							<dt>STAR COASTER</dt>
+							<dt>Five to Seven</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック8</h5>
+						<dl>
+							<dt>ゴーゴー幽霊船</dt>
+							<dt>嗚呼、素晴らしきニャン生</dt>
+							<dt>恋愛フィロソフィア</dt>
+							<dt>magician's operation</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ドラゴン討伐パック</h5>
+						<dl>
+							<dt>Maiami Sound Beats</dt>
+							<dt>Under Control</dt>
+							<dt>終わらないグルーヴ</dt>
+							<dt>Flakes</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック4</h5>
+						<dl>
+							<dt>Lost Colors</dt>
+							<dt>SPACE ARCADIAN</dt>
+							<dt>No more labor</dt>
+							<dt>Period of Revolution</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>日向電工パック</h5>
+						<dl>
+							<dt>ブリキノダンス</dt>
+							<dt>ジベタトラベル</dt>
+							<dt>アンダワ -GC remix-</dt>
+							<dt>プラスチックケージ -GC remix-</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ブレイブルーパック</h5>
+						<dl>
+							<dt>CHRONOPHANTASMA</dt>
+							<dt>Rebellion</dt>
+							<dt>Catus Carnival</dt>
+							<dt>Awakening The Chaos</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>DECO*27パック</h5>
+						<dl>
+							<dt>モザイクロール</dt>
+							<dt>弱虫モンブラン</dt>
+							<dt>二息歩行</dt>
+							<dt>ストリーミングハート</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アニメパック4</h5>
+						<dl>
+							<dt>Can Do</dt>
+							<dt>The Other self</dt>
+							<dt>God knows...</dt>
+							<dt>ETERNAL BLAZE</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>世阿弥 vs Tatshパック</h5>
+						<dl>
+							<dt>聖者の鼓動</dt>
+							<dt>聖者の息吹</dt>
+							<dt>グルーヴ・リボルバー</dt>
+							<dt>零式 &#060;Type-ZERO&#062;</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ZUNTATAアレンジパック2</h5>
+						<dl>
+							<dt>DADDY MULK -Groove remix-</dt>
+							<dt>BURN ALT AIR</dt>
+							<dt>BEFORE TEN ORB</dt>
+							<dt>FAKE (ALR REMIX)</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック1</h5>
+						<dl>
+							<dt>チルノのパーフェクトさんすう教室</dt>
+							<dt>魔理沙は大変なものを盗んでいきました</dt>
+							<dt>患部で止まってすぐ溶ける ～ 狂気の優曇華院</dt>
+							<dt>今夜はヴァンピン☆全世界ナイトメア</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック2</h5>
+						<dl>
+							<dt>ナイト・オブ・ナイツ</dt>
+							<dt>Help me, ERINNNNNN!!</dt>
+							<dt>ウサテイ2013</dt>
+							<dt>東方人-TOHO BEAT-</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック3</h5>
+						<dl>
+							<dt>待チ人ハ来ズ。</dt>
+							<dt>囲い無き世は一期の月影</dt>
+							<dt>幻想のサテライト</dt>
+							<dt>響縁</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック4</h5>
+						<dl>
+							<dt>ケロ9destiny</dt>
+							<dt>蒼空に舞え、墨染の桜</dt>
+							<dt>Keep the Faith</dt>
+							<dt>Faint Love</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック5</h5>
+						<dl>
+							<dt>FOUR SEASONS OF LONELINESS verβ feat.サリヤ人</dt>
+							<dt>CYBER Sparks</dt>
+							<dt>Cruel Moon NuMIX</dt>
+							<dt>BlazeConductor</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>初音ミク・巡音ルカ・鏡音レンパック</h5>
+						<dl>
+							<dt>ハジメテノオト</dt>
+							<dt>プラグアウト</dt>
+							<dt>DYE</dt>
+							<dt>クラブ＝マジェスティ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック5</h5>
+						<dl>
+							<dt>平成快晴どってんしゃん</dt>
+							<dt>HB-axeleration</dt>
+							<dt>カンフーガール=ロンメイ</dt>
+							<dt>Agent Angels</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>IOSYSパック</h5>
+						<dl>
+							<dt>DX超性能フルメタル少女</dt>
+							<dt>comet</dt>
+							<dt>Sweet Love</dt>
+							<dt>ラバー★ポップ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>t+pazoliteパック</h5>
+						<dl>
+							<dt>OMAKENO Stroke</dt>
+							<dt>Marry me, Nightmare</dt>
+							<dt>QLWA</dt>
+							<dt>Satisfiction (Massive New Krew Remix)</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック9（MSSP特集）</h5>
+						<dl>
+							<dt>M.S.S.Phantom</dt>
+							<dt>RETROID</dt>
+							<dt>ANCIENT</dt>
+							<dt>Heavenly Particle</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>てくてくビートパック2（5曲）</h5>
+						<dl>
+							<dt>Crowded Town</dt>
+							<dt>Spider Control 16th</dt>
+							<dt>Phone Dead Room</dt>
+							<dt>Stronger</dt>
+							<dt>Arabesque</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>でんぱ組.inc パック</h5>
+						<dl>
+							<dt>ちゅるりちゅるりら</dt>
+							<dt>でんでんぱっしょん</dt>
+							<dt>でんぱーりーナイト</dt>
+							<dt>W.W.D</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック6</h5>
+						<dl>
+							<dt>Bad Apple!! feat. nomico</dt>
+							<dt>Colors</dt>
+							<dt>My Voice is Dead.</dt>
+							<dt>最速最高シャッターガール</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>EDM IS GAMEパック</h5>
+						<dl>
+							<dt>TAKING OFF</dt>
+							<dt>VEGAS</dt>
+							<dt>DOTTED 8TH</dt>
+							<dt>TRIPLE3T</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック7</h5>
+						<dl>
+							<dt>聖少女サクリファイス</dt>
+							<dt>ゆけむり魂温泉</dt>
+							<dt>Spider's Blood</dt>
+							<dt>ID</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック6</h5>
+						<dl>
+							<dt>座和々</dt>
+							<dt>orbital</dt>
+							<dt>VELVET</dt>
+							<dt>VOLT</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック8</h5>
+						<dl>
+							<dt>色は匂へど散りぬるを(Fractal 1.5ver.)</dt>
+							<dt>天狗の詫び証文</dt>
+							<dt>I</dt>
+							<dt>Foughten Field</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック7</h5>
+						<dl>
+							<dt>Shiva</dt>
+							<dt>Under The Moon</dt>
+							<dt>Flyaway</dt>
+							<dt>Negative Return</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック9</h5>
+						<dl>
+							<dt>FullMoon</dt>
+							<dt>リバース・デス</dt>
+							<dt>I, SCREAM</dt>
+							<dt>FEEL MY BEAT!</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック10(トーマ特集2)</h5>
+						<dl>
+							<dt>骸骨楽団とリリア</dt>
+							<dt>九龍レトロ</dt>
+							<dt>エンヴィーキャットウォーク</dt>
+							<dt>オレンジ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ゲームパック2</h5>
+						<dl>
+							<dt>The world of spirit</dt>
+							<dt>電車で電車でGO!GO!GO!GC! -GMT remix-</dt>
+							<dt>バブルボブルメドレー</dt>
+							<dt>アルカノイドvsインベーダー</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック10</h5>
+						<dl>
+							<dt>そして誰もいなくなった</dt>
+							<dt>beyond the star line</dt>
+							<dt>カミノヒ</dt>
+							<dt>カリソメ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ブレイブルーパック2</h5>
+						<dl>
+							<dt>CHRONORISE</dt>
+							<dt>Queen of rose</dt>
+							<dt>Gluttony Fang</dt>
+							<dt>Lust SIN</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック11</h5>
+						<dl>
+							<dt>マウストゥーマウス</dt>
+							<dt>Endless Seeker</dt>
+							<dt>UFOロマンス</dt>
+							<dt>未確認幻想コースター</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アニメパック5</h5>
+						<dl>
+							<dt>残酷な天使のテーゼ</dt>
+							<dt>創聖のアクエリオン</dt>
+							<dt>紅蓮の弓矢</dt>
+							<dt>自由の翼</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>IA&amp;ONEパック</h5>
+						<dl>
+							<dt>ミライ</dt>
+							<dt>Into Starlight</dt>
+							<dt>Perverse Love Rock!</dt>
+							<dt>CITRUS</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック12</h5>
+						<dl>
+							<dt>東方音銃夢</dt>
+							<dt>東方散楽祭</dt>
+							<dt>東方不死鳥</dt>
+							<dt>東方地神律</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>バラエティパック1</h5>
+						<dl>
+							<dt>Halcyon</dt>
+							<dt>Valhalla</dt>
+							<dt>Party 4U -holy nite mix-</dt>
+							<dt>conflict</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>天下一パック</h5>
+						<dl>
+							<dt>FUJIN Rumble</dt>
+							<dt>Solar Storm</dt>
+							<dt>Black MInD</dt>
+							<dt>Scarlet Lance</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ヒットソングパック3</h5>
+						<dl>
+							<dt>シュガーソングとビターステップ</dt>
+							<dt>夏祭り</dt>
+							<dt>空色デイズ</dt>
+							<dt>女々しくて</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック13</h5>
+						<dl>
+							<dt>INCOGNITO</dt>
+							<dt>清らかな幸福</dt>
+							<dt>鼓動、零れぬ酒</dt>
+							<dt>Material of Puppets</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック8</h5>
+						<dl>
+							<dt>ピリオドのない世界</dt>
+							<dt>Smash a mirror</dt>
+							<dt>tiny tales continue</dt>
+							<dt>LINK LINK FEVER!!!</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック11</h5>
+						<dl>
+							<dt>アスノヨゾラ哨戒班</dt>
+							<dt>かくしごと</dt>
+							<dt>すーぱーぬこになりたい</dt>
+							<dt>アブストラクト・ナンセンス</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック14</h5>
+						<dl>
+							<dt>White World feat. 小田ユウ</dt>
+							<dt>Dream Coaster</dt>
+							<dt>WARNING×WARNING×WARNING</dt>
+							<dt>東方外魔伝</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>GMTパック</h5>
+						<dl>
+							<dt>ファンタジーゾーン OPA-OPA! -GMT remix-</dt>
+							<dt>RIDGE RACER STEPS -GMT remix-</dt>
+							<dt>リッジでリッジでGO!GO!GO! -GMT mashup-</dt>
+							<dt>電車で電車でOPA!OPA!OPA! -GMT mashup-</dt>
+							<dt>オパ! オパ! RACER -GMT mashup-</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック15</h5>
+						<dl>
+							<dt>サドマミホリック</dt>
+							<dt>あの日の蜃気楼</dt>
+							<dt>君色サブリミナル</dt>
+							<dt>スターオーシャン</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ダライアスパック</h5>
+						<dl>
+							<dt>Freedom</dt>
+							<dt>G ZERO</dt>
+							<dt>COSMIC AIR WAY -Trans Mountain Express MIX-</dt>
+							<dt>Abyssal Withdrawal</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック16</h5>
+						<dl>
+							<dt>幻想の旅人へ ～ Catch the Heart</dt>
+							<dt>Sad Rain</dt>
+							<dt>コノハズク</dt>
+							<dt>ジョーカー・ジュンコ ～ 永遠の純化</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>VOCALOIDパック1</h5>
+						<dl>
+							<dt>エイリアンエイリアン</dt>
+							<dt>ネトゲ廃人シュプレヒコール</dt>
+							<dt>初音ミクの消失</dt>
+							<dt>初音ミクの暴走</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック9</h5>
+						<dl>
+							<dt>Sign of "10.5km"</dt>
+							<dt>Stratospheric Journey</dt>
+							<dt>Bright Lights</dt>
+							<dt>Warrior</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック17</h5>
+						<dl>
+							<dt>マーメイドダンス</dt>
+							<dt>Grow Bigger!!</dt>
+							<dt>九十九星降</dt>
+							<dt>LIMIT BURST(GC Mix.)</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>VOCALOIDパック2</h5>
+						<dl>
+							<dt>炉心融解</dt>
+							<dt>悪ノ娘</dt>
+							<dt>ロストワンの号哭</dt>
+							<dt>深海シティアンダーグラウンド</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>Lanotaパック</h5>
+						<dl>
+							<dt>cyanine</dt>
+							<dt>Frey's Philosophy</dt>
+							<dt>Androgynos</dt>
+							<dt>You are the Miserable</dt>
+							<dt>Specta</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック18</h5>
+						<dl>
+							<dt>LOVE FOR YOU</dt>
+							<dt>東方双地舞</dt>
+							<dt>D+D→T+p</dt>
+							<dt>月に叢雲華に風</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>VOCALOIDパック3</h5>
+						<dl>
+							<dt>Just Be Friends</dt>
+							<dt>いーあるふぁんくらぶ</dt>
+							<dt>Bad &infin; End &infin; Night</dt>
+							<dt>サンドリヨン</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>HARDCORE TANO*Cパック</h5>
+						<dl>
+							<dt>MERLIN</dt>
+							<dt>MAD FREAKS</dt>
+							<dt>MIRACLE PARTY</dt>
+							<dt>Good Night, Bad Luck.</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック19</h5>
+						<dl>
+							<dt>クリスタライズ！</dt>
+							<dt>細い線</dt>
+							<dt>Border of Colour</dt>
+							<dt>IN MY LIFE</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アニメパック6</h5>
+						<dl>
+							<dt>ようこそジャパリパークへ</dt>
+							<dt>DreamRiser</dt>
+							<dt>全力バタンキュー</dt>
+							<dt>ハレ晴レユカイ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>VOCALOIDパック4</h5>
+						<dl>
+							<dt>からくりピエロ</dt>
+							<dt>Crazy &infin; nighT</dt>
+							<dt>39みゅーじっく！</dt>
+							<dt>脱法ロック</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>TAITO GAME MUSIC REMIXSパック</h5>
+						<dl>
+							<dt>小夜のテーマ ～とぱぞのアレンジ～</dt>
+							<dt>影の伝説 ～豚乙女mix～</dt>
+							<dt>バトル#2 ～ヒゲドライバーMIX～</dt>
+							<dt>say PaPa re:mix</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック 20</h5>
+						<dl>
+							<dt>イニシャルイニシャルエコーエゴー</dt>
+							<dt>孤独な花</dt>
+							<dt>完全の模様を刳り貫いて</dt>
+							<dt>揺蕩うLove (feat. らっぷびと) </dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>#コンパスパック</h5>
+						<dl>
+							<dt>ダンスロボットダンス</dt>
+							<dt>アルカリレットウセイ</dt>
+							<dt>天使だと思っていたのに</dt>
+							<dt>グラーヴェ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック12</h5>
+						<dl>
+							<dt>バーチャルのじゃロリ狐娘Youtuberおじさんのうた</dt>
+							<dt>Seyana.～何でも言うことを聞いてくれるアカネチャン～</dt>
+							<dt>M.S.S.Phoenix</dt>
+							<dt>彗星ハネムーン</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>VOCALOIDパック5</h5>
+						<dl>
+							<dt>十面相</dt>
+							<dt>天ノ弱</dt>
+							<dt>恋愛勇者</dt>
+							<dt>セツナトリップ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック21</h5>
+						<dl>
+							<dt>7 days a week</dt>
+							<dt>Ring a bell beautifully -GAME Edit-</dt>
+							<dt>メイドと血の懐中時計</dt>
+							<dt>tete+a+tete</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック10</h5>
+						<dl>
+							<dt>ADRENA</dt>
+							<dt>全人類犬化計画</dt>
+							<dt>Wandering One</dt>
+							<dt>JUMPEE!</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>UNDERTALEパック</h5>
+						<dl>
+							<dt>華麗なる死闘</dt>
+							<dt>本物のヒーローとの戦い</dt>
+							<dt>MEGALOVANIA</dt>
+							<dt>これでホントにサヨナラ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>Arcaeaパック</h5>
+						<dl>
+							<dt>Ignotus</dt>
+							<dt>Be There</dt>
+							<dt>Modelista</dt>
+							<dt>Metallic Punisher</dt>
+							<dt>Singularity -Binary Enfold-</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>バラエティパック</h5>
+						<dl>
+							<dt>VALLISTA</dt>
+							<dt>GO BACK 2 YOUR RAVE</dt>
+							<dt>Old Heaven</dt>
+							<dt>We Are The Massive New Krew -GC Edit-</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック22</h5>
+						<dl>
+							<dt>ってゐ！ ～えいえんてゐver.～</dt>
+							<dt>Help me, ERINNNNNN!! -Cranky remix-</dt>
+							<dt>シンデレラケージ</dt>
+							<dt>ジンガイクライシス</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>Attack The Musicパック</h5>
+						<dl>
+							<dt>APELIOTES</dt>
+							<dt>Caramel Mocha</dt>
+							<dt>Lethal Dose</dt>
+							<dt>GLITHCRE</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>IA&amp;ONEパック2</h5>
+						<dl>
+							<dt>てるみい</dt>
+							<dt>STAY GOLD</dt>
+							<dt>Reload</dt>
+							<dt>おねがいダーリン</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>Tatsh &amp; DJ MURASAMEパック</h5>
+						<dl>
+							<dt>メシアの邂逅</dt>
+							<dt>聖者の覚醒</dt>
+							<dt>Xand-Roid</dt>
+							<dt>TECHNO COMPLEX</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック23</h5>
+						<dl>
+							<dt>Crime Wave</dt>
+							<dt>アマノジャック</dt>
+							<dt>ナイト・オブ・ナイツ (feat. y t r) - TOS Remix</dt>
+							<dt>Treasure</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>DJMAX RESPECT パック</h5>
+						<dl>
+							<dt>U.A.D</dt>
+							<dt>Don't Die</dt>
+							<dt>glory day</dt>
+							<dt>OBLIVION</dt>
+							<dt>Fermion</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック13</h5>
+						<dl>
+							<dt>アンノウン・マザーグース</dt>
+							<dt>ボロボロだ</dt>
+							<dt>快晴</dt>
+							<dt>太陽系デスコ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック11</h5>
+						<dl>
+							<dt>HG魔改造ポリビニル少年</dt>
+							<dt>クレープ・to・ミー。</dt>
+							<dt>グルーヴ・ザ・ハート</dt>
+							<dt>KUNG FU GIRL</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック24</h5>
+						<dl>
+							<dt>クレイジークレイジーダンサーズ</dt>
+							<dt>あうんどばいみー</dt>
+							<dt>Metamorphosis</dt>
+							<dt>畢竟成仏</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>UNDERTALEパック2</h5>
+						<dl>
+							<dt>Bonetrousle</dt>
+							<dt>スパイダーダンス</dt>
+							<dt>アズゴア</dt>
+							<dt>最高の悪夢</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>バラエティパック3</h5>
+						<dl>
+							<dt>AXION</dt>
+							<dt>B.B.K.K.B.K.K.</dt>
+							<dt>While Shining feat. Yukacco</dt>
+							<dt>Brain Power</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>VOCALOIDパック6</h5>
+						<dl>
+							<dt>ロキ</dt>
+							<dt>悪ノ召使</dt>
+							<dt>トリノコシティ</dt>
+							<dt>Nyanyanyanyanyanyanya!</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>Lanotaパック2</h5>
+						<dl>
+							<dt>Journey</dt>
+							<dt>Song for Sprites</dt>
+							<dt>Apocalypse</dt>
+							<dt>Hayabusa</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック25</h5>
+						<dl>
+							<dt>ヒトリシズカ</dt>
+							<dt>エピクロスの虹はもう見えない</dt>
+							<dt>悪戯センセーション</dt>
+							<dt>最終鬼畜妹フランドール・S</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>E.G.G.パック</h5>
+						<dl>
+							<dt>Got noir forever.</dt>
+							<dt>Got hive of Ra</dt>
+							<dt>Got recover run</dt>
+							<dt>Got sorted view.</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>kemuパック</h5>
+						<dl>
+							<dt>イカサマライフゲイム</dt>
+							<dt>人生リセットボタン</dt>
+							<dt>六兆年と一夜物語</dt>
+							<dt>インビジブル</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>バラエティパック4</h5>
+						<dl>
+							<dt>Shiny Memory feat. Yukacco</dt>
+							<dt>ouroVoros</dt>
+							<dt>VALEDICT</dt>
+							<dt>Re:End of a Dream</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>DJMAX RESPECTパック2</h5>
+						<dl>
+							<dt>Nevermind</dt>
+							<dt>I want You</dt>
+							<dt>Thor</dt>
+							<dt>SON OF SUN</dt>
+							<dt>Ray of Illuminati</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>Muse Dash パック</h5>
+						<dl>
+							<dt>Lights of Muse</dt>
+							<dt>Stargazer</dt>
+							<dt>XING</dt>
+							<dt>粉骨砕身カジノゥ</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック14</h5>
+						<dl>
+							<dt>ただ君に晴れ</dt>
+							<dt>テオ</dt>
+							<dt>ハロ/ハワユ</dt>
+							<dt>だれかの心臓になれたなら</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>アーケードパック12</h5>
+						<dl>
+							<dt>PUT YOUR HANDS UP</dt>
+							<dt>ＦＭ音源黙示録-Apocalypse of FM Tone Generator-</dt>
+							<dt>Cosmic Ray</dt>
+							<dt>HAPPY! LUCKY! FUTURE WORLD!</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック26</h5>
+						<dl>
+							<dt>HANIPAGANDA</dt>
+							<dt>穢れなきユーフォリア</dt>
+							<dt>夢色プレリュード</dt>
+							<dt>Vanity on the future</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>WACCA パック</h5>
+						<dl>
+							<dt>Let you DIVE!</dt>
+							<dt>Gate One</dt>
+							<dt>Poseidon</dt>
+							<dt>Exitium</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>WACCA パック2</h5>
+						<dl>
+							<dt>with U</dt>
+							<dt>Knight Rider</dt>
+							<dt>Invisible Frenzy</dt>
+							<dt>QiXiN MAdN3ss 2153</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック27</h5>
+						<dl>
+							<dt>ロストワードクロニカル</dt>
+							<dt>ぐる☆ネーション</dt>
+							<dt>バブルの呪文はシュー！ポッ！プッシュ！</dt>
+							<dt>泡沫、哀のまほろば</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>バラエティパック5</h5>
+						<dl>
+							<dt>プナイプナイたいそう</dt>
+							<dt>Altale</dt>
+							<dt>GOODBOUNCE</dt>
+							<dt>MilK</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック15</h5>
+						<dl>
+							<dt>だから僕は音楽を辞めた</dt>
+							<dt>ジャンキーナイトタウンオーケストラ</dt>
+							<dt>スーサイドパレヱド</dt>
+							<dt>ウミユリ海底譚</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>オリジナルパック3 (10周年記念特集)</h5>
+						<dl>
+							<dt>1llusion 0f the FAIRYtALE hARMONY</dt>
+							<dt>Invader OnDo</dt>
+							<dt>聖者の祈願</dt>
+							<dt>Happy 10th anniversary</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>D4DJ Groovy Mix パック</h5>
+						<dl>
+							<dt>LOVE!HUG!GROOVY!!</dt>
+							<dt>ぐるぐるDJ TURN!!</dt>
+							<dt>CAPTAIN NEO～BOSS SCENE1(D4DJ MIX)</dt>
+							<dt>CHAOS～BOSS SCENE7(D4DJ MIX)</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>バラエティパック6</h5>
+						<dl>
+							<dt>Black Lotus</dt>
+							<dt>Dreamin' Attraction!!</dt>
+							<dt>GOODTEK</dt>
+							<dt>RAV#GIRL</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>D4DJ Groovy Mix パック2</h5>
+						<dl>
+							<dt>電乱★カウントダウン</dt>
+							<dt>Photon Melodies</dt>
+							<dt>DADDY MULK (D4DJ MIX)</dt>
+							<dt>URBAN TRAIL(D4DJ MIX)</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>オリジナルパック4 (10周年記念特集2)</h5>
+						<dl>
+							<dt>DX超野生！サバイバルずんど子ちゃん</dt>
+							<dt>希</dt>
+							<dt>Valkyrja Requiem</dt>
+							<dt>コスモスタート</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>東方プロジェクトアレンジパック28</h5>
+						<dl>
+							<dt>サトリアイ(feat. ｙｔｒ)</dt>
+							<dt>お空のニュークリアフュージョン道場</dt>
+							<dt>大江山ジャイアントスイング</dt>
+							<dt>無間嫉妬劇場『666』</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>ニコニコミュージックパック16</h5>
+						<dl>
+							<dt>フィクサー</dt>
+							<dt>東京テディベア</dt>
+							<dt>文学少女インセイン</dt>
+							<dt>だんだん早くなる</dt>
+						</dl>
+					</section>
+					<section class="mPack">
+						<h5>UNDERTALEパック3 <span class="ico new">NEW</span></h5>
+						<dl>
+							<dt>怒りのマネキン！</dt>
+							<dt>手ミーむら！手ミーみせ！</dt>
+							<dt>正義の槍</dt>
+							<dt>夢と希望</dt>
+						</dl>
+					</section>
+				</div>
+				</div>
+				<!--#mPack終わり-->
+			</section>
+			<!--#packs終わり-->
+		</div>
+		<!--#music_wr終わり-->
+	</article>
+	<!--SNSシェアボタン-->
+	<div class="shareBox clearfix">
+		<div class="shareButtons clearfix">
+			<!--Facebook-->
+			<div class="fb-like" data-href="http://groovecoaster.com/apps/" data-width="160" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+	
+			<!--Twitter-->
+			<div class="tweetBtn"><a href="https://twitter.com/share" class="twitter-share-button" data-via="GROOVE COASTER" data-text="全世界で絶賛の嵐！疾走する次世代グルーヴゲーム「GROOVE COASTER（グルーヴコースター）」登場 ！" data-lang="ja">ツイート</a></div>
+	
+			<!--Google+1-->
+			<div class="googleBtn"><div class="g-plusone" data-size="medium"></div></div>
+	
+			<!--LINE-->
+			<div class="line-it-button" style="display: none;" data-type="share-a" data-lang="ja" ></div>
+	
+		</div>
+	</div>
+	<div id="pageTop"><a href="#primaryContainer"><img src="images/gc2_menu_top.png" alt="ページトップへ"/></a></div>
+	<!--#content終わり-->
+</div>
+<!--#primaryContainer終わり-->
+<!--Footer Elements-->
+<div id="menu">
+	<div id="g_nav" class="clearfix">
+		<div class="mainMenu">
+			<h2>MENU</h2>
+			<ul class="clearfix">
+				<li><a href="news.html"><img src="images/gc2_menu_01.png" alt="ニュース" title="ニュース" /></a></li>
+				<li><a href="about.html"><img src="images/gc2_menu_02.png" alt="グルーヴコースターとは" title="グルーヴコースターとは" /></a></li>
+				<li><a href="movie.html"><img src="images/gc2_menu_03.png" alt="動画" title="動画" /></a></li>
+				<li><a href="music.html"><img src="images/gc2_menu_04.png" alt="楽曲情報" title="楽曲情報" /></a></li>
+				<li><a href="extra.html"><img src="images/gc2_menu_05.png" alt="エクストラ" title="エクストラ" /></a></li>
+			</ul>
+		</div>
+		<div class="appDownLoad">
+			<h2>アプリのダウンロード(無料)</h2>
+			<ul>
+				<li class="appstore"><a href="https://itunes.apple.com/jp/app/groovecoasterzero/id549050409?mt=8" target="_blank"><img src="images/registerBtnios_no_1906.png" alt="iOS版配信中！"/></a></li>
+				<li class="googleplay"><a href="https://play.google.com/store/apps/details?id=jp.co.taito.groovecoasterzero" target="_blank"><img src="images/registerBtnAndroid_no_1906.png" alt="Android版配信中！"/></a></li>
+				<li class="compatible"><a href="compatible.html">推奨端末一覧</a></li>
+			</ul>
+		</div>
+		<ul class="links">
+			<li><a href="http://zuntata.jp/" target="_blank"><img src="images/gc2_banner_zfield.jpg" alt="Z-FIELD"/></a></li>
+			<li><a href="http://groovecoaster.jp/" target="_blank"><img src="images/banner_40078_gc4max.jpg" alt="GROOVE COASTER 4MAX DIAMOND GALAXY"/></a></li>
+		</ul>
+	</div>
+	<div id="footer">
+		<div id="f_nav" class="clearfix">
+			<ul class="clearfix">
+				<li><a href="../">ポータルトップ</a></li>
+				<li><a href="http://www.taito.co.jp/privacy/index.html" target="_blank">プライバシーポリシー</a></li>
+				<li><a href="guide.html">利用規約</a></li>
+				<li><a href="http://support.taito.co.jp/main.php?id=12781" target="_blank">お問い合わせ</a></li>
+				<li><a href="en/">English</a></li>
+			</ul>
+			<p class="copyright">&copy; TAITO CORPORATION 1978,2015 ALL RIGHTS RESERVED.</p>
+			<p class="taito"><a href="https://www.taito.co.jp/" target="_blank"><img src="images/taito_logo.png" alt="タイトー" /></a></p>
+		</div>
+	</div>
+</div>
+<!--Footer Elements-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=1.8.3"></script>
+<script src="//scdn.line-apps.com/n/line_it/thirdparty/loader.min.js" async="async" defer="defer" ></script>
+<script src="js/jquery.sidr.min.js"></script>
+<script src="js/jquery.flexslider.js"></script> 
+<script src="js/main.js"></script>
+<script>
+    $(function(){
+        $("h4").on("click", function() {
+            $(this).next().slideToggle();
+        });
+    });
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8253794-5', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

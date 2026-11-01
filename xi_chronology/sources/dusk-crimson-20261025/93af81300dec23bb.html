@@ -1,0 +1,2200 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb# article: https://ogp.me/ns/article#">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <script>
+    (function () {
+        var m = /(Android|iPhone|iPad)/.exec(navigator.userAgent)
+        if (m && m[1] !== 'iPhone') return
+        var meta = document.querySelector('meta[name="viewport"]')
+        if (!meta) return
+        meta.setAttribute('content', m
+            ? 'width=device-width,minimum-scale=1,initial-scale=1,user-scalable=no'
+            : 'width=980')
+    })()
+</script>
+
+    <meta name="description" content="Deemo Wiki*">
+        <meta property="og:url" content="https://wikiwiki.jp/deemo/SandBox" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="SandBox - Deemo Wiki*" />
+    <meta property="og:description" content="Deemo Wiki*" />
+    <meta property="og:site_name" content="Deemo Wiki*" />
+    <meta property="og:image" content="https://cdn.wikiwiki.jp/to/w/common/image/wikiwiki_ogp.png?v=4" />
+    <title>SandBox - Deemo Wiki*</title>
+
+    <link rel="alternate" href="/deemo/::cmd/mixirss" type="application/rss+xml" title="RSS" />
+    <link rel="icon" href="https://cdn.wikiwiki.jp/to/w/common/user-favicon.ico?v=4"/>
+    <link rel="stylesheet" href="https://cdn.wikiwiki.jp/to/w/common/assets/dist/wikiwiki-6044fe03763c81a23933.min.css" type="text/css">
+<link rel="stylesheet" href="https://cdn.wikiwiki.jp/to/w/common/assets/dist/wikiwiki-ex1-ca7abd155d2d8393da00.min.css" type="text/css">
+<link rel="stylesheet" href="https://cdn.wikiwiki.jp/to/w/common/assets/dist/wikiwiki-ex2-787d5d5f913a969fe5ea.min.css" type="text/css">
+<link rel="stylesheet" href="https://cdn.wikiwiki.jp/to/w/common/assets/dist/skin-default_black01-2761d4d2f87caec299a9.min.css" type="text/css">
+    
+    <script type="text/javascript" src="https://cdn.wikiwiki.jp/to/w/common/assets/dist/ad-1bf004520fc167abbea6.min.js"></script>
+    <script>
+    var wi_stay = (function () {
+        var wi_data_raw = localStorage.getItem('browsingStatistics');
+        var wi_data = wi_data_raw ? (JSON.parse(wi_data_raw) || {}) : {};
+        var stay = Number(wi_data.stay);
+        if (isNaN(stay)) {
+            stay = 0;
+        }
+        return stay;
+    })();
+    var wi_data_raw = localStorage.getItem('usageStatistics');
+    var wi_data =     wi_data_raw ? (JSON.parse(wi_data_raw) || {}) : {};
+    var wi_edit =     String(wi_data.edit || 0);
+    var wi_freeze =   String(wi_data.freeze || 0);
+    var wi_comment =  String(wi_data.comment || 0);
+    var wi_group = String(wi_data.group || "N");
+    var wi_smsAuth = wi_data.smsAuth || false;
+    var wi_hasPosted = wi_data.hasPosted || false;
+    var wi_agreement = String(wi_data.agreementStatus || "false");
+    if (document.referrer.length !== 0) {
+        var wi_uri = new URL(document.referrer);
+        var wi_referer = wi_uri.hostname;
+    } else {
+        var wi_referer = "unknown";
+    }
+
+    // Chromium系判定
+    function isChromium() {
+        var ua = navigator.userAgent;
+        // Edge, Opera, Chrome, Chromium, Brave など
+        return /\b(Chrome|Chromium|Edg|OPR|Brave)\b/.test(ua) && !/Silk|UCBrowser|SamsungBrowser|CriOS|FxiOS|OPiOS|EdgiOS/.test(ua);
+    }
+
+    var wi_ismobile;
+    var wi_device;
+    if (isChromium() && navigator.userAgentData) {
+        wi_ismobile = navigator.userAgentData.mobile;
+        if (wi_ismobile) {
+            if (navigator.userAgentData.platform === "Android") {
+                wi_device = "and";
+            } else {
+                wi_device = "ios";
+            }
+        } else {
+            wi_device = "pc";
+        }
+    } else {
+        wi_ismobile = !!navigator.userAgent.match(/iPhone|Android.+Mobile/);
+        if (navigator.userAgent.match(/Android.+Mobile/)) {
+            wi_device = "and";
+        } else if (navigator.userAgent.match(/iPhone/)) {
+            wi_device = "ios";
+        } else {
+            wi_device = "pc";
+        }
+    }
+
+    var wi_isportrait = window.matchMedia("(orientation: portrait)").matches;
+    var wi_isinbound = wi_referer.includes(window.location.hostname) ? false : true;
+    var wi_random100 = Math.floor(Math.random() * (100 - 1) + 1);
+    var wi_random110 = Math.floor(Math.random() * 10) + 1;
+    var wi_isread_yet = true;
+    var wi_location_hash = location.hash || false;
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3Y8FN9EFS7"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3Y8FN9EFS7', {
+        'content_group': 'deemo',
+        'user_properties': {
+            'user_group':     wi_group,
+            'user_agreement': wi_agreement,
+            'edit_count':     wi_edit,
+            'comment_count':  wi_comment,
+            'sms_auth':       String(wi_smsAuth)
+        }
+    });
+    
+</script>
+
+<script>
+    window.wikiFq = createWikiFq();
+</script>
+<script>
+    var wi_recref = recordReferrerDomain();
+</script>
+
+<script>
+const visitData_20241117 = (() => {
+const RESET_INTERVAL_MINUTES = 30;
+const now = Date.now();
+const resetIntervalMs = RESET_INTERVAL_MINUTES * 60 * 1000;
+const storageKey = "internalVisitData";
+let data = JSON.parse(localStorage.getItem(storageKey)) || { count: 0, lastVisit: now };
+if (now - data.lastVisit > resetIntervalMs) data = { count: 0, lastVisit: now };
+if (document.referrer && new URL(document.referrer).hostname === window.location.hostname) {
+data = { count: data.count + 1, lastVisit: now };
+localStorage.setItem(storageKey, JSON.stringify(data));
+}
+return data;
+})();
+
+const int_conditions = [
+wi_ismobile,
+wi_group === 'N',
+wi_agreement === 'false',
+!wi_isinbound,
+visitData_20241117.count === 1,
+];
+
+const int_conditions_pc = [
+    !wi_ismobile,
+    wi_group === 'N',
+    wi_agreement === 'false',
+    !wi_isinbound,
+    visitData_20241117.count === 1,
+];
+</script>
+<script>
+(function () {
+  const FLAG = "iminst_pc";
+  const url = new URL(location.href);
+
+  if (url.searchParams.get(FLAG) === "1") {
+    url.searchParams.delete(FLAG);
+    history.replaceState(null, "", url.toString());
+    return;
+  }
+
+  if (Array.isArray(int_conditions_pc) && int_conditions_pc.every(Boolean)) {
+    url.searchParams.set(FLAG, "1");
+    location.href = url.toString();
+  }
+})();
+</script>
+<script>
+(function(){
+  const url=new URL(location.href);
+  const f=wi_device==="ios"?"iminst_ios":wi_device==="and"?"iminst_and":null;
+  if(!f)return;
+  if(url.searchParams.get(f)==="1"){
+    url.searchParams.delete(f);
+    history.replaceState(null,"",url.toString());
+    return;
+  }
+  if(Array.isArray(int_conditions)&&int_conditions.every(Boolean)){
+    url.searchParams.set(f,"1");
+    location.href=url.toString();
+  }
+})();
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQ52VZ3');</script>
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript">
+    window.pbjs = window.pbjs || {};
+    window.pbjs.que = window.pbjs.que || [];
+</script>
+<script async="async" src="https://flux-cdn.com/client/ukiuki/flux_wikiwiki_AS_TM_AT.min.js"></script>
+<script>
+window.googletag = window.googletag || {};
+window.googletag.cmd = window.googletag.cmd || [];
+</script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+
+var wi_adslot_rectangle = [[300,250],[1,1]];
+var wi_adslot = [[300,250],[1,1]];
+if (document.documentElement.clientWidth > 406) {
+  wi_adslot_rectangle = [[300,250],[336,280],[1,1]];
+  wi_adslot = [[468,60],[300,250],[1,1]];
+}
+
+window.defineSlotFlux = [];
+if (wi_ismobile && wi_isportrait) {
+  defineSlotFlux.push({"slotID": "div-gpt-ad-1563441919648-0", "sizes": [[320, 100], [320, 50]], "slotName":"WIKIWIKI_SP_OVERLAY"});
+}
+    if (wi_isinbound && wi_ismobile && wi_group == "N" && wi_agreement === "false") {
+      defineSlotFlux.push({"slotID": "div-gpt-ad-1563430750445-0", "sizes": [[300,250]], "slotName":"WIKIWIKI_SP_INBOUND"});
+    } else if (wi_isinbound && wi_group == "N" && wi_agreement === "false") {
+      defineSlotFlux.push({"slotID": "div-gpt-ad-1567409776345-0", "sizes": [[300,250]], "slotName":"WIKIWIKI_PC_INBOUND"});
+      defineSlotFlux.push({"slotID": "div-gpt-ad-1658802281376-0", "sizes": [[300,250]], "slotName":"WIKIWIKI_PC_INBOUND_RIGHT"});
+    }
+  if (wi_ismobile && !wi_isinbound) {
+    defineSlotFlux.push({"slotID": "div-gpt-ad-1562925510696-0", "sizes": [[300,250]], "slotName":"WIKIWIKI_SP_CAPTION"});
+  } else if (wi_group === 'N' && wi_agreement === 'false' && !wi_isinbound) {
+    defineSlotFlux.push({"slotID": "div-gpt-ad-1565253136679-0", "sizes": [[300,250]], "slotName":"WIKIWIKI_PC_CAPTION"});
+  }
+if (wi_ismobile && wi_group == "N" && wi_agreement === "false") {
+      defineSlotFlux.push({"slotID": "div-gpt-ad-1731135777754-0", "sizes": [[300,600]], "slotName":"WIKIWIKI_SP_CAPTION_300x600"});
+}
+      defineSlotFlux.push({"slotID": "div-gpt-ad-1566473930452-0", "sizes": [[300,250]], "slotName":"WIKIWIKI_PC_CAPTION_20TH"});
+      defineSlotFlux.push({"slotID": "div-gpt-ad-other", "sizes": [[300,250]], "slotName":"WIKIWIKI_CAPTION_B"});
+  if (wi_ismobile) {
+    defineSlotFlux.push({"slotID": "div-gpt-ad-1567408559923-0", "sizes": [[300,250]], "slotName":"WIKIWIKI_SP_SECOND"});
+  } else {
+    defineSlotFlux.push({"slotID": "div-gpt-ad-1567408559923-0", "sizes": [[300,250]], "slotName":"WIKIWIKI_PC_BOTTOM_LEFT"});
+    defineSlotFlux.push({"slotID": "div-gpt-ad-1658912377789-0", "sizes": [[300,250]], "slotName":"WIKIWIKI_PC_BOTTOM_RIGHT"});
+  }
+</script>
+<script type="text/javascript">
+if (defineSlotFlux.length) {
+    window.fluxtag = {
+        readyBids: { prebid: false, google: false },
+        failSafeTimeout: 3e3, // 3秒でフェイルセーフ発動
+        isFn: function isFn(object) {
+            var _t = 'Function';
+            var toString = Object.prototype.toString;
+            return toString.call(object) === '[object ' + _t + ']';
+        },
+        launchAdServer: function () {
+            if (!fluxtag.readyBids.prebid) {
+                return;
+            }
+            fluxtag.requestAdServer();
+        },
+        requestAdServer: function () {
+            if (!fluxtag.readyBids.google) {
+                fluxtag.readyBids.google = true;
+                googletag.cmd.push(function () {
+                    var pbjsLoaded = !!(window.pbjs && pbjs.que &&
+                        fluxtag.isFn(pbjs.que.push) &&
+                        (pbjs.libLoaded || (pbjs.setTargetingForGPTAsync &&
+                            fluxtag.isFn(pbjs.setTargetingForGPTAsync))));
+                    if (pbjsLoaded) {
+                        pbjs.que.push(function () {
+                            if (pbjs.setTargetingForGPTAsync && fluxtag.isFn(pbjs.setTargetingForGPTAsync)) {
+                                try {
+                                    Promise.resolve(pbjs.setTargetingForGPTAsync())
+                                        .catch(function () {})
+                                        .then(function () {
+                                            googletag.pubads().refresh();
+                                        });
+                                } catch (e) {
+                                    googletag.pubads().refresh();
+                                }
+                            } else {
+                                googletag.pubads().refresh();
+                            }
+                        });
+                    } else {
+                        googletag.pubads().refresh();
+                    }
+                });
+            }
+        }
+    };
+
+    setTimeout(function () {
+        fluxtag.requestAdServer();
+    }, fluxtag.failSafeTimeout);
+}
+</script>
+<script>
+googletag.cmd.push(function() {
+    if (wi_ismobile && wi_isportrait) {
+        var overlaySlot = googletag.defineSlot('/19033742/WIKIWIKI_SP_OVERLAY',[[320,100],[320,50],[1,1]],'div-gpt-ad-1563441919648-0');
+        if (overlaySlot) {
+            overlaySlot.addService(googletag.pubads());
+            // 分母はこの枠だけで数え、空の初回描画にも次回用の印を付ける。
+            var overlayRenderHandler = function(event) {
+                if (event.slot !== overlaySlot) return;
+                overlaySlot.setConfig({ targeting: { wi_refresh: '1' } });
+                googletag.pubads().removeEventListener('slotRenderEnded', overlayRenderHandler);
+            };
+            googletag.pubads().addEventListener('slotRenderEnded', overlayRenderHandler);
+        }
+    }
+    if (wi_isinbound && wi_ismobile && wi_group == "N" && wi_agreement === "false") {
+      googletag.defineSlot('/19033742/WIKIWIKI_SP_INBOUND',[[300,250]],
+        'div-gpt-ad-1563430750445-0').addService(googletag.pubads());
+    } else if (wi_isinbound && wi_group == "N" && wi_agreement === "false") {
+      googletag.defineSlot('/19033742/WIKIWIKI_PC_INBOUND',[[336,280],[300,250]],
+        'div-gpt-ad-1567409776345-0').addService(googletag.pubads());
+      googletag.defineSlot('/19033742/WIKIWIKI_PC_INBOUND_RIGHT',[[336,280],[300,250]],
+        'div-gpt-ad-1658802281376-0').addService(googletag.pubads());
+    }
+  if (wi_ismobile && !wi_isinbound) {
+    googletag.defineSlot('/19033742/WIKIWIKI_SP_CAPTION',[[300,250],[1,1]],'div-gpt-ad-1562925510696-0').addService(googletag.pubads());
+  } else if (wi_group === 'N' && wi_agreement === 'false' && !wi_isinbound) {
+    googletag.defineSlot('/19033742/WIKIWIKI_PC_CAPTION',[[300,250],[1,1]],'div-gpt-ad-1565253136679-0').addService(googletag.pubads());
+  }
+if (wi_ismobile && wi_group == "N" && wi_agreement === "false") {
+    googletag.defineSlot('/19033742/WIKIWIKI_SP_CAPTION_300x600',[[300,600],[1,1]],
+        'div-gpt-ad-1731135777754-0').addService(googletag.pubads());
+}
+    googletag.defineSlot('/19033742/WIKIWIKI_PC_CAPTION_20TH',[[300,250],[1,1]],
+        'div-gpt-ad-1566473930452-0').addService(googletag.pubads());
+    googletag.defineSlot('/19033742/WIKIWIKI_CAPTION_B',[[300,250],[1,1]],
+        'div-gpt-ad-other').addService(googletag.pubads());
+    if (wi_ismobile) {
+        googletag.defineSlot('/19033742/WIKIWIKI_SP_SECOND',[[300,250]],
+        'div-gpt-ad-1567408559923-0').addService(googletag.pubads());
+    } else {
+        googletag.defineSlot('/19033742/WIKIWIKI_PC_BOTTOM_LEFT',[[336,280],[300,250]],
+        'div-gpt-ad-1567408559923-0').addService(googletag.pubads());
+        googletag.defineSlot('/19033742/WIKIWIKI_PC_BOTTOM_RIGHT',[[336,280],[300,250]],
+        'div-gpt-ad-1658912377789-0').addService(googletag.pubads());
+    }
+    googletag.setConfig({ targeting: {
+        "gpolicy": "sunny",
+        "site": "deemo"
+    } });
+    googletag.setConfig({ collapseDiv: 'ON_NO_FILL' });
+    googletag.setConfig({ singleRequest: true });
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+        var slot = event.slot;
+        if (document.getElementById(slot.getSlotElementId()) != null){
+            var slotElm = document.getElementById(slot.getSlotElementId());
+            if (slotElm && slotElm.className === 'overlay-ad-wrapper') {
+                var overlayRenderedEvent = document.createEvent('Event');
+                overlayRenderedEvent.initEvent('overlay-ad-rendered', true, true);
+                slotElm.dispatchEvent(overlayRenderedEvent);
+            }
+        }
+    });
+    googletag.setConfig({
+        lazyLoad: {
+            fetchMarginPercent: 50,   // 0.5画面分まできたらリクエスト
+            renderMarginPercent: 50,  // 0.5画面分まできたら描画
+            mobileScaling: 2.0        // モバイルはスクロールが早いため2倍（1.0画面分）にする
+        }
+    });
+    if (defineSlotFlux.length) {googletag.setConfig({ disableInitialLoad: true });};
+    googletag.enableServices();
+    if (defineSlotFlux.length) {
+        pbjs.que.push(function () {
+            window.pbFlux.prebidBidder();
+        });
+    }
+});
+</script>
+
+<script>
+googletag.cmd.push(function() {
+  googletag.setConfig({ targeting: {
+    "wi_agreement": String(wi_data.agreementStatus || "false"),
+    "wi_group": String(wi_data.group || "N"),
+    "wi_comment": wi_comment.length.toString(),
+    "wi_edit": wi_edit.length.toString(),
+    "wi_freeze": wi_freeze.length.toString(),
+    "wi_smsAuth": String(wi_data.smsAuth || false),
+    "wi_hasPosted": String(wi_data.hasPosted || false),
+    "wi_referer": String(wi_referer || "unknown"),
+    "wi_random110": String(wi_random110 || "0"),
+    "wi_hour": ('0' + new Date().getHours()).slice(-2)
+  } });
+});
+</script>
+
+<style>
+.pc-caption-ad-default {
+    margin-top:20px;
+    display:flex;
+    justify-content:flex-start;
+    gap: 10px 5px;
+    min-height:280px;
+    position: sticky;
+    z-index: 3;
+    top: 45px;
+}
+
+.pc-caption-ad-center{
+    margin-top:20px;
+    display:flex;
+    justify-content:center;
+    gap: 10px 5px;
+    min-height:280px;
+    position: sticky;
+    z-index: 3;
+    top: 45px;
+}
+.pc-caption-ad-mobile{
+    margin-top:20px;
+    margin-bottom:20px;
+    display:flex;
+    justify-content:center;
+    min-height:331px;
+    position: sticky;
+    z-index: 3;
+    top: 45px;
+}
+.pc-caption-ad-mobile-300x600{
+    margin-top:20px;
+    margin-bottom:20px;
+    display:flex;
+    justify-content:center;
+    min-height:331px;
+}
+.default-advertisement {
+    background-color: transparent;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 576 512'%3E%3C!--!Font Awesome Pro 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc.--%3E%3Cpath d='M16 48l0 416 544 0 0-416L16 48zM0 32l16 0 544 0 16 0 0 16 0 416 0 16-16 0L16 480 0 480l0-16L0 48 0 32zM320 280a56 56 0 1 0 112 0 56 56 0 1 0 -112 0zm56-72c22.6 0 42.8 10.4 56 26.7l0-66.7 0-8 16 0 0 8 0 112 0 64 0 8-16 0 0-8 0-18.7c-13.2 16.3-33.4 26.7-56 26.7c-39.8 0-72-32.2-72-72s32.2-72 72-72zM183.1 160l5.2 0 7.3 0 5.2 0 2.1 4.8L284.2 352l-17.4 0-20.8-48-107.8 0-20.8 48-17.4 0L181 164.8l2.1-4.8zM145 288l94 0L192 179.7 145 288z' fill='%23BBB'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px 25px;
+}
+
+@media (max-width: 500px) {
+  .caption-flybox:has(iframe[id^="google_ads_iframe_"]) {
+    position: relative;
+    min-height: 450px;
+  }
+}
+</style>
+
+
+<script>
+googletag.cmd.push(function() {
+    const pcCaptionPaths = [
+        '/19033742/WIKIWIKI_PC_CAPTION',
+        '/19033742/WIKIWIKI_PC_CAPTION_SIDE_BY',
+        '/19033742/WIKIWIKI_PC_CAPTION_20TH',
+        '/19033742/WIKIWIKI_CAPTION_B'
+    ];
+
+    const spCaptionPaths = [
+        '/19033742/WIKIWIKI_SP_CAPTION',
+        '/19033742/WIKIWIKI_SP_CAPTION_300x600'
+    ];
+
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+        const slotElement = document.getElementById(event.slot.getSlotElementId());
+        const parent = slotElement?.parentNode;
+
+        if (parent && !event.isEmpty) {
+            if (pcCaptionPaths.includes(event.slot.getAdUnitPath())) {
+                parent.classList.add(parent.clientWidth < 769 ? "pc-caption-ad-center" : "pc-caption-ad-default");
+            } else if (spCaptionPaths.includes(event.slot.getAdUnitPath())) {
+                if (event.slot.getAdUnitPath() === '/19033742/WIKIWIKI_SP_CAPTION_300x600') {
+                    parent.classList.add("pc-caption-ad-mobile-300x600");
+                } else {
+                    parent.classList.add("pc-caption-ad-mobile");
+                }
+            }
+        }
+    });
+
+    googletag.pubads().addEventListener('slotOnload', function(event) {
+        const slotElement = document.getElementById(event.slot.getSlotElementId());
+        slotElement?.parentNode?.classList.remove("default-advertisement");
+    });
+});
+</script>
+
+<link rel="preload" as="script" href="https://pdn.adingo.jp/p.js">
+<link rel="preconnect" href="https://sh.adingo.jp" crossorigin="use-credentials">
+    <link rel="canonical" href="https://wikiwiki.jp/deemo/SandBox">
+    <style>
+@media screen and (min-width: 820px) {
+  .container-wrapper {
+    min-width: 930px;
+    max-width: 930px;
+  }
+}
+</style>
+<style>
+  body {
+      font-family: Verdana, Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+      font-size: 12px;
+  }
+</style>
+<style>
+  @media screen and (max-width: 819px), print and (max-width: 180mm) {
+    body {
+        font-size: 13px;
+    }
+  }
+</style>
+        <script>
+        window.globalParamsContainer = {"smsAuthParams":{"actionTrollingDefenceCheck":"\/deemo\/::cmd\/trolling_defence_pass","actionSubmitNumber":"\/p\/sms-auth\/code\/request","actionSubmitCode":"\/p\/sms-auth\/code\/activate","cookieName":"authkey"},"editAssistantImgSrc":{"face_smile":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/smile.png?v=4","face_bigsmile":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/bigsmile.png?v=4","face_huh":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/huh.png?v=4","face_oh":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/oh.png?v=4","face_wink":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/wink.png?v=4","face_sad":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/sad.png?v=4","face_worried":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/worried.png?v=4","face_tear":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/tear.png?v=4","face_tere":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/tere.png?v=4","face_shock":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/shock.png?v=4","face_heart":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/heart.png?v=4","face_star":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/star.gif?v=4","face_hatena":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/hatena.gif?v=4","face_tip":"https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/face\/tip.gif?v=4"},"experimentalFeature":false};
+    </script>
+</head>
+<body class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQ52VZ3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<style>
+/* 1 */
+@media (max-width: 500px) {
+    body {
+        margin-bottom: 129px !important;
+        transition: margin-bottom 0.4s ease-in-out;
+    }
+    body:has(#div-gpt-ad-1563441919648-0 iframe[height="50"]) {
+        margin-bottom: 79px !important;
+    }
+}
+
+/* 2 */
+#overlay-anchor-wrapper {
+    position: fixed;
+    bottom: 0; left: 0; right: 0;
+    width: 100%;
+    z-index: 99998;
+    pointer-events: none;
+    transform: translateY(100%);
+    transition: transform 0.4s ease-in-out 10s;
+}
+
+body:has(#div-gpt-ad-1563441919648-0 iframe) #overlay-anchor-wrapper {
+    transform: translateY(0);
+    transition: transform 1.2s cubic-bezier(0.22, 1, 0.36, 1) 0.6s;
+}
+
+/* 3 */
+#pc-overlay-ad-parent-container {
+    contain: layout style;
+    content-visibility: auto;
+
+    width: 100%;
+    background-color: var(--h2-background-color, #ffffff) !important;
+    padding-top: 5px;
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+    box-shadow: 0 -2px 12px rgba(0, 0, 0, 0.1);
+    pointer-events: auto;
+
+    max-height: 105px;
+    height: auto;
+    transition: max-height 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: visible !important;
+}
+
+#pc-overlay-ad-parent-container:has(iframe[height="50"]) {
+    max-height: 60px;
+}
+
+/* 4 */
+#pc-overlay-ad-close-button {
+    position: absolute;
+    top: -24px;
+    right: 12px;
+    width: 38px; height: 24px;
+    background-color: var(--h2-background-color, #ffffff) !important;
+    border-radius: 8px 8px 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 99999;
+    cursor: pointer;
+    pointer-events: auto;
+    opacity: 0;
+    transform: translateY(5px);
+    transition: opacity 0.6s ease-out 10s, transform 0.6s ease-out 10s;
+}
+
+body:has(#div-gpt-ad-1563441919648-0 iframe) #pc-overlay-ad-close-button {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 0.6s ease-out 1.8s, transform 0.6s ease-out 1.8s;
+}
+
+#pc-overlay-ad-close-button svg {
+    width: 14px; height: 14px;
+    fill: var(--h2-text-color, #666666) !important;
+}
+
+/* 5 */
+#ad-close-trigger { display: none; }
+
+#ad-close-trigger:checked ~ #overlay-anchor-wrapper {
+    transform: translateY(100%) !important;
+    opacity: 0;
+    transition: transform 0.4s cubic-bezier(0.4, 0, 1, 1), opacity 0.4s cubic-bezier(0.4, 0, 1, 1) !important;
+    pointer-events: none;
+}
+
+body:has(#ad-close-trigger:checked) {
+    margin-bottom: 0 !important;
+}
+
+/* 6 */
+.overlay-ad-container { 
+    display: flex; justify-content: center; align-items: center; 
+    min-height: 50px; position: relative; 
+}
+.overlay-ad-container::before { 
+    content: ""; position: absolute; width: 320px; height: 100%; 
+    border-radius: 4px; z-index: 0;
+    animation: quietPulse 3s infinite; 
+}
+@keyframes quietPulse { 0%, 100% { background-color: transparent; } 50% { background-color: rgba(0, 0, 0, 0.04); } }
+
+#div-gpt-ad-1563441919648-0 { position: relative; z-index: 1; display: flex; justify-content: center; width: 100%; }
+#div-gpt-ad-1563441919648-0 iframe {
+    animation: fadeInQuick 0.5s ease-in-out 0.2s both !important;
+    background: var(--h2-background-color, #ffffff);
+}
+@keyframes fadeInQuick { from { opacity: 0; } to { opacity: 1; } }
+</style>
+
+<input type="checkbox" id="ad-close-trigger">
+<div id="overlay-anchor-wrapper" class="hidden-switch-class">
+    <label for="ad-close-trigger" id="pc-overlay-ad-close-button">
+        <svg viewBox="0 0 384 512"><path d="M342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L192 210.7 86.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L146.7 256 41.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L192 301.3 297.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L237.3 256 342.6 150.6z"/></svg>
+    </label>
+<div id="pc-overlay-ad-parent-container" class="hidden-switch-class">
+    <div id="pc-overlay-ad-container-hidden" class="overlay-ad-container">
+        <div id="pc-overlay-ad-container">
+            <div id='div-gpt-ad-1563441919648-0' class="overlay-ad-wrapper"></div>
+        </div>
+    </div>
+</div>
+</div>
+<noscript>
+    <div class="noscript-alert">
+        <i class="fa-solid fa-exclamation-triangle"></i>
+        ブラウザの JavaScript がオフ（ブロックまたは許可しない）に設定されているため、このページは正常に機能しません。
+    </div>
+</noscript>
+<div class="container-wrapper">
+
+    <div class="container clearfix">
+                    <div id="header" class="default-header">
+                <a href="/deemo/" title="Deemo Wiki*">
+                    <span class="title2">Deemo Wiki*</span>
+                </a>
+            </div>
+                <div class="toolbox-container system-ui clearfix" id="naviframe">
+            <div class="toolbox toolbox-desktop navibar-container">
+                <div id="navigator">[ <a href="/deemo/">ホーム</a> | <a href="/deemo/::cmd/newpage?refer=SandBox" rel="nofollow">新規</a> | <a href="/deemo/::cmd/edit?page=SandBox" rel="nofollow">編集</a> | <a href="/deemo/::cmd/attach?page=SandBox" rel="nofollow">添付</a> ]</div>            </div>
+            <div class="toolbox toolbox-desktop toolbar-container">
+                <div class="toolbar"><a href="/deemo/::cmd/list" title="一覧" rel="nofollow"><span class="system-icon toolbar list"></span></a>
+<a href="/deemo/RecentChanges" title="最終更新" rel="nofollow"><span class="system-icon toolbar recent"></span></a>
+<a href="/deemo/::cmd/diff?page=SandBox" title="差分" rel="nofollow"><span class="system-icon toolbar diff"></span></a>
+<a href="/deemo/::cmd/backup?page=SandBox" title="バックアップ" rel="nofollow"><span class="system-icon toolbar backup"></span></a>
+<a href="/deemo/::cmd/freeze?page=SandBox" title="凍結" rel="nofollow"><span class="system-icon toolbar freeze"></span></a>
+<a href="/deemo/::cmd/template?refer=SandBox" title="複製" rel="nofollow"><span class="system-icon toolbar copy"></span></a>
+<a href="/deemo/::cmd/rename?refer=SandBox" title="名前変更" rel="nofollow"><span class="system-icon toolbar rename"></span></a>
+<a href="/deemo/::cmd/help" title="ヘルプ" rel="nofollow"><span class="system-icon toolbar help"></span></a></div>            </div>
+            <div class="toolbox toolbox-mobile toolbar-container">
+                <div class="toolbar"><a href="/deemo/" title="ホーム"><span class="system-icon toolbar top"></span></a>
+<a href="/deemo/RecentChanges" title="最終更新" rel="nofollow"><span class="system-icon toolbar recent"></span></a>
+<a id="menu-in-nav" href="#menubar" class="menu-in-nav">Menu<i class="fa-solid fa-arrow-alt-down"></i></a></div>            </div>
+            <div class="toolbox toolbox-searchbar">
+                <form action="/deemo/::cmd/search" method="get">
+                    <input type="search" name="word" value="" size="16" aria-label="サイト内検索" placeholder="サイト内検索">
+                    <input type="hidden" name="type" value="AND">
+                    <input type="submit" value="検索">
+                </form>
+            </div>
+        </div>
+            <div id="responsive-navigation"></div>
+    <div style="display: none;">
+        <div id="edit-menu" class="system-ui">
+            <div id="edit-menu-items">
+                <ul><li><a href="/deemo/::cmd/newpage?refer=SandBox" rel="nofollow"><span class='system-icon toolbar new'></span> 新規</a></li><li><a href="/deemo/::cmd/edit?page=SandBox" rel="nofollow"><span class='system-icon toolbar edit'></span> 編集</a></li><li><a href="/deemo/::cmd/attach?page=SandBox" rel="nofollow"><span class='system-icon toolbar upload'></span> 添付</a></li></ul>
+<ul><li><a href="/deemo/::cmd/list" rel="nofollow"><span class='system-icon toolbar list'></span> 一覧</a></li><li><a href="/deemo/RecentChanges" rel="nofollow"><span class='system-icon toolbar recent'></span> 最終更新</a></li><li><a href="/deemo/::cmd/diff?page=SandBox" rel="nofollow"><span class='system-icon toolbar diff'></span> 差分</a></li><li><a href="/deemo/::cmd/backup?page=SandBox" rel="nofollow"><span class='system-icon toolbar backup'></span> バックアップ</a></li></ul>
+<ul><li><a href="/deemo/::cmd/freeze?page=SandBox" rel="nofollow"><span class='system-icon toolbar freeze'></span> 凍結</a></li><li><a href="/deemo/::cmd/template?refer=SandBox" rel="nofollow"><span class='system-icon toolbar copy'></span> 複製</a></li><li><a href="/deemo/::cmd/rename?refer=SandBox" rel="nofollow"><span class='system-icon toolbar rename'></span> 名前変更</a></li></ul>
+<ul><li><a href="/deemo/::cmd/help" rel="nofollow"><span class='system-icon toolbar help'></span> ヘルプ</a></li></ul>
+
+            </div>
+        </div>
+    </div>    </div>
+
+    <div class="container">
+        <div class="clearfix">
+            <div id="breadcrumbs" class="system-ui">
+                <div id="topicpath"><a href="/deemo/" title="FrontPage"><i class="fa-solid fa-home" style="margin-left: 6px; display: inline-block; min-width: 1.2em;"></i></a> &gt; SandBox</div>            </div>
+            <div id="system-icon-container" class="system-ui">
+                                <span id="share-button-root"></span>                <span id="admin-contact-root" class="single-system-icon"></span>
+                <div id="load-panel-root"></div>
+                <span id="admin-login" class="single-system-icon">
+                    
+<a class="admin-login-status" href="/deemo/::cmd/admin_login?return_to=%2Fdeemo%2FSandBox" title="未ログイン">
+    <i class="fa-solid fa-cog"></i>
+</a>
+                </span>
+            </div>
+        </div>
+        <hr />
+    </div>
+
+    <div id="contents" class="columns-container three-columns-container container clearfix has-left-column">
+
+        <div class="column-center clearfix">
+            <div id="body">
+                                                <div id="title">
+                                            <h1 class="title">SandBox</h1>
+                                                                <div id="lastmodified">
+                            Last-modified: 2026-06-13 (土) 17:14:49                                                    </div>
+                                    </div>
+
+                
+<div id="inbound-ad-container">
+  <!-- /19033742/WIKIWIKI_PC_INBOUND -->
+  <div id='div-gpt-ad-1567409776345-0'></div>
+  <!-- /19033742/WIKIWIKI_PC_INBOUND_RIGHT -->
+  <div id='div-gpt-ad-1658802281376-0'></div>
+  <!-- /19033742/WIKIWIKI_SP_INBOUND -->
+  <div id='div-gpt-ad-1563430750445-0' class="hidden-switch-class"></div>
+</div>
+
+<style>
+.pc-inbound-ad-default {
+    margin-top:40px;
+    margin-bottom:40px;
+    display:flex;
+    justify-content:flex-start;
+    gap: 10px 5px;
+    min-height:280px;
+}
+.pc-inbound-ad-center{
+    margin-top:40px;
+    margin-bottom:40px;
+    display:flex;
+    justify-content:center;
+    gap: 10px 5px;
+    min-height:280px;
+    position: relative;
+}
+.pc-inbound-ad-mobile{
+    margin-top:20px;
+    margin-bottom:20px;
+    display:flex;
+    justify-content:center;
+    min-height:280px;
+}
+.pc-inbound-ad-close-button {
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 20px;
+    height: 20px;
+    background: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"%3E%3C!--! Font Awesome Pro 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc. --%3E%3Cpath class="fa-secondary" opacity=".4" d="M281.4 390.6L304 413.3 349.3 368l-22.6-22.6L237.3 256l89.4-89.4L349.3 144 304 98.7l-22.6 22.6L192 210.7l-89.4-89.4L80 98.7 34.7 144l22.6 22.6L146.7 256 57.4 345.4 34.7 368 80 413.3l22.6-22.6L192 301.3l89.4 89.4z" fill="%23888"/%3E%3C/svg%3E') no-repeat center;
+    background-size: contain;
+    cursor: pointer;
+}
+</style>
+
+<script>
+(function () {
+    const co = document.getElementById('inbound-ad-container');
+    const inboundPaths = [
+        '/19033742/WIKIWIKI_PC_INBOUND',
+        '/19033742/WIKIWIKI_PC_INBOUND_RIGHT'
+    ];
+
+    if (wi_isinbound && wi_group === "N" && wi_agreement === "false") {
+        if (wi_ismobile) {
+            co.classList.add("pc-inbound-ad-mobile","default-advertisement");
+        } else {
+            const width = co.clientWidth;
+            const adClass = width < 683 || (width >= 683 && width < 900) ? ["pc-inbound-ad-center","default-advertisement"] : ["pc-inbound-ad-default"];
+            co.classList.add(...adClass);
+
+            if (adClass.includes("pc-inbound-ad-center")) {
+                googletag.cmd.push(function() {
+                    googletag.pubads().addEventListener('slotOnload', function(event) {
+                        if (inboundPaths.includes(event.slot.getAdUnitPath())) {
+                            let closeButton = co.querySelector(".pc-inbound-ad-close-button");
+                            if (!closeButton) {
+                                closeButton = document.createElement("div");
+                                closeButton.classList.add("pc-inbound-ad-close-button");
+                                closeButton.onclick = () => co.style.display = "none";
+                                co.appendChild(closeButton);
+                            }
+                        }
+                    });
+                });
+            }
+        }
+    }
+})();
+</script>
+
+                <div class="search-words small" style="display: none;">
+    <div class="small">これらのキーワードがハイライトされています：<ul class="search-words-words"></ul></div>
+    <hr class="full_hr">
+</div>
+                <div id="content">
+                                        
+
+<h2 id="h2_content_1_0" >SandBox: お砂場(練習ページ)です  <a class="anchor_super" name ="v299c566"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=v299c566" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<p>編集の練習・メモ・心の叫び等ご自由にお使いください。</p>
+<div class="spacer">&nbsp;</div>
+<div class="h-scrollable"><table><tbody><tr><td>　<strong>Contents</strong></td></tr><tr><td><div class="contents">
+<a id="contents-index"></a>
+<ul class="list1"><li><a href="#v299c566"> SandBox: お砂場(練習ページ)です </a></li>
+<li><a href="#a6dc7f79"> 大見出し 1 </a>
+<ul class="list2"><li><a href="#qa1c1e8c"> 中見出し 1-1 </a>
+<ul class="list3"><li><a href="#k28ac390"> 小見出し 1-1-1 </a></li></ul></li>
+<li><a href="#zcbf4116"> 中見出し 1-2 </a></li></ul></li>
+<li><a href="#z3909cff"> 大見出し 2 </a>
+<ul class="list2"><li><a href="#l26a869a"> 小見出し 2-1 </a></li>
+<li><a href="#s6844309"> 小見出し 2-2 </a></li></ul></li>
+<li><a href="#jfce72b9"> 日付 </a></li>
+<li><a href="#jb6d4e84"> リンク </a></li>
+<li><a href="#l89b765d"> その他の文字装飾 </a></li>
+<li><a href="#gcbc4f04">音源埋め込み </a></li>
+<li><a href="#color">色一覧 </a></li>
+<li><a href="#zawa">zawazawa訓練所 </a>
+<ul class="list2"><li><a href="#wd3e7553">zawazawa：管理総合(埋め込み実験) </a></li>
+<li><a href="#dc249184">zawazawa：最新トピック一覧(埋め込み実験) </a></li>
+<li><a href="#ec4ac876">zawazawa：編集ルール </a></li></ul></li>
+<li><a href="#memo">編集メモ </a></li>
+<li><a href="#DEEMO2">DEEMO2  [発売前情報]　</a></li>
+<li><a href="#Reborn">DEEMO -Reborn- [発売前情報] </a></li>
+<li><a href="#adb1a752">DEEMO -Reborn-[発売後情報] </a></li>
+<li><a href="#Sdorica">Sdorica(スドリカ) </a></li>
+<li><a href="#v6b8b5c4">他社コラボ </a>
+<ul class="list2"><li><a href="#k74e55ee">CHUNITHM(チュウニズム)(アーケード/セガ) </a></li>
+<li><a href="#o39cd911">太鼓の達人(バンダイナムコ) </a></li>
+<li><a href="#p115fa1b">DJMAX </a></li>
+<li><a href="#Arcaea">Arcaea </a></li>
+<li><a href="#maimai"> maimai でらっくす (アーケード/セガ) </a></li>
+<li><a href="#P_SEKAI"> プロジェクトセカイカラフルステージ！feat. 初音ミク(プロセカ) </a></li></ul></li>
+<li><a href="#o700af05">アプデ日 </a></li>
+<li><a href="#fa7df790"> 達成項目・実績・トロフィー </a></li>
+<li><a href="#ic68b7af">プレイスタイルなど </a></li>
+<li><a href="#e7b64b17">LV6非公式難易度表（試作) </a></li>
+<li><a href="#w3126fa2">アンケート設置について </a></li>
+<li><a href="#q4aef64a">難易度の大小に着目した自動集計スコア </a></li>
+<li><a href="#comment"> コメント </a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="spacer">&nbsp;</div>
+<h2 id="h2_content_1_1" class="heading-after-first">大見出し 1  <a class="anchor_super" name ="a6dc7f79"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=a6dc7f79" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<div class="caption-flybox" >
+  <div id="pc-caption-ad-container">
+    <!-- /19033742/WIKIWIKI_PC_CAPTION -->
+    <div id='div-gpt-ad-1565253136679-0'></div>
+    <!-- /19033742/WIKIWIKI_PC_CAPTION_SIDE_BY -->
+    <div id='div-gpt-ad-1719748039754-0' style='max-width: 300px;'></div>
+    <!-- /19033742/WIKIWIKI_SP_CAPTION -->
+    <div id='div-gpt-ad-1562925510696-0' class="hidden-switch-class"></div>
+  </div>
+</div>
+
+<script>
+if (wi_ismobile && !wi_isinbound) {
+    document.getElementById("pc-caption-ad-container").classList.add("default-advertisement","pc-caption-ad-mobile");
+    googletag.cmd.push(function() {googletag.display('div-gpt-ad-1562925510696-0');});
+    if (window.wikiFq.checkWikifqDisplay('wi_fqgroup1',1,60,0.5) && wi_isread_yet ||wi_location_hash === '##gliaplayer') {
+        googletag.cmd.push(function() {googletag.setConfig({ targeting: { wi_fqgroup1: 'true' } });});
+        sessionStorage.setItem('wi_pip', false);
+        wi_isread_yet = false;
+    } else if (sessionStorage.getItem('wi_pip') === 'false') {
+        if (window.wikiFq.checkWikifqDisplay('wi_pip',10,60,1.0) && wi_isread_yet) {
+            googletag.cmd.push(function() {googletag.setConfig({ targeting: { wi_fqgroup1: 'true' } });});
+            wi_isread_yet = false;
+        }
+    }
+} else if (!wi_ismobile && wi_group === 'N' && wi_agreement === 'false' && !wi_isinbound) {
+    (function () {
+        var gi = document.getElementById("pc-caption-ad-container");
+        gi.classList.add("default-advertisement");
+        if (gi.clientWidth > 610) {
+            if (gi.clientWidth < 769) {
+                gi.classList.add("pc-caption-ad-center");
+            } else {
+                gi.classList.add("pc-caption-ad-default");
+            }
+            if (window.wikiFq.checkWikifqDisplay('wi_fqgroup1',1,60,1.0) && wi_recref && (wi_recref.includes("google") || wi_recref.includes("yahoo")) || window.wikiFq.checkWikifqDisplay('wi_fqgroup2',1,60,0.2)) {
+                googletag.cmd.push(function() {googletag.setConfig({ targeting: { wi_fqgroup1: 'true' } });});
+                sessionStorage.setItem('wi_pip', false);
+            } else if (sessionStorage.getItem('wi_pip') === 'false') {
+                if (window.wikiFq.checkWikifqDisplay('wi_pip',10,60,1.0)) {
+                    googletag.cmd.push(function() {googletag.setConfig({ targeting: { wi_fqgroup1: 'true' } });});
+                }
+            }
+            defineSlotFlux.push({"slotID": "div-gpt-ad-1719748039754-0", "sizes": [[300,250]], "slotName":"WIKIWIKI_PC_CAPTION_SIDE_BY"});
+            googletag.cmd.push(function() {googletag.display('div-gpt-ad-1565253136679-0');});
+            googletag.cmd.push(function() {
+                googletag.defineSlot('/19033742/WIKIWIKI_PC_CAPTION_SIDE_BY',[[300,250],[1,1]],'div-gpt-ad-1719748039754-0').addService(googletag.pubads());
+                googletag.display('div-gpt-ad-1719748039754-0');});
+        }
+    })();
+}
+</script>
+<h3 id="h3_content_1_2" class="heading-after-first">中見出し 1-1  <a class="anchor_super" name ="qa1c1e8c"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=qa1c1e8c" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<h4 id="h4_content_1_3" class="heading-after-first">小見出し 1-1-1  <a class="anchor_super" name ="k28ac390"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=k28ac390" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h4>
+<ul class="list1"><li>項目1</li>
+<li>項目2</li>
+<li>項目3</li></ul>
+<p>段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1<br />
+段落1段落1段落1段落1段落1段落<strong>強調</strong>1段落1段落1段落1段落1段落1<br />
+段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1</p>
+<p>段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2<br />
+段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2<br />
+段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2</p>
+<h3 id="h3_content_1_4" class="heading-after-first">中見出し 1-2  <a class="anchor_super" name ="zcbf4116"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=zcbf4116" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<dl class="list1"><dt>用語1</dt>
+<dd>いろいろ書いた解説文1と<strong>強調単語</strong> <a id="notetext_1"  class="note_super tooltip"
+            data-tooltip-content="&lt;p&gt;注釈1: WikiName&lt;/p&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;#notefoot_1&quot;&gt;脚注 *1 へ&lt;/a&gt;&lt;/div&gt;">*1</a><br />
+段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1<br />
+段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1<br />
+段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1</dd>
+<dt>用語2</dt>
+<dd>いろいろ書いた解説文2 <a id="notetext_2"  class="note_super tooltip"
+            data-tooltip-content="&lt;p&gt;注釈2: ブラケットネーム&lt;/p&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;#notefoot_2&quot;&gt;脚注 *2 へ&lt;/a&gt;&lt;/div&gt;">*2</a></dd>
+<dt>用語3</dt>
+<dd>いろいろ書いた解説文3 <a id="notetext_4"  class="note_super tooltip"
+            data-tooltip-content="&lt;p&gt;注釈3: 注釈の中にも&lt;a id=&quot;notetext_3&quot;  class=&quot;note_super tooltip&quot;
+            data-tooltip-content=&quot;&amp;lt;p&amp;gt;注釈の注釈を&amp;lt;/p&amp;gt;&amp;lt;div style=&amp;quot;text-align: right;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#notefoot_3&amp;quot;&amp;gt;脚注 *3 へ&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;&quot;&gt;*3&lt;/a&gt;作ることができます&lt;/p&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;#notefoot_4&quot;&gt;脚注 *4 へ&lt;/a&gt;&lt;/div&gt;">*4</a></dd></dl>
+<hr class="full_hr" />
+<h2 id="h2_content_1_5" class="heading-after-first">大見出し 2  <a class="anchor_super" name ="z3909cff"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=z3909cff" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+
+<div id="pc-caption-300x600-ad-container">
+<!-- /19033742/WIKIWIKI_SP_CAPTION_300x600 -->
+<div id='div-gpt-ad-1731135777754-0' class="hidden-switch-class"></div>
+</div><h3 id="h3_content_1_6" class="heading-after-first">小見出し 2-1  <a class="anchor_super" name ="l26a869a"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=l26a869a" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<h3 id="h3_content_1_7" class="heading-after-first">小見出し 2-2  <a class="anchor_super" name ="s6844309"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=s6844309" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<p>段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1段落1<br />
+段落1段落1段落1段落<em>イタリック</em>1段落1段落1段落1段落1段落1段落1段落1<br />
+段落1段落1段落1段落<strong><em>イタリックボールド</em></strong>1段落1段落1段落1段落1段落1</p>
+<blockquote><p class="quotation">段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2</p>
+<p class="quotation">段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2</p>
+<p class="quotation">段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2段落2</p></blockquote>
+<p>レベル0レベル0レベル0レベル0レベル0レベル0</p>
+<blockquote><p class="quotation">レベル1</p>
+<p class="quotation">レベル1</p>
+<p class="quotation">レベル1</p>
+<blockquote><p class="quotation">レベル2</p>
+<p class="quotation">レベル2</p>
+<p class="quotation">レベル2</p>
+<blockquote><p class="quotation">レベル3</p>
+<ul class="list1"><li>はろ1
+<ul class="list2"><li>はろ2<br />
+ろろろろ2
+<ul class="list3"><li>はろ3</li></ul></li>
+<li>はろ2
+<ul class="list3"><li>はろ3</li></ul></li>
+<li>はろ2
+<ul class="list3"><li>はろ3
+<blockquote><p class="quotation">レベル3</p>
+<p class="quotation">レベル3</p>
+<p class="quotation">レベル3</p></blockquote></li></ul></li></ul></li></ul></blockquote></blockquote></blockquote>
+<h2 id="h2_content_1_8" class="heading-after-first"><strong>日付</strong>  <a class="anchor_super" name ="jfce72b9"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=jfce72b9" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<pre>日付 2020-08-15</pre>
+<ul class="list1"><li>日付 2004-08-16</li></ul>
+<pre>2020-08-15</pre>
+<ul class="list1"><li>2004-08-16</li></ul>
+<pre>時刻 21:25:58</pre>
+<ul class="list1"><li>時刻 07:29:03</li></ul>
+<pre>21:25:58</pre>
+<ul class="list1"><li>07:29:03</li></ul>
+<pre>日時 2020-08-15 (土) 21:25:58</pre>
+<ul class="list1"><li>日時 2004-08-16 (月) 07:30:27</li></ul>
+<pre>2020-08-15 (土) 21:25:58</pre>
+<ul class="list1"><li>2004-08-16 (月) 07:29:03</li></ul>
+<h2 id="h2_content_1_9" class="heading-after-first"><strong>リンク</strong>  <a class="anchor_super" name ="jb6d4e84"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=jb6d4e84" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<div class="h-scrollable"><table><tbody><tr><th>曲名</th><th>Difficulty</th><th>Artist</th><th>BPM</th><th>Notes</th></tr><tr><td rowspan="2"><a href="/deemo/MagiCatz" title="MagiCatz" class="rel-wiki-page">MagiCatz</a></td><td><span class="wikicolor" style="color:#f8a900">Hard</span></td><td>Sakuzyo</td><td>135-145</td><td><span class="wikicolor" style="color:#f8a900">1042</span></td></tr><tr><td colspan="4">ver.2.3追加曲。高速右2連&amp;タップスライド複合と非常にとがった側面をもつ、気まぐれな譜面。</td></tr><tr><td rowspan="2"><a href="/deemo/ANiMA" title="ANiMA" class="rel-wiki-page">ANiMA</a></td><td><span class="wikicolor" style="color:#f8a900">Hard</span></td><td>xi</td><td>183.5</td><td><span class="wikicolor" style="color:#f8a900">1120</span></td></tr><tr><td colspan="4">ver.2.0追加曲。高密度のタップ連打と複雑なスライドが終始間断なく降り注ぐ。その配置と物量からからほぼ全域がコンボカッター。</td></tr></tbody></table></div>
+<p>URLやメールアドレスは自動的にリンクになります</p>
+<ul class="list1"><li>URL -- <a class="ext" href="http://example.org/" rel="nofollow">http://example.org/<span class="system-icon ext pukiwiki-open-uri" data-href="http://example.org/" data-frame="_blank"></span></a></li>
+<li>メールアドレス -- foo@example.org</li>
+<li>URLが各種画像ファイルであればそのまま表示します
+<ul class="list2"><li><a class="ext" href="http://pukiwiki.sourceforge.jp/image/b_pukiwiki.official.png" rel="nofollow">http://pukiwiki.sourceforge.jp/image/b_pukiwiki.official.png<span class="system-icon ext pukiwiki-open-uri" data-href="http://pukiwiki.sourceforge.jp/image/b_pukiwiki.official.png" data-frame="_blank"></span></a></li></ul></li></ul>
+<div class="caption-flybox">
+<div id="pc-caption-20th-ad-container">
+<!-- /19033742/WIKIWIKI_PC_CAPTION_20TH -->
+<div id='div-gpt-ad-1566473930452-0' class="hidden-switch-class">
+<script>
+    googletag.cmd.push(function() {googletag.display('div-gpt-ad-1566473930452-0'); });
+</script>
+</div>
+</div>
+</div>
+<h2 id="h2_content_1_10" class="heading-after-first"><strong>その他の文字装飾</strong>  <a class="anchor_super" name ="l89b765d"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=l89b765d" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<pre>整形済みテキスト整形済みテキスト整形済みテキスト
+整形済みテキスト整形済みテキスト整形済みテキスト
+AAAAAAAAAAA</pre>
+<div class="fold-container  clearfix">
+    <button class="fold-toggle-button hidden-on-open"><i class="fal fa-plus-square"></i></button>
+    <button class="fold-toggle-button visible-on-open"><i class="fal fa-minus-square"></i></button>
+    <div class="fold-summary hidden-on-open"></div>
+    <div class="fold-content visible-on-open"><p><a href="https://cdn.wikiwiki.jp/to/w/deemo/SandBox/::attach/Lv10Top%28Latest%29_1.PNG?rev=b070a95cf3e1a3e03a692e952de1cc36&amp;t=20200817172341" title="Lv10Top(Latest)_1.PNG" data-lightbox="imageset"><img src="https://cdn.wikiwiki.jp/to/w/deemo/SandBox/::ref/Lv10Top%28Latest%29_1.PNG?rev=b070a95cf3e1a3e03a692e952de1cc36&amp;t=20200817172341" alt="Lv10Top(Latest)_1.PNG" title="Lv10Top(Latest)_1.PNG" width="758" height="615"  loading="lazy"></a></p>
+</div>
+</div>
+<p><span style="color:#e6f2ff"> 色の変更も可能なルール(COLOR(#e6f2ff)) </span></p>
+<p><span style="font-size:10px"> サイズの変更も可能なルール(SIZE(10)) </span></p>
+<p><span style="font-size:20px"> <span style="color:#ffeee6"> 両方指定(SIZE(20)COLOR(#ffeee6)) </span> </span></p>
+<pre>AAAAAAAAAAA
+AAAAAAAAAAAAA</pre>
+<p><del>打ち消し線</del><br />
+<del>aaaa</del></p>
+<p>左寄せ</p>
+<div style="text-align:center">中寄せ</div>
+<div style="text-align:right">右寄せ</div>
+<div class="spacer">&nbsp;</div>
+<hr class="short_line">
+<div style="text-align:center">↑#hr 水平線(----)の60%</div>
+<pre>&amp;nbsp;</pre>
+<p>de&nbsp;emo<br />
+delemo</p>
+<pre>&amp;emsp;</pre>
+<p>de&emsp;emo<br />
+deＭemo</p>
+<pre>&amp;ntbr</pre>
+<p>ネタバレ防止に使える。タップで読める。何重かにして誤タップ防止も。<br />
+画像にかけたり表全体隠したりもできる。反転処理や二重折り込みにしてる部分に選択肢が増えた。<br />
+Deemoの正体は<span class="plugin-ntbr" style="background-color: mediumorchid;"><span><span class="plugin-ntbr"><span>ゲームで確かめよう</span></span></span></span></p>
+<pre>-注意</pre>
+<pre>~-注意</pre>
+<ul class="list1"><li>注意</li></ul>
+<p>-注意<br />
+<span class="wikicolor" style="color:Gray">(~を文頭に置けば*や+、//なども文頭に表示可能です)</span></p>
+<pre>「 &amp;ruby(さよならも言わずに消えてしまわないで){Never Left Without Saying Goodbye}; ｣</pre>
+<p>「 <ruby>Never Left Without Saying Goodbye<rp>(</rp><rt>さよならも言わずに消えてしまわないで</rt><rp>)</rp></ruby> ｣<br />
+<span class="wikicolor" style="color:Gray">(わかりづらいですがルビが振れます)</span></p>
+<pre>#marquee(Deemo,slide,,Black,White,15);
+#marquee(少女,alternate,2,Silver,Black,8);
+#marquee(仮面の少女,,,Gray,White,9);</pre>
+<div class="plugin-marquee" style="overflow:hidden;white-space:nowrap;background-color:Black;" data-behavior="slide"><span class="plugin-marquee-content" style="display:inline-block; white-space: nowrap;"><span style="color:White;font-size:15px;">Deemo</span></span></div>
+<div class="plugin-marquee" style="overflow:hidden;white-space:nowrap;background-color:Silver;" data-behavior="alternate" data-loop="2"><span class="plugin-marquee-content" style="display:inline-block; white-space: nowrap;"><span style="color:Black;font-size:8px;">少女</span></span></div>
+<div class="plugin-marquee" style="overflow:hidden;white-space:nowrap;background-color:Gray;" data-behavior="scroll"><span class="plugin-marquee-content" style="display:inline-block; white-space: nowrap;"><span style="color:White;font-size:9px;">仮面の少女</span></span></div>
+<pre>#areaedit(btn:変更)
+指定した範囲が&amp;areaedit{編集可能};になります
+#areaedit(end)</pre>
+<div style="margin:0 0 0 auto;text-align:right;">
+  <a href="/deemo/::cmd/areaedit?areaedit_no=0&inline_plugin=0&page=SandBox&digest=f8cc7f396659d8cbc800faa7ecad1a2a" title="0" name="areaedit_block_0" rel="nofollow"
+     class="security-check-interrupt" data-trolling-defence="on" data-page="SandBox"
+     data-interrupt="none" data-unfreeze-url=""
+  >変更</a>
+</div>
+<p>指定した範囲が<span onmouseover="this.style.backgroundColor='#ffe4e1';" onmouseout="this.style.backgroundColor='transparent';">編集可能</span><a href="/deemo/::cmd/areaedit?areaedit_no=0&page=SandBox&inline_plugin=1&inline_preview=0&digest=f8cc7f396659d8cbc800faa7ecad1a2a" title="0" rel="nofollow" name="areaedit_inline_0"
+class="security-check-interrupt" data-interrupt="none" data-unfreeze-url="">[e]</a>になります</p>
+<div></div>
+<p><span class="wikicolor" style="color:Gray">(#commentと併用すると便利です)</span></p>
+<pre>#related</pre>
+<p>#related: relatedプラグインは廃止されました。</p>
+<p><span class="wikicolor" style="color:Gray">(｢設置したページへのリンク｣が貼ってあるページ、及び｢設置したページにある表組み｣内のリンク先となっているページを表示します)</span></p>
+<pre>#ls2(A,compact,link,Aで始まるページ一覧)
+Hで始まるページ一覧
+#ls2(H,compact)</pre>
+<p><a href="/deemo/::cmd/ls2?prefix=A">Aで始まるページ一覧</a></p>
+
+<p>Hで始まるページ一覧</p>
+<ul class="list1">
+<li><a id="list_1" href="/deemo/H" title="H" class="rel-wiki-page">H</a>
+</li>
+<li><a id="list_2" href="/deemo/Hakoniwa%20Daybreak" title="Hakoniwa Daybreak" class="rel-wiki-page">Hakoniwa Daybreak</a>
+</li>
+<li><a id="list_3" href="/deemo/Hana%20no%20Kotoba" title="Hana no Kotoba" class="rel-wiki-page">Hana no Kotoba</a>
+</li>
+<li><a id="list_4" href="/deemo/Hanomai" title="Hanomai" class="rel-wiki-page">Hanomai</a>
+</li>
+<li><a id="list_5" href="/deemo/Heart%20of%20Witch%20%28Deemo%20Arr.%29" title="Heart of Witch (Deemo Arr.)" class="rel-wiki-page">Heart of Witch (Deemo Arr.)</a>
+</li>
+<li><a id="list_6" href="/deemo/Hello%20%28Deemo%20Ver.%29" title="Hello (Deemo Ver.)" class="rel-wiki-page">Hello (Deemo Ver.)</a>
+</li>
+<li><a id="list_7" href="/deemo/Hello%20From%20Planet" title="Hello From Planet" class="rel-wiki-page">Hello From Planet</a>
+</li>
+<li><a id="list_8" href="/deemo/Hesitant%20Blade" title="Hesitant Blade" class="rel-wiki-page">Hesitant Blade</a>
+</li>
+<li><a id="list_9" href="/deemo/Hey%20Boy" title="Hey Boy" class="rel-wiki-page">Hey Boy</a>
+</li>
+<li><a id="list_10" href="/deemo/Holy%20Knight" title="Holy Knight" class="rel-wiki-page">Holy Knight</a>
+</li>
+<li><a id="list_11" href="/deemo/Hua%20Sui%20Yue" title="Hua Sui Yue" class="rel-wiki-page">Hua Sui Yue</a>
+</li>
+<li><a id="list_12" href="/deemo/HYAKKA%20RYOURAN" title="HYAKKA RYOURAN" class="rel-wiki-page">HYAKKA RYOURAN</a>
+</li>
+<li><a id="list_13" href="/deemo/Hypnos" title="Hypnos" class="rel-wiki-page">Hypnos</a></li></ul>
+<pre>#jumplist([[ﾜｯﾁｮｰﾈｰﾝwww&gt;Hey Boy]],[[ｼﾞｬﾝﾋﾟﾝｼﾞｬｰﾝ…&gt;Jumpy star]],[[ﾁｬｲﾀｱｧｧｧｧ&gt;Undo]])</pre>
+<form action="/deemo/::cmd/jumplist?refer=SandBox" method="post">
+ <div>
+  <select name="select"><option value="Hey Boy">ﾜｯﾁｮｰﾈｰﾝwww</option>
+<option value="Jumpy star">ｼﾞｬﾝﾋﾟﾝｼﾞｬｰﾝ…</option>
+<option value="Undo">ﾁｬｲﾀｱｧｧｧｧ</option>
+</select>
+  <input type="submit" name="jump" value="GO" />
+ </div>
+</form>
+<pre>#random(ランダム)</pre>
+<p><a href="/deemo/::cmd/random?refer=SandBox">ランダム</a></p>
+<p><span class="wikicolor" style="color:Gray">(設置したページの下階層の中からランダムにページが選ばれます、つまりこのランダムは<a href="/deemo/SandBox/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88" title="SandBox/コメント" class="rel-wiki-page">SandBox/コメント</a>にしか飛びません)</span></p>
+<pre>#calendar2(*,off)
+(+ #calendar_viewer(SandBox,3) )</pre>
+   <table class="style_calendar" width="150" summary="calendar body">
+    <tr>
+     <td class="style_td_caltop" colspan="7">
+      <a href="/deemo/::cmd/calendar2?file=&date=202609">&lt;&lt;</a>
+      <strong>2026.10</strong>
+      <a href="/deemo/::cmd/calendar2?file=&date=202611">&gt;&gt;</a>
+     </td>
+    </tr>
+    <tr>
+     <td class="style_td_week">日</td>
+     <td class="style_td_week">月</td>
+     <td class="style_td_week">火</td>
+     <td class="style_td_week">水</td>
+     <td class="style_td_week">木</td>
+     <td class="style_td_week">金</td>
+     <td class="style_td_week">土</td>
+    </tr>
+    <tr>
+     <td class="style_td_blank">&nbsp;</td>
+     <td class="style_td_blank">&nbsp;</td>
+     <td class="style_td_blank">&nbsp;</td>
+     <td class="style_td_blank">&nbsp;</td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-01&refer=" title="2026-10-01" rel="nofollow">1</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-02&refer=" title="2026-10-02" rel="nofollow">2</a>
+     </td>
+     <td class="style_td_sat">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-03&refer=" title="2026-10-03" rel="nofollow">3</a>
+     </td>
+    </tr>
+    <tr>
+     <td class="style_td_sun">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-04&refer=" title="2026-10-04" rel="nofollow">4</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-05&refer=" title="2026-10-05" rel="nofollow">5</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-06&refer=" title="2026-10-06" rel="nofollow">6</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-07&refer=" title="2026-10-07" rel="nofollow">7</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-08&refer=" title="2026-10-08" rel="nofollow">8</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-09&refer=" title="2026-10-09" rel="nofollow">9</a>
+     </td>
+     <td class="style_td_sat">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-10&refer=" title="2026-10-10" rel="nofollow">10</a>
+     </td>
+    </tr>
+    <tr>
+     <td class="style_td_sun">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-11&refer=" title="2026-10-11" rel="nofollow">11</a>
+     </td>
+     <td class="style_td_sun">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-12&refer=" title="2026-10-12" rel="nofollow">12</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-13&refer=" title="2026-10-13" rel="nofollow">13</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-14&refer=" title="2026-10-14" rel="nofollow">14</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-15&refer=" title="2026-10-15" rel="nofollow">15</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-16&refer=" title="2026-10-16" rel="nofollow">16</a>
+     </td>
+     <td class="style_td_sat">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-17&refer=" title="2026-10-17" rel="nofollow">17</a>
+     </td>
+    </tr>
+    <tr>
+     <td class="style_td_sun">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-18&refer=" title="2026-10-18" rel="nofollow">18</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-19&refer=" title="2026-10-19" rel="nofollow">19</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-20&refer=" title="2026-10-20" rel="nofollow">20</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-21&refer=" title="2026-10-21" rel="nofollow">21</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-22&refer=" title="2026-10-22" rel="nofollow">22</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-23&refer=" title="2026-10-23" rel="nofollow">23</a>
+     </td>
+     <td class="style_td_sat">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-24&refer=" title="2026-10-24" rel="nofollow">24</a>
+     </td>
+    </tr>
+    <tr>
+     <td class="style_td_today">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-25&refer=" title="2026-10-25" rel="nofollow">25</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-26&refer=" title="2026-10-26" rel="nofollow">26</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-27&refer=" title="2026-10-27" rel="nofollow">27</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-28&refer=" title="2026-10-28" rel="nofollow">28</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-29&refer=" title="2026-10-29" rel="nofollow">29</a>
+     </td>
+     <td class="style_td_day">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-30&refer=" title="2026-10-30" rel="nofollow">30</a>
+     </td>
+     <td class="style_td_sat">
+      <a class="small" href="/deemo/::cmd/edit?page=2026-10-31&refer=" title="2026-10-31" rel="nofollow">31</a>
+     </td>
+    </tr>
+   </table>
+
+
+<p><span class="wikicolor" style="color:Gray">(色々細かいことも出来るそうです)</span></p>
+<pre>#fold([[ストーリー]]){{
+#include(ストーリー,title)
+}}</pre>
+<div class="fold-container  clearfix">
+    <button class="fold-toggle-button hidden-on-open"><i class="fal fa-plus-square"></i></button>
+    <button class="fold-toggle-button visible-on-open"><i class="fal fa-minus-square"></i></button>
+    <div class="fold-summary hidden-on-open"><a href="/deemo/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC" title="ストーリー" class="rel-wiki-page">ストーリー</a></div>
+    <div class="fold-content visible-on-open"><div class="included-page-link-box"><a href="/deemo/::cmd/edit?page=%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC" rel="nofollow">ストーリー</a></div>
+<div class="spacer">&nbsp;</div>
+<hr class="full_hr" />
+<p><a href="/deemo/Light%20pollution" title="Light pollution" class="rel-wiki-page"><img src="https://cdn.wikiwiki.jp/to/w/deemo/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/::ref/image.jpg?rev=6201846ecdaa76768a2d9c02ede0cd6f&amp;t=20131115224446" alt="image.jpg" title="image.jpg" width="768" height="512"  loading="lazy"></a><br />
+とある城の中で<a href="/deemo/Untitled2" title="Untitled2" class="rel-wiki-page">孤独な日々</a>を過ごす神秘的なキャラクター、<a href="/deemo/Dream" title="Dream" class="rel-wiki-page">Deemo</a>。</p>
+<div class="spacer">&nbsp;</div>
+<p>ある日、自分が誰なのか分からず、どこから来たのかも覚えていない……そんな<a href="/deemo/Nine%20point%20eight" title="Nine point eight" class="rel-wiki-page">少女が空から落ちてくる</a>。</p>
+<div class="spacer">&nbsp;</div>
+<p>少女を空の上の世界に帰そうとするDeemoは、ピアノの音色を聴くたびに<a href="/deemo/%E3%80%8C%E6%9C%A8%E3%80%8D%E3%81%AE%E6%88%90%E9%95%B7" title="「木」の成長" class="rel-wiki-page">成長する木</a>を見つけるが……。</p>
+<div class="spacer">&nbsp;</div>
+<p>孤独な城の中では感じ得なかった、人の感情、そして少女の<a href="/deemo/Living%20In%20The%20One" title="Living In The One" class="rel-wiki-page">ぬく</a><a href="/deemo/The%20Beautiful%20Moonlight" title="The Beautiful Moonlight" class="rel-wiki-page">もり</a>に触れたとき、Deemoはどうなるのか。</p>
+<div class="spacer">&nbsp;</div>
+<p>失っていた<a href="/deemo/Sakura%20iro%20no%20yume" title="Sakura iro no yume" class="rel-wiki-page">記憶</a>を取り戻した時、少女はその真実を受けとめられるのだろうか……。</p>
+<div class="spacer">&nbsp;</div>
+<div class="spacer">&nbsp;</div>
+<div class="spacer">&nbsp;</div>
+<p><span style="font-size:20px">「――――<ruby>さよならも言わずに、消えてしまわないで。<rp>(</rp><rt>Never Left Without Saying Goodbye</rt><rp>)</rp></ruby>」</span></p>
+<div class="spacer">&nbsp;</div>
+<div class="spacer">&nbsp;</div>
+<div class="spacer">&nbsp;</div>
+
+</div>
+</div>
+<p><span class="wikicolor" style="color:Gray">(大きさの都合で畳みました、notitleだとタイトル表示がなくなります)</span></p>
+<pre>#insert</pre>
+<p>書き込みはここに来ます</p>
+<p>あ</p>
+<form action="/deemo/::cmd/insert?refer=SandBox" method="post"
+    class="security-check-interrupt"
+    data-trolling-defence="on" data-page="SandBox"
+    data-interrupt="none" data-unfreeze-url=""
+>
+ <div class="insert_form">
+  <input type="hidden" name="source_line" value="211" />
+  <input type="hidden" name="source_hash" value="1185b98eeb3ef6fee84d8805a8b3c8da" />
+  <input type="hidden" name="digest" value="f8cc7f396659d8cbc800faa7ecad1a2a">
+  <textarea name="msg" rows="5" cols="70"></textarea><br>
+  <input type="submit" name="insert" value="追加">
+ </div>
+</form>
+<pre>#memo</pre>
+<form action="/deemo/::cmd/memo?refer=SandBox" method="post"
+    class="memo security-check-interrupt"
+    data-trolling-defence="on" data-page="SandBox"
+    data-interrupt="none" data-unfreeze-url=""
+>
+ <div class="memo_form">
+  <input type="hidden" name="source_line" value="214" />
+  <input type="hidden" name="source_hash" value="94b362324728d82f7c248ff42c8529f4" />
+  <input type="hidden" name="digest"  value="f8cc7f396659d8cbc800faa7ecad1a2a" />
+  <textarea name="msg" rows="5" cols="60">書き込みはここに残ります</textarea><br />
+  <input type="submit" name="memo"  value="メモ更新">
+ </div>
+</form>
+<div class="spacer">&nbsp;</div>
+<h2 id="h2_content_1_11" class="heading-after-first">音源埋め込み  <a class="anchor_super" name ="gcbc4f04"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=gcbc4f04" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<pre>#youtube(ビデオID,横幅,高さ)
+CENTER:&amp;YouTube(ビデオID,横幅,高さ);</pre>
+<p>センタリングとかは&amp;じゃないといけない</p>
+<pre>#soundcloud(トラックID[, 色[, スタイル[, 高さ]]])</pre>
+<ul class="list1"><li>soundcloudはソースかEmbedみて「api.soundcloud.com/tracks/ここの番号」</li></ul>
+<hr class="full_hr" />
+<p>その他<a class="ext" href="https://wikiwiki.jp/sample/" rel="nofollow">WIKIWIKI さんぷるWIKI<span class="system-icon ext pukiwiki-open-uri" data-href="https://wikiwiki.jp/sample/" data-frame="_blank"></span></a>も参考に</p>
+<h2 id="h2_content_1_12" class="heading-after-first">色一覧  <a class="anchor_super" name ="color"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=color" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<p><a class="ext" href="http://wikiwiki.jp/sample/?%A5%AB%A5%E9%A1%BC%A5%B3%A1%BC%A5%C9#re1e14e1" rel="nofollow">カラーコード表<span class="system-icon ext pukiwiki-open-uri" data-href="http://wikiwiki.jp/sample/?%A5%AB%A5%E9%A1%BC%A5%B3%A1%BC%A5%C9#re1e14e1" data-frame="_blank"></span></a><br />
+<a class="ext" href="http://zawazawa.jp/official/topic/31" rel="nofollow">zawazawa：カラーコードリファレンス(おそらく共通、こちらの方が見やすい)<span class="system-icon ext pukiwiki-open-uri" data-href="http://zawazawa.jp/official/topic/31" data-frame="_blank"></span></a></p>
+<div class="spacer">&nbsp;</div>
+<hr class="full_hr" />
+<h2 id="h2_content_1_13" class="heading-after-first">zawazawa訓練所  <a class="anchor_super" name ="zawa"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=zawa" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<div class="caption-flybox">
+<div id="div-gpt-ad-other-ad-container">
+<div id="div-gpt-ad-other" class="hidden-switch-class">
+<script>
+    googletag.cmd.push(function() {googletag.display('div-gpt-ad-other'); });
+</script>
+</div>
+</div>
+</div>
+<h3 id="h3_content_1_14" class="heading-after-first">zawazawa：管理総合(埋め込み実験)  <a class="anchor_super" name ="wd3e7553"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=wd3e7553" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<p>この掲示板(zawazawa)についての管理・運用告知、また議論を行うトピックです。</p>
+<p>現在名前欄に何も入力しなかった場合表示される名前とアイコンの案を募集しています。</p>
+    <iframe id="zawazawa-embed-848198269a3388db7c81648168ab21c2-d4f6d2d37f61402359edfc1ea9cc4632" class="zawazawa-embed" src="https://z.wikiwiki.jp/em/deemo/topic/1?size=10&style=wikiwiki&skin=default_black01&skin_fs=12"
+        frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+        style="width:100%; min-width: 100%; max-width: 100%; *width: 100%; min-height: 350px; height: 200px;"
+        sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-modals allow-popups allow-popups-to-escape-sandbox allow-forms allow-top-navigation"
+    ></iframe>
+<h3 id="h3_content_1_15" class="heading-after-first">zawazawa：最新トピック一覧(埋め込み実験)  <a class="anchor_super" name ="dc249184"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=dc249184" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<div class="zawazawa-recent" data-zrecent-hash="85a194daabb15ac903a7ad069025a87f" data-zrecent-data="{&quot;topics&quot;:[{&quot;embeddedSites&quot;:[],&quot;forumSlug&quot;:&quot;deemo&quot;,&quot;forumTitle&quot;:&quot;Deemo掲示板&quot;,&quot;lastCommentNumber&quot;:289,&quot;lastCommentedAt&quot;:&quot;Tue, 28 May 2024 05:13:59 +0900&quot;,&quot;topicNumber&quot;:2,&quot;topicTitle&quot;:&quot;雑談・質問(Wiki出張版)&quot;,&quot;url&quot;:&quot;https://z.wikiwiki.jp/deemo/topic/2&quot;},{&quot;embeddedSites&quot;:[],&quot;forumSlug&quot;:&quot;deemo&quot;,&quot;forumTitle&quot;:&quot;Deemo掲示板&quot;,&quot;lastCommentNumber&quot;:5,&quot;lastCommentedAt&quot;:&quot;Sat, 11 Jul 2020 16:25:24 +0900&quot;,&quot;topicNumber&quot;:1,&quot;topicTitle&quot;:&quot;管理総合&quot;,&quot;url&quot;:&quot;https://z.wikiwiki.jp/deemo/topic/1&quot;},{&quot;embeddedSites&quot;:[],&quot;forumSlug&quot;:&quot;deemo&quot;,&quot;forumTitle&quot;:&quot;Deemo掲示板&quot;,&quot;lastCommentNumber&quot;:20,&quot;lastCommentedAt&quot;:&quot;Sat, 11 Feb 2017 17:20:39 +0900&quot;,&quot;topicNumber&quot;:3,&quot;topicTitle&quot;:&quot;新非公式難易度表の検討について&quot;,&quot;url&quot;:&quot;https://z.wikiwiki.jp/deemo/topic/3&quot;}]}"></div>
+<h3 id="h3_content_1_16" class="heading-after-first">zawazawa：編集ルール  <a class="anchor_super" name ="ec4ac876"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=ec4ac876" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<p>wikiwikiとは編集ルールが異なる。詳しくは<a class="ext" href="http://qiita.com/tbpgr/items/989c6badefff69377da7#-%E7%95%AA%E5%8F%B7%E4%BB%98%E3%81%8D%E3%83%AA%E3%82%B9%E3%83%88" rel="nofollow">こちら<span class="system-icon ext pukiwiki-open-uri" data-href="http://qiita.com/tbpgr/items/989c6badefff69377da7#-%E7%95%AA%E5%8F%B7%E4%BB%98%E3%81%8D%E3%83%AA%E3%82%B9%E3%83%88" data-frame="_blank"></span></a>。(<a class="ext" href="http://zawazawa.jp/official/topic/3" rel="nofollow">こっち<span class="system-icon ext pukiwiki-open-uri" data-href="http://zawazawa.jp/official/topic/3" data-frame="_blank"></span></a>には基本的なルールが載っている。)</p>
+<div class="spacer">&nbsp;</div>
+<hr class="full_hr" />
+<h2 id="h2_content_1_17" class="heading-after-first">編集メモ  <a class="anchor_super" name ="memo"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=memo" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<div class="fold-container  clearfix">
+    <button class="fold-toggle-button hidden-on-open"><i class="fal fa-plus-square"></i></button>
+    <button class="fold-toggle-button visible-on-open"><i class="fal fa-minus-square"></i></button>
+    <div class="fold-summary hidden-on-open">BOOK省略候補</div>
+    <div class="fold-content visible-on-open"><p>① collection→col.、selection→sel.<br />
+Deemo's col.Vol.1A<br />
+Deemo's col.Vol.1B<br />
+Deemo's col.Vol.2<br />
+Shattered Memories<br />
+Rayark sel.Vol.1<br />
+Rayark sel.Vol.2<br />
+MILI col.<br />
+V.K col.<br />
+Brave Frontier sel.<br />
+Brian Crain col.<br />
+Eshen Chen col.Vol.1<br />
+Rayark sel.Vol.3<br />
+Cytus sel.Vol.1<br />
+Cytus sel.Vol.2<br />
+Knight Iris col.<br />
+Knight Rosabell col.<br />
+Aioi col.<br />
+M2U×Nicode col.<br />
+N.M.S.T. col.<br />
+MILI col.Vol.2<br />
+AD:PIANO col.<br />
+Rabpit col.<br />
+Book of A.<br />
+Book of C.</p>
+<div class="spacer">&nbsp;</div>
+<p>② ①+Vol.省略<br />
+Deemo's col.1A<br />
+Deemo's col.1B<br />
+Deemo's col.2<br />
+Shattered Memories<br />
+Rayark sel.1<br />
+Rayark sel.2<br />
+MILI col.<br />
+V.K col.<br />
+Brave Frontier sel.<br />
+Brian Crain col.<br />
+Eshen Chen col.1<br />
+Rayark sel.3<br />
+Cytus sel.1<br />
+Cytus sel.2<br />
+Knight Iris col.<br />
+Knight Rosabell col.<br />
+Aioi col.<br />
+M2U×Nicode col.<br />
+N.M.S.T. col.<br />
+MILI col.2<br />
+AD:PIANO col.<br />
+Rabpit col.<br />
+Book of A.<br />
+Book of C.</p>
+<div class="spacer">&nbsp;</div>
+<p>③ ②+調整<br />
+Deemo's col.1A<br />
+Deemo's col.1B<br />
+Deemo's col.2<br />
+S.Memories<br />
+Rayark sel.1<br />
+Rayark sel.2<br />
+MILI col.<br />
+V.K col.<br />
+Bra.Fro.sel.<br />
+BrianCrain col.<br />
+EshenChen col.1<br />
+Rayark sel.3<br />
+Cytus sel.1<br />
+Cytus sel.2<br />
+K.Iris col.<br />
+K.Rosabell col.<br />
+Aioi col.<br />
+M2UxNicode col.<br />
+N.M.S.T. col.<br />
+MILI col.2<br />
+AD:PIANO col.<br />
+Rabpit col.<br />
+Book of A.<br />
+Book of C.</p>
+</div>
+</div>
+<div class="fold-container  clearfix">
+    <button class="fold-toggle-button hidden-on-open"><i class="fal fa-plus-square"></i></button>
+    <button class="fold-toggle-button visible-on-open"><i class="fal fa-minus-square"></i></button>
+    <div class="fold-summary hidden-on-open">曲数表組</div>
+    <div class="fold-content visible-on-open"><div class="h-scrollable"><table><tbody><tr><th style="text-align:center;">BOOK</th><th style="text-align:center;">ver.</th><th style="text-align:center;">曲</th><th style="text-align:center;">体</th><th style="text-align:center;">iOS</th><th style="text-align:center;">Android</th><th style="text-align:center;">au</th><th style="text-align:center;">Amazon</th><th style="text-align:center;">Vita</th></tr><tr><td><a href="#d6129d19">Deemo's collection Vol.1A</a></td><td>1.0～1.4</td><td style="text-align:center; color:Red;">13</td><td style="text-align:center; color:Red;"><strong>12</strong></td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td></tr><tr><td><a href="#sf7021cc">Deemo's collection Vol.1B</a></td><td>1.0～1.5</td><td style="text-align:center; color:Red;">14</td><td style="text-align:center; color:Red;"><strong>2</strong></td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td></tr><tr><td><a href="#q2c2bdd2">Deemo's collection Vol.2</a></td><td>2.0～2.1</td><td style="text-align:center; color:Red;">11</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;"><strong>10</strong></td><td style="text-align:center; color:Red;"><strong>10</strong></td><td style="text-align:center; color:Red;"><strong>10</strong></td></tr><tr><td><a href="#fa69e15b">Shattered Memories</a></td><td>2.2～2.3</td><td style="text-align:center; color:Red;">9</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td></tr><tr><td colspan="9" style="text-align:center; color:Red;"></td></tr><tr><td><a href="#w0869e52">Rayark selection Vol.1</a></td><td>1.0～1.4</td><td style="text-align:center;">6</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td><a href="#s27f5347">Rayark selection Vol.2</a></td><td>1.0</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td><a href="#pa8fada6">MILI collection</a></td><td>1.4</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td><a href="#a3b2f285">V.K collection</a></td><td>1.4</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td colspan="9" style="text-align:center;"></td></tr><tr><td><a href="#ue4edd95">Brave Frontier selection</a></td><td>1.5</td><td style="text-align:center; color:Red;">3</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td></tr><tr><td><a href="#aed2295e">Brian Crain collection</a></td><td>1.5</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td><a href="#c83ac944">Eshen Chen collection<br class="spacer">&emsp;Vol.1 Transmission</a></td><td>1.5</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td><a href="#o6657092">Rayark selection Vol.3</a></td><td>1.5</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td><a href="#v26de684">Cytus selection Vol.1</a></td><td>1.5</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;"><strong>4</strong></td><td style="text-align:center;"><strong>4</strong></td><td style="text-align:center;">○</td></tr><tr><td><a href="#d3e0a63c">Cytus selection Vol.2</a></td><td>1.5</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td><a href="#zb6e192e">Knight Iris collection</a></td><td>1.5</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><th style="text-align:center;">BOOK</th><th style="text-align:center;">ver.</th><th style="text-align:center;">曲</th><th style="text-align:center;">体</th><th style="text-align:center;">iOS</th><th style="text-align:center;">Android</th><th style="text-align:center;">au</th><th style="text-align:center;">Amazon</th><th style="text-align:center;">Vita</th></tr><tr><td><a href="#s1d9afa7">Knight Rosabell collection</a></td><td>2.0</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td><a href="#za9ad38d">Aioi collection</a></td><td>2.0</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td><a href="#w906aa5e">M2U × Nicode collection</a></td><td>2.0</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td><a href="#db197a3c">N.M.S.T. collection</a></td><td>2.0</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;">◎</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td></tr><tr><td><a href="#ud5823e9">MILI collection Vol.2</a></td><td>2.1</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td></tr><tr><td><a href="#g02db1c3">AD:PIANO collection</a></td><td>2.2</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td></tr><tr><td><a href="#rd6bee97">Rabpit collection</a></td><td>2.2</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td></tr><tr><td colspan="9" style="text-align:center;"></td></tr><tr><td><a href="#xd83dae5">L: The Lower collection</a></td><td>2.3</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td></tr><tr><td><a href="#yb18f912">L: The Upper collection</a></td><td>2.3</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td></tr><tr><td><a href="#v766e36e">RAC collection #1</a></td><td>2.3</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td></tr><tr><td><a href="#oddfca15">RAC collection #2</a></td><td>2.3</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td></tr><tr><td><a href="#ib8199af">Sakuzyo collection</a></td><td>2.3</td><td style="text-align:center;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center;">○</td><td style="text-align:center;">○</td><td style="text-align:center; color:Red;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td><td style="text-align:center;"><span class="wikicolor" style="color:Blue">×</span></td></tr><tr><td colspan="9" style="text-align:center;"></td></tr><tr><td><a href="/deemo/VITA%E7%89%88%E8%BF%BD%E5%8A%A0%E6%9B%B2%E4%B8%80%E8%A6%A7#d6129d19" title="VITA版追加曲一覧" class="rel-wiki-page">Book of A.</a></td><td>Vita</td><td style="text-align:center; color:Red;">5</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Red;">◎</td></tr><tr><td><a href="/deemo/VITA%E7%89%88%E8%BF%BD%E5%8A%A0%E6%9B%B2%E4%B8%80%E8%A6%A7#oee7de06" title="VITA版追加曲一覧" class="rel-wiki-page">Book of C.</a></td><td>Vita</td><td style="text-align:center; color:Red;">3</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Red;">◎</td></tr><tr><td><a href="/deemo/VITA%E7%89%88%E8%BF%BD%E5%8A%A0%E6%9B%B2%E4%B8%80%E8%A6%A7#c1230d12" title="VITA版追加曲一覧" class="rel-wiki-page">Duet collection Vol.1</a></td><td>Vita</td><td style="text-align:center; color:Red;">1</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Blue;">×</td><td style="text-align:center; color:Red;">◎(10)</td></tr><tr><th style="text-align:center;">BOOK</th><th style="text-align:center;">ver.</th><th style="text-align:center;">曲</th><th style="text-align:center;">体</th><th style="text-align:center;">iOS</th><th style="text-align:center;">Android</th><th style="text-align:center;">au</th><th style="text-align:center;">Amazon</th><th style="text-align:center;">Vita</th></tr><tr><td style="text-align:center;"><span class="wikicolor" style="color:Red">8</span>+22=<span style="font-size:17px"><strong>30</strong></span> BOOKs</td><th colspan="2" style="text-align:center;">BOOK数</th><td style="text-align:center;"><span class="wikicolor" style="color:Red"><span style="font-size:15px"><strong>3</strong></span></span></td><td colspan="2" style="text-align:center;"><span class="wikicolor" style="color:Red">5</span>+22=<span style="font-size:15px"><strong>27</strong></span></td><td style="text-align:center;"><span class="wikicolor" style="color:Red"><span style="font-size:15px"><strong>17</strong></span></span></td><td style="text-align:center;"><span class="wikicolor" style="color:Red">4</span>+14=<span style="font-size:15px"><strong>18</strong></span></td><td style="text-align:center;"><span class="wikicolor" style="color:Red">6</span>+14=<span style="font-size:15px"><strong>20</strong></span></td></tr><tr><td style="text-align:center;"><span class="wikicolor" style="color:Red">59</span>+111=<span style="font-size:17px"><strong>170</strong></span> 曲</td><th colspan="2" style="text-align:center;">曲数</th><td style="text-align:center;"><span class="wikicolor" style="color:Red"><span style="font-size:15px"><strong>17</strong></span></span></td><td colspan="2" style="text-align:center;"><span class="wikicolor" style="color:Red">50</span>+111=<span style="font-size:15px"><strong>161</strong></span></td><td style="text-align:center;"><span class="wikicolor" style="color:Red"><span style="font-size:15px"><strong>105</strong></span></span></td><td style="text-align:center;"><span class="wikicolor" style="color:Red">40</span>+70=<span style="font-size:15px"><strong>110</strong></span></td><td style="text-align:center;"><span class="wikicolor" style="color:Red">46</span>+71=<span style="font-size:15px"><strong>117</strong></span></td></tr><tr><td style="text-align:center;"><span class="wikicolor" style="color:Red">194</span>+333=<span style="font-size:17px"><strong>527</strong></span> 譜面</td><th colspan="2" style="text-align:center;">譜面数</th><td style="text-align:center;"><span class="wikicolor" style="color:Red"><span style="font-size:15px"><strong>51</strong></span></span></td><td colspan="2" style="text-align:center;"><span class="wikicolor" style="color:Red">150</span>+333=<span style="font-size:15px"><strong>483</strong></span></td><td style="text-align:center;"><span class="wikicolor" style="color:Red"><span style="font-size:15px"><strong>315</strong></span></span></td><td style="text-align:center;"><span class="wikicolor" style="color:Red">120</span>+210=<span style="font-size:15px"><strong>330</strong></span></td><td style="text-align:center;"><span class="wikicolor" style="color:Red">155</span>+213=<span style="font-size:15px"><strong>368</strong></span></td></tr></tbody></table></div>
+</div>
+</div>
+<div class="spacer">&nbsp;</div>
+<div style="margin:0 0 0 auto;text-align:right;">
+  <a href="/deemo/::cmd/areaedit?areaedit_no=2&inline_plugin=0&page=SandBox&digest=f8cc7f396659d8cbc800faa7ecad1a2a" title="1" name="areaedit_block_2" rel="nofollow"
+     class="security-check-interrupt" data-trolling-defence="on" data-page="SandBox"
+     data-interrupt="none" data-unfreeze-url=""
+  >メモ修正</a>
+</div>
+<ul class="list1"><li>Q＆A
+<ul class="list2"><li><del>｢押しても反応しない…｣と｢カクつきます…｣の統合</del></li></ul></li></ul>
+<ul class="list1"><li>各楽曲ページ
+<ul class="list2"><li>楽曲紹介欄の追加修正</li></ul></li></ul>
+<ul class="list1"><li>BOOK別リスト&amp;VITA版楽追加楽曲
+<ul class="list2"><li>アーティスト別への接続</li>
+<li>デュエットの不足情報収集、追加</li>
+<li>BPM, TIME入れ替え</li></ul></li></ul>
+<ul class="list1"><li>レベル別リスト
+<ul class="list2"><li>表組みの完成</li>
+<li>掲載順番の見直し</li>
+<li>BPM, TIME入れ替え</li></ul></li></ul>
+<ul class="list1"><li>アーティスト別リスト
+<ul class="list2"><li>BPM, TIME入れ替え</li></ul></li></ul>
+<ul class="list1"><li>高レベル非公式難易度
+<ul class="list2"><li>新形式の作成(各難易度比較)</li>
+<li>TIME、ver追加アーティスト削除のアンケート</li></ul></li></ul>
+<ul class="list1"><li>(VITA版)製品情報&amp;スマホ版との相違点
+<ul class="list2"><li>トロフィー関連情報、曲入手順、ストーリー進行等の追加</li></ul></li></ul>
+<ul class="list1"><li>(VITA版)アフターストーリー
+<ul class="list2"><li>内容のズレ修正</li></ul></li></ul>
+<ul class="list1"><li>(ネタバレ)考察・予想
+<ul class="list2"><li>活用法の模索、仕様変更、もしくは処理</li></ul></li></ul>
+<ul class="list1"><li>zawazawa
+<ul class="list2"><li>議論所及び情報収集手段の確立</li></ul></li></ul>
+<ul class="list1"><li>その他の楽曲
+<ul class="list2"><li>情報収集、追加</li></ul></li></ul>
+<h2 id="h2_content_1_18" class="heading-after-first">DEEMO2  [発売前情報]　 <a class="anchor_super" name ="DEEMO2"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=DEEMO2" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<ul class="list1"><li>ジャンルは「アドベンチャーリズムゲーム」</li>
+<li>RayarkCon (2019年12月21日)に開発発表。あわせて<a class="ext" href="https://youtu.be/a8LveBCVIXA" rel="nofollow">ティザームービー<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/a8LveBCVIXA" data-frame="_blank"></span></a>、<a class="ext" href="https://deemo.com/deemo2/" rel="nofollow">公式サイト<span class="system-icon ext pukiwiki-open-uri" data-href="https://deemo.com/deemo2/" data-frame="_blank"></span></a>が開設された。</li></ul>
+<ul class="list1"><li>2020年5月2日に<a class="ext" href="https://youtu.be/0dUpQsGH6_g" rel="nofollow">コンセプトムービー<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/0dUpQsGH6_g" data-frame="_blank"></span></a>公開
+<blockquote><p class="quotation"><strong>「音楽、それは青空への願い――」</strong></p>
+<p class="quotation">頭の上に花が咲く女の子と不思議な白い人型の生物──「Deemo」</p>
+<p class="quotation">駅の中から響く音色と共に、次第に雨が止み、空に再び晴れ間が広がって行く。</p>
+
+<p class="quotation">二人は大雨が降り続く不思議な国で、世界を救う希望を探す旅に出る。</p></blockquote></li></ul>
+<ul class="list2"><li>Google Play 事前登録<a class="ext" href="http://short.rayark.com/d2gppre" rel="nofollow">開始<span class="system-icon ext pukiwiki-open-uri" data-href="http://short.rayark.com/d2gppre" data-frame="_blank"></span></a></li></ul>
+<ul class="list1"><li>2020年9月16日　コンセプトソングタイトルと作曲者発表。「Away from the rain」/<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88#Chamber" title="アーティスト別リスト" class="rel-wiki-page">Chamber Chu</a></li>
+<li>2020年10月より毎月　駅の中の男の子シリーズとして文章が公開された。
+<div class="fold-container  clearfix">
+    <button class="fold-toggle-button hidden-on-open"><i class="fal fa-plus-square"></i></button>
+    <button class="fold-toggle-button visible-on-open"><i class="fal fa-minus-square"></i></button>
+    <div class="fold-summary hidden-on-open">公式サイトと、Twitterに同様のものが記載</div>
+    <div class="fold-content visible-on-open"><blockquote><p class="quotation">「雨……また何か消えてしまうのかな？」<br />
+<a class="ext" href="https://twitter.com/DeemoRayark/status/1318159966394486791" rel="nofollow">2020年10月19日のツイート<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1318159966394486791" data-frame="_blank"></span></a></p></blockquote>
+<blockquote><p class="quotation">降りやまない大雨。</p>
+<p class="quotation">この雨に濡れた物はみんな白い花が咲いて消えて行く。だから僕たちは駅の中に隠れているしかない。</p>
+<p class="quotation">ここではピアノの音色が守ってくれるから心配しなくていいんだって。</p>
+<p class="quotation">君のところは大丈夫？</p>
+<p class="quotation">僕と妹は持ってた最後のコインを願いの池に投げ入れて、この世界が元通りになるように祈ってるんだ……<br />
+<a class="ext" href="https://twitter.com/DeemoRayark/status/1327946759440461826" rel="nofollow">2020年11月15日のツイート<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1327946759440461826" data-frame="_blank"></span></a></p></blockquote>
+<blockquote><p class="quotation">駅の中の男の子 chap.2</p>
+<p class="quotation">夜、外の雨音が小さくなった。雲の隙間から空がのぞいていたんだ。</p>
+<p class="quotation">お父さんはこれが雨のオアシスだと言った。あっという間に消えてしまうらしい。<br />
+<a class="ext" href="https://twitter.com/DeemoRayark/status/1338816074381287426" rel="nofollow">2020年12月15日のツイート<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1338816074381287426" data-frame="_blank"></span></a></p></blockquote>
+<blockquote><p class="quotation">駅にいる男の子 chap.3</p>
+<p class="quotation">この日、ホームから言い争う声が聞こえてきた。列車がいつ発車できるのか大勢の人が質問していたんだ。</p>
+<p class="quotation">みんな駅長のおじいさんを取り囲んで、どれだけ故郷に帰りたいか、家族に会えなくなることがどれだけ不安か、口々に言っていた……</p>
+<p class="quotation">キツい口調で詰め寄られても、駅長のおじいさんは我慢強くみんなをなだめていた。ホームから人がいなくなって、ようやく一安心してたみたい。</p>
+<p class="quotation">駅長のおじいさんだって故郷に帰って家族に会いたいはずだよね？でもこの雨がそんな当たり前の望みさえも、叶えられなくしてしまったんだ……<br />
+<a class="ext" href="https://twitter.com/DeemoRayark/status/1350019902908850178" rel="nofollow">2021年1月15日のツイート<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1350019902908850178" data-frame="_blank"></span></a></p></blockquote>
+<blockquote><p class="quotation">駅の中の男の子 chap.4</p>
+<p class="quotation">「演奏をすれば、雨は次第に弱まっていく」</p>
+<p class="quotation">雨が強く振ってるとき、駅長のおじいさんがピアノを弾きはじめるんだ。</p>
+<p class="quotation">シンプルなメロディーなんだけど、聞いてると不思議と気持ちが穏やかになるんだよね。</p>
+<p class="quotation">雨が弱まるからってだけじゃないよ。ゆったりとしたピアノの音色がみんなの焦りや不安をなだめてくれるんだ。<br />
+<a class="ext" href="https://twitter.com/DeemoRayark/status/1361163323690123265" rel="nofollow">2021年2月15日のツイート<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1361163323690123265" data-frame="_blank"></span></a></p></blockquote>
+<blockquote><p class="quotation">駅の中の男の子 chap.5</p>
+<p class="quotation">消えた人がどこに行ってしまったのかは誰にも分からない。</p>
+<p class="quotation">だけど彼らが何を残したのかは皆知っている。</p>
+<p class="quotation">時々駅の水たまりに浮かんでるあの花びら、</p>
+<p class="quotation">それこそが僕たちの、彼らを偲ぶことができる唯一のものなんだ……<br />
+<a class="ext" href="https://twitter.com/DeemoRayark/status/1371310185663275017" rel="nofollow">2021年3月15日のツイート<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1371310185663275017" data-frame="_blank"></span></a></p></blockquote>
+<blockquote><p class="quotation">駅の中の男の子 chap.6</p>
+<p class="quotation">駅の外は土砂降りの雨。雨音がテントの中まで聞こえてきて、僕も妹も寝付けずにいた ……</p>
+<p class="quotation">妹がまたママのことを聞いてきたけど……本当は二人ともママがどうなったか分かってる。</p>
+<p class="quotation">だけど毎回この話をするたびに、心配いらない、大丈夫だって言い合うんだ。</p>
+<p class="quotation">でももうこれ以上自分を騙し続けることはできないかもしれない。</p>
+<p class="quotation">妹が何か言ったような気がしたけど、その声は雨音にかき消されて聞こえなかった。<br />
+<a class="ext" href="https://twitter.com/DeemoRayark/status/1382544208716701704" rel="nofollow">2021年4月15日のツイート<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1382544208716701704" data-frame="_blank"></span></a></p></blockquote>
+<blockquote><p class="quotation">駅の中の男の子 chap.7</p>
+<p class="quotation">今日、テラスで魔法使いの楽譜を見つけたんだ！</p>
+<p class="quotation">妹も駅長のおじいさんに見せたいって大はしゃぎ。僕もどんな曲なのか知りたいから急いで妹の後を追わないと。</p>
+<p class="quotation">ウキウキするような曲だといいな！そしたらここに閉じ込められてるツラさをしばらく忘れて、笑顔を取り戻すことができるからさ。<br />
+<a class="ext" href="https://twitter.com/DeemoRayark/status/1393415844982665220" rel="nofollow">2021年5月15日のツイート<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1393415844982665220" data-frame="_blank"></span></a></p></blockquote>
+<blockquote><p class="quotation">駅の中の男の子 chap.8</p>
+<p class="quotation">今日妹とテラスで楽譜を探してた時、何気なく遠くを見たら、白い髪の女の子が雨の中立ってるのが見えたんだ。<br />
+<a class="ext" href="https://twitter.com/DeemoRayark/status/1404649867646062595" rel="nofollow">2021年6月15日のツイート<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1404649867646062595" data-frame="_blank"></span></a></p></blockquote>
+<blockquote><p class="quotation">駅の中の男の子 chap.9</p>
+<p class="quotation">僕らの駅に一人おかしな奴がいるんだ。からだが水みたいで帽子をかぶってて、話しかけてもいっつも無視するんだよ。<br />
+<a class="ext" href="https://twitter.com/DeemoRayark/status/1415521505190891522" rel="nofollow">2021年7月15日のツイート<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1415521505190891522" data-frame="_blank"></span></a></p></blockquote>
+<blockquote><p class="quotation">駅の中の男の子 chap.10</p>
+<p class="quotation">魔法使いさんは偉大な人で、よく中央駅でも姿を見かけるって聞いたから、妹と一緒にずーっと待ってるんだけどいつになっても会えないんだ。</p></blockquote>
+<blockquote><p class="quotation">駅の中の男の子 chap.11<br />
+クラウスおじさんがまた雨漏りを修理してくれてる。</p></blockquote>
+</div>
+</div></li></ul>
+<ul class="list1"><li>2021年7月15日　<a class="ext" href="https://youtu.be/xHL39VLmAh8" rel="nofollow">New teaser<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/xHL39VLmAh8" data-frame="_blank"></span></a>公開。<ins><strong>2021年末リリース予定</strong></ins>であることが発表された。
+<ul class="list2"><li>使用曲作曲は<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88#if8fe9a1" title="アーティスト別リスト" class="rel-wiki-page">bqスタヂオ</a></li>
+<li>数曲タイトルが確認できる。「Reverie」satella、「Dream together」 Hydra Tsai (INSPION)、「Faiy's Crown」「KUMO」</li></ul></li></ul>
+<ul class="list1"><li>2021年7月21日　女の子の名前が<strong>「エコー」</strong>であることが判明。</li>
+<li>「アイザック」「クラウス」など駅で生活するその他のキャラクタービジュアルと名前判明</li>
+<li>【《 DEEMO II 》リリース前<a class="ext" href="https://docs.google.com/forms/d/e/1FAIpQLSfGvB7YboYNGP0onMLZTH1-b6_VSeks9IqtcBBCPFJlfNPC5g/viewform" rel="nofollow">アンケート調査<span class="system-icon ext pukiwiki-open-uri" data-href="https://docs.google.com/forms/d/e/1FAIpQLSfGvB7YboYNGP0onMLZTH1-b6_VSeks9IqtcBBCPFJlfNPC5g/viewform" data-frame="_blank"></span></a>】日本時間　<del>2021年7月29日～9月12日 24:59:59まで</del> (終了しました)
+<ul class="list2"><li>答えた人の中から抽選でクローズドテスト(1000人)に参加できる</li></ul></li>
+<li>2021年9月11日　Rayark10周年にあわせて情報がいくつか公開。</li>
+<li>iOS事前登録<a class="ext" href="https://apps.apple.com/jp/app/deemo-ii/id1531981487" rel="nofollow">開始<span class="system-icon ext pukiwiki-open-uri" data-href="https://apps.apple.com/jp/app/deemo-ii/id1531981487" data-frame="_blank"></span></a></li>
+<li>コンセプトソング 『<a class="ext" href="https://youtu.be/4W0uOIubCDA" rel="nofollow">Endless dreams<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/4W0uOIubCDA" data-frame="_blank"></span></a>』公開
+<ul class="list2"><li>作曲:安眠巫師(<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88#t82605fd" title="アーティスト別リスト" class="rel-wiki-page">Sleepy WiFi</a>)/演奏:守夜人(Night Keepers)</li></ul></li>
+<li>心理テスト「<a class="ext" href="https://deemo2quiz.deemo.com/ja" rel="nofollow">音魂の旅<span class="system-icon ext pukiwiki-open-uri" data-href="https://deemo2quiz.deemo.com/ja" data-frame="_blank"></span></a>」の公開
+<ul class="list2"><li>エクスプロラー、ガーディアン(Deemo白)、ファシリテイター、プロデューサー、パフォーマー、クリエイター、ティチャー、リーダー等にそれぞれDeemoⅡのキャラクターが割り振られている。</li>
+<li><del>4つの質問回答の終了後、心理テストの結果シェア、先行予約することで、クローズドベータ参加やiPad Airなどと景品か当たる抽選に参加できる。</del>　抽選は終了しました。(10月22日当選者発表済)</li></ul></li>
+<li>2021年10月25日より「《DEEMO II》駅にいる人々……」としてキャラクター紹介開始
+<ul class="list2"><li>エコー、Deemo。駅長、魔法使い、異郷人、クラウス、ラン、ファトマ&amp;アーメット</li></ul></li>
+<li>2021年11月15日-30日、DeemoⅡクローズドベータ版 当選者によるテストプレイ実施
+<ul class="list2"><li>プレイヤーの総称は「帰還者」であるらしい</li></ul></li>
+<li>2021年12月3日、事前登録イベント開始　抽選でiPhone13などが当たる
+<ul class="list2"><li>心理テスト「<a class="ext" href="https://deemo2register.deemo.com/ja" rel="nofollow">魂の秘密の旅<span class="system-icon ext pukiwiki-open-uri" data-href="https://deemo2register.deemo.com/ja" data-frame="_blank"></span></a>」(スマートフォン向け)の公開</li>
+<li>5つの質問(各3択)に答えた後、収録曲魂の曲として収録曲が1曲聴ける</li>
+<li>「Echo over you...」、「Kokoro Odoro」、「Daylight of life」、「Fairy's Crown」、「空の巣」<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%882#yourmythos" title="アーティスト別リスト2" class="rel-wiki-page">ユアミトス</a>、「Be Alive」、「Reverie」……など。</li></ul></li>
+<li>2021年12月5日 　収録楽曲紹介「Echo over you...」<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88#Apo11o" title="アーティスト別リスト" class="rel-wiki-page">Apo11o program</a></li>
+<li>2021年12月12日　収録楽曲紹介「Reverie」satella (Deemo提供なし,<a class="ext" href="https://wikiwiki.jp/cytus-2/%E6%A5%BD%E6%9B%B2%E4%B8%80%E8%A6%A7%28%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A52%29#satella" rel="nofollow">CytusⅡ<span class="system-icon ext pukiwiki-open-uri" data-href="https://wikiwiki.jp/cytus-2/%E6%A5%BD%E6%9B%B2%E4%B8%80%E8%A6%A7%28%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A52%29#satella" data-frame="_blank"></span></a>に有料楽曲「Nautilus」「Silver Lotus」提供あり)　</li>
+<li>2021年12月19日　収録楽曲紹介「felzione」<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88#vdf0e7bc" title="アーティスト別リスト" class="rel-wiki-page">onoken</a>
+<ul class="list2"><li>Lv.10であることが予告されており、(全部でいくつレベルあるか不明ではあるが)初代ボス曲候補。</li></ul></li>
+<li>2021年12月21日より　ゲーム内通貨の説明開始
+<ul class="list2"><li>時の貝がら、音石、ピアノバトルチケット、遊び放題チケット、光の粒</li>
+<li>ゲーム内で定期的に「イベント」が行われることが予想される</li></ul></li>
+<li>2021年12月24日　リリースが「2022年1月13日」&amp;「ダウンロード無料」と正式アナウンスされた。</li>
+<li>2021年12月26日  収録楽曲紹介「Fairy's Crown」<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88#k34cf061" title="アーティスト別リスト" class="rel-wiki-page">Powerless</a></li>
+<li>2021年12月31日 Rayark 10th Anniversary Concert Music Collection アルバム曲<a class="ext" href="https://youtu.be/jeilt7Ri4RA?t=2947" rel="nofollow">視聴<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/jeilt7Ri4RA?t=2947" data-frame="_blank"></span></a>
+<ul class="list2"><li>DeemoⅡからは「Daylight of life」Sakiko Sakuragi、「Be Alive」naotyu-feat.美咲、「Kokoro Odoro」、「Echo over you...」、「空の巣」、「Away from the rain」</li></ul></li>
+<li>2022年1月2日  収録楽曲紹介「Kokoro Odoro」(<a class="ext" href="https://youtu.be/GOoLBzmA9mc" rel="nofollow">Youtube<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/GOoLBzmA9mc" data-frame="_blank"></span></a>) / Tomggg (feat. m/lue. )
+<ul class="list2"><li>Tomggg <a class="ext" href="https://www.tatsuyafujishiro.com/" rel="nofollow">公式<span class="system-icon ext pukiwiki-open-uri" data-href="https://www.tatsuyafujishiro.com/" data-frame="_blank"></span></a>　/  <a class="ext" href="https://twitter.com/Tomggg" rel="nofollow">Twitter<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/Tomggg" data-frame="_blank"></span></a></li>
+<li>m/lue.(ミリュー) <a class="ext" href="https://twitter.com/__mlue" rel="nofollow">Twitter<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/__mlue" data-frame="_blank"></span></a></li></ul></li>
+<li>2022年1月9日  収録楽曲紹介「DRG (piano ver)」ani ,arranged by <a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%882#e563c62f" title="アーティスト別リスト2" class="rel-wiki-page">SLS</a>
+<ul class="list2"><li>Cytus、CytusⅡ、<a href="/deemo/DRG" title="DRG" class="rel-wiki-page">Deemo</a>収録曲のアレンジ音源</li></ul></li>
+<li><strong><ins>2022年1月13日  「DeemoⅡ」リリース</ins></strong>(iОS/Android)(DL本体無料)</li>
+<li>2022年2月12日　「空への願い Rayark 10th Anniversary Concert」(配信ライブ)</li></ul>
+<p>以降は<a class="ext" href="https://wikiwiki.jp/deemo_ii/" rel="nofollow">DeemoⅡ<span class="system-icon ext pukiwiki-open-uri" data-href="https://wikiwiki.jp/deemo_ii/" data-frame="_blank"></span></a>のwikiへ</p>
+<h2 id="h2_content_1_19" class="heading-after-first">DEEMO -Reborn- [発売前情報]  <a class="anchor_super" name ="Reborn"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=Reborn" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<ul class="list1"><li><ins>発売前情報です。変更された項目や推測が混ざっていることに留意して下さい</ins>。</li>
+<li>PlayStation4 TVモード、VRモード対応、<del>2019年春発売予定</del>、2019年11月21日発売。</li>
+<li>今後は<a href="/deemo/PS4%E7%89%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="PS4版について" class="rel-wiki-page">PS4版について</a>こちらにまとめていきたいと思います。</li></ul>
+<ul class="list1"><li>supercell のryoがプロデュースする架空のアーティスト「EGOIST」が主題歌とゲーム内楽曲を提供する</li>
+<li><a class="ext" href="https://unties.com/files/37/deemoreborn_jp/index.html" rel="nofollow">公式<span class="system-icon ext pukiwiki-open-uri" data-href="https://unties.com/files/37/deemoreborn_jp/index.html" data-frame="_blank"></span></a></li>
+<li><a class="ext" href="https://youtu.be/bSf6R2Uh2BI" rel="nofollow">DEEMO -Reborn- (仮) teaser<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/bSf6R2Uh2BI" data-frame="_blank"></span></a></li>
+<li><a class="ext" href="https://youtu.be/cFHVYwtImso" rel="nofollow">TGS 2018 trailer<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/cFHVYwtImso" data-frame="_blank"></span></a></li>
+<li><a class="ext" href="https://youtu.be/uNyO2PioFe8" rel="nofollow">DEEMO ‐Reborn‐ New Trailer Full<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/uNyO2PioFe8" data-frame="_blank"></span></a></li>
+<li><a class="ext" href="https://youtu.be/vtpY_dG_LUw" rel="nofollow">TVCM<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/vtpY_dG_LUw" data-frame="_blank"></span></a></li>
+<li>Rayark Wonderland@Tokyo 試遊対象 (2019年6月8日)</li>
+<li>本編の楽曲数が60曲以上で，そのうちの半分近くが新楽曲</li>
+<li>追加DLC 5曲×12パック=60曲</li>
+<li>謎解き＆アドベンチャーパート
+<ul class="list2"><li>基本的にはストーリー同じだが、新規演出やエピソードが追加される。<br />
+<a class="ext" href="https://www.4gamer.net/games/398/G039875/20190917004/" rel="nofollow">4Gamer、Ming-Yang氏へのインタビュー記事より<span class="system-icon ext pukiwiki-open-uri" data-href="https://www.4gamer.net/games/398/G039875/20190917004/" data-frame="_blank"></span></a>(9月19日)</li></ul></li>
+<li>新キャラ「<a class="ext" href="https://twitter.com/DeemoRayark/status/1195189681199206400" rel="nofollow">精霊<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1195189681199206400" data-frame="_blank"></span></a>」</li>
+<li>アプリと異なり、曲タイトルの英語表記かローマ字表記→曲名の漢字、ひらがな表記に対応？</li></ul>
+<p><ins>新規収録曲</ins></p>
+<div class="fold-container  clearfix">
+    <button class="fold-toggle-button hidden-on-open"><i class="fal fa-plus-square"></i></button>
+    <button class="fold-toggle-button visible-on-open"><i class="fal fa-minus-square"></i></button>
+    <div class="fold-summary hidden-on-open"></div>
+    <div class="fold-content visible-on-open"><ul class="list1"><li>「あいたい」onoken feat.<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88#o579558e" title="アーティスト別リスト" class="rel-wiki-page">Rin</a>(Trailer及びCM楽曲)</li></ul>
+<blockquote>
+<ul class="list1"><li>「All Alone With You」EGOIST</li>
+<li>「Planetes」EGOIST</li>
+<li>「キミソラキセキ」EGOIST</li>
+<li>「Ghost of a smile」EGOIST</li>
+<li>「Departures　～あなたにおくるアイの歌～」EGOIST<br />
+(<a class="ext" href="https://youtu.be/M8SUAWOzBMY" rel="nofollow">《DEEMO -Reborn-》x《EGOIST》trailer<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/M8SUAWOzBMY" data-frame="_blank"></span></a>)</li></ul></blockquote>
+<ul class="list1"><li>「Re:you ～彼の地を知りえたとして～」<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88#Apo11o" title="アーティスト別リスト" class="rel-wiki-page">Apo11o program</a>&amp;ゆゆうた ft. OFFICE萬田㈱</li>
+<li>「Creation of Fighters」<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88#Apo11o" title="アーティスト別リスト" class="rel-wiki-page">Apo11o program</a></li>
+<li>「Faith, Hope &amp; Love」</li>
+<li>「Chance」Silaver</li>
+<li>「My Dear,Deemo」</li>
+<li>「Pharmacy of heart」</li>
+<li>「Intersteller Exploration」</li>
+<li>「Me」Laur(<a class="ext" href="https://twitter.com/DeemoRayark/status/1192431626153709570" rel="nofollow">TVモードプレビュー<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1192431626153709570" data-frame="_blank"></span></a>)</li>
+<li>「Delphinium」<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88#xc3774c2" title="アーティスト別リスト" class="rel-wiki-page">SIHanatsuka</a>(<a class="ext" href="https://twitter.com/DeemoRayark/status/1193136151084716033" rel="nofollow">TVモードプレビュー<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1193136151084716033" data-frame="_blank"></span></a>)</li>
+<li>「The Last Bloom」(<a class="ext" href="https://youtu.be/usloXFLtmcw" rel="nofollow">朝香智子氏演奏音源<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/usloXFLtmcw" data-frame="_blank"></span></a>)<br />
+<ins>新規BOOK</ins></li>
+<li>Reborn Collection Vol.1</li>
+<li>Golden Sheets Collection</li>
+<li>Stone Collection</li></ul>
+</div>
+</div>
+<p><ins>既存曲</ins></p>
+<div class="fold-container  clearfix">
+    <button class="fold-toggle-button hidden-on-open"><i class="fal fa-plus-square"></i></button>
+    <button class="fold-toggle-button visible-on-open"><i class="fal fa-minus-square"></i></button>
+    <div class="fold-summary hidden-on-open"></div>
+    <div class="fold-content visible-on-open"><p>Deemo's collection Vol.1</p>
+<ul class="list1"><li>「<a href="/deemo/Nine%20point%20eight" title="Nine point eight" class="rel-wiki-page">Nine point eight</a>」</li>
+<li>「<a href="/deemo/Saika" title="Saika" class="rel-wiki-page">彩華</a>」(<a class="ext" href="https://twitter.com/DeemoRayark/status/1195310479037485058" rel="nofollow">TVモードプレビュー<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1195310479037485058" data-frame="_blank"></span></a>)</li>
+<li>「<a href="/deemo/Walking%20by%20the%20sea" title="Walking by the sea" class="rel-wiki-page">Walking by the sea</a>」</li>
+<li>「<a href="/deemo/Utopiosphere" title="Utopiosphere" class="rel-wiki-page">Utopiosphere</a>」(<a class="ext" href="https://twitter.com/DeemoRayark/status/1193860925859581958" rel="nofollow">TVモードプレビュー<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1193860925859581958" data-frame="_blank"></span></a>)</li>
+<li>「<a href="/deemo/YUBIKIRI-GENMAN" title="YUBIKIRI-GENMAN" class="rel-wiki-page">指きりげんまん</a>」</li>
+<li>「<a href="/deemo/La%20Promesse" title="La Promesse" class="rel-wiki-page">La Promesse</a>」(<a class="ext" href="https://youtu.be/7GPUZAV_bCU" rel="nofollow">VRモードプレビュー<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/7GPUZAV_bCU" data-frame="_blank"></span></a>)</li>
+<li>「<a href="/deemo/Entrance" title="Entrance" class="rel-wiki-page">Entrance</a>」</li>
+<li>「<a href="/deemo/Sairai" title="Sairai" class="rel-wiki-page">Sairai</a>」(<a class="ext" href="https://twitter.com/DeemoRayark/status/1194585702119485440" rel="nofollow">TVモードプレビュー<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/DeemoRayark/status/1194585702119485440" data-frame="_blank"></span></a>)</li>
+<li>「<a href="/deemo/Magnolia" title="Magnolia" class="rel-wiki-page">Magnolia</a>」(<a class="ext" href="https://youtu.be/HAmLOTjOc7A" rel="nofollow">TVモードプレビュー<span class="system-icon ext pukiwiki-open-uri" data-href="https://youtu.be/HAmLOTjOc7A" data-frame="_blank"></span></a>)</li>
+<li>「<a href="/deemo/Myosotis" title="Myosotis" class="rel-wiki-page">Myosotis</a>」</li></ul>
+<ul class="list1"><li>「<a href="/deemo/Fluffie%20Partie" title="Fluffie Partie" class="rel-wiki-page">Fluffie Partie</a>」</li>
+<li><a href="/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88#w0869e52" title="曲名リスト" class="rel-wiki-page">Rayark selection Vol.1</a></li>
+<li><a href="/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88#Vocal" title="曲名リスト" class="rel-wiki-page">Vocal collection </a>
+<ul class="list2"><li>「<a href="/deemo/Aurarobe" title="Aurarobe" class="rel-wiki-page">Aurarobe</a>」</li>
+<li>「<a href="/deemo/Ukakuf%20Kins" title="Ukakuf Kins" class="rel-wiki-page">Ukakuf Kins</a>」</li>
+<li>「<a href="/deemo/vandarhythm" title="vandarhythm" class="rel-wiki-page">vandarhythm</a>」</li></ul></li></ul>
+</div>
+</div>
+<h2 id="h2_content_1_20" class="heading-after-first">DEEMO -Reborn-[発売後情報]  <a class="anchor_super" name ="adb1a752"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=adb1a752" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<ul class="list1"><li>TVモード3譜面/VRモード2譜面</li>
+<li>66曲(既存曲38:新曲28)<br />
+楽曲リストは移動しました→<a href="/deemo/PS4%E7%89%88%E6%A5%BD%E6%9B%B2%E3%83%AA%E3%82%B9%E3%83%88" title="PS4版楽曲リスト" class="rel-wiki-page">PS4版楽曲リスト</a></li></ul>
+<h2 id="h2_content_1_21" class="heading-after-first">Sdorica(スドリカ)  <a class="anchor_super" name ="Sdorica"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=Sdorica" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<ul class="list1"><li>Deemoコラボストーリーについては、何度かイベント復刻を経て恒常化</li>
+<li>少女(アリス)のキャラスト「過去の間章」
+<ul class="list2"><li>収録曲から<a href="/deemo/Dream" title="Dream" class="rel-wiki-page">Dream</a>、<a href="/deemo/Shadow%20in%20the%20mirror" title="Shadow in the mirror" class="rel-wiki-page">Shadow in the mirror</a>、<a href="/deemo/Run%20Go%20Run" title="Run Go Run" class="rel-wiki-page">Run Go Run</a>、<a href="/deemo/I%20hate%20to%20tell%20you" title="I hate to tell you" class="rel-wiki-page">I Hate to Tell You</a>、<a href="/deemo/Alice%20good%20night" title="Alice good night" class="rel-wiki-page">Alice Good Night</a>が章タイトル採用</li></ul></li>
+<li>少女アリス、Deemo、仮面の女の子がプレイアブルキャラクターとして実装
+<ul class="list2"><li>特に表記は無いがSP(期間限定)枠、起源の魂の賦与(ガチャ)の対象</li></ul></li></ul>
+<h2 id="h2_content_1_22" class="heading-after-first">他社コラボ  <a class="anchor_super" name ="v6b8b5c4"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=v6b8b5c4" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<p>主にDeemoから他機種に収録になった曲などのメモ。</p>
+<hr class="full_hr" />
+<h3 id="h3_content_1_23" class="heading-after-first">CHUNITHM(チュウニズム)(アーケード/セガ)  <a class="anchor_super" name ="k74e55ee"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=k74e55ee" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<ul class="list1"><li>2015/07<br />
+「<a href="/deemo/Altale" title="Altale" class="rel-wiki-page">Altale</a>」共通収録
+<script>window.twttr = (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], t = window.twttr || {}; if (d.getElementById(id)) return t; js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); t._e = []; t.ready = function(f) { t._e.push(f); }; return t; }(document, "script", "twitter-wjs"));</script>
+    <div class="lazy-dom-placeholder" data-content="&lt;div id=&quot;twitter-tweet-d47ae15d10e02368eb193642c86b2f58&quot; class=&quot;twitter-tweet&quot; style=&quot;margin-top: 10px; margin-bottom: 10px; min-height: 177px;&quot;&gt;&lt;/div&gt;&lt;script&gt; twttr.ready(function (){ twttr.widgets.createTweet( &#039;618302778666938368&#039;, document.getElementById(&#039;twitter-tweet-d47ae15d10e02368eb193642c86b2f58&#039;), { }) }); &lt;/script&gt;">loading...</div>
+(<a class="ext" href="https://twitter.com/chunithm/status/618302778666938368" rel="nofollow">収録時のツイート(CHUNITHM公式)<span class="system-icon ext pukiwiki-open-uri" data-href="https://twitter.com/chunithm/status/618302778666938368" data-frame="_blank"></span></a>)</li></ul>
+<ul class="list1"><li>2026/04<br />
+「<a href="/deemo/Marigold" title="Marigold" class="rel-wiki-page">Marigold</a>」CHUNITHM側のLinked MUSIC 伝導楽曲として追加</li></ul>
+<h3 id="h3_content_1_24" class="heading-after-first">太鼓の達人(バンダイナムコ)  <a class="anchor_super" name ="o39cd911"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=o39cd911" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<p><ins>太鼓の達人セッションでドドンがドン！(PS4/バンダイナムコ)</ins><br />
+<a href="/deemo/Saika" title="Saika" class="rel-wiki-page">Saika</a>(<a class="ext" href="https://taikops4-ses.taiko-ch.net/dlc/" rel="nofollow">無料DLC<span class="system-icon ext pukiwiki-open-uri" data-href="https://taikops4-ses.taiko-ch.net/dlc/" data-frame="_blank"></span></a>)<br />
+<a href="/deemo/HYAKKA%20RYOURAN" title="HYAKKA RYOURAN" class="rel-wiki-page">HYAKKA RYOURAN</a>(百花繚乱)をDeemoに収録。</p>
+<p><ins>太鼓の達人プラス(アーケード/バンダイナムコ)</ins></p>
+<ul class="list1"><li>４週連続楽曲収録<br />
+<a href="/deemo/Leviathan" title="Leviathan" class="rel-wiki-page">Leviathan</a>　2020年9月19日<br />
+<a href="/deemo/Wish%20upon%20a%20shooting%20star" title="Wish upon a shooting star" class="rel-wiki-page">Wish upon a shooting star</a>　2020年9月26日<br />
+<a href="/deemo/MagiCatz" title="MagiCatz" class="rel-wiki-page">MagiCatz</a>　2020年10月3日<br />
+<a href="/deemo/ANiMA" title="ANiMA" class="rel-wiki-page">ANiMA</a>　2020年10月10日</li></ul>
+<p><ins>『太鼓の達人プラス★新曲取り放題！』(iOS/Androidアプリ/バンダイナムコ)<strong> ※配信終了</strong></ins></p>
+<ul class="list1"><li>2020年冬コラボイベント</li></ul>
+<p><ins>太鼓の達人 Nintendo Switchば～じょん！</ins></p>
+<pre>『DEEMOパック』上記、PS4とアーケードで収録された5曲を収録予定。</pre>
+<p>(<a class="ext" href="https://taiko-ch.net/blog/?p=4883" rel="nofollow">太鼓の達人公式ブログ<span class="system-icon ext pukiwiki-open-uri" data-href="https://taiko-ch.net/blog/?p=4883" data-frame="_blank"></span></a>)2020年09月16日</p>
+<p>Deemo側ver4.0：<a href="/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88#Taiko" title="曲名リスト" class="rel-wiki-page">Taiko no Tatsujin Collection</a></p>
+<ul class="list2"><li>RebornではPS4を除き有料配信
+<div class="spacer">&nbsp;</div></li></ul>
+<h3 id="h3_content_1_25" class="heading-after-first">DJMAX  <a class="anchor_super" name ="p115fa1b"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=p115fa1b" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<ul class="list1"><li>DJMAX RESPECT(PS4)</li>
+<li>DJMAX RESPECT V (Steam・PC/XBOX)</li>
+<li>「DJMAX」は韓国のリズムゲーム
+<ul class="list2"><li>DEEMOパックとして以下の曲をDJMAXにて有料配信。
+<blockquote><p class="quotation"><a href="/deemo/Angelic%20Sphere" title="Angelic Sphere" class="rel-wiki-page">Angelic Sphere</a></p>
+<p class="quotation"><a href="/deemo/ANiMA" title="ANiMA" class="rel-wiki-page">ANiMA</a></p>
+<p class="quotation"><a href="/deemo/Dream" title="Dream" class="rel-wiki-page">Dream</a></p>
+<p class="quotation"><a href="/deemo/Legacy" title="Legacy" class="rel-wiki-page">Legacy</a></p>
+<p class="quotation"><a href="/deemo/Magnolia" title="Magnolia" class="rel-wiki-page">Magnolia</a></p>
+<p class="quotation"><a href="/deemo/Nine%20point%20eight" title="Nine point eight" class="rel-wiki-page">Nine point eight</a></p>
+<p class="quotation"><a href="/deemo/Sairai" title="Sairai" class="rel-wiki-page">Sairai</a></p>
+<p class="quotation"><a href="/deemo/Undo" title="Undo" class="rel-wiki-page">Undo</a></p>
+<p class="quotation"><a href="/deemo/Utopiosphere" title="Utopiosphere" class="rel-wiki-page">Utopiosphere</a></p>
+<p class="quotation"><a href="/deemo/YUBIKIRI-GENMAN" title="YUBIKIRI-GENMAN" class="rel-wiki-page">YUBIKIRI-GENMAN</a></p>
+<p class="quotation"><a href="/deemo/Myosotis" title="Myosotis" class="rel-wiki-page">Myosotis</a>のみCytus扱い</p></blockquote></li></ul></li></ul>
+<ul class="list2"><li>Deemoへの収録はVer.3.6<a href="/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88#DJMAX" title="曲名リスト" class="rel-wiki-page">DJMAX collection</a></li>
+<li>Cytusα(Nintendo Switch)に<a class="ext" href="https://wikiwiki.jp/cytus/Cytus%CE%B1%E6%83%85%E5%A0%B1#v1746ecf" rel="nofollow">10曲<span class="system-icon ext pukiwiki-open-uri" data-href="https://wikiwiki.jp/cytus/Cytus%CE%B1%E6%83%85%E5%A0%B1#v1746ecf" data-frame="_blank"></span></a>、CytusⅡに10曲収録されている。</li></ul>
+<hr class="full_hr" />
+<p>DJ Maxシリーズwiki<a class="ext" href="https://w.atwiki.jp/djmaxinfo/" rel="nofollow">リンク<span class="system-icon ext pukiwiki-open-uri" data-href="https://w.atwiki.jp/djmaxinfo/" data-frame="_blank"></span></a></p>
+<h3 id="h3_content_1_26" class="heading-after-first">Arcaea  <a class="anchor_super" name ="Arcaea"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=Arcaea" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<p>2023/07</p>
+<ul class="list1"><li>正式なコラボではなく『CytusⅡ』のコラボで隠し曲のような扱いで追加</li>
+<li><a href="/deemo/Magnolia" title="Magnolia" class="rel-wiki-page">Magnolia</a></li></ul>
+<h3 id="h3_content_1_27" class="heading-after-first">maimai でらっくす (アーケード/セガ)  <a class="anchor_super" name ="maimai"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=maimai" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<p>2026/04/17～</p>
+<ul class="list1"><li>Ⅱと合同らしい</li>
+<li>Deemoちほー追加
+<ul class="list2"><li>ネームプレート：DEEMOちほー その1(<a href="/deemo/Wings%20of%20piano" title="Wings of piano" class="rel-wiki-page">Wings of piano</a>)</li></ul></li>
+<li>収録は3曲<br />
+<a href="/deemo/Nine%20point%20eight" title="Nine point eight" class="rel-wiki-page">Nine point eight</a><br />
+<a href="/deemo/Myosotis" title="Myosotis" class="rel-wiki-page">Myosotis</a><br />
+<a href="/deemo/ANiMA" title="ANiMA" class="rel-wiki-page">ANiMA</a></li></ul>
+<p>maimai<a class="ext" href="https://info-maimai.sega.jp/8851/" rel="nofollow">公式<span class="system-icon ext pukiwiki-open-uri" data-href="https://info-maimai.sega.jp/8851/" data-frame="_blank"></span></a></p>
+<h3 id="h3_content_1_28" class="heading-after-first">プロジェクトセカイカラフルステージ！feat. 初音ミク(プロセカ)  <a class="anchor_super" name ="P_SEKAI"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=P_SEKAI" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h3>
+<ul class="list1"><li>Cytus NEWS LIVE(05/22)でCytusⅡとのコラボが発表される
+<ul class="list2"><li>プロセカ → CytusⅡに6曲</li>
+<li>ほぼ同時期に、韓国版公式で<a class="ext" href="https://x.com/kr_pjsekai/status/2057770950590923020" rel="nofollow">告知<span class="system-icon ext pukiwiki-open-uri" data-href="https://x.com/kr_pjsekai/status/2057770950590923020" data-frame="_blank"></span></a>シリーズ合同コラボ(プロセカ側表記・タイアップ)であると明かされた。</li></ul></li>
+<li>プロジェクトセカイ プロセカ放送局 #32 (2026/05/27)
+<ul class="list2"><li>日本版でも正式に告知された。プロセカ収録曲は(Cytusシリーズ3曲 + DEEMOシリーズ3曲)</li>
+<li>1曲ずつ順番に追加される</li>
+<li><a href="/deemo/Sairai" title="Sairai" class="rel-wiki-page">Sairai</a>、<a href="/deemo/Saika" title="Saika" class="rel-wiki-page">Saika</a>、<a href="/deemo/ANiMA" title="ANiMA" class="rel-wiki-page">ANiMA</a></li>
+<li>その他のカスタマイズ要素なども告知</li></ul></li>
+<li>DEEMO IIからの予告：プロセカ側各グループロゴ (2026/06/05)
+<ul class="list2"><li><a class="ext" href="https://x.com/deemorayark/status/2062836832040059227" rel="nofollow">ポスト<span class="system-icon ext pukiwiki-open-uri" data-href="https://x.com/deemorayark/status/2062836832040059227" data-frame="_blank"></span></a></li>
+<li>2026/06/24 追加<a class="ext" href="https://x.com/deemorayark/status/2065373545379794947" rel="nofollow">予定<span class="system-icon ext pukiwiki-open-uri" data-href="https://x.com/deemorayark/status/2065373545379794947" data-frame="_blank"></span></a></li></ul></li></ul>
+<h2 id="h2_content_1_29" class="heading-after-first">アプデ日  <a class="anchor_super" name ="o700af05"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=o700af05" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<div class="h-scrollable"><table><thead><tr><td style="font-size:15px; width:100px;">ver.</td><td style="font-size:15px; width:200px;">年月日</td></tr></thead><tbody><tr><td style="font-size:15px; width:100px;">5.0.11</td><td style="font-size:15px; width:200px;">2026/02/13</td></tr><tr><td style="font-size:15px; width:100px;">5.0.8</td><td style="font-size:15px; width:200px;">2025/09/23</td></tr><tr><td style="font-size:15px; width:100px;">5.0.6</td><td style="font-size:15px; width:200px;">2023/09/06</td></tr><tr><td style="font-size:15px; width:100px;">5.0.4</td><td style="font-size:15px; width:200px;">2022/05/11</td></tr><tr><td style="font-size:15px; width:100px;">5.0.2</td><td style="font-size:15px; width:200px;">2021/12/12</td></tr><tr><td style="background-color:#9bbede; font-size:15px; width:100px;"><strong><span class="wikicolor" style="color:black">5.0.1</span></strong></td><td style="font-size:15px; width:200px;">2021/11/30</td></tr><tr><td style="font-size:15px; width:100px;">4.3</td><td style="font-size:15px; width:200px;">2021/10/15</td></tr><tr><td style="font-size:15px; width:100px;">4.2</td><td style="font-size:15px; width:200px;">2021/08/31</td></tr><tr><td style="font-size:15px; width:100px;">4.1.1</td><td style="font-size:15px; width:200px;">2021/07/05</td></tr><tr><td style="font-size:15px; width:100px;">4.1.0</td><td style="font-size:15px; width:200px;">2021/06/30</td></tr><tr><td style="font-size:15px; width:100px;">4.0.5</td><td style="font-size:15px; width:200px;">2021/04/14</td></tr><tr><td style="font-size:15px; width:100px;">4.0.2</td><td style="font-size:15px; width:200px;">2021/03/11</td></tr><tr><td style="background-color:#9bbede; font-size:15px; width:100px;"><span class="wikicolor" style="color:black"><strong>4.0</strong></span></td><td style="font-size:15px; width:200px;">2021/02/04</td></tr><tr><td style="font-size:15px; width:100px;">3.9.0</td><td style="font-size:15px; width:200px;">2020/11/09</td></tr><tr><td style="font-size:15px; width:100px;">3.8</td><td style="font-size:15px; width:200px;">2020/08/04</td></tr><tr><td style="font-size:15px; width:100px;">3.7.3</td><td style="font-size:15px; width:200px;">2020/07</td></tr><tr><td style="font-size:15px; width:100px;">3.7.2</td><td style="font-size:15px; width:200px;">2020/05</td></tr><tr><td style="font-size:15px; width:100px;">3.7.1</td><td style="font-size:15px; width:200px;">2020/04/24</td></tr><tr><td style="font-size:15px; width:100px;">3.5</td><td style="font-size:15px; width:200px;">2019/10/23</td></tr><tr><td style="font-size:15px; width:100px;">3.4</td><td style="font-size:15px; width:200px;">2019/06/18</td></tr><tr><td style="font-size:15px; width:100px;">3.3</td><td style="font-size:15px; width:200px;">2018/11/16</td></tr><tr><td style="font-size:15px; width:100px;">3.2</td><td style="font-size:15px; width:200px;">2018/02/09</td></tr><tr><td style="background-color:#9bbede; font-size:15px; width:100px;"><strong><span class="wikicolor" style="color:black">3.0</span></strong></td><td style="font-size:15px; width:200px;">2017/03/30</td></tr><tr><td style="font-size:15px; width:100px;">2.4.5</td><td style="font-size:15px; width:200px;">2016/09/13</td></tr><tr><td style="font-size:15px; width:100px;">2.4.4</td><td style="font-size:15px; width:200px;">2016/09/09</td></tr><tr><td style="font-size:15px; width:100px;">2.3</td><td style="font-size:15px; width:200px;">2016/05/06</td></tr><tr><td style="background-color:#9bbede; font-size:15px; width:100px;"><strong><span class="wikicolor" style="color:black">2.0</span></strong></td><td style="font-size:15px; width:200px;">2015/05/27</td></tr><tr><td style="font-size:15px; width:100px;">1.5.2</td><td style="font-size:15px; width:200px;">2014/10/31</td></tr><tr><td style="font-size:15px; width:100px;">1.4.0</td><td style="font-size:15px; width:200px;">2014/03/16</td></tr><tr><td style="font-size:15px; width:100px;">1.3</td><td style="font-size:15px; width:200px;">2014/02/06</td></tr><tr><td style="font-size:15px; width:100px;">1.2.0</td><td style="font-size:15px; width:200px;">2014/01/27</td></tr><tr><td style="font-size:15px; width:100px;">1.0.1</td><td style="font-size:15px; width:200px;">2013/11/12</td></tr><tr><td style="background-color:#9bbede; font-size:15px; width:100px;"><strong><span class="wikicolor" style="color:black">1.0</span></strong></td><td style="font-size:15px; width:200px;">2013/11/06</td></tr></tbody></table></div>
+<h2 id="h2_content_1_30" class="heading-after-first"><i class="plugin-fa-loader" data-fa-class="fa-solid fa-trophy"></i> 達成項目・実績・トロフィー  <a class="anchor_super" name ="fa7df790"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=fa7df790" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<p>iOS/Android  全12 和訳なし</p>
+<div class="h-scrollable"><table><tbody><tr><td>Nice Beginning</td><td>First time clearing a song on EASY level.</td><td style="background-color:#B87333;"></td></tr><tr><td>Become Good at This</td><td>First time clearing a song on NORMAL level.</td><td style="background-color:#c0c0c0;"></td></tr><tr><td>Great Player</td><td>First time clearing a song on HARD level.</td><td style="background-color:#D0A900;"></td></tr><tr><td>I Found Treasure</td><td>Get a new song by exploring items in rooms.</td><td style="background-color:#B87333;"></td></tr><tr><td>I Miss my Home</td><td>Play the movie &quot;I Miss my Home&quot;.</td><td style="background-color:#c0c0c0;"></td></tr><tr><td>Blossom</td><td>Play the movie &quot;Blossom&quot;.</td><td style="background-color:#B87333;"></td></tr><tr><td>Growing</td><td>Play the movie &quot;Growing&quot;.</td><td style="background-color:#c0c0c0;"></td></tr><tr><td>Budding</td><td>Play the movie &quot;Budding&quot;.</td><td style="background-color:#B87333;"></td></tr><tr><td>Falling Girl</td><td>Play the movie &quot;Falling Girl&quot;.</td><td style="background-color:#B87333;"></td></tr><tr><td>Lonely Deemo</td><td>Played Movie &quot;Lonely Deemo&quot;.</td><td style="background-color:#B87333;"></td></tr><tr><td>Full Combo!</td><td>Played a song without any miss.</td><td style="background-color:#c0c0c0;"></td></tr><tr><td>100%</td><td>Played a song with Charming Hit at every note.</td><td style="background-color:#D0A900;"></td></tr></tbody></table></div>
+<p>リサイタル(Vita) 全19</p>
+<div class="h-scrollable"><table><tbody><tr><td style="width:200px;">墜落</td><td style="width:400px;">記憶「Falling Girl」を取り戻す</td></tr><tr><td style="width:200px;">芽生え</td><td style="width:400px;">記憶「Budding」を取り戻す</td></tr><tr><td style="width:200px;">枯れ葉</td><td style="width:400px;">記憶「Leaves」を取り戻す</td></tr><tr><td style="width:200px;">絵の秘密</td><td style="width:400px;">記憶「Where it Goes?」を取り戻す</td></tr><tr><td style="width:200px;">大樹</td><td style="width:400px;">記憶「The New Tree」を取り戻す</td></tr><tr><td style="width:200px;">鍵</td><td style="width:400px;">記憶「The Key」を取り戻す</td></tr><tr><td style="width:200px;">口ケンカ</td><td style="width:400px;">記憶「You Cannot Go」を取り戻す</td></tr><tr><td style="width:200px;">お別れ</td><td style="width:400px;">記憶「Goodbye」を取り戻す</td></tr><tr><td style="width:200px;">真相</td><td style="width:400px;">記憶「Where You Are Not」を取り戻す</td></tr><tr><td style="width:200px;">後日</td><td style="width:400px;">記憶「Another Day」を取り戻す</td></tr><tr><td style="width:200px;">現実？</td><td style="width:400px;">記憶「Reality」を取り戻す</td></tr><tr><td style="width:200px;">仮面</td><td style="width:400px;">記憶「The Masked Girl」を取り戻す</td></tr><tr><td style="width:200px;">新生</td><td style="width:400px;">記憶「Rebirth」を取り戻す</td></tr><tr><td style="width:200px;">連撃</td><td style="width:400px;">初回のフルコンボ達成</td></tr><tr><td style="width:200px;">完璧演奏</td><td style="width:400px;">初回の完璧演奏達成</td></tr><tr><td style="width:200px;">人気者</td><td style="width:400px;">デュエットモードで全曲プレイ済み</td></tr><tr><td style="width:200px;">デュエルの達人</td><td style="width:400px;">デュエルモードで10勝取得</td></tr><tr><td style="width:200px;">ピアニスト</td><td style="width:400px;">難易度Hardで10曲クリア</td></tr></tbody></table></div>
+<h2 id="h2_content_1_31" class="heading-after-first">プレイスタイルなど  <a class="anchor_super" name ="ic68b7af"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=ic68b7af" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<ul class="list1"><li>低速or高速プレイ<br />
+SPEEDを極端な数値にする。</li>
+<li>親指</li>
+<li>タッチペン</li>
+<li>片手<br />
+3点4点でも出来る人は出来る。</li>
+<li>手持ちor置き</li>
+<li>サドプラ/SUD+/SUDDEN+<br />
+発祥は弐寺こと「beatmania IIDX」。紙やアプリ(Androidのみ)で画面上部を隠すことで視認性を上げる。<br />
+SPEEDは低めにする</li>
+<li>BGM0/KEY音のみ<br />
+ボーカルをオフする。CytusやVOEZではできないプレイ。<br />
+どうしても歌が合わない時や、気分転換にどうぞ。</li>
+<li>端末の向きを変えてプレイ</li></ul>
+<h2 id="h2_content_1_32" class="heading-after-first">LV6非公式難易度表（試作)  <a class="anchor_super" name ="e7b64b17"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=e7b64b17" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<div class="fold-container  clearfix">
+    <button class="fold-toggle-button hidden-on-open"><i class="fal fa-plus-square"></i></button>
+    <button class="fold-toggle-button visible-on-open"><i class="fal fa-minus-square"></i></button>
+    <div class="fold-summary hidden-on-open">2次試作</div>
+    <div class="fold-content visible-on-open"><ul class="list2"><li>LV6.2
+<div class="h-scrollable"><table><tbody><tr><td><a href="/deemo/Go%20or%20Stay" title="Go or Stay" class="rel-wiki-page">Go or Stay</a></td><td>裏拍主旋律、分断型スライド</td></tr><tr><td><a href="/deemo/White%20Fantasy" title="White Fantasy" class="rel-wiki-page">White Fantasy</a></td><td>強大なソフラン</td></tr></tbody></table></div></li>
+<li>LV6.3
+<div class="h-scrollable"><table><tbody><tr><td><a href="/deemo/I%20hate%20to%20tell%20you" title="I hate to tell you" class="rel-wiki-page">I hate to tell you</a></td><td>前半の長階段、中盤の同時→３連</td></tr><tr><td><a href="/deemo/Electron" title="Electron" class="rel-wiki-page">Electron</a></td><td>3連トリル、4連トリル</td></tr><tr><td><a href="/deemo/Will" title="Will" class="rel-wiki-page">Will</a></td><td>ロングスライド、片手3連、終盤のスライド＆タップ混フレ</td></tr></tbody></table></div></li>
+<li>LV6.4
+<div class="h-scrollable"><table><tbody><tr><td><a href="/deemo/Shadow%20in%20the%20mirror" title="Shadow in the mirror" class="rel-wiki-page">Shadow in the mirror</a></td><td>長時間演奏、Ｔ字スライド、スライド＆タップ混フレ</td></tr><tr><td><a href="/deemo/Wings%20of%20piano" title="Wings of piano" class="rel-wiki-page">Wings of piano</a></td><td>3連階段、縦連</td></tr><tr><td><a href="/deemo/Sakura%20iro%20no%20yume" title="Sakura iro no yume" class="rel-wiki-page">Sakura iro no yume</a></td><td>長時間演奏、後半局所難</td></tr><tr><td><a href="/deemo/Futarimiti" title="Futarimiti" class="rel-wiki-page">Futarimiti</a></td><td>2連タップ、縦連まがいの旋律</td></tr><tr><td><a href="/deemo/White%20Rain" title="White Rain" class="rel-wiki-page">White Rain</a></td><td>長時間演奏、入れ替え型スライド</td></tr><tr><td><a href="/deemo/nightfall" title="nightfall" class="rel-wiki-page">nightfall</a></td><td>ロングスライド＆スライド持ち替え</td></tr><tr><td><a href="/deemo/The%20105th%20Days" title="The 105th Days" class="rel-wiki-page">The 105th Days</a></td><td>同時押し物量</td></tr></tbody></table></div></li></ul>
+<ul class="list2"><li>LV6.5  ( =LV7.2-3))
+<div class="h-scrollable"><table><tbody><tr><td><a href="/deemo/Evolution%20Era" title="Evolution Era" class="rel-wiki-page">Evolution Era</a></td><td>3連トリル、4連片手。単純な物量でWings of Piano以上の難易度</td></tr><tr><td><a href="/deemo/Pulses" title="Pulses" class="rel-wiki-page">Pulses</a></td><td>後半の7連タップと関連するもの</td></tr><tr><td><a href="/deemo/Untitled2" title="Untitled2" class="rel-wiki-page">Untitled2</a></td><td>3連トリル、16分トリル、ソフラン主旋律、縦連</td></tr><tr><td><a href="/deemo/Kimi%20ga%20Nokoshita%20Sekai%20de" title="Kimi ga Nokoshita Sekai de" class="rel-wiki-page">Kimi ga Nokoshita Sekai de</a></td><td>長時間演奏、リズム崩れ、3連トリル</td></tr><tr><td><a href="/deemo/Infinite%20Puzzle" title="Infinite Puzzle" class="rel-wiki-page">Infinite Puzzle</a></td><td>複雑リズム。Evolution Eraより若干簡単</td></tr><tr><td><a href="/deemo/Lost%20in%20the%20nowhere" title="Lost in the nowhere" class="rel-wiki-page">Lost in the nowhere</a></td><td>スライド乱舞、ショートトリル。Legacy以下</td></tr><tr><td><a href="/deemo/Rayark%207th%20Main%20Theme" title="Rayark 7th Main Theme" class="rel-wiki-page">Rayark 7th Main Theme</a></td><td>独特のハネリズム物量</td></tr></tbody></table></div></li></ul>
+<ul class="list2"><li>LV6.6 ( =LV7.3-4))
+<div class="h-scrollable"><table><tbody><tr><td><a href="/deemo/Platinum" title="Platinum" class="rel-wiki-page">Platinum</a>(N)</td><td>混フレ、同時押し込みの階段、誘拐スライド</td></tr><tr><td><a href="/deemo/Legacy" title="Legacy" class="rel-wiki-page">Legacy</a></td><td>3縦連、16分トリル。局所難</td></tr><tr><td><a href="/deemo/Sunset" title="Sunset" class="rel-wiki-page">Sunset</a></td><td>ハイスピード＋階段</td></tr><tr><td><a href="/deemo/The%20Beautiful%20Moonlight" title="The Beautiful Moonlight" class="rel-wiki-page">The Beautiful Moonlight</a></td><td>ワンパターン物量</td></tr><tr><td><a href="/deemo/Rainbow%27s%20End" title="Rainbow&#039;s End" class="rel-wiki-page">Rainbow's End</a></td><td>ソフラン付き乱打</td></tr><tr><td><a href="/deemo/Lonely%20Pianist" title="Lonely Pianist" class="rel-wiki-page">Lonely Pianist</a></td><td>スライド込み混フレ、同時押し込み階段</td></tr><tr><td><a href="/deemo/Voice%20of%20Cell" title="Voice of Cell" class="rel-wiki-page">Voice of Cell</a></td><td>同時押し込みの単旋律、誘拐スライド、4縦連の総合全体難</td></tr></tbody></table></div></li></ul>
+<ul class="list2"><li>LV6.7 ( =LV7.4))
+<div class="h-scrollable"><table><tbody><tr><td><a href="/deemo/Jumpy%20star" title="Jumpy star" class="rel-wiki-page">Jumpy star</a></td><td>誘拐型スライド、縦連。乱打。</td></tr><tr><td><a href="/deemo/Saika" title="Saika" class="rel-wiki-page">Saika</a></td><td>同時押し込み軸連打⇒ロングトリル⇒ロングスライド、左右逆転混フレ</td></tr><tr><td><a href="/deemo/Platinum" title="Platinum" class="rel-wiki-page">Platinum</a>(H)</td><td>混フレ、同時押し込み不規則階段、左右乱打</td></tr><tr><td><a href="/deemo/Starting%20Wind" title="Starting Wind" class="rel-wiki-page">Starting Wind</a></td><td>2連縦連メインの超物量譜面</td></tr><tr><td><a href="/deemo/Moonlight" title="Moonlight" class="rel-wiki-page">Moonlight</a></td><td>ぐらつき＋縦連。Rainbow's End以上</td></tr><tr><td><a href="/deemo/Kimi%20no%20namae%20no%20kazegafuku" title="Kimi no namae no kazegafuku" class="rel-wiki-page">Kimi no namae no kazegafuku</a></td><td>5縦連＋同時押しの局所難</td></tr></tbody></table></div></li></ul>
+<ul class="list2"><li>LV6.8 ( =LV7.4-5))
+<div class="h-scrollable"><table><tbody><tr><td><a href="/deemo/Piano%20Sonata%20No.3" title="Piano Sonata No.3" class="rel-wiki-page">Piano Sonata No.3</a></td><td>横暴な乱打＋認識難な縦連</td></tr><tr><td><a href="/deemo/HYAKKA%20RYOURAN" title="HYAKKA RYOURAN" class="rel-wiki-page">HYAKKA RYOURAN</a>(E)</td><td>縦連、2連3連タップ (LV7.5級とタメを張れる)</td></tr></tbody></table></div></li></ul>
+<ul class="list2"><li>LV6.9 ( =LV7.5))</li></ul>
+<div class="h-scrollable"><table><tbody><tr><td><a href="/deemo/HYAKKA%20RYOURAN" title="HYAKKA RYOURAN" class="rel-wiki-page">HYAKKA RYOURAN</a>(N)</td><td>スライド込み縦連混フレ、トリプルタップ連続。コンボカッターの鋭さが頭一つ抜けている</td></tr></tbody></table></div>
+<ul class="list2"><li>コンボカッター
+<ul class="list3"><li>縦連</li>
+<li>同時押しと通常押しの切り替わり</li>
+<li>誘拐型スライド</li>
+<li>トリル（8分でも大分厄介)</li>
+<li>要素の多様さ</li></ul></li></ul>
+</div>
+</div>
+<h2 id="h2_content_1_33" class="heading-after-first">アンケート設置について  <a class="anchor_super" name ="w3126fa2"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=w3126fa2" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<ul class="list1"><li>アンケート開始前
+<ul class="list2"><li>どういった目的でアンケートを実施するのかを明らかにし、アンケート文内でその意図を説明すべし。</li>
+<li>どのような期間で実施するのかを明らかにし、回答者に明確に示すべし。</li>
+<li>設置目的に沿った設問を用意し、期間を問わず、回答者から要請があったときは、設問の設置意図を説明すべし。</li>
+<li>設置者は設問に対し望ましい回答手法があれば、アンケート文の説明で厳格に述べるべし。
+<ul class="list3"><li>設置者が説明文に記述した内容に沿った回答は、たとえ設置者が荒唐無稽と感じても正しい回答であり、回答者に撤回を求めたり無効にすることはできない。さもなくば、設置者が説明外にある私的な領域で回答を操作していることと同義である。これによりアンケート運用に支障が出るようならば、責は設置者の説明不足である。</li></ul></li>
+<li>設置者は開始前に、アンケート終了時にどのような手法でアンケートの結果を公表するかを想定すべし。</li></ul></li>
+<li>アンケート回答期間中
+<ul class="list2"><li>どのような理由であっても、設置者の、回答者の回答心理に影響を与える言動・行動はあってはならない。たとえ当該言動・行動がアンケートの設置目的を達成するために有益と認められる場合でもである。この理由は回答者の前提を揃えるためであり、期間中に回答者の前提が崩れるとアンケートの信頼性を疑うことになる。
+<ul class="list3"><li>例：回答期間中に設置者が回答傾向を述べること。以降の回答者は、その回答傾向を元手に回答する可能性がある。</li>
+<li>例：回答期間中に設置者が説明文に記述されていない事項を理由に回答を公の場に出し、修正を求めること。</li>
+<li>例：回答期間中に回答者から回答傾向の質問があったときに、これに答えること。</li>
+<li>例：回答期間中に設置者が設問や説明文を、回答者の前提が揃わなくなるほどに修正すること。</li>
+<li>但し、アンケートの広報を目的とする場合のみ、有効回答数は公表しても良いものとする。</li></ul></li>
+<li>設置者は明らかにアンケートの継続を困難とする回答や説明文の内容から逸脱した回答を無効にできる。また、未回答者への注意喚起を目的で、違反内容の個所のみを公表することができる。</li>
+<li>設置者は回答期間を変更するときはその理由を明らかにしたうえで、変更日より数日猶予を持たせたうえで締め切りを変更すべし。さもなくば、設置者の私的な理由による回答の封殺と同義である。</li></ul></li>
+<li>アンケート終了後
+<ul class="list2"><li>アンケート終了後は、設置者は速やかに回答内容から設置目的に沿った結果を公表すべし。</li>
+<li>回答結果を公表するときは、個人情報保護に努めるべし。（回答時期を隠す、順序をシャッフルする等）</li>
+<li>如何なる場合であっても、アンケートにおける立場を問わず、アンケートの説明文に沿った回答は正しい回答であるから、これを無効にすることはできない。</li></ul></li></ul>
+<h2 id="h2_content_1_34" class="heading-after-first">難易度の大小に着目した自動集計スコア  <a class="anchor_super" name ="q4aef64a"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=q4aef64a" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+<p>グリコレーティング2による実験</p>
+<ul class="list1"><li>Deviationによる値を個人差の大きさととらえられないだろうか。</li>
+<li>連結用の捏造データについて
+<ul class="list2"><li>同楽曲内の別難易度(Hard,Extra)について、Hardが難しい場合はあり得ない(正規のデータが存在するANiMAを除く)</li>
+<li>PUPA &lt; Ragnalok (25%, 30%, 45%)</li>
+<li>Leviathan &lt; Midnight Alley (25%,30%,45%)</li></ul></li>
+<li>FWPW低すぎない？Mistil高すぎない？
+<ul class="list2"><li>多分、FWPWがより難易度の低い結果に引きずられている</li></ul></li></ul>
+<div class="h-scrollable"><table><tbody><tr><td>Chart</td><td>Rating</td><td>Deviation</td></tr><tr><td>Re-UNION</td><td>3846.514034</td><td>76.14932422</td></tr><tr><td>Scherzo</td><td>3763.304102</td><td>72.33712289</td></tr><tr><td>Aragami</td><td>3599.122829</td><td>62.21443207</td></tr><tr><td>Parodia</td><td>3506.923296</td><td>56.55678473</td></tr><tr><td>Marigold</td><td>3207.970617</td><td>44.56913365</td></tr><tr><td>Mistilteinn</td><td>3202.964736</td><td>49.14722788</td></tr><tr><td>ANiMA(E)</td><td>3187.416267</td><td>45.6925765</td></tr><tr><td>ichizero</td><td>3137.869802</td><td>43.52496223</td></tr><tr><td>Longinus</td><td>3048.528262</td><td>41.44418192</td></tr><tr><td>Aya</td><td>2976.413261</td><td>40.35263788</td></tr><tr><td>FWPW</td><td>2895.5829</td><td>38.39373332</td></tr><tr><td>ANiMA(H)</td><td>2862.098592</td><td>34.58661579</td></tr><tr><td>Nyanya</td><td>2836.450514</td><td>39.39027135</td></tr><tr><td>Aragami(H)</td><td>2695.79406</td><td>35.40803751</td></tr><tr><td>Bat Elixir</td><td>2689.834404</td><td>34.73475532</td></tr><tr><td>Nightmare</td><td>2653.280184</td><td>35.03208076</td></tr><tr><td>Lost</td><td>2640.345365</td><td>31.81830913</td></tr><tr><td>Deerstaker</td><td>2615.608618</td><td>32.60873509</td></tr><tr><td>CHAOS MAGNUV</td><td>2593.420497</td><td>32.42390086</td></tr><tr><td>Altale</td><td>2584.668308</td><td>36.56761306</td></tr><tr><td>Magicatz</td><td>2527.053182</td><td>33.16661575</td></tr><tr><td>Rhuzerv</td><td>2513.80768</td><td>31.15540499</td></tr><tr><td>Pandora</td><td>2483.056912</td><td>31.52231875</td></tr><tr><td>Revival</td><td>2396.583628</td><td>31.9960984</td></tr><tr><td>RLR</td><td>2370.421098</td><td>29.03183437</td></tr><tr><td>Heart of Witch</td><td>2321.619775</td><td>30.67803059</td></tr><tr><td>Amber</td><td>2312.129198</td><td>31.27093666</td></tr><tr><td>Toys Etude</td><td>2306.254674</td><td>33.10621907</td></tr><tr><td>ReUNION(H)</td><td>2297.518908</td><td>31.52517266</td></tr><tr><td>LILI</td><td>2281.839664</td><td>33.62666982</td></tr><tr><td>Conflict</td><td>2264.309001</td><td>35.61840033</td></tr><tr><td>Myosotis</td><td>2236.07485</td><td>32.46155459</td></tr><tr><td>Oceanus</td><td>2200.572706</td><td>30.62506608</td></tr><tr><td>I lost my flp</td><td>2191.273959</td><td>29.48859092</td></tr><tr><td>L7</td><td>2187.230652</td><td>29.42793468</td></tr><tr><td>En ga chop</td><td>2176.830861</td><td>37.79717839</td></tr><tr><td>Dyslexia</td><td>2132.107934</td><td>29.72482061</td></tr><tr><td>Scherzo(H)</td><td>2125.618427</td><td>28.49927788</td></tr><tr><td>Alexitymia</td><td>2095.106614</td><td>29.61844167</td></tr><tr><td>Dusk to Dawn</td><td>2073.838949</td><td>29.26407107</td></tr><tr><td>FEHLT</td><td>2022.28079</td><td>30.08417489</td></tr><tr><td>Delusion</td><td>1990.569352</td><td>30.96853567</td></tr><tr><td>kaguya</td><td>1983.08633</td><td>28.22162778</td></tr><tr><td>Vallentining</td><td>1937.98285</td><td>31.90568055</td></tr><tr><td>LaCampanella</td><td>1925.734923</td><td>29.54218331</td></tr><tr><td>Pandora(H)</td><td>1899.682833</td><td>31.76875184</td></tr><tr><td>Poem of Rapture</td><td>1842.234601</td><td>38.43147685</td></tr><tr><td>Are you Ready</td><td>1780.473994</td><td>30.91754844</td></tr><tr><td>kouyou</td><td>1707.777536</td><td>34.69411854</td></tr><tr><td>Ragnalok</td><td>1705.372834</td><td>33.60852944</td></tr><tr><td>Piano Sonata No.3</td><td>1657.368417</td><td>33.93064972</td></tr><tr><td>L1 : Loneliness</td><td>1635.52667</td><td>32.05075231</td></tr><tr><td>L5 : Lapse</td><td>1630.8868</td><td>42.45118278</td></tr><tr><td>Leviathan</td><td>1625.43105</td><td>32.49365346</td></tr><tr><td>Yaoyue</td><td>1557.260088</td><td>33.9224568</td></tr><tr><td>Midnight Alley</td><td>1557.170368</td><td>42.90780364</td></tr><tr><td>PUPA</td><td>1518.871372</td><td>38.28759073</td></tr><tr><td>Angel False</td><td>1505.809593</td><td>36.32899979</td></tr><tr><td>Libera me</td><td>1483.779825</td><td>39.60153148</td></tr><tr><td>Altale(H)</td><td>1479.51289</td><td>32.07447129</td></tr><tr><td>Hesitant Blade</td><td>1468.172998</td><td>34.87043804</td></tr><tr><td>Parousia</td><td>1449.906416</td><td>47.6590127</td></tr><tr><td>H</td><td>1407.591721</td><td>35.80349016</td></tr><tr><td>Infinite Puzzle</td><td>1379.866598</td><td>38.64425842</td></tr><tr><td>Never Ending Tales</td><td>1366.761484</td><td>41.55314953</td></tr><tr><td>Pure White</td><td>1351.842523</td><td>36.39118017</td></tr><tr><td>Ga1ahad</td><td>1259.977644</td><td>40.42722279</td></tr></tbody></table></div>
+<p><a href="https://cdn.wikiwiki.jp/to/w/deemo/SandBox/::attach/Griko20210504.jpeg?rev=1873dd634b34b148d7f6fbf0e3328bd9&amp;t=20210504132513" title="Griko20210504.jpeg" data-lightbox="imageset"><img src="https://cdn.wikiwiki.jp/to/w/deemo/SandBox/::ref/Griko20210504.jpeg?rev=1873dd634b34b148d7f6fbf0e3328bd9&amp;t=20210504132513" alt="Griko20210504.jpeg" title="Griko20210504.jpeg" width="1455" height="852"  loading="lazy"></a></p>
+<h2 id="h2_content_1_35" class="heading-after-first"><strong>コメント</strong>  <a class="anchor_super" name ="comment"></a> <a class="anchor_super" href="/deemo/::cmd/edit?page=SandBox&id=comment" rel='nofollow'><span class="system-icon paraedit" title="Edit"></span></a></h2>
+    <div class="pcomment-form-placeholder" data-form-action-path="/deemo/::cmd/pcomment?refer=SandBox&page=SandBox%2F%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88" data-comment-page-url="/deemo/SandBox/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88"
+         data-comment-page="SandBox/コメント" data-comment-page-exists="1"
+         data-linked-page-name="SandBox/コメント" data-no-date="0" data-no-name="0"
+         data-dir="1" data-count="10" data-reply="1"
+         data-interrupt-type="none" data-unfreeze-url="" data-capacity-warning=""
+         data-new-page-name="" data-archive-page-name=""
+         data-digest="">
+         <div class="pcomment-form-comments"><ul class="list1"><li class="pcmt"><input class="pcmt" type="radio" name="reply" value="ac668d7a9ca54a5a9696ef8511eb73e3" tabindex="2" />てす --  <span class="comment_date"><span class="plugin-new-body" data-timestamp="1453471742">2016-01-22 (金) 23:09:02</span></span></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="41cc4070d39c981421ca757ce07e95f8" tabindex="1" />アンケート的なものを作ったんだけど、たたむと変な感じになるんだよな…。これどうにかならないかな？ --  <span class="comment_date"><span class="plugin-new-body" data-timestamp="1454764764">2016-02-06 (土) 22:19:24</span></span></li></ul>
+</div>
+    </div>
+                </div>
+                <div id="main-contents-bottom">
+                    <div class="caption-flybox" >
+<div id="pc-bottom-parent-ad-container" style="min-height:250px;">
+<div id="pc-bottom-left-ad-container">
+    <!-- /19033742/WIKIWIKI_PC_BOTTOM_LEFT or /19033742/WIKIWIKI_SP_SECOND -->
+    <div id='div-gpt-ad-1567408559923-0' class="hidden-switch-class"></div>
+</div>
+<div id="pc-bottom-right-ad-container">
+    <!-- /19033742/WIKIWIKI_PC_BOTTOM_RIGHT -->
+    <div id='div-gpt-ad-1658912377789-0'></div>
+</div>
+</div>
+</div>
+
+<style>
+.pc-bottom-ad-default {
+    margin-top:120px;
+    margin-bottom:20px;
+    display:flex;
+    justify-content:flex-start;
+    gap: 10px 5px;
+}
+.pc-bottom-ad-center{
+    margin-top:120px;
+    margin-bottom:20px;
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap: 10px 5px;
+}
+.pc-bottom-ad-mobile{
+    margin-top:20px;
+    margin-bottom:20px;
+    display:flex;
+    align-items: center;
+    flex-direction:column;
+    position:sticky;
+    z-index: 3;
+    top:45px;
+}
+</style>
+
+<script>
+(function() {
+    var body = document.getElementById('body');
+    var co = document.getElementById("pc-bottom-parent-ad-container");
+    var fh = 50;
+    if (!wi_ismobile && body.clientHeight < 620) {
+        co.style.marginTop = '200px';
+    }
+    if (wi_ismobile && body.clientWidth < 400){
+        co.classList.add("pc-bottom-ad-mobile");
+    } else if (co.clientWidth < 769) {
+        co.classList.add("pc-bottom-ad-center");
+    } else {
+        co.classList.add("pc-bottom-ad-default");
+    }
+}());
+</script>
+                </div>
+
+            </div>
+        </div>
+
+        
+                    <div class="column-left">
+                <div id="menubar">
+                                        <h2 id="h2_content_4_0" >Menu</h2>
+<p><a href="http://wikiwiki.jp/deemo/" rel="nofollow">Top</a></p>
+<p><a href="/deemo/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC" title="ストーリー" class="rel-wiki-page">ストーリー</a><br />
+<a href="/deemo/%E3%83%AB%E3%83%BC%E3%83%AB" title="ルール" class="rel-wiki-page">ルール</a><br />
+<a href="/deemo/Q%EF%BC%86A" title="Q＆A" class="rel-wiki-page">Q＆A</a></p>
+<hr class="full_hr" />
+<p>■曲名リスト<br />
+<a href="/deemo/%E6%9B%B2%E5%90%8D%E3%83%AA%E3%82%B9%E3%83%88" title="曲名リスト" class="rel-wiki-page">Book別</a><br />
+<a href="/deemo/%E3%83%AC%E3%83%99%E3%83%AB%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88" title="レベル別リスト" class="rel-wiki-page">レベル別</a><br />
+<a href="/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88" title="アーティスト別リスト" class="rel-wiki-page">アーティスト別</a></p>
+<hr class="full_hr" />
+<p>■ゲーム関連<br />
+<a href="/deemo/%E9%AB%98%E3%83%AC%E3%83%99%E3%83%AB%E9%9D%9E%E5%85%AC%E5%BC%8F%E9%9B%A3%E6%98%93%E5%BA%A6" title="高レベル非公式難易度" class="rel-wiki-page">高レベル非公式難易度</a><br />
+<a href="/deemo/%E3%80%8C%E6%9C%A8%E3%80%8D%E3%81%AE%E6%88%90%E9%95%B7" title="「木」の成長" class="rel-wiki-page">「木」の成長</a><br />
+<a href="/deemo/%E9%81%85%E5%BB%B6%E8%AA%BF%E6%95%B4%E5%A0%B1%E5%91%8A%28Android%E7%89%88%29" title="遅延調整報告(Android版)" class="rel-wiki-page">遅延調整報告(Android版)</a><br />
+<a href="/deemo/%E9%81%85%E5%BB%B6%E8%AA%BF%E6%95%B4%E5%A0%B1%E5%91%8A%28iOS%E7%89%88%29" title="遅延調整報告(iOS版)" class="rel-wiki-page">遅延調整報告(iOS版)</a><br />
+<a href="/deemo/%E3%80%8C%E5%BF%98%E3%82%8C%E5%8E%BB%E3%82%89%E3%82%8C%E3%81%9F%E7%A0%82%E6%99%82%E8%A8%88%E3%80%8D%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%96%B0%E6%A5%BD%E6%9B%B2%E3%81%A8%E6%9C%A8%E3%81%AE%E6%88%90%E9%95%B7" title="「忘れ去られた砂時計」における新楽曲と木の成長" class="rel-wiki-page">「忘れ去られた砂時計」における新楽曲と木の成長</a></p>
+<hr class="full_hr" />
+<p>■VITA版<br />
+<a href="/deemo/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1" title="製品情報" class="rel-wiki-page">製品情報</a><br />
+<a href="/deemo/%E3%82%B9%E3%83%9E%E3%83%9B%E7%89%88%E3%81%A8%E3%81%AE%E7%9B%B8%E9%81%95%E7%82%B9" title="スマホ版との相違点" class="rel-wiki-page">スマホ版との相違点</a><br />
+<a href="/deemo/VITA%E7%89%88%E8%BF%BD%E5%8A%A0%E6%9B%B2%E4%B8%80%E8%A6%A7" title="VITA版追加曲一覧" class="rel-wiki-page">VITA版追加曲一覧</a><br />
+<a href="/deemo/%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC" title="アフターストーリー" class="rel-wiki-page">アフターストーリー</a></p>
+<hr class="full_hr" />
+<p>■Switch版<br />
+<a href="/deemo/Nintendo%20Switch%E7%89%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Nintendo Switch版について" class="rel-wiki-page">Nintendo Switch版について</a></p>
+<hr class="full_hr" />
+<p>■その他<br />
+<a href="/deemo/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC" title="テンプレ" class="rel-wiki-page">テンプレ</a><br />
+<a href="/deemo/%28%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%29%E8%80%83%E5%AF%9F%E3%83%BB%E4%BA%88%E6%83%B3" title="(ネタバレ)考察・予想" class="rel-wiki-page">(ネタバレ)考察・予想</a><br />
+<a href="/deemo/%E3%82%B9%E3%82%B3%E3%82%A2%E3%82%B7%E3%82%A7%E3%82%A2%E5%8F%B0%E8%A9%9E" title="スコアシェア台詞" class="rel-wiki-page">スコアシェア台詞</a><br />
+<a href="/deemo/%E3%83%AD%E3%83%B3%E3%82%B0%E6%9B%B2%E4%B8%80%E8%A6%A7" title="ロング曲一覧" class="rel-wiki-page">ロング曲一覧</a><br />
+<a href="/deemo/%E4%BA%BA%E6%B0%97%E6%8A%95%E7%A5%A8" title="人気投票" class="rel-wiki-page">人気投票</a><br />
+<a href="/deemo/%E9%9B%91%E8%AB%87%E3%83%BB%E8%B3%AA%E5%95%8F" title="雑談・質問" class="rel-wiki-page">雑談・質問</a><br />
+<a href="/deemo/SandBox" title="SandBox" class="rel-wiki-page">SandBox</a><br />
+<a href="/deemo/%E7%B7%A8%E9%9B%86%E5%A0%B1%E5%91%8A%E3%83%BB%E7%B7%A8%E9%9B%86%E8%AD%B0%E8%AB%96" title="編集報告・編集議論" class="rel-wiki-page">編集報告・編集議論</a></p>
+<div class="spacer">&nbsp;</div>
+<div class="spacer">&nbsp;</div>
+<div class="spacer">&nbsp;</div>
+<div class="recent-container" data-recent-hash="f107c98ab9edbbf9dcadd822421a85fc"></div>
+<div style="text-align:center">〔<a href="/deemo/%E4%BA%BA%E6%B0%97100" title="人気100" class="rel-wiki-page"><strong>人気</strong></a>/<a href="/deemo/%E4%BB%8A%E6%97%A5100" title="今日100" class="rel-wiki-page"><strong>今日人気</strong></a>〕〔<a href="/deemo/RecentChanges" title="RecentChanges" class="rel-wiki-page"><strong>最新</strong></a>〕</div>
+<h2 id="h2_content_4_1" class="heading-after-first">掲示板 最新10件</h2>
+<div class="zawazawa-recent" data-zrecent-hash="93a70c88e6582856620bf705c30222f3" data-zrecent-data="{&quot;topics&quot;:[{&quot;embeddedSites&quot;:[],&quot;forumSlug&quot;:&quot;deemo&quot;,&quot;forumTitle&quot;:&quot;Deemo掲示板&quot;,&quot;lastCommentNumber&quot;:289,&quot;lastCommentedAt&quot;:&quot;Tue, 28 May 2024 05:13:59 +0900&quot;,&quot;topicNumber&quot;:2,&quot;topicTitle&quot;:&quot;雑談・質問(Wiki出張版)&quot;,&quot;url&quot;:&quot;https://z.wikiwiki.jp/deemo/topic/2&quot;},{&quot;embeddedSites&quot;:[],&quot;forumSlug&quot;:&quot;deemo&quot;,&quot;forumTitle&quot;:&quot;Deemo掲示板&quot;,&quot;lastCommentNumber&quot;:5,&quot;lastCommentedAt&quot;:&quot;Sat, 11 Jul 2020 16:25:24 +0900&quot;,&quot;topicNumber&quot;:1,&quot;topicTitle&quot;:&quot;管理総合&quot;,&quot;url&quot;:&quot;https://z.wikiwiki.jp/deemo/topic/1&quot;},{&quot;embeddedSites&quot;:[],&quot;forumSlug&quot;:&quot;deemo&quot;,&quot;forumTitle&quot;:&quot;Deemo掲示板&quot;,&quot;lastCommentNumber&quot;:20,&quot;lastCommentedAt&quot;:&quot;Sat, 11 Feb 2017 17:20:39 +0900&quot;,&quot;topicNumber&quot;:3,&quot;topicTitle&quot;:&quot;新非公式難易度表の検討について&quot;,&quot;url&quot;:&quot;https://z.wikiwiki.jp/deemo/topic/3&quot;}]}"></div>
+<div style="text-align:center">〔<a href="http://zawazawa.jp/deemo/" rel="nofollow">掲示板メインページ</a>〕</div>
+<hr class="full_hr" />
+<div style="text-align:right"><span style="font-size:10px">T.<span class="wikiwiki-counter wikiwiki-counter-today">?</span>　Y.<span class="wikiwiki-counter wikiwiki-counter-yesterday">?</span></span><br />
+<span style="font-size:10px"><span class="wikicolor" style="color:#663300">NOW.<span class="wikiwiki-online">?</span></span></span>　<span style="font-size:10px">TOTAL.<span class="wikiwiki-counter wikiwiki-counter-total">?</span></span></div>
+<div class="spacer">&nbsp;</div>
+<div class="spacer">&nbsp;</div>
+<p><span style="font-size:10px">〔<a href="http://wikiwiki.jp/deemo/?cmd=edit&amp;page=MenuBar" rel="nofollow">MENU編集</a>〕</span></p>                </div>
+                <div class="admenu-sticky">
+<!-- /19033742/WIKIWIKI_PC_MENU_STICKY -->
+<div id='div-gpt-ad-1567834179057-0'></div>
+</div>
+<script>
+if (document.documentElement.clientWidth > 805 && !wi_ismobile && wi_group === 'N' && wi_agreement === 'false' && !wi_isinbound &&
+    document.getElementById('body').clientHeight - document.getElementById('menubar').clientHeight > 1000) {
+    googletag.cmd.push(() => {
+        googletag.display(
+            googletag.defineSlot('/19033742/WIKIWIKI_PC_MENU_STICKY', [[120,600],[160,600],[1,1]], 'div-gpt-ad-1567834179057-0').addService(googletag.pubads())
+        );
+    });
+    defineSlotFlux.push({"slotID": "div-gpt-ad-1567834179057-0", "sizes": [[160,600]], "slotName":"WIKIWIKI_PC_MENU_STICKY"});
+}
+</script>
+<style>
+.admenu-sticky {
+    display: flex;
+    justify-content: center;
+    position: -webkit-sticky;
+    position: sticky;
+    margin-top: 50px;
+    top: 50px;
+    max-width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
+
+            </div>
+            </div>
+
+            <div class="container">
+            <div id="note">
+                <hr class="note_hr" /><a id="notefoot_1" href="#notetext_1" class="note_super">*1</a>
+<span class="small">注釈1: WikiName</span><br>
+<a id="notefoot_2" href="#notetext_2" class="note_super">*2</a>
+<span class="small">注釈2: ブラケットネーム</span><br>
+<a id="notefoot_3" href="#notetext_3" class="note_super">*3</a>
+<span class="small">注釈の注釈を</span><br>
+<a id="notefoot_4" href="#notetext_4" class="note_super">*4</a>
+<span class="small">注釈3: 注釈の中にも<a id="notetext_3"  class="note_super tooltip"
+            data-tooltip-content="&lt;p&gt;注釈の注釈を&lt;/p&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;#notefoot_3&quot;&gt;脚注 *3 へ&lt;/a&gt;&lt;/div&gt;">*3</a>作ることができます</span><br>            </div>
+        </div>
+    
+    <div id="footer">
+                                <div class="container">
+                <hr />
+                <hr class="full_hr" />
+<p><a href="/deemo/%E7%AE%A1%E7%90%86%E4%BA%BA" title="管理人" class="rel-wiki-page">管理人</a> contact:<a href="http://twitter.com/deemowikiJP" rel="nofollow">@deemowikiJP</a>　編集規制情報もこっちに載っけてます</p>
+<hr class="full_hr" />            </div>
+                <div class="container">
+            <hr />
+            <div class="footer-block clearfix">
+                <div class="footer-block-item-left" id="signature">
+                    <!-- google_ad_section_start(weight=ignore) -->
+                    レンタルWIKI by <a href="https://wikiwiki.jp/" title="無料レンタルWIKIサービス">WIKIWIKI.jp*</a>&nbsp;/&nbsp;
+                    Designed by <a href="https://wikiwiki.jp/pp/skin-design-policy" title="スキンデザインのご利用についてのお願い">Olivia</a>&nbsp;/&nbsp;
+                    <a href="https://wikiwiki.jp/pp/aboutad" title="広告について">広告について</a>&nbsp;/&nbsp;
+                    無料レンタル掲示板 <a href="https://z.wikiwiki.jp/" title="zawazawa">zawazawa</a>
+                    <!-- google_ad_section_end -->
+                </div>
+                <div class="footer-block-item-right">
+                    <div class="footer-mixirss">
+                        <div class="toolbar"><a href="/deemo/::cmd/mixirss" title="最終更新のRSS" rel="nofollow"><span class="system-icon rss"></span></a></div>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="pageload" style="display: none" data-pageload="{&quot;time&quot;:{&quot;all&quot;:{&quot;real&quot;:0.09883284568786621,&quot;cost&quot;:0.10409784317016602},&quot;body&quot;:{&quot;real&quot;:0.09372901916503906,&quot;cost&quot;:0.09372901916503906},&quot;main&quot;:{&quot;real&quot;:0.0819699764251709,&quot;cost&quot;:0.0819699764251709},&quot;menu&quot;:{&quot;real&quot;:0.004734992980957031,&quot;cost&quot;:0.004734992980957031},&quot;foot&quot;:{&quot;real&quot;:0.0005300045013427734,&quot;cost&quot;:0.0005300045013427734}},&quot;include&quot;:2,&quot;memory&quot;:4477312,&quot;io&quot;:{&quot;read&quot;:{&quot;files&quot;:8,&quot;bytes&quot;:115657,&quot;locks&quot;:5},&quot;write&quot;:{&quot;files&quot;:0,&quot;bytes&quot;:0,&quot;locks&quot;:0},&quot;directory&quot;:{&quot;traversals&quot;:1,&quot;files&quot;:1032},&quot;misc&quot;:235},&quot;contentSize&quot;:{&quot;all&quot;:138363,&quot;body&quot;:130929},&quot;timestamp&quot;:&quot;2026-10-25 03:22:44&quot;}"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/jquery.mark.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/js/fontawesome.min.js" data-auto-replace-svg="false"></script>
+<script type="text/javascript" src="https://cdn.wikiwiki.jp/to/w/common/assets/dist/wikiwiki-b70e8ba0ce7e3ce9d7fa.min.js"></script>
+<script type="text/javascript" src="https://cdn.wikiwiki.jp/to/w/common/assets/dist/wikiwiki-ex1-e13505c57a12af32bb51.min.js"></script>
+<script type="text/javascript" src="https://cdn.wikiwiki.jp/to/w/common/assets/dist/wikiwiki-ex2-3ec23674488cb5b66ea7.min.js"></script>
+    <script>
+        if (window.FontAwesome) {
+            window.FontAwesome.dom.watch();
+        } else {
+            console.warn('FontAwesome is not loaded.');
+        }
+    </script>
+<script type="text/javascript">
+    bootLazy.addJqPluginInit('.fold-container', function() {
+        this.fold({
+            buttonSelector: '.fold-toggle-button',
+            openClassName: 'fold-open'
+        });
+    });
+</script>
+<script>
+    bootLazy.addJqPluginInit('.plugin-ntbr', function() {
+        this.ntbr();
+    });
+</script>
+<script type="text/javascript">
+    bootLazy.addJqPluginInit('.plugin-marquee', function() {
+        this.marquee();
+    });
+</script>
+    <script>
+        bootLazy.addJqPluginInit('.security-check-interrupt', function() {
+            this.securityCheckInterrupt({});
+        });
+    </script>
+<script>
+    bootLazy.addJqPluginInit('.zawazawa-embed', function() {
+        this.zcommentResize();
+    });
+</script>
+    <script>
+        bootLazy.addJqPluginInit('.lazy-dom-placeholder', function() {
+            this.lazyDom({ rootMargin: '400px' });
+        });
+    </script>
+    <script>
+        bootLazy.addJqPluginInit('.plugin-fa-loader', function() {
+            this.fontAwesomeLoader();
+        });
+    </script>
+<script type="text/javascript">
+    bootLazy.addJqPluginInit('.plugin-new-body', function() {
+        this.newmarker();
+    });
+</script>
+    <script>
+    bootLazy.addJqPluginInit('.pcomment-form-placeholder', function() {
+        this.pcommentForm({});
+    });
+    </script>
+    <script type="text/javascript">
+        bootLazy.addJqPluginInit('.zawazawa-recent', function() {
+            this.zrecent();
+        });
+    </script>
+<div id="wikiwiki-pageview-counter" data-endpoint="https://counter.wikiwiki.jp/c/deemo/pv/SandBox" style="display: none;"></div>
+<script>
+    $('#wikiwiki-pageview-counter').pageview();
+</script>
+    <script type="text/javascript">
+        bootLazy.addJqPluginInit('.recent-container[data-recent-hash="f107c98ab9edbbf9dcadd822421a85fc"]', function() {
+            this.recent({"timestamp":1792650189,"list":[{"time":1792650189,"page":"(ネタバレ)考察・予想","link":"/deemo/%28%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%29%E8%80%83%E5%AF%9F%E3%83%BB%E4%BA%88%E6%83%B3"},{"time":1792649248,"page":"「忘れ去られた砂時計」における新楽曲と木の成長","link":"/deemo/%E3%80%8C%E5%BF%98%E3%82%8C%E5%8E%BB%E3%82%89%E3%82%8C%E3%81%9F%E7%A0%82%E6%99%82%E8%A8%88%E3%80%8D%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%96%B0%E6%A5%BD%E6%9B%B2%E3%81%A8%E6%9C%A8%E3%81%AE%E6%88%90%E9%95%B7"},{"time":1792591256,"page":"kouyou","link":"/deemo/kouyou"},{"time":1792591205,"page":"Determination","link":"/deemo/Determination"},{"time":1792426152,"page":"人気投票","link":"/deemo/%E4%BA%BA%E6%B0%97%E6%8A%95%E7%A5%A8"},{"time":1792401404,"page":"コメント/kouyou","link":"/deemo/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88/kouyou"},{"time":1792302339,"page":"アーティスト別リスト","link":"/deemo/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%88%A5%E3%83%AA%E3%82%B9%E3%83%88"},{"time":1792284982,"page":"Conflict (VILA Remix)","link":"/deemo/Conflict%20%28VILA%20Remix%29"},{"time":1792243243,"page":"Saika","link":"/deemo/Saika"},{"time":1792115420,"page":"Saihate","link":"/deemo/Saihate"}]});
+        });
+    </script>
+    <script type="text/javascript">
+        bootLazy.addJqPluginInit('.zawazawa-recent', function() {
+            this.zrecent();
+        });
+    </script>
+    <script>
+        bootLazy.addJqPluginInit('#responsive-navigation', function() {
+            this.responsiveNavigation({
+                menuBarSelector: '#menubar',
+                editMenuSelector: '#edit-menu',
+
+                mainContentsBottomElement: '#main-contents-bottom',
+                sidebarBottomElement: '#sidebar-bottom',
+                menuBarContainerElement: '#contents .column-left',
+                footerElement: '#footer',
+
+                overlayAdRenderedEventName: 'overlay-ad-rendered',
+                overlayAdMarginTop: 25
+            });
+        });
+    </script>
+    <script>
+        $('#share-button-root').sharePanel({
+            title: "SandBox - Deemo Wiki*",
+            controlPanelUrl: "https:\/\/c.wikiwiki.jp\/wiki\/deemo\/design",
+            imageUrl: "https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/wikiwiki_ogp.png?v=4",
+            description: "",
+            shareUrl: "https:\/\/wikiwiki.jp\/deemo\/SandBox",
+            shortUrlRequestUrl: null,
+            hasOgSettings: false,
+        })
+    </script>
+<script>
+    $('#admin-contact-root').adminContact({
+        logoImgUrl: "https:\/\/cdn.wikiwiki.jp\/to\/w\/common\/image\/pukiwiki.svg?v=4",
+        pageTitle: "Deemo Wiki*",
+        controlPanelUrl: "https:\/\/c.wikiwiki.jp\/wiki\/deemo\/settings",
+        contact: "",
+        helpLink: 'https://wikiwiki.jp/pp/admin_contact',
+    });
+</script>
+<script>
+$("#load-panel-root").loadpanel({
+    dataSelector: "#pageload",
+    helpLink: 'https://wikiwiki.jp/pp/page_load_panel'
+});
+</script>
+<script>
+    $('.admin-login-status').adminLoginStatus({
+        cookieName: 'login_session',
+    });
+</script>
+<script>
+    $(function() {
+        $('.search-words').searchWordHighlight({
+            paramName: 'word',
+            selector: "#content,#note",
+            limit: 10,
+            markedClassResolver: function (i) { return "word" + i; }
+        });
+    });
+</script>
+<script>$(".realtime-date").realtimeDate();</script>
+<script>
+    $("body").notificationBar();
+</script>
+<script>
+$("#contents").anchorLink({
+    url: '/deemo/SandBox',
+});
+</script>
+<script>window.lazyLoadViewingContext = {"viewingPage":"SandBox","viewingMode":"read"};</script>
+    <script>
+        bootLazy.addJqPluginInit('.tooltip', function() {
+            this.tooltip();
+        });
+    </script>
+    <script>
+        bootLazy.addPlainScript(function() {
+            lightbox.option({
+                resizeDuration: 0
+            });
+        });
+    </script>
+<script>
+    $(function() {
+        window.bootLazy.bootOn(document);
+    });
+</script>
+<script>
+    $(document).pukiwiki();
+</script>
+<script>
+jQuery(function() {
+    $('form').usageStatistics({
+        keyName: 'usageStatistics',
+        smsAuthCookieName: 'authkey',
+        hasPostedCookieName: '__posted2',
+    });
+    $(document).browsingStatistics({
+        keyName: 'browsingStatistics'
+    });
+});
+</script>
+</body>
+</html>

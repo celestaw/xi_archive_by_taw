@@ -1,0 +1,15 @@
+{
+  "url": "https://p.eagate.573.jp/game/nostalgia/op3/js/news.js?v=20170324",
+  "key": "2877e90a8e345a32",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://p.eagate.573.jp/game/nostalgia/op3/js/news.js?v=20170324",
+  "sha256": "0cbf98173bc9773305a6e8bb2a2b50250357012ee35f5ce99825804756a4b5d2",
+  "bytes": 7138,
+  "read_limit_reached": false,
+  "title": "",
+  "links": [
+    "' + v_news_url + v_anchor + '"
+  ]
+}

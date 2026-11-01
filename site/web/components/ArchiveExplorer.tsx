@@ -5,6 +5,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { api, formatDate, type Meta, type Work, type WorkList, type WorkQuery } from "@/lib/api";
 import { YearNavigation } from "@/components/YearNavigation";
+import { CopyButton } from "@/components/CopyButton";
 
 export function ArchiveExplorer() {
   const router = useRouter();
@@ -146,7 +147,21 @@ export function ArchiveExplorer() {
           {pending && <div className="loading-copy">作品の記録を読み込んでいます<span className="loading-dot">…</span></div>}
           {!pending && error && <div className="empty-state" role="alert"><h3>記録を読み込めませんでした。</h3><p>{error}</p><button className="text-link" onClick={() => setRetry(r => r + 1)}>もう一度読み込む ↗</button></div>}
           {!pending && !error && result?.total === 0 && <div className="empty-state"><span className="empty-mark">∅</span><h3>該当する記録がありません。</h3><p>曲名の一部で探すか、絞り込み条件を変えてみてください。</p><Link className="text-link" href="/#chronology">すべての記録を見る ↗</Link></div>}
-          {[...groups].map(([year, items]) => <section className="year-group" key={year} aria-label={`${year}の記録`}><div className="year-heading"><h2>{year}</h2><span>{items.length}件</span></div><ol className="work-list">{items.map(work => <li key={work.id}><Link href={`/works/${work.id}`} className="work-row"><div className="work-date"><time>{formatDate(work.earliest_record)}</time><span>{work.id}</span></div><div className="work-info"><h3>{work.title}</h3><p>{work.earliest_record?.medium ?? "媒体・日付を調査中"}{work.is_variant && <span className="inline-label">別バージョン</span>}{work.attribution === "unverified" && <span className="inline-label unverified">帰属未確認</span>}</p><span className="date-kind">{work.earliest_record?.kind ?? "日付未確認"}</span></div><span className="work-open" aria-hidden="true">↗</span></Link></li>)}</ol></section>)}
+          {[...groups].map(([year, items]) => <section className="year-group" key={year} aria-label={`${year}の記録`}>
+            <div className="year-heading"><h2>{year}</h2><span>{items.length}件</span></div>
+            <ol className="work-list">{items.map(work => <li key={work.id}>
+              <div className={`work-row${work.genre ? " has-genre" : ""}`}>
+                <Link href={`/works/${work.id}`} className="work-row-link" aria-labelledby={`work-title-${work.id}`} />
+                <div className="work-date"><time>{formatDate(work.earliest_record)}</time><span>{work.id}</span></div>
+                <div className="work-info">
+                  <div className="title-with-copy"><h3 id={`work-title-${work.id}`}>{work.title}</h3><CopyButton text={work.title} /></div>
+                  <p>{work.earliest_record?.medium ?? "媒体・日付を調査中"}{work.is_variant && <span className="inline-label">別バージョン</span>}{work.attribution === "unverified" && <span className="inline-label unverified">帰属未確認</span>}</p><span className="date-kind">{work.earliest_record?.kind ?? "日付未確認"}</span>
+                </div>
+                {work.genre && <span className="track-genre work-genre" title={`${work.genre.medium}でのジャンル表記`}><span className="sr-only">ジャンル：</span>{work.genre.label}</span>}
+                <span className="work-open" aria-hidden="true">↗</span>
+              </div>
+            </li>)}</ol>
+          </section>)}
         </div>
         {!pending && result && result.total > 0 && <div className="list-continuation" ref={sentinel}>
           <p role="status" aria-live="polite">{loadingMore ? "続きを読み込み中…" : `${result.items.length} / ${result.total}件を表示`}</p>

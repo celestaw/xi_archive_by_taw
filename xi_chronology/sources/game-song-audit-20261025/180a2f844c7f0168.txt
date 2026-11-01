@@ -1,0 +1,430 @@
+Halcyon - Arcaea Wiki*
+ブラウザの JavaScript がオフ（ブロックまたは許可しない）に設定されているため、このページは正常に機能しません。
+[ ホーム | 新規 | 編集 | 添付 ]
+Menu
+新規
+編集
+添付
+一覧
+最終更新
+差分
+バックアップ
+凍結
+複製
+名前変更
+ヘルプ
+> Halcyon
+Halcyon
+Last-modified: 2026-09-20 (日) 12:55:51
+これらのキーワードがハイライトされています：
+Halcyon
+Composer
+xi
+Artwork
+yama_ko
+※ゲーム内では記載なし
+Chart
+Designer
+東星※太陽
+Difficulty
+Past
+Present
+Future
+Level
+5
+8
+10
+Notes
+662
+943
+1227
+Length
+2:39
+BPM
+191
+Pack
+Luminous Sky
+Side
+Light(光)
+Update
+Version
+Mobile
+ver.1.7.0
+(18/07/16)
+Switch
+ver.1.0.0c
+(21/05/18)
+Requirements
+Past
+-
+Present
+50個の欠片
+Future
+150個の欠片
+九番目の迷路 [FTR] のクリア
+The Message [FTR] のクリア
+Sulfur [FTR] のクリア
+Nintendo Switch版の解放条件
+Requirements
+共通
+ワールドモード (Chapter 3) で解禁
+Past
+10個の欠片
+九番目の迷路 [PST] のプレイ
+The Message [PST] のプレイ
+Sulfur [PST] のプレイ
+Present
+20個の欠片
+九番目の迷路 [PRS] のプレイ
+The Message [PRS] のプレイ
+Sulfur [PRS] のプレイ
+Future
+30個の欠片
+九番目の迷路 [FTR] のクリア グレード「AA」以上
+The Message [FTR] のクリア グレード「AA」以上
+Sulfur [FTR] のクリア グレード「AA」以上
+Difficulty Changelog
+Difficulty Changelog
+Version
+Past
+Present
+Future
+1.7.0
+5
+8
+9+
+3.0.0
+10+
+6.0.0
+10
+読みは「ハルシオン」。
+BMSイベント「THE BMS OF FIGHTERS 2010(BOF2010)」の個人戦スコア部門優勝楽曲。
+収録経歴
+収録経歴
+編集
+#
+収録日
+開発・運営会社
+機種名・アプリ名
+プラットフォーム
+1
+12/08/08
+Rayark
+Cytus
+iOS/Android
+2
+15/09/07
+TAITO
+GROOVE COASTER*1
+iOS/Android & AC
+3
+16/02/18
+SEGA
+CHUNITHM
+AC
+4
+17/10/11
+COLLESTA
+STELLIGHTS
+iOS/Android
+5
+18/08/25
+KOMAMI
+SOUND VOLTEX*2
+AC
+6
+18/07/15
+lowiro
+Arcaea
+iOS/Android & Switch
+7
+18/07/26
+SEGA
+オンゲキ
+AC
+8
+18/10/17
+NEOWIZ
+TAPSONIC TOP
+iOS/Android
+9
+18/12/10
+PeroPeroGames
+Muse Dash
+iOS/Android, Steam & Switch
+10
+19/01/22
+NEOWIZ
+TAPSONIC BOLD
+Steam
+11
+19/07/19
+SEGA
+maimai
+AC
+12
+19/11/21
+Applibot Inc.
+SEVEN's CODE*3
+iOS/Android
+13
+20/08/17
+Rayark
+Cytus II
+iOS/Android
+14?
+23/07/04
+Andamiro
+Pump It Up
+AC
+MVに書かれた文字は以下の通り。
+The story goes that Aeolus, the ruler of the winds, had a daughter named Alcyone who was married to Ceyx, the king of the Thessaly.
+Calm, peaseful days.
+Truth was...
+They were very happy together in Trachis, and according to Pseudo-Apollodorus's account of tensacrilegiously called each other "Zeus" and "Hera".
+This angered Zeus, so while Ceyx was at sea, the god threw a thunderbolt at his ship.
+Ceyx appeared to Alcyone as anapparition to tell her of his fate, and she threw herself into the sea in her grief.
+Out of compassion, the gods changed them both into halcyon birds.
+Thus, describe them as "Halcyon days".
+M3-2011秋にて頒布されたxi氏の1stアルバム「Parousia」にロング版が収録。CD通販(Diverse Direct)のほか、デジタル音源もリリースされている。
+BMSコンピレーションWebアルバム「Groundbreaking 2010 -BOF2010 COMPILATION ALBUM- (Disc 2)」にも収録されている。
+なお、オリジナル版についてはCytus公式OST「Cytus-Hindsight-」に収録(日本ではデジタル音源のみ)。
+攻略情報
+Past 譜面定数 : 5.5
+Present 譜面定数 : 8.2
+3曲目のPRS8となった譜面。
+なおver.3.0.0以前は譜面定数8.5とRinged Genesisと並びPRS8内最高定数だったのだが、ver.3.0.0で0.3も譜面定数が下がってしまい、Dantalionと並び定数8.2となった。
+なお、後にver.3.6.0で同作曲者のOverwhelmのPresent譜面が定数8.5として登場している。
+前半のフロア/スカイの8分連打は、スカイの影を意識しよう。
+サビの部分はフロア/スカイの同時押しラッシュがやってくる。落ち着いて対処しよう。
+所々に16分が混じっていることにも注意したい。なお低空スカイで細かい音を取らせる配置は高難易度譜面ではよくある配置なので、慣れておくと良い。
+Future 譜面定数 : 10.5
+ver.3.0.0において旧Level 9+が細分化された際、BMS楽曲で唯一のLevel 10+ (定数10.7) に設定された譜面。
+ver.6.0.0においてLevel 10に降格し、定数が10.5まで下方修正されたが、詐称という意見も少なくなく、現在でもBMS楽曲屈指の難関譜面として名を馳せている。
+本曲のクリアで解禁されるEther Strike (定数10.3) よりも定数が高く設定されており、Ether Strikeやその先にあるAnomaly楽曲の解禁を阻む壁となっている。
+Vicious Labyrinthパックで同じ立ち位置にあるconflictは前座の役割を全うしているだけに、この状況がいかに特異であるかが分かるだろう。
+Mobile版においては楽曲クリアの解禁条件をEASYクリアでも達成できるため、Ether Strikeをプレイしたい人はパートナー「光」(や他のEASYスキルパートナー)に頼るのも一つの手。それでも地力がないとかなり困難を極めるのは間違いないので、心して挑むべし。
+なおSwitch版ではグレードAA以上でのクリアが求められるため、EASYゲージを使用しても解禁は難しいだろう。きっちりと地力を固めて挑みたい。
+全体的な傾向としてはピアノの音を取ったトリルが主なのだが、両手を素早く画面の隅々まで動かす運指が多い。そのため利き手と反対側の手が弱いというプレイヤーにはかなりハンデが重くなってくるだろう。またBPMがそこそこ速い中で16分トリルが際限なく降ってくるため体力勝負とも言える譜面。
+他の高難易度譜面でも同様のことが言えるのだが、無理な粘着でバテてしまうことがないように気をつけたい。
+まずは低速だが、焦って早グレを踏まないように注意。
+低速が終わると一気に譜面速度(と密度)が上がる。
+まず初めに落下アークがやってくるが、ここのアークは＼＿という形になっており下側の部分にも判定がキッチリ詰まっているので、抜けてしまう場合はアークを下ろしてから最後まで押さえると抜けにくくなる。ただし直後がロングノーツであることにも注意したい。GIMME DA BLOODの低速地帯にも同様の配置が存在する。
+そして、次にやってくるのが認識難の片手往復16分トリル。片手はフロアをひたすら叩いてもう片手をひたすら上下に動かさなければならないのだが、始点やスカイを取る手が分からない場合は動画等で譜面研究し、練習を重ねるべし。
+またここで指が追いつかず全く歯が立たない場合、ここでみるみるゲージが削られていくため(ラストのトリルでも同様)、クリアは非常に難しくなる。完全に地力不足であるため下位難易度でキッチリ鍛えてから再挑戦しよう。
+EASYスキルでクリアを目指す場合、スカイを捨ててフロアに集中するのも手。
+そこを抜けると次は大振りアーク地帯に入る。かなり大きく振られるため抜けやすいが、ついていければここは数少ない休憩地帯になるだろう。
+その次には、片手ロング拘束でフロアとスカイを取る部分に入る。無料曲のLost Civilization、また同パックのFracture Ray (PRS)などで片手拘束にある程度慣れておくといい。
+サビ前は高密度のトリルが襲いかかってくる。ここには高難易度譜面で頻出する「3-1トリル」も登場する。無料曲ならBookmaker (2D Version) (BYD)、有料曲ならScarlet Cage, Kissing Lucifer*4, AttraqtiA, Axium Crisisなどに同様の配置がある。
+そして、ラスサビでは落下アークがまたやってくる。注意点は前述の通りだが、フロア/スカイの同時押しもサラッと仕込まれているので注意されたし。
+そしてラストには極めつけの端に寄った片手往復16分トリルが降ってくる。ここはトリルの始点のタイミングを間違えてしまうとほぼ全てのノーツが抜けてしまうため始点のタイミングだけはしっかり叩き込んでおこう。
+1回目がフロア始動、2回目がスカイ始動である。
+最後は交差アークでフィニッシュ。ここでも事故が起きることがあるため油断はしないこと。
+試聴/プレイ映像
+YouTube公式音源・BGA
+loading...
+niconico公式音源・BGA : https://www.nicovideo.jp/watch/sm12261905
+Future [PURE MEMORY 10,001,227pts] (理論値)
+Player : higllus
+loading...
+Future [PURE MEMORY 10,001,154pts] (親指プレイ)
+Player : BengaleeHS
+loading...
+その他のプレイ映像
+その他のプレイ映像
+Present [PURE MEMORY 10,000,911pts](親指プレイ)
+Player : kurotanP
+https://youtu.be/ALbxibB7X0Q
+Past [PURE MEMORY 10,000,640pts](親指プレイ)
+Player : kurotanP
+https://youtu.be/xOsfKRoWso4
+タイミング確認用のHand Clap映像はこちら。
+コメント
+落下アークだけ本当に許せない --  2026-09-20 (日) 12:55:50
+久々にやったら振り下ろしアーク全部抜けてワロタ… --  2026-09-06 (日) 12:20:35
+初期特有の粗さというか、なんか押しずらくてスコア出にくい　正直10+のままでも良かったんじゃ…と思ってる --  2026-08-17 (月) 22:32:14
+言うて今の10.5って(ver.4以降の曲が特に)強めのやつ多いから、こいつより簡単なの同じ降格組のSingularityくらいじゃねと思ってしまう(個人差)
+Axium共々解禁作業のために適応してしまった感も否めないが --  2026-08-17 (月) 21:25:43
+冗談抜きでこれを10.5に下げたせいで今の10の定数が崩壊したと思ってる。199のラミアが11.0ならこれ10.7~10.8でいいよね --  2026-08-17 (月) 20:07:56
+こいつだけAAにも行けない。Switch版だからフラクチャー行けなくてキツい。11でいいだろ --  2026-08-16 (日) 09:11:52
+11.0じゃないと詐称 --  2026-08-06 (木) 10:27:13
+言い過ぎ --  2026-08-06 (木) 11:58:26
+個人差定期　何をそんなにイライラしてるん --  2026-08-17 (月) 19:38:41
+個人差も何も木主の言い方が悪いんちゃうん？　個人の感想ならともかく断定と取れる言い方してるし --  2026-08-17 (月) 21:49:02
+左右交互に同じ譜面が来ることが多いけど、毎回右手を大きく動かさないといけないところでボロボロ落ちていくな　どうしても右手を使うのが難しい --  2026-06-28 (日) 14:31:07
+317のトリル直前が左右交互じゃなくて右右左右なのキモすぎる --  2026-04-07 (火) 15:02:58
+axiumとこれが10とは思えない。昔からある譜面だから公式側が慣れすぎただけや。 --  2026-03-28 (土) 14:16:29
+下げたのって何となく、AxiumでFTR10-BYD11にしたいから、カモフラで同ポジのこいつも下がったと思うんよな、にしても.5は本当に謎だけど --  2026-03-28 (土) 15:40:26
+いうて最近の.5 .6の連中と比べたらさほど変わらない気はする --  2026-03-28 (土) 17:31:20
+CONTENTS
+― はじめに ―
+Arcaea Wiki
+ルール
+初心者の方へ
+FAQ
+リズムゲーム用語解説
+― 収録曲 ―
+パック順
+タイトル順
+レベル順
+コンポーザー順
+A～O
+P～Z
+日本語・その他
+ボーカリスト
+イラストレーター順
+アルファベット
+日本語・その他
+ノーツ数順
+演奏時間順
+非公式難易度(PM基準)
+非公式難易度(TC基準)
+― ゲーム関連 ―
+ストーリー
+Main Story Act I
+Main Story Act II
+Side Story
+Archive Story
+パートナー
+恒常
+期間限定
+ワールドモード
+Extra Chapter
+Chapter 1
+Breached
+Chapter 2
+Breached
+Chapter 3
+Breached
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Chapter 9
+Chapter 10
+Lost Chapter
+解放期間終了
+コースモード
+― システム関連 ―
+アップデート履歴
+ver.1.x / ver.2.x
+ver.3.x
+ver.4.x / ver.5.x
+ver.6.x
+ver.7.x
+ポテンシャル研究所
+譜面定数表(Lv.1～7+)
+譜面定数表(Lv.8～12)
+遅延調整報告
+― その他 ―
+人気投票
+譜面制作者
+こぼれ話
+公式サウンドトラック
+管理人への要望
+テンプレート
+楽曲ページ
+Nintendo Switch
+基本情報
+楽曲リスト
+ストーリー
+パートナー
+ワールドモード
+Extra Chapter
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+コースモード
+アップデート履歴
+4,400円
+購入はこちらから
+― More ―
+― More ―
+zawazawa
+サウンドトラック
+詳細はこちら
+Memories of Light
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+メロンブックス
+Apple Music
+YouTube Music
+Spotify
+Memories of Conflict
+(26曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+メロンブックス
+Apple Music
+YouTube Music
+Spotify
+Memories of Realms
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Dreams
+(27曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Wrath
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Myth
+(27曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Serenity
+(26曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+Spotify
+Crossing Collection
+(7曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Bandcamp
+LINEスタンプ
+250円(100コイン)
+Today : ?
+Yesterday : ?
+Total : ?
+Online : ?
+*1
+2分程度の短縮版だがSOUNDVOLTEX版より長い。
+*2
+2分程度の短縮版
+*3
+Cranky氏によるRemix版(SEVEN's CODE ver.)
+*4
+この譜面のみスカイ3-フロア1配置
+© 2017-2026 Arcaea Wiki
+レンタルWIKI by WIKIWIKI.jp* /
+Designed by Olivia /
+広告について /
+無料レンタル掲示板 zawazawa

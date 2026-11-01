@@ -1,0 +1,13 @@
+{
+  "url": "https://publish.twitter.com/oembed?url=https%3A%2F%2Ftwitter.com%2Fcom_giko_31%2Fstatus%2F963018657113632768&omit_script=true",
+  "key": "eaf740335fb429cd",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://publish.x.com/oembed?url=https%3A%2F%2Ftwitter.com%2Fcom_giko_31%2Fstatus%2F963018657113632768&omit_script=true",
+  "sha256": "0cdc7f2ab55ae9f657be4b5fbdf5639f7efcb0bb83319074308bb5b77eb8b483",
+  "bytes": 786,
+  "read_limit_reached": false,
+  "title": "",
+  "links": []
+}

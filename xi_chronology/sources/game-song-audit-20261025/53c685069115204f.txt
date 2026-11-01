@@ -1,0 +1,4507 @@
+曲名リスト - Deemo Wiki*
+ブラウザの JavaScript がオフ（ブロックまたは許可しない）に設定されているため、このページは正常に機能しません。
+Deemo Wiki*
+[ ホーム | 新規 | 編集 | 添付 ]
+Menu
+新規
+編集
+添付
+一覧
+最終更新
+差分
+バックアップ
+凍結
+複製
+名前変更
+ヘルプ
+> 曲名リスト
+曲名リスト
+Last-modified: 2026-04-17 (金) 15:07:44
+これらのキーワードがハイライトされています：
+TOP
+このページはDeemoにおいてプレイ可能な楽曲(Vita版、-Reborn-限定曲を除く)のリストです。
+全収録数73BOOK、447曲
+無料10BOOK(117曲)+有料63BOOK(330曲)
+(アプリ版ver.5.0.6：2023/09/06 現在のデータ)
+旧仕様曲名リスト(ver.3.6まで)
+タイトル順：曲名リスト/タイトル順(※大体終わりました)
+Story、コラボ曲を除いたBOOKは、各本棚に9BOOKずつ収納される。
+登場ver.に言及のないBOOK、楽曲はver.1.0から存在している。
+ローマ数字の本棚に収録されている各BOOKは全て有料（Nintendo Switch版は全て無料）。
+ver.2.0のアップデートの際、BOOK選択時のイラストが変更された。変更後の選択時イラストは、各BOOK内いずれかの楽曲のイラストをデフォルメしたものになっている場合が多いため、その元となったイラストの楽曲には備考欄に｢BOOKイラスト曲｣と記載している。
+Vita版(DEEMO～ラスト・リサイタル～)のみでプレイ可能な楽曲・譜面→VITA版追加曲一覧
+Deemo-Reborn-向けリスト→-Reborn-リスト
+システムBGM等、プレイ楽曲以外の楽曲について(ED曲等を含むのでネタバレ注意）→その他の楽曲?
+目次
+Story・Goodnight
+Collabo
+【Story】
+Deemo's collection Vol.1A
+Deemo's collection Vol.1B
+Deemo's collection Vol.2
+Shattered Memories
+Shattered Memories 2
+Epilogue
+【Hourglass】
+Samsara collection
+Etude collection
+【Collabo】
+Collaboration collection
+【Goodnight】
+Rayark 12th collection
+Adventure selection
+Hundotte Collection
+Mirai's Selection
+VII・VI・V
+VII(6BOOK 30曲)
+VI (9BOOK 45曲)
+V (9BOOK 45曲)
+Sakuzyo Collection #2
+Spring selection
+N.M.S.T. collection
+xi Collection
+Emotional Addict collection
+N.M.S.T. collection #2
+Taiko no Tatsujin Collection
+AD:PIANO collection 3
+Vocal selection
+Capchii Collection
+Feryquitous collection #2
+Funkot collection
+Sherwin Collection
+Cytus II collection Vol.1
+Kobayashi collection
+Ayatsugu_Otowa Collection
+Deemo -Reborn- collection
+Team Grimoire collection
+-
+Autumn selection
+Ice collection
+-
+CytusII collection Vol.2
+DJMAX collection
+-
+Taishi collection
+Sdorica collection
+IV・III・II・I
+IV (9BOOK 44曲)
+III (9BOOK 45曲)
+II (9BOOK 45曲)
+I (9BOOK 46曲)
+DS:PIANO collection
+V.K collection
+MILI collection
+Rayark selection Vol.1
+AD:PIANO collection
+Brian Crain collection
+MILI collection Vol.2
+Rayark selection Vol.2
+AD:PIANO collection 2
+Eshen Chen collection
+Vol.1 Transmission
+MILI collection Vol.3
+Rayark selection Vol.3
+M2U × Nicode collection
+Rabpit collection
+Knight Iris collection
+RAC collection #1
+M2U × Nicode collection Vol.2
+Aioi collection
+Knight Rosabell collection
+RAC collection #2
+Feryquitous collection
+Aioi collection vol.2
+Cytus selection Vol.1
+RAC collection #3
+Book of A.
+Timeline collection
+Cytus selection Vol.2
+RAC collection #4
+Book of C.
+Sakuzyo collection
+L: The Lower collection
+RAC collection #5
+Yamajet collection
+Cranky collection
+L: The Upper collection
+RAC collection #6
+背景灰色：他社・自社コラボ、Cytusのチャプターが移植されたもの
+Story
+Deemo's collection Vol.1A
+13曲
+製品版に無料収録されているコレクション。(体験版ではYUBIKIRI-GENMAN以外が演奏可能)
+このコレクションには、初めから解放されている楽曲と「木」の成長によって解放される楽曲とが収録されている。
+イラスト担当はメイン絵師硝子氏。
+曲名
+Easy
+Normal
+Hard
+Extra
+Artist
+TIME
+BPM
+備考
+Dream
+1
+4
+8
+-
+Rabpit
+2:13
+151
+Reflection (Mirror Night)
+1
+4
+8
+-
+V.K
+2:30
+85
+ver.1.0ではMirror Nightという楽曲名だった
+Jumpy star
+3
+3
+6
+-
+Yuk-cheung Chun
+Jeff Li Justine Lu
+3:05
+104
+Wings of piano
+1
+6
+7
+-
+V.K
+2:30
+68-84
+Nine point eight
+1
+5
+7
+-
+Mili
+2:32
+164
+Light pollution
+1
+3
+8
+-
+Yuk-cheung Chun feat. Europa Huang
+2:35
+122
+BOOKイラスト曲
+ver.1.0ではアーティスト名がYukcheung Chun Jeff Li Justine Luとなっていた
+Undo
+2
+3
+7
+-
+Yuk-cheung Chun feat. Misi Ke
+2:29
+141
+Platinum
+2
+6
+6
+-
+Sta
+1:55
+100
+Utopiosphere
+1
+4
+7
+-
+Mili
+2:12
+176
+Reverse - Parallel Universe
+1
+5
+8
+-
+V.K
+2:49
+120
+ver.1.2追加曲 ＊1
+I hate to tell you
+2
+6
+8
+-
+Yuk-cheung Chun
+2:52
+120
+Saika
+2
+4
+6
+8
+Rabpit
+2:15
+128
+Cytusよりアレンジされ収録
+YUBIKIRI-GENMAN
+1
+4
+7
+-
+Mili
+3:04
+146
+ver.1.4追加曲
+＊1 正確にはver.1.0に存在した、同アーティストの楽曲Reverse(現在はプレイ不可)が差し替えられて追加された。
+Deemo's collection Vol.1B
+14曲
+製品版に無料収録されているコレクション。(体験版ではEvolution Era、Inviteが演奏可能)
+このコレクションには、「木」の成長や城内の探索によって解放される楽曲が収録されている。
+イラスト担当はメイン絵師硝子氏。
+曲名
+Easy
+Normal
+Hard
+Extra
+Artist
+TIME
+BPM
+備考
+Evolution Era
+3
+6
+8
+-
+V.K
+2:56
+90
+BOOKイラスト曲
+ver.1.4追加曲
+Invite
+2
+5
+7
+-
+Sun Chen feat. Bibi Chao
+2:50
+134
+Run Go Run
+2
+3
+8
+-
+Kaeru Underground
+2:37
+180
+ver.1.0ではアーティスト名がDJ Trioとなっていた
+Yawning Lion
+2
+4
+9
+-
+V.K
+2:30
+*
+ver.2.3まではHardLV8だった
+Pulses
+1
+6
+8
+-
+Sta feat. A
+2:03
+92
+ver.1.0では曲名がPulseだった
+Electron
+1
+6
+8
+-
+Yuk-cheung Chun feat. Misi Ke
+2:44
+125
+Untitled2
+3
+6
+8
+-
+Fabric Factory
+2:19
+111
+ver.1.2追加曲
+ムービー「Lonely Deemo」の曲
+Walking by the sea
+2
+5
+8
+-
+Edmund Fu
+3:04
+93
+ver.1.2追加曲
+ver.2.2まではアーティスト名がEdmud Fuとなっていた。
+Beyond The Stratus
+2
+4
+7
+-
+Ice
+2:17
+130
+ver.1.2追加曲
+Sairai
+3
+5
+7
+8
+Shinichi Kobayashi
+2:22
+95
+ver.1.2追加曲
+Entrance
+2
+8
+10
+L
+Ice
+1:53
+180
+ver.1.2追加曲
+Cytusよりアレンジされ収録
+ver.3.0から音源変更
+Magnolia
+4
+7
+10
+M
+M2U Vocal by Guriri
+2:24
+160
+Angelic Sphere
+4
+5
+7
+-
+3R2
+2:23
+143
+ver.1.5追加曲
+Leviathan
+3
+7
+9
+10
+NeLiME
+2:13
+185
+ver.1.5追加曲
+Deemo's collection Vol.2
+製品版に無料収録されているコレクション。ver.2.0にて追加。
+このコレクションには、ストーリーの進行や城内の探索によって解放される楽曲が収録されている。
+イラスト担当はメイン絵師硝子氏。
+曲名
+Easy
+Normal
+Hard
+Extra
+Artist
+TIME
+BPM
+備考
+Suspenseful Third Day
+2
+5
+7
+-
+Kaeru Underground
+2:46
+100
+BOOKイラスト曲
+＊2
+Living In The One
+1
+4
+7
+-
+Edmund Fu
+2:50
+139
+ver.2.2まではアーティスト名がEdmud Fuとなっていた。
+Legacy
+1
+4
+6
+-
+switchworks
+2:03
+113
+Sunset
+2
+6
+8
+-
+Alex Vourtsanis
+2:38
+180
+Sakura iro no yume
+2
+4
+6
+-
+Baba Band
+3:57
+70
+20m到達時のED曲 ＊2
+ver.2.0ではアーティスト名がTzu-Chieh Wenとなっていた
+La Promesse
+5
+5
+8
+-
+cranky
+2:32
+82
+ANiMA
+5
+9
+11
+xi
+xi
+1:58
+183.5
+ver.3.3でHardがLv10から昇格
+The Beautiful Moonlight
+2
+4
+6
+-
+Mai Aoyagi
+3:06
+135
+Fluquor
+2
+5
+8
+-
+onoken
+/ Vocal: Rin
+2:28
+136
+＊2
+Myosotis
+5
+9
+11
+-
+M2U /
+Arranger: M2U & NICODE
+/ Vocal: Guriri & Lucy
+2:29
+160
+ver.2.3まではNormalLV8だった
+Altale
+4
+8
+10
+S
+Sakuzyo
+2:32
+90
+ver.2.1追加曲
+Amazon版ではプレイ不可
+Vita版ではShattered Memoriesに収録されている
+＊2 これらの楽曲は"ver.2.0で追加されたストーリー"におけるエンディング?(二つ目のエンディング)を見た後、FC (Full Combo)もしくはAC (All Charming)を達成するとリザルト画面のイラストが変化する(難易度不問)。ただし、vita版ではアフターストーリーをクリアしていない場合、アフターストーリーでこれらの曲をFC、ACしてもイラストが変化しない。
+Shattered Memories
+製品版に無料収録されているコレクション。"Shattered Memories"とは｢砕け散った思い出｣の意味。
+iOSとAndroidではver.2.2にて登場。ver.2.3にて5曲、ver2.4にて5曲、ver3.0で4曲, ver.3.1で4曲の楽曲が追加。 合計22曲。
+"ver.2.0で追加されたストーリー"におけるエンディング?(二つ目のエンディング)を見た後に解禁される。この曲集においてAltaleはプレイできない。
+VITA版では2016/07/23のアップデートにて登場。Altaleのみプレイ可能であったが、2017/02/28のアップデートにてver.2.4までの楽曲もプレイ可能となった。
+auスマートパス版は後のアップデートにより、ver.2.4までに登場した楽曲をプレイすることができる。
+BOOKのイラストについて
+通常、BOOK選択時のイラストは、そのBOOK内の楽曲いずれかのイラストをデフォルメしたもの、もしくはイメージしたものになっているが、このBOOKはどの楽曲とも全く違うイラストが描かれている。BOOK名もcollection,selectionではなくMemories。
+割れた仮面を付けた仮面の少女と、ガラスのように砕かれた誰かの横顔(が描かれた何か?)。
+BOOK名の横に付いた、白い仮面が指し示すものとは一体…?
+曲名
+Easy
+Normal
+Hard
+Extra
+Artist
+TIME
+BPM
+備考
+Altale
+4
+8
+10
+S
+Sakuzyo
+2:32
+90
+VITA版のみこのBOOKに収録
+Run Lads Run
+5
+8
+11
+V
+KillerBlood
+2:09
+160→*
+ver.3.3でHardがLv10から昇格
+Starting Wind
+4
+6
+9
+-
+Edmund Fu
+3:12
+160
+Farewell Waltz
+1
+4
+8
+-
+Stone
+1:38
+201
+ver.2.2ではアーティスト名がMoosa Shawn Nicholasとなっていた
+Revival
+3
+7
+9
+10
+TQ
+2:31
+136
+ver.2.4のみHardLV10だった
+Ark of Desire
+4
+7
+8
+-
+Edmund Fu
+2:52
+170⇔145
+ver.2.3追加曲
+Futarimiti
+3
+6
+8
+-
+Morrigan & Cranky
+2:25
+94→150
+ver.2.3追加曲
+Shadow in the mirror
+3
+6
+8
+-
+Abia Ng
+3:38
+80→120
+ver.2.3追加曲
+nightfall
+3
+6
+8
+-
+ginkiha
+2:00
+92
+ver.2.3追加曲
+ver.2.3ではHardLV9だった
+Yaoyue
+4
+7
+10
+-
+gondayu
+2:16
+132
+ver.2.3追加曲
+Kimi ga Nokoshita Sekai de
+2
+6
+8
+-
+The SxPlay
+3:45
+106
+ver.2.4追加曲
+Guardian
+1
+5
+7
+-
+The SxPlay
+4:39
+80
+ver.2.4追加曲
+Rainbow's End
+3
+6
+8
+-
+Edmund Fu
+3:03
+65-75
+ver.2.4追加曲
+Post-script
+3
+4
+5
+-
+The Hoshizora Project
+2:08
+82.5
+ver.2.4追加曲
+H
+5
+9
+10
+H
+orangentle
+2:21
+110
+ver.2.4追加曲
+Tree of Dreams
+3
+5
+8
+-
+Michiru Oshima
+4:23
+81
+ver.3.0追加曲
+White Rain
+4
+6
+8
+-
+Michiru Oshima
+5:01
+80
+ver.3.0追加曲
+Infinite Puzzle
+6
+8
+10
+-
+Y-SHIN
+2:03
+162
+ver.3.0追加曲
+Spring Snowflake Flower
+5
+7
+9
+-
+masaki kawasaki
+2:03
+135→115
+ver.3.0追加曲
+Little Love
+1
+4
+5
+-
+Michiru Oshima
+3:22
+60～70
+ver.3.1追加曲
+Lonely Pianist
+2
+3
+6
+-
+Michiru Oshima
+2:38
+130
+ver.3.1追加曲
+Miracle of Daybreak
+1
+5
+7
+-
+WhiteCapella
+2:08
+76→90
+ver.3.1追加曲
+Waltz in Devil's Playground
+2
+4
+7
+-
+Ramenbot Jr.
+2:47
+128
+ver.3.1追加曲
+Shattered Memories 2
+ver.3.2にて登場。"ver.2.0で追加されたストーリー"におけるエンディング?(二つ目のエンディング)を見た後に解禁される。
+ver.3.4で2曲、ver.3.5で1曲、ver3.6で4曲、ver.3.7で3曲、ver.3.8で3曲、ver.3.9で3曲、ver.4.0で3曲、ver.4.1で3曲、ver.4.2で1曲、ver4.3で1曲、ver5.0で1曲の楽曲が追加された。合計29曲。
+イラスト担当はHuang Chen他。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Aquamarine
+1
+7
+9
+Cashew
+2:35
+130
+Go or Stay
+2
+6
+8
+Zris
+2:20
+138
+Ruins in the Mirage
+3
+7
+8
+SIHanatsuka
+& Yukino
+2:02
+108
+White Fantasy
+2
+6
+8
+SLS
+2:47
+*
+Last Promise
+3
+5
+8
+HyuN & Ritoru
+feat. Serentium
+1:44
+130
+ver.3.4追加曲
+tomoshibi
+1
+4
+7
+yourmythos
+3:34
+76
+ver.3.4追加曲
+Out of Natura
+3
+6
+9
+Sound Souler
+2:11
+160
+ver.3.5追加曲
+ripples
+1
+3
+6
+naoto
+2:22
+95
+ver.3.6追加曲
+A Little Servant
+2
+4
+7
+Alice Schach and
+the magic orchestra
+3:00
+165
+ver.3.6追加曲
+Clover Snow
+3
+6
+9
+RICHIE EAO
+2:06
+160
+ver.3.6追加曲
+Ensemble Curtain Fall
+3
+6
+9
+Ayatsugu_Otowa
+2:11
+216
+ver.3.6追加曲
+Aquarelle: 010
+1
+3
+6
+Ruibass
+1:56
+52.5
+ver.3.7追加曲
+ver.3.7時点では
+Cigarette (DEEMO ver)という曲名だった
+Out of the Box
+3
+5
+8
+PTB10
+2:07
+136→*
+ver.3.7追加曲
+Shedding Season
+4
+6
+9
+TERU FOX
+2:32
+90
+ver.3.7追加曲
+Still-Waking Sleep (DEEMO edit)
+1
+4
+6
+Hundotte
+2:30
+104
+ver.3.8追加曲
+If I Can See You Again
+2
+4
+6
+Sing Sing Rabbit
+2:53
+120
+ver.3.8追加曲
+Ray Of Sunshine
+3
+5
+9
+Sherwin
+2:12
+120
+ver.3.8追加曲
+witch hunting
+1
+5
+8
+JohnTowse. LunaSafari
+feat. SAYA
+2:51
+140
+ver.3.9追加曲
+LandScape
+2
+4
+7
+Keikaku Tsuukou
+feat. Paroto
+2:29
+170
+ver.3.9追加曲
+Empedrado
+5
+8
+10
+Yuma.Mizo
+2:30
+260
+ver.3.9追加曲
+Hana no Kotoba
+1
+4
+6
+Shina Kami & Silaver
+2:52
+167
+ver.4.0追加曲
+Lavuestia Mutanz
+3
+5
+8
+Narsil (from Ring)
+feat.Himeko Nemuri (Luna-Crescente)
+2:25
+200
+ver.4.0追加曲
+Matricaria -Pazs cfzj ze Epfbfzm-
+2
+6
+9
+NOMA & Apo11o"1.62"program
+ft.Yuki Shizaki
+2:40
+172
+ver.4.0追加曲
+Dance in the midnight
+2
+5
+8
+Manhattan Midnight
+2:46
+120
+ver.4.1追加曲
+Tempest
+4
+7
+9
+Freeleaves
+2:28
+145
+ver.4.1追加曲
+Arekstrar Nornir
+3
+8
+10
+Yuma.Mizo feat. Ai Ohsera
+2:42
+*
+ver.4.1追加曲
+saeru
+2
+5
+7
+yourmythos
+2:54
+78
+ver.4.2追加曲
+in a cradle
+2
+5
+7
+yourmythos
+2:45
+90
+ver.4.3追加曲
+Lose my mind
+5
+8
+10
+brz1128 vs. M-UE
+2:27
+140→190
+ver.5.0追加曲
+Epilogue
+ver.5.0にて登場。
+BOOK選択時のイラストは、アプリ「Deemo」のアイコンをカラーにしたものになっている。
+曲名
+Easy
+Normal
+Hard
+Extra
+Artist
+TIME
+BPM
+備考
+Alice good night
+2
+5
+7
+8
+Sleepy WiFi
+3:08
+72
+Deemo Goodbye
+3
+6
+8
+10
+Chamber Chu
+2:57
+*
+Toshi no kokyu
+3
+7
+9
+-
+technoplanet
+feat. Satoshi Oka
+2:29
+120
+CytusⅡより移植
+Path and Period
+4
+8
+10
+-
+Jun Kuroda
+2:08
+175
+CytusⅡより移植
+Samsara collection
+ver.3.0で追加された「忘れられた砂時計」を有料購入したうえで、2周目以降のストーリーを進行することでプレイできる。
+Samsaraとは"輪廻転生"の意味。
+イラスト担当はK@I氏他。
+曲名
+Easy
+Normal
+Hard
+Extra
+Artist
+TIME
+BPM
+備考
+Voice of Cell
+4
+6
+8
+-
+Michiru Oshima
+2:45
+174
+Valle De Los Caidos
+1
+4
+7
+-
+Triodust
+2:05
+98
+ver.3.0では曲名が「Valle De Los Cados」となっていた
+Lost in the nowhere
+6
+8
+11
+-
+Rave Cyanide & Lunatic Sounds
+2:35
+160
+ver.3.0ではiOS&Android のみ、コンポーザー名がRave Cyanideであった。ver.3.3でHardがLv10から昇格
+The 105th Days
+2
+4
+6
+-
+Pianoboy
+2:28
+96
+Reverence (Deemo ver)
+3
+7
+9
+-
+vospi
+2:56
+173
+Cytusよりアレンジされて移植
+Aragami
+7
+9
+11
+xi
+xi
+2:03
+196
+ver.3.3でHardがLv10から昇格
+Parodia Sonatina Var.II
+5
+8
+10
+L
+Ice
+2:34
+170
+Amber Wishes (Deemo edit)
+5
+8
+11
+-
+Ice
+3:21
+196
+ver.3.3でHardがLv10から昇格
+The way home
+2
+5
+7
+-
+Kiva
+2:57
+92
+Marigold
+5
+9
+12
+-
+M2U/ Arranger: M2U & Nicode / Vocal: Guriri & M2U
+2:33
+160
+ver.3.1まで、Composer名がM2U表記のみだった
+Etude collection
+ver.3.0で追加された「忘れられた砂時計」を有料購入したうえで、2周目以降のストーリーを進行することでプレイできる。
+過去に西洋で活躍した名だたる作曲家によるピアノ曲が抜粋もしくは省略で収録されている。
+備考欄に、作曲者の日本語読み、および元となったピアノ曲の日本語名称が記されている。興味があれば、実際に楽曲を調べてみると良いだろう。
+なお、Etude collectionにはNormal譜面とExtra譜面が存在しない。
+イラスト担当は5曲ずつ分担していると見られる。K@I氏(中間部)他。
+BPMについて
+Etude collectionの楽曲のBPMは、あくまでこのDeemoに収録されている音源によるものであることにご注意ください。
+そのBPMにしても作曲者が意図する本来の奏法により一定のものはほぼ存在せず、もっというとBPMによらない速度表記がなされている場合があるので、BPM表記を行うことが正しくない場合もあります。
+このEtude collectionに限ってはBPM値はあくまで参考程度にとどめ、Deemoとは関係ない他所で用いるのはお控えください。
+曲名
+Easy
+Hard
+Artist
+TIME
+BPM
+備考
+Tristesse
+1
+5
+Chopin
+1:48
+45-55
+ショパン「別れの曲」
+Intermezzo in A Major
+2
+7
+Brahms
+2:10
+*
+ブラームス「インテルメッツォ イ長調」
+Rhapsody in B minor
+3
+8
+Brahms
+1:47
+80-95
+ブラームス「ラプソディー ロ短調」
+Pathetique
+3
+9
+Beethoven
+2:00
+125-150
+ベートーベン「ピアノソナタ第8番 ハ短調 作品13『大ソナタ悲愴』第1楽章」
+Ballade No.1
+5
+8
+Chopin
+2:23
+*
+ショパン「バラード 第1番 ト短調」
+Invention No.1
+3
+7
+J.S.Bach
+1:25
+130
+バッハ「インベンション 第1番」
+Aufschwung
+5
+9
+Schumann
+2:38
+*
+シューマン「幻想小曲集 op.12『飛翔』」
+Turkish March
+5
+8
+Mozart
+2:00
+135
+モーツァルト「ピアノソナタ第11番イ長調第3楽章『トルコ行進曲』」
+Moonlight
+6
+9
+Beethoven
+1:50
+160-175
+ベートーベン「ピアノソナタ第14番嬰ハ短調 作品27-2 『幻想曲風ソナタ』」
+Flight of the Bumblebee
+5
+9
+Nikolai Rimsky-Korsakov
+1:13
+170
+リムスキー・コルサコフ「熊蜂の飛行」
+Impromptu No.3
+2
+8
+Schubert
+2:12
+120-130
+シューベルト「4つの即興曲 第3曲」
+Venetian Gondellied
+2
+7
+Mendelssohn
+2:38
+80-95
+メンデルスゾーン「無言歌集 第2巻作品30-6 『ヴェネツィアの舟歌 第2』」
+Piano Sonata No.3
+6
+10
+Chopin
+2:49
+121
+ショパン「ピアノソナタ第3番 ロ短調 作品58 第4楽章」
+Waltz No.1
+4
+9
+Chopin
+2:05
+200-240
+ショパン「『華麗なる大円舞曲』変ホ長調 Op.18」
+La Campenella
+7
+10
+Liszt
+1:57
+*
+リスト「パガニーニによる大練習曲」
+Collaboration collection
+ver.1.5にて登場し収録されたコレクション。
+無料収録されており、体験版でもプレイ可能(vita版ではプレイ不可, Nintendo Switch版では自社コラボのThe Story Unfolds、Hesitant Blade、Rayark 7th Main Themeのみプレイ可)。
+登場当初は"Brave Frontier selection"という名のもと、スマホゲーム『ブレイブフロンティア』の楽曲である、Randall、Will、Land of Giantsが収録されていた。
+ver.2.4にてスマホゲーム『オルタンシア・サーガ』のメインテーマ、Kimi no namae no kazegafukuが収録された。それに伴いBOOK名は現在のものとなり、BOOKイラストも少女と仮面の少女が大鍋で何かを調合している絵へと変更された(マンドラーが茹でられている)。
+ver.3.0にスマホゲーム『クルセイダークエスト(クルクエ)』とのコラボでKnots Wayが、ver.3.1にPS4ゲーム『太鼓の達人 セッションでドドンがドン！』とのコラボでHYAKKA RYOURANが追加された。
+ver.3.3でRayarkの『Sdorica』(スドリカ)とのコラボ楽曲が追加された。
+ver.5.0.4にて、Kimi no namae no kazegafukuが削除された。(『オルタンシア・サーガ』のサービス終了による)
+ちなみにver.2.4現在、入手時は"Cross collection"と表示される。
+曲名
+Easy
+Normal
+Hard
+Extra
+Artist
+TIME
+BPM
+備考
+Go Adventure!
+2
+5
+8
+-
+Rayark Sound Team
+2:05
+135-144
+ver.5.0.6追加曲
+The Story Unfolds
+2
+5
+7
+Sdorica
+Sdorica
+1:58
+182→*
+ver.3.3追加曲
+Hesitant Blade
+5
+8
+10
+-
+Sdorica
+2:15
+119
+ver.3.3追加曲
+Rayark 7th Main Theme
+4
+6
+8
+-
+Rayark Sound Team
+"Ice & SIHanatsuka"
+1:37
+192
+ver.3.3追加曲
+HYAKKA RYOURAN
+6
+6
+8
+-
+Kakumi Nishigomi
+2:18
+148
+ver.3.1追加曲
+Knots Way
+4
+7
+9
+-
+nicode. feat.Romelon
+2:55
+184
+ver.3.0追加曲
+Randall
+1
+3
+5
+-
+Hikoshi Hashimoto
+2:41
+82
+Will
+2
+6
+8
+-
+Hikoshi Hashimoto
+2:16
+93
+ver.2.3まではHardLV9だった
+Land of Giants
+1
+2
+7
+-
+Hikoshi Hashimoto
+2:35
+136
+ver.2.3までBOOKイラスト曲を務めていた
+Goodnight
+ver.4.2にて登場。Rayark 12th collectionを除き無料収録。
+"ver.2.0で追加されたストーリー"におけるエンディング(二つ目のエンディング)を見た後に解禁される。
+ver.5.0で「？」から名称が変更された。
+Rayark 12th collection
+ver.5.0.6にて登場。Rayark12周年を記念した有料楽曲コレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Pie War
+4
+7
+9
+Yuma.Mizo
+vs Ai Ohsera with YumaelServer
+2:38
+180
+Katakoi Syndrome
+2
+5
+8
+CLoTiVE (Feat. Lielle)
+2:55
+184
+BOOKイラスト曲
+Chance
+4
+8
+10
+Silaver
+2:24
+70→140
+Page 0
+3
+6
+10
+Chroma
+2:35
+170
+Elysian Volitation
+6
+9
+11
+Hundotte
+2:45
+190
+Adventure selection
+ver.4.2にて登場。Rayark10周年記念での収録。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+The secret tale
+4
+8
+10
+studio neo
+2:27
+174
+Starry Sky Embrace
+1
+5
+9
+muyu + Yu-dachi
+2:15
+80
+Out of Ctrl
+3
+6
+8
+Sound Souler
+2:22
+160
+Out of Sense
+5
+8
+10
+Sound Souler
+2:00
+158
+Amagiri
+2
+6
+9
+Uemura Kanae
+2:39
+120
+Hundotte Collection
+ver.4.3にて登場。Rayark10周年記念。シンガポールのアーティストHundotte氏によるコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+A Collection of Names
+3
+5
+8
+Hundotte
+2:25
+60
+BOOKイラスト曲
+Rhapsody on a Theme of Aud Be'af
+4
+7
+9
+Hundotte
+2:49
+170.5
+u7228
+5
+8
+10
+H Undo OTT e
+2:04
+175.69
+ver.4.3ではArtistが"Hundotte" だった
+Locum )-( Janus
+6
+9
+11
+Hundotte
+2:25
+200
+Sonatina for Bygone Piano
+2
+5
+7
+Hundotte
+2:50
+*
+ver.4.3では楽曲名が"Sonata for Bygone Piano" だった
+Mirai's Selection
+ver.5.0にて登場。
+BOOK選択時のイラストは、ハートのロケットを付けたMiraiが描かれている。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Starry Night
+2
+4
+7
+HΔG
+2:16
+132
+Three Years Diary
+3
+5
+8
+HΔG
+2:18
+85→170
+Girl Meets World
+3
+6
+9
+HΔG
+2:21
+170
+doll eyes
+3
+7
+9
+yourmythos
+2:55
+125
+Naughty Cats
+4
+7
+10
+Alice Lee
+& Michael Wyckoff
+2:11
+170
+Hourglass
+「The Forgotten Hourglass ~忘れられた砂時計~」
+追加ストーリー名称であり、BOOK名ではない。
+購入後、ストーリーを進めるとSamsara collection、Etude collection、StoryのExtra譜面が解放される。
+VII(6BOOK 30曲)
+Sakuzyo Collection #2
+ver.4.0にて登場。Sakuzyo(削除)氏によるコレクションの第2弾。
+イラスト担当は雪歌草氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+I Want You Back
+2
+6
+8
+Sakuzyo feat. Sakuzyo
+2:13
+145
+Lets Meet Here Again
+3
+5
+9
+Sakuzyo feat. Sakuzyo
+1:55
+260
+Rainbow Time Machine
+3
+7
+9
+Sakuzyo feat. Sakuzyo
+2:28
+195
+BOOKイラスト曲
+Symphonic Poem "Forbidden Love"
+5
+7
+10
+Sakuzyo
+2:26
+*
+Clock of fifth
+4
+8
+11
+Sakuzyo
+2:44
+190
+xi Collection
+ver.4.0にて登場。BMSなどで活躍しているアーティストxi氏の楽曲によるコレクション。
+曲名
+Easy
+Normal
+Hard
+Extra
+Artist
+TIME
+BPM
+備考
+To Live
+3
+5
+8
+-
+xi
+2:38
+140-145
+Hypnos
+2
+5
+8
+-
+xi
+2:40
+96-111
+Cloud9
+5
+7
+9
+xi
+xi
+3:25
+155-178
+ver.4.1にてExtra譜面追加
+Bad Elixir
+4
+8
+11
+-
+xi
+2:13
+203
+Mistilteinn
+5
+8
+11
+-
+xi
+2:18
+116-132
+Taiko no Tatsujin Collection
+ver.4.0にて登場。「太鼓の達人」コラボ。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+3piece-JazzParty!
+4
+7
+9
+mihile
+1:37
+160
+RIN
+3
+8
+10
+a_hisa
+2:02
+170
+KAICHUTEIEN WO MOTSU SYOUJO
+2
+6
+9
+Harunaba
+feat.Chihiro Ishiguro
+2:01
+154→308
+No Gravity
+3
+7
+8
+Lyo
+1:48
+284
+Toryu
+3
+7
+10
+Azu
+2:03
+110
+Capchii Collection
+ver.4.1にて登場。Capchii氏らの楽曲を集めたコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Hello From Planet
+3
+5
+8
+Capchii
+2:07
+190
+Night Code Cinderella
+4
+7
+9
+Capchii feat. Yuzuha
+2:17
+224
+Purification
+3
+6
+9
+Capchii feat. Uzumaki
+2:18
+204
+BOOKイラスト曲
+Demonic Pray
+4
+8
+10
+Crawk × Capchii
+2:13
+150
+Ever After Story
+5
+9
+11
+Capchii
+2:21
+220
+Sherwin Collection
+ver. 4.1にて登場。Sherwin氏の楽曲を集めたコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Glaciology
+1
+4
+6
+Sherwin
+2:30
+*
+Berlin Station Chief
+3
+6
+8
+Sherwin
+2:08
+180
+BOOKイラスト曲
+Sikar
+2
+5
+7
+Sherwin
+2:22
+160
+If Any
+2
+5
+9
+Sherwin
+2:18
+*
+No Man’s Land
+4
+7
+10
+Sherwin
+2:10
+*
+Ayatsugu_Otowa Collection
+ver. 4.1にて登場。Ayatsugu_Otowa氏の楽曲を集めたコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Wondering Luv
+3
+5
+8
+Ayatsugu_Otowa
+2:18
+180
+Shiny!
+3
+6
+9
+Ayatsugu_Otowa
+2:21
+128
+Queen on Ice
+4
+8
+10
+Ayatsugu_Otowa
+2:22
+180
+Chaos and Abyss -2nd Movement-
+6
+9
+11
+Ayatsugu_Revolved
+2:02
+*
+Ms.Velmuda and the Crystal Ark
+5
+9
+11
+Ayatsugu_Revolved
+2:26
+200
+VI (9BOOK 45曲)
+Spring selection
+ver.3.7にて登場。台湾クリエーターによる春っぽいピアノ曲セレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+The Daydreaming Girl
+1
+4
+6
+3R2
+2:13
+177
+BOOKイラスト曲
+Wisteria
+2
+5
+7
+Freeleaves
+2:36
+115
+Falling Star
+1
+4
+6
+Triodust ft.Joy Music
+2:08
+147
+Spring Breeze
+3
+5
+9
+Air Carrier
+2:05
+200
+Valentining
+3
+7
+10
+Sherwin
+2:04
+*
+Emotional Addict collection
+ver.3.7にて登場。同人音楽サークル「Emotional Addict」の楽曲を集めたコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Glim
+2
+5
+8
+Quadxross
+2:47
+150
+Snow thaw
+4
+6
+9
+Yu-dachi
+2:48
+*
+The Last Decision
+3
+7
+8
+Jun Kuroda
+2:45
+200
+Hakoniwa Daybreak
+3
+6
+8
+Shurin × Sound-box
+feat.nayuta
+3:10
+85
+Never Ending Tales
+4
+8
+10
+Capchii
+2:40
+174
+AD:PIANO collection 3
+ver.3.7にて登場。DiverseSystemのアルバム「AD:PIANO VII」、「AD:PIANO VI」、「AD:PIANO　VIVACE」から収録。
+イラスト担当は雪歌草氏
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Abiogenesis
+2
+5
+8
+Juggernaut.
+2:58
+190
+BOOKイラスト曲
+Kaguya
+4
+8
+10
+BlackY
+2:58
+168
+Quimi (DEEMO Edit)
+3
+7
+9
+Yooh
+2:41
+156
+Soaring
+5
+7
+9
+Jerico
+2:57
+144⇔172
+FEHLT -DEEMO edition-
+4
+8
+10
+Alice Schach and the Magic Orchestra
+2:51
+180
+Feryquitous collection #2
+ver.3.8にて登場。Diverse System所属のアーティスト、Feryquitous氏による曲集の第2弾。
+イラスト担当は雪歌草氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Inperfects
+4
+6
+9
+Feryquitous
+2:25
+130
+Chat perdu
+5
+8
+10
+Feryquitous
+2:05
+170
+Beyond that Notes
+3
+5
+8
+Feryquitous
+1:50
+180
+ALiUS
+6
+9
+11
+Feryquitous
+2:41
+165
+BOOKイラスト曲
+Sonitus orationis
+1
+4
+6
+Feryquitous
+2:37
+85
+Cytus II collection Vol.1
+ver.3.8にて登場。Rayark社の音楽ゲーム・Cytus IIからの移植曲によるコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+One Way Love
+3
+5
+7
+Tsukasa
+2:06
+180
+CytusⅡ wikiでの楽曲ページ
+Blossoms for Life
+4
+6
+8
+Shi Kuang Lee
+& Pico
+& A-Tz
+2:27
+120
+BOOKイラスト曲
+CytusⅡ wikiでの楽曲ページ
+Juicy Gossip
+4
+5
+8
+good-cool
+1:58
+190
+CytusⅡ wikiでの楽曲ページ
+Light of Buenos Aires
+3
+7
+9
+Masanori Akita
+2:11
+150
+CytusⅡ wikiでの楽曲ページ
+Chocolate Missile
+5
+8
+10
+Alice Schach
+and
+the Magic Orchestra
+2:52
+175
+CytusⅡ wikiでの楽曲ページ
+Deemo -Reborn- collection
+ver.3.8にて登場。PS4専用ソフト・Deemo -Reborn-からの移植曲によるコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+eterno
+2
+5
+8
+Takashi OKAMOTO(12sound)
+feat.Tsukasa Shiraki
+2:26
+120
+Liar
+3
+5
+7
+Takashi OKAMOTO(12sound)
+2:28
+89
+Blue evenfall
+4
+7
+9
+Freeleaves
+2:38
+*
+Exodus
+4
+8
+9
+iris
+3:01
+140
+Squeaky Mind
+3
+6
+10
+t+pazolite
+2:18
+130
+Autumn selection
+ver.3.9にて登場。秋っぽい曲セレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Reincarnation
+2
+6
+8
+Emocosine
+2:30
+171
+BOOKイラスト曲
+Miocene
+3
+5
+7
+HAGANE
+2:14
+110
+Funeral of Stars
+3
+6
+9
+void (mournfinale)
+2:22
+180
+Attic Dancer
+4
+7
+10
+Chroma
+2:34
+150
+Liquid Labyrinth
+4
+8
+10
+Jerico
+2:23
+172*
+CytusII collection Vol.2
+ver.3.9にて登場。Rayark社の音楽ゲーム・Cytus IIからの移植曲によるコレクション第2弾。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Cristalisia
+3
+6
+8
+onoken
+2:15
+134
+CytusⅡ wikiでの楽曲ページ
+Nidhogg
+4
+7
+9
+Yuma.mizo
+feat. Ai Ohsera
+2:32
+226
+CytusⅡ wikiでの楽曲ページ
+Aya
+5
+9
+11
+misoilepunch
+2:42
+170
+CytusⅡ wikiでの楽曲ページ
+Instinct
+4
+8
+10
+sakuzyo
+2:14
+180
+CytusⅡ wikiでの楽曲ページ
+XYZ
+4
+7
+10
+technoplanet
+2:33
+142-154
+CytusⅡ wikiでの楽曲ページ
+Taishi collection
+ver.3.9にて登場。日本のコンポーザー・河合泰志氏によるコレクション。
+イラスト担当は雪歌草氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Stare at Your Enemies
+3
+6
+8
+Taishi
+2:35
+180
+Little Dissonance
+4
+7
+10
+Taishi
+2:04
+180
+Clematis
+3
+5
+9
+Taishi
+2:20
+150
+The Day It Blooms
+1
+3
+7
+Taishi
+2:06
+160
+Alternative Choice
+2
+4
+7
+Taishi
+2:13
+165
+V (9BOOK 45曲)
+N.M.S.T. collection
+ver.2.0にて登場。台湾のコンポーザー・3R2氏と、同じく台湾のコンポーザーであり、Rayark社員でもあるIce氏のそれぞれの楽曲と、2人の合作名義N.M.S.T.の楽曲によるコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Farewell
+1
+4
+6
+3R2
+2:15
+80
+Winter (Deemo Ver.)
+2
+5
+7
+3R2
+2:43
+134
+BOOKイラスト曲
+Fluffie Partie
+3
+7
+8
+N.M.S.T.
+2:05
+130
+Snowflakes
+3
+6
+9
+N.M.S.T.
+2:06
+174
+kouyou
+3
+7
+10
+Ice
+5:02
+170
+N.M.S.T. collection #2
+ver.3.6にて登場。台湾のコンポーザー・3R2氏と、同じく台湾のコンポーザーであり、Rayark社員でもあるIce氏のそれぞれの楽曲と、2人の合作名義N.M.S.T.の楽曲によるコレクションの第2弾。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Beyond the Altostratus (DEEMO Ver.)
+4
+6
+8
+ice
+3:08
+131
+Cheezie Bountie
+3
+6
+9
+N.M.S.T.
+2:15
+132
+Continuum (DEEMO Ver.)
+2
+6
+9
+3R2
+2:07
+140
+BOOKイラスト曲
+Midnight Alleys
+3
+8
+10
+N.M.S.T.
+2:09
+180
+Fur War, Pur War
+6
+9
+11
+N.M.S.T.
+3:03
+150
+CytusⅡより移植
+Vocal selection
+ver.3.3にて登場。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Aurarobe
+1
+4
+7
+onoken
+feat.Rin
+2:52
+154
+Pharmacy of heart
+2
+3
+5
+white tail box
+ft.riri
+3:01
+169
+Red Storm Sentiment
+2
+5
+8
+Tsukasa
+feat. kalon
+3:20
+68
+BOOKイラスト曲
+Ukakuf Kins
+3
+6
+8
+t+pazolite
+feat. nanahira
+2:25
+182.5
+vandarhythm
+2
+4
+6
+Apo11o program
+ft.Ritsuka
+2:20
+81
+Funkot collection
+ver.3.2にて登場。2000年代にインドネシアのジャカルタで発祥した高速ダンスミュージックジャンル "Funky kota"、略してFunkot(ファンコッタ)をテーマとした曲集。
+イラスト担当はHuangh氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Are You Ready
+3
+8
+10
+Yamajet
+2:00
+188
+Dusk to Dawn
+4
+7
+10
+xi
+2:09
+193
+En ga Chop
+3
+8
+10
+sakuzyo
+2:05
+194.5
+BOOKイラスト曲
+Funky Quest
+4
+6
+9
+3R2
+2:06
+185
+I lost my flp
+4
+7
+10
+jioyi attacked by mirror
+2:00
+193
+Kobayashi  collection
+ver.3.5にて登場。日本のコンポーザー・小林信一もといKobayashi Projectによるコレクション。
+イラストに描かれている半裸ギターネクタイの人物は小林信一本人。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Artemis
+3
+6
+7
+Kobayashi Project feat. Ayano
+2:30
+118
+Elysion
+1
+5
+8
+Kobayashi Project
+2:45
+105
+The beauties of nature
+4
+6
+8
+Kobayashi Project
+2:32
+90
+Don’t go - stay with me forever
+3
+6
+8
+Kobayashi Project feat. Ayano
+2:44
+122
+A song for you
+4
+7
+9
+Kobayashi Project
+2:48
+120
+Team Grimoire collection
+ver.3.3にて登場。日本のコンポーザー・Team Grimoireによるコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Alexithymia
+3
+7
+10
+Team Grimoire
+2:42
+151
+CHAOS MAGNVM
+5
+9
+11
+Team Grimoire
+2:53
+180.5
+BOOKイラスト曲
+Dyslexia
+4
+8
+10
+Team Grimoire
+2:38
+156
+Grimoire of Blue
+4
+7
+9
+Team Grimoire
+2:34
+156
+Librum clausi
+4
+6
+8
+Team Grimoire
+2:49
+185
+Ice collection
+ver.3.2にて登場。台湾のコンポーザー・Iceによるコレクション。
+BOOKイラストの数列は2進数でとある単語を示している。
+#モリモリあつしとxiとice反省して
+曲名
+Easy
+Normal
+Hard
+Extra
+Artist
+TIME
+BPM
+備考
+Determination
+2
+5
+7
+-
+Rayark Sound Team "Ice"
+2:31
+68-75
+10 -ichizero-
+4
+6
+9
+01001100
+Amber Wishes
+4:02
+199
+BOOKイラスト曲
+Pandora's Box
+5
+9
+10
+?
+Ice
+3:30
+*
+RE:UNION -Duo Blade Against-
+6
+8
+10
+El Cid
+Ice vs. Morimori Atsushi
+2:17
+202
+Scherzo -pain in rain-
+5
+8
+10
+Pain
+xi vs Ice
+4:32
+*
+DJMAX collection
+ver.3.6にて登場。リズムゲーム「DJMAX RESPECT」とのコラボレーション
+全曲ピアノ表現を強くするためにDeemo用にアレンジされている。
+イラスト担当はK@I氏。全てに蝶が描かれている。
+曲名
+Easy
+Normal
+Hard
+Artist
+Piano
+TIME
+BPM
+備考
+glory day (DEEMO Arr.)
+3
+6
+8
+BEXTER
+× Mycin.T
+Iris
+2:18
+162
+Far East Princess (DEEMO Arr.)
+2
+5
+8
+nauts
+Ayatsugu_Otowa
+2:15
+102
+OBLIVION (DEEMO Arr.)
+4
+7
+9
+ESTi
+Ayatsugu_Otowa
+2:00
+141
+Heart of Witch (DEEMO Arr.)
+5
+8
+10
+ReX
+Ayatsugu_Otowa
+1:32
+170
+BOOKイラスト曲
+Nightmare (DEEMO Arr.)
+6
+8
+11
+M2U
+Iris
+2:02
+190
+Sdorica collection
+ver.3.6にて登場。Rayark社のゲーム「Sdorica(スドリカ)」からの楽曲によるコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Mirage
+1
+4
+6
+Chamber Chu
+1:25
+*→122
+BOOKイラスト曲
+Blurred Distance
+1
+4
+6
+Chamber Chu
+2:30
+100
+Thief of the Gleaming Star
+4
+6
+8
+Chamber Chu
+1:43
+150
+Show Start!
+3
+6
+9
+Chamber Chu
+2:25
+136
+Fighting Sprit
+5
+7
+10
+Chamber Chu
+2:19
+150
+IV (9BOOK 44曲)
+DS:PIANO collection
+ver.2.4にて登場。インターネットレーベル「Diverse System」によるコレクション。
+イラスト担当は小峱峱氏。
+Diverse System 公式HP
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Eltina
+2
+5
+8
+Feryquitous
+2:29
+110
+Samishigariya no gaisen
+1
+5
+7
+b
+3:02
+73
+Caramel Custard
+3
+7
+9
+xi
+2:06
+146.5
+Noblesse Oblige
+4
+7
+9
+Powerless
+2:20
+120
+Hanomai
+2
+5
+8
+b
+4:06
+140
+AD:PIANO collection
+ver.2.2にて登場。2014年冬に出版されたアルバム「AD:PIANO3」からの抜粋によるコレクション。
+BOOK選択時のイラストは、｢大幣(おおぬさ)｣(お祓いの際に使われる棒)を持ったDeemoと、巫女姿でお札を持った少女が、Long Summerの蚊遣豚にまたがりその豚が爆走するというBOOK名ほったらかしのデザインになっている。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Oceanus
+6
+9
+10
+cosMo@bousou-P
+2:24
+196
+Dedication
+5
+8
+9
+void
+2:26
+170
+Snowscape
+2
+4
+7
+Yuta Murase
+2:14
+130
+White Palette
+2
+4
+7
+tigerlily
+2:34
+81
+Long Summer
+1
+4
+7
+Chroma
+2:41
+120-160
+AD:PIANO collection 2
+ver.3.3にて登場。DiverseSystemのアルバム「AD:PIANO VI」、「AD:PIANO V」から主に収録。
+イラスト担当はＲyｏrｉ★氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Discovored Attack
+3
+7
+9
+BlackY
+2:18
+144
+BOOKイラスト曲
+Monochrome Anomaly
+4
+8
+10
+Feryquitous feat.F9
+2:41
+155.5
+Kyuten Sekai no Shonen
+2
+5
+8
+Yuni Minami
+2:58
+150.5
+Longinus
+6
+8
+11
+xi
+2:50
+212
+Mirage of Mind
+3
+6
+8
+Hamu Vo.F9
+2:57
+161
+M2U × Nicode collection
+ver.2.0にて登場。韓国のコンポーザー・M2U氏と、同じく韓国のコンポーザー・Nicode氏の楽曲によるコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Loadstar
+2
+6
+7
+M2U
+/ Arranger: M2U × Nicode
+2:34
+90
+Lune
+4
+8
+10
+M2U
+/ Arranger: M2U × Nicode
+1:58
+160
+BOOKイラスト曲
+Moon Halo
+3
+6
+8
+M2U
+1:48
+120
+Stellar
+4
+6
+9
+M2U
+/ Arranger: M2U × Nicode
+1:56
+200
+Wicked Fate
+4
+7
+10
+M2U
+1:46
+140
+ver.2.3まではHardLV9だった
+M2U × Nicode collection Vol.2
+ver.3.2にて登場。韓国のコンポーザー・M2U氏と、同じく韓国のコンポーザー・Nicode氏の楽曲によるコレクション
+イラスト担当は雪歌草氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Cradle Waltz
+2
+6
+8
+M2U
+2:26
+*
+Deerstalker
+5
+8
+10
+NICODE
+2:24
+162
+Nyanya no Uta
+4
+8
+10
+NICODE / Vocal: Narae
+2:58
+200
+※Switch版1.5では11に昇格
+Sagashimono
+3
+6
+8
+M2U / Vocal: Soraru
+2:14
+170.5
+Sandglass
+2
+5
+8
+M2U
+2:04
+120.5
+Yoake no Uta
+2
+4
+6
+M2U / Vocal: Dazbee
+2:10
+180.5
+Feryquitous collection
+ver.3.2にて登場。Diverse System所属のアーティスト、Feryquitous氏による曲集。
+イラスト担当はＲyｏrｉ★氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Adaptation Window
+4
+7
+9
+Feryquitous
+2:33
+201
+CydraL
+3
+6
+9
+Feryquitous
+2:20
+140
+Erua
+2
+4
+7
+Feryquitous
+2:26
+90
+Koqurow
+4
+6
+8
+Feryquitous
+2:33
+165.5
+Rhuzerv
+3
+7
+11
+Feryquitous
+feat.Sennzai
+2:18
+191
+BOOKイラスト曲
+ver.3.3でHardがLv10から昇格
+Book of A.
+正式名Book of Alice
+ver.3.4にて追加された。元VITA版限定BOOK。
+下記5曲の内、上4曲のイラストは｢春夏秋冬｣をイメージしたものと思われる(コメント欄より)。
+イラスト担当はK@I氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Daylight
+2
+5
+8
+Tatsh
+2:47
+158
+from RestedPoint
+3
+5
+7
+Tatsh
+2:44
+100
+Rise Up
+2
+6
+8
+Tatsh
+2:47
+158
+Rebellion
+4
+7
+9
+Tatsh
+2:35
+136
+BOOKイラスト曲
+Need Your Luv
+3
+6
+7
+Tatsh
+2:25
+145
+Book of C.
+正式名Book of Celia
+ver.3.4で追加された。元VITA版限定BOOK。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Earlier Than Today
+1
+2
+4
+Eshen
+2:21
+90
+BOOKイラスト曲
+For Sis
+1
+3
+4
+Eshen
+1:34
+136
+Say Hi
+1
+4
+5
+Eshen
+2:12
+66
+Yamajet collection
+ver.3.1にて登場。日本のコンポーザー・Yamajetによるコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Am I delicious
+3
+6
+8
+Yamajet
+feat. Amane(COOL&CREATE)
+& Godspeed
+2:28
+150.5
+Merry go round girl
+2
+5
+8
+Yamajet
+2:24
+216
+Monokuro no kaze
+4
+6
+9
+Yamajet
+feat. TEA
+& Godspeed
+2:29
+188
+Orca
+3
+5
+9
+Yamajet
+2:23
+154.5
+Sincerity
+2
+6
+9
+Yamajet
+2:24
+146
+III (9BOOK 45曲)
+V.K collection
+ver.1.4にて登場。台湾の作曲家・V.Kの楽曲のみを収録したコレクション。
+BOOK選択時のイラストは神殿や森、紙飛行機などBOOK収録曲を総括するようなものになっている。
+イラスト担当はKare Huang氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Atlantis Love
+1
+2
+5
+V.K
+3:00
+138
+Melody Of Elves
+1
+3
+7
+V.K
+2:56
+94→108
+Paper Plane's Adventure
+1
+4
+6
+V.K
+3:00
+120
+Pure White
+4
+8
+10
+V.K
+2:48
+135-160
+Xue Wu
+1
+4
+9
+V.K
+2:54
+69
+Brian Crain collection
+ver.1.5にて登場。アメリカの作曲家・Brian Crain(ブライアン・クレイン)の楽曲のみを収録したコレクション(auスマートパス版ではプレイ不可)。
+イラスト担当はLDT氏。通称:金魚ブック(パック)
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Dream of Dreams
+3
+4
+8
+Brian Crain
+2:59
+119
+Finding Home
+1
+4
+7
+Brian Crain
+2:50
+141
+Imagining
+2
+6
+9
+Brian Crain
+3:00
+97
+BOOKイラスト曲
+Reminiscence
+2
+5
+6
+Brian Crain
+2:58
+33
+Time Forgotten
+4
+6
+8
+Brian Crain
+2:59
+197
+Eshen Chen collection Vol.1 Transmission
+ver.1.5にて登場。台湾の作曲家・E-SHEN CHENの楽曲のみを収録したコレクション。
+このBOOKに収録されている曲のイラストはすべて「女の子と窓の向こうにいるDeemo」という構図で描かれており、BOOK選択時のイラストは窓からこちらを覗くDeemoと、その様子を窺う女の子、というものになっている。
+イラスト担当は台湾のBlaze Wu氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Sea Side Road
+1
+4
+6
+Eshen
+1:51
+123
+Run Away Run
+1
+3
+7
+Eshen
+2:08
+160
+Falling Ears
+1
+4
+7
+Eshen
+1:51
+111
+Flowers Above Your Head
+2
+4
+7
+Eshen
+1:45
+116
+Almost Morning
+1
+4
+5
+Eshen
+1:54
+98
+Rabpit collection
+ver.2.2にて登場。台湾のコンポーザ、Rabpit氏の楽曲のみを収録したコレクション。
+BOOK選択時のイラストには、DeliveryでDeemoが抱きかかえていた球体を覆い被さるように抱く少女と、その後ろからひょっこりと顔を出すDeemoが描かれている。
+ちなみに各楽曲の頭文字を並べると"DEEMO"となる。
+イラスト担当は雪歌草氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Delivery
+2
+5
+9
+Rabpit
+2:16
+93
+ver.2.3まではHardLV8だった
+Encumbrance
+3
+4
+7
+Rabpit
+2:03
+120
+Expansion
+3
+5
+8
+Rabpit
+2:17
+150
+Mellow
+1
+4
+8
+Rabpit
+2:10
+130
+Overlong
+2
+5
+8
+Rabpit
+1:54
+68
+Aioi collection
+ver.2.0にて登場。日本のシンガーソングライター・Aioiこと鎌田純子氏の楽曲によるコレクション。
+イラスト担当はK@I氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+CREAM STEW (Deemo Ver.)
+3
+6
+9
+aioi
+feat. KAMATA JUNKO
+3:23
+103
+I can not say (Deemo Ver.)
+3
+5
+7
+aioi
+feat. KAMATA JUNKO
+2:41
+148
+BOOKイラスト曲
+Image (Deemo Ver.)
+4
+6
+8
+aioi
+feat. KAMATA JUNKO
+2:53
+88
+kireigoto (Deemo Ver.)
+2
+5
+7
+aioi
+feat. KAMATA JUNKO
+3:09
+74
+NEW WORLD (Deemo Ver.)
+4
+6
+8
+aioi feat. KAMATA JUNKO
+2:33
+92
+Cytusよりアレンジされて収録
+Aioi collection vol.2
+ver.3.5にて登場。日本のシンガーソングライター・Aioiこと鎌田純子氏の楽曲によるコレクション、その第2弾。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Everybody Koishiteru (Deemo Ver.)
+3
+5
+7
+aioi
+feat. Mochizuki Yoshie
+2:40
+144
+Hello (Deemo Ver.)
+2
+4
+7
+aioi
+feat. KAMATA JUNKO
+2:55
+100
+Lassi (Deemo Ver.)
+3
+5
+7
+aioi
+feat. KAMATA JUNKO
+2:51
+86
+Platonic Electro (Deemo Ver.)
+4
+6
+8
+aioi
+feat. KAMATA JUNKO
+3:10
+150
+Travelling (Deemo Ver.)
+1
+4
+8
+aioi feat. KAMATA JUNKO
+2:51
+94
+Timeline collection
+ver2.4にて登場。Cytusより、Chapter T(Timeline)の10曲のうち5曲を収録したコレクション。
+(一部はなぞっているが)架空の台湾史を展開している
+Timeline Story[Rayark HP Cytus ページ内の紹介※アーカイブ]
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Penglai Movement
+3
+6
+8
+Video Game Orchestra
+2:09
+157.5
+Cytus Wikiでの楽曲ページ
+Money & Money
+3
+6
+8
+Video Game Orchestra
+2:25
+170
+Cytus Wikiでの楽曲ページ
+Phubbing
+2
+6
+9
+Video Game Orchestra
+2:11
+120
+Cytus Wikiでの楽曲ページ
+Protest
+4
+8
+9
+Video Game Orchestra
+2:19
+144
+Cytus Wikiでの楽曲ページ
+A New Home
+1
+5
+7
+Video Game Orchestra
+2:16
+185
+Cytus Wikiでの楽曲ページ
+Sakuzyo collection
+ver.2.3にて登場。BMS界隈などで広く活躍をしている作曲者、Sakuzyo(削除)氏の楽曲のみを収録したコレクション。
+BOOK選択時のイラストには、Rondo for 97Keysの衣装に身を包んだ少女が、impのイラストにも登場している猫を抱きかかえている様子が描かれている。
+イラスト担当は雪歌草氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+AngelFalse
+3
+8
+10
+Sakuzyo
+2:49
+173
+imp
+4
+6
+9
+Sakuzyo
+2:09
+90
+MagiCatz
+4
+9
+11
+Sakuzyo
+2:28
+135-145
+ver.3.3でHardがLv10から昇格
+Poem of Rapture
+5
+8
+10
+Sakuzyo
+2:50
+*
+Rondo for 97Keys
+4
+8
+9
+Sakuzyo
+5:00
+ca.157
+Cranky collection
+ver.3.1にて登場。Cranky、VILAによるコレクション。
+イラスト担当はHuangh氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Rain of Flowers
+1
+3
+5
+VILA
+2:52
+108
+The Bisque Doll and 14 Bunnies
+4
+6
+8
+VILA
+2:41
+170
+Another Katharsis
+2
+7
+9
+VILA
+3:21
+*
+Eternity
+3
+6
+8
+Cranky
+3:56
+*
+Conflict (VILA Remix)
+5
+7
+10
+siromaru + cranky
+3:12
+160
+II (9BOOK 45曲)
+MILI collection
+ver.1.4にて登場。音楽グループ・MILIの楽曲のみを収録したコレクション。
+イラスト担当は台湾のBlaze Wu氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Fable
+2
+7
+9
+Mili
+2:18
+146
+Past the Stargazing Season
+1
+4
+6
+H△G Remixed by Mili
+2:49
+71
+Ephemeral
+2
+5
+7
+Mili
+2:08
+80
+Rosetta
+1
+5
+8
+Mili
+3:01
+138
+Witch's Invitation
+3
+6
+8
+Mili
+2:40
+132
+MILI collection Vol.2
+ver.2.1にて登場。音楽グループ・MILIの楽曲のみを収録したコレクションの第二弾。
+イラスト担当は台湾のBlaze Wu氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+A Turtle's Heart
+2
+6
+8
+Mili
+2:44
+148
+Cerebrite
+4
+7
+9
+Mili
+2:41
+148
+Imagined Flight
+3
+6
+9
+Mili
+2:54
+116
+Space Colony
+2
+6
+9
+Mili
+2:45
+230
+BOOKイラスト曲
+Cytusよりアレンジされて収録
+UFO
+3
+5
+8
+Mili
+2:51
+120
+MILI collection Vol.3
+ver.3.1にて登場。音楽グループ・MILIの楽曲のみを収録したコレクションの第三弾。
+イラスト担当は台湾のBlaze Wu氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Bathtub Mermaid
+3
+7
+9
+Mili
+2:03
+79
+DK
+3
+5
+8
+Mili
+2:27
+142
+Ga1ahad and Scientific Witchery
+5
+8
+10
+Mili
+2:58
+166
+Ikutoshitsuki
+3
+6
+8
+Mili
+2:20
+87
+Milk
+3
+7
+9
+Mili
+3:13
+132
+Knight Iris collection
+ver.1.5にて登場。Cytusより、Chapter K(Knight)からの移植曲によるコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+The Way We Were
+3
+5
+8
+NICODE
+2:08
+140
+Cytus wiki*での楽曲ページ
+ver.2.3まではHardLV9だった
+The Sanctuary
+3
+7
+8
+Eye AC
+2:11
+160
+Cytus wiki*での楽曲ページ
+ver.2.3まではHardLV9だった
+The Red Coronation
+3
+7
+9
+Eye RH
+2:37
+154
+Cytus wiki*での楽曲ページ
+Forbidden Codex
+4
+6
+9
+Hoskey
+2:23
+176
+Cytus wiki*での楽曲ページ
+ver.2.3まではHardLV10だった
+Knight Of Firmament
+2
+6
+8
+Eye XY
+feat.Yoneko
+2:19
+155
+BOOKイラスト曲
+Cytus wiki*での楽曲ページ
+Knight Rosabell collection
+ver.2.0にて登場。CytusのChapter K(Knight)からの移植曲によるコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Lord Of Crimson Rose
+2
+5
+7
+Eye DT
+feat. Searlait
+2:30
+125
+BOOKイラスト曲
+Cytus wiki*での楽曲ページ
+Predawn
+4
+7
+9
+Nicode & M2U
+2:15
+140
+Cytus wiki*での楽曲ページ
+The Fallen Bloom
+1
+4
+7
+Hoskey
+2:40
+160
+Cytus wiki*での楽曲ページ
+Where You Are Not
+3
+7
+9
+Nicode
+2:17
+180
+Cytus wiki*での楽曲ページ
+Music
+2
+6
+9
+Mai Aoyagi
+3:00
+102
+Cytus wiki*での楽曲ページ
+ver.2.3まではHardLV8だった
+Cytus selection Vol.1
+ver.1.5にて登場。Rayark社の音楽ゲーム・Cytusからの移植曲によるコレクション。
+イラスト担当はPUNEW氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+DRG
+2
+5
+8
+Ani
+2:00
+155
+BOOKイラスト曲
+auスマートパス版、Amazon版ではプレイ不可
+Cytus wiki*での楽曲ページ
+Libera me
+3
+8
+10
+Cranky
+2:22
+165
+Cytus wiki*での楽曲ページ
+Precipitation
+4
+7
+9
+Ice
+3:39
+167
+Cytus wiki*での楽曲ページ
+Sacred
+2
+5
+7
+Rabpit
+2:04
+150
+Cytus wiki*での楽曲ページ
+The Black Case
+2
+4
+7
+KillerBlood
+1:40
+155
+Cytus wiki*での楽曲ページ
+Cytus selection Vol.2
+ver.1.5にて登場。Cytusからの移植曲によるコレクションの第二弾。
+イラスト担当はPUNEW氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Future World
+3
+6
+8
+Killerblood
+2:25
+120
+BOOKイラスト曲
+Cytus wiki*での楽曲ページ
+Holy Knight
+2
+5
+7
+Eyemedia
+2:16
+155
+Cytus wiki*での楽曲ページ
+Niflheimr
+2
+6
+9
+xi
+2:27
+180
+Cytus wiki*での楽曲ページ
+Parousia
+4
+8
+10
+xi
+2:11
+158
+Cytus wiki*での楽曲ページ
+Recollections
+4
+6
+8
+Yamajet
+2:22
+120
+Cytus wiki*での楽曲ページ
+L: The Lower collection
+ver.2.3にて登場。Cytusより、Chapter Lからの移植曲によるコレクション。
+L5: Lapse を除く4曲は移植に伴い一部のみ抜粋による収録となっている。
+曲名はCytusでの別名の方に準じている。備考のリンクは全て表譜面。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+L1: Loneliness
+4
+8
+10
+Ice
+3:36
+77.5
+Cytus wiki*での楽曲ページ
+L2: Liberation
+3
+6
+9
+Ice
+3:33
+68
+BOOKイラスト曲
+Cytus wiki*での楽曲ページ
+L3: Leverage
+4
+8
+10
+Ice
+2:57
+63.5
+Cytus wiki*での楽曲ページ
+L4: Latent
+2
+5
+7
+Ice
+2:09
+72
+Cytus wiki*での楽曲ページ
+L5: Lapse
+3
+7
+10
+Ice
+4:41
+75
+Cytus wiki*での楽曲ページ
+L: The Upper collection
+ver.2.3にて登場。Cytusより、Chapter Lからの移植曲によるコレクション。
+L10: Largoを除く4曲は移植に伴い一部のみ抜粋による収録となっている。
+曲名はCytusでの別名の方に準じている。備考のリンクは全て表譜面。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+L6: Lunatic
+4
+7
+9
+Ice
+3:27
+72
+Cytus wiki*での楽曲ページ
+L7: Legion
+5
+8
+10
+Ice
+3:11
+72
+Cytus wiki*での楽曲ページ
+L8: Lost
+4
+7
+9
+Ice
+2:18
+72
+Cytus wiki*での楽曲ページ
+L9: Lament
+3
+8
+9
+Ice
+4:03
+72
+Cytus wiki*での楽曲ページ
+L10: Largo
+3
+6
+9
+Ice
+5:02
+60
+BOOKイラスト曲
+Cytus wiki*での楽曲ページ
+I (9BOOK 46曲)
+Rayark selection Vol.1
+ver1.0から存在する、Deemoの開発元であるRayark社がセレクトした楽曲を収録したコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Metal Hypnotized
+1
+6
+6
+EARTHBOUND PAPAS
+2:23
+108
+BOOKイラスト曲
+Rainy Memory
+1
+2
+5
+Rabpit
+2:10
+135
+Peach Lady
+2
+5
+9
+Yuk-cheung Chun Trevor Lin
+feat. Silvia Su
+2:20
+167
+Hey Boy
+2
+5
+7
+Jerry Barnes
+Katreese Barnes
+Rodger Green
+2:56
+107
+Reborn未実装
+Pilot
+2
+4
+8
+Rabpit
+2:08
+133
+ver.2.3まではHardLV9だった
+vivere la vita
+1
+4
+7
+Sta
+2:02
+225
+ver.1.4追加曲
+Rayark selection Vol.2
+ver1.0から存在する、Rayark社がセレクトした楽曲を収録したコレクションの第二弾。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Friction
+2
+5
+8
+HAMO from Mili
+2:40
+130
+BOOKイラスト曲
+I race the dawn
+1
+2
+7
+Kevin Penkin
+feat. Michiyo Honda
+2:31
+162
+Moon without the stars
+1
+2
+6
+Jerry Barnes Quiana
+3:33
+122
+Sanctity
+2
+3
+8
+Rabpit
+2:20
+164
+Cytusよりアレンジされ収録
+ver.2.3まではHardLV9だった
+Hua Sui Yue
+2
+4
+7
+V.K
+2:29
+148
+Rayark selection Vol.3
+ver.1.5にて登場。Rayark社がセレクトした楽曲を収録したコレクションの第三弾。
+イラスト担当はLDT氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Little Corgi's Dream
+3
+6
+8
+KillerBlood
+2:13
+216
+BOOKイラスト曲
+Morning Drops
+2
+4
+8
+KIVA
+2:54
+73
+The Letter
+2
+5
+7
+KIVA
+3:20
+153
+The Truth That You Leave
+1
+4
+6
+Pianoboy
+2:13
+127
+Veritas
+2
+7
+9
+Presti
+2:38
+175
+RAC collection #1
+ver.2.3にて登場。Rayarkにて行われた楽曲コンペ(Rayark Artist Collaboration)で採用された楽曲を収録したコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+AciculignosA
+4
+7
+9
+Kaneko Chiharu
+2:01
+148
+blooming spring
+4
+6
+8
+Go raibh maith agat
+Orchestra
+2:29
+123
+Lifill
+3
+5
+7
+Feryquitous
+feat. Sennzai
+2:22
+185
+BOOKイラスト曲
+ver.2.3ではアーティスト名がFeryquitousだった
+Toys Etude
+5
+8
+10
+soyomogi
+2:30
+178
+Re: the Full moon World.
+4
+7
+9
+Ayatsugu Otowa
+2:18
+86.5
+RAC collection #2
+ver.2.3にて登場。Rayarkにて行われた楽曲コンペ(Rayark Artist Collaboration)で採用された楽曲を収録したコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Alice in Secret Circus
+3
+6
+9
+Kaname Shigeyoshi
+2:06
+211
+ver.2.3ではHardLV8だった
+Anticipation
+3
+6
+9
+Shi Kuang Lee
+2:19
+115
+ver.2.3ではアーティスト名がTimothy (Shi Kuang Lee)だった
+Graduation Song
+1
+4
+6
+Kitkit Lu
+2:39
+122
+LILI
+4
+7
+10
+Rigel Theatre
+2:12
+91
+Sprout
+2
+4
+6
+HALLPBESTUDIO
+2:11
+80
+BOOKイラスト曲
+RAC collection #3
+ver.2.4にて登場。Rayarkにて行われた楽曲コンペ(Rayark Artist Collaboration)で採用された楽曲を収録したコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Level Zero
+1
+5
+8
+I.O
+1:45
+160⇔230
+PUPA
+6
+8
+10
+Morimori Atsushi
+2:09
+202
+BOOKイラスト曲
+Ragnarok
+6
+8
+10
+FIG
+1:57
+188
+To next page
+3
+5
+8
+kamome sano
+2:32
+176
+Memory of Skyblue
+2
+6
+8
+Ujico*
+2:33
+186
+RAC collection #4
+ver.2.4にて登場。Rayarkにて行われた楽曲コンペ(Rayark Artist Collaboration)で採用された楽曲を収録したコレクション。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Butterfly
+3
+4
+6
+Shi Kuang Lee
+& Pico
+2:23
+160
+DIARY
+2
+4
+7
+Xiaoming
+2:31
+91
+Fis-sure
+2
+4
+6
+Triodust
+2:34
+77
+Wish upon a shooting star
+2
+5
+8
+SUi
+2:30
+128
+BOOKイラスト曲
+They seem like blossoms yet ...
+1
+4
+7
+Air Carrier
+2:21
+110
+RAC collection #5
+ver.2.4にて登場。Rayarkにて行われた楽曲コンペ(Rayark Artist Collaboration)で採用された楽曲を収録したコレクション。
+イラスト担当はAubergiene Chen氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Yoake o matsu kimi no uta
+3
+6
+9
+TAKU1175
+2:02
+181
+Final Rush
+4
+7
+9
+ReZister
+2:15
+182
+Like Asian Spirit
+5
+8
+9
+Valunava
+2:09
+143
+Paraline
+3
+6
+8
+Yuta Murase
+2:32
+133
+Scherzo
+2
+7
+7
+gondayu
+2:39
+181
+RAC collection #6
+ver.3.1にて登場。Rayarkにて行われた楽曲コンペ(Rayark Artist Collaboration)で採用された楽曲を収録したコレクション。
+イラスト担当はHuangh/晃氏。
+曲名
+Easy
+Normal
+Hard
+Artist
+TIME
+BPM
+備考
+Ancient Rose
+1
+5
+7
+SUU
+2:16
+160
+Carnation
+1
+5
+8
+himmel
+1:58
+118
+Delusion (Yume-Maboroshi)
+4
+8
+10
+NIKITA
+2:06
+180
+BOOKイラスト曲
+Frozen Emotion
+2
+7
+9
+XEN
+2:31
+160
+Scent
+2
+5
+7
+farhan
+2:25
+170
+Menu
+Top
+ストーリー
+ルール
+Q＆A
+■曲名リスト
+Book別
+レベル別
+アーティスト別
+■ゲーム関連
+高レベル非公式難易度
+「木」の成長
+遅延調整報告(Android版)
+遅延調整報告(iOS版)
+「忘れ去られた砂時計」における新楽曲と木の成長
+■VITA版
+製品情報
+スマホ版との相違点
+VITA版追加曲一覧
+アフターストーリー
+■Switch版
+Nintendo Switch版について
+■その他
+テンプレ
+(ネタバレ)考察・予想
+スコアシェア台詞
+ロング曲一覧
+人気投票
+雑談・質問
+SandBox
+編集報告・編集議論
+〔人気/今日人気〕〔最新〕
+掲示板 最新10件
+〔掲示板メインページ〕
+T.?　Y.?
+NOW.?　TOTAL.?
+〔MENU編集〕
+管理人 contact:@deemowikiJP　編集規制情報もこっちに載っけてます
+レンタルWIKI by WIKIWIKI.jp* /
+Designed by Olivia /
+広告について /
+無料レンタル掲示板 zawazawa

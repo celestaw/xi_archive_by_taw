@@ -1,0 +1,101 @@
+$(window).on('load', function(){
+$.ajax({
+url:"/master-data/json/music/index.json", // 通信先のURL
+type:"GET",        // 使用するHTTPメソッド
+dataType:"json", // 応答のデータの種類
+// (xml/html/script/json/jsonp/text)
+timespan:1000,       // 通信のタイムアウトの設定(ミリ秒)
+success: function(json){
+var all_contents = json.musics
+for( var i = 0; i < all_contents.length; i++ ){
+$(".recording-list").append("\
+\
+"+ all_contents[i].title +"
+\
+\
+作詞\
+"+ all_contents[i].lyricist +"\
+\
+作曲\
+"+ all_contents[i].composer +"\
+※バーチャル・シンガーVer.あり
+\
+\
+");
+}
+}
+})
+$.ajax({
+url:"/master-data/json/music/theme_index.json", // 通信先のURL
+type:"GET",        // 使用するHTTPメソッド
+dataType:"json", // 応答のデータの種類
+// (xml/html/script/json/jsonp/text)
+timespan:1000,       // 通信のタイムアウトの設定(ミリ秒)
+success: function(json){
+var theme_contents = json.themeMusics
+for( var i = 0; i < theme_contents.length; i++ ){
+$(".song-list"+".theme").append("\
+\
+\
+"+theme_contents[i].title+"
+\
+\
+"+theme_contents[i].creatorName+"\
+\
+\
+\
+\
+\
+\
+");
+}
+}
+})
+$.ajax({
+url:"/master-data/json/music/unit_index.json", // 通信先のURL
+type:"GET",        // 使用するHTTPメソッド
+dataType:"json", // 応答のデータの種類
+// (xml/html/script/json/jsonp/text)
+timespan:1000,       // 通信のタイムアウトの設定(ミリ秒)
+success: function(json){
+var unit_contents = json.unitMusics
+for( var i = 0; i < unit_contents.length; i++ ){
+$(".song-list"+".unit").append("\
+\
+\
+"+unit_contents[i].title+"
+\
+\
+"+unit_contents[i].creatorName+"\
+\
+\
+\
+\
+\
+\
+");
+}
+}
+})
+})
+$(document).ajaxComplete(function() {
+// DOMがAjaxで構築された後にmagnificPopupを実行する
+$(".js-modal-ajax").magnificPopup({
+type: "ajax",
+mainClass: "mfp-fade",
+removalDelay: 200,
+preloader: !1,
+closeMarkup:
+'',
+callbacks: {
+elementParse: function (item) {
+var popupaArea = document.getElementsByClassName("mfp-content");
+// popupaArea[0].setAttribute("id",item.el.attr("data-id"));
+history.pushState(null, null, "/music/index.html?id="+item.el.attr("data-id"));
+},
+close: function () {
+history.pushState(null, null, "/music/index.html");
+},
+}
+});
+});

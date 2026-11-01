@@ -1,0 +1,1860 @@
+SEVEN's CODE/公式音源 - MapWiki
+SEVEN's CODE/公式音源
+Top/SEVEN's CODE/公式音源
+[ トップ ]
+[
+編集 |
+凍結解除 |
+差分 	| バックアップ  	| 添付  | リロード ]
+[
+新規 |
+一覧  | 検索 | 最終更新 | ヘルプ   ]
+SEVEN's CODE Contents  †
+SEVEN's CODE (更新期間: 2019/10/21～2020/10/21) ※サービスは2022/6/30まで継続
+基本システム（スコアリング検証）
+収録曲リスト（レベル順 /  楽曲クレジット）/ ミッション / 称号
+ストーリー（フリープレイ譜面未収録曲）/ チャレンジ / キャラクター（誕生日 / 強化アイテム）
+バージョン履歴 / イベント履歴など（限定ミッション）
+楽曲ジャケット / 楽曲ライナーノーツ / アプリ内ヘルプ（ノート種類解説）/ ターミナル
+配信前情報 / インターネット放送 / 応援イラスト
+Wiki元データ（@ Office Online）
+SEVEN's CODE ZERO（スピンオフボイスドラマシリーズ）
+SEVEN's CODE ZERO（Radio Weiß）
+楽曲音源情報
+公式音源 / 音源購入情報（外部まとめ） / サブスクサービスまとめ（参考ページ）
+その他
+ターミナル（隠しコード） → SEVEN's CODE @ ウィキ
+Table of Contents
+公式音源
+SEVEN's CODE Unlimited Collection BGM
+公式MV
+酒池肉林 / おもしろ三国志
+公式CD
+SEVEN's CODE -Special Music Collection-
+SEVEN's CODE ZEROについては、Webラジオもまとめる意図から独立ページに切ります → SEVEN's CODE ZERO
+このページは、基本的には公式名義で音源配信（もしくは販売）する取り組みをまとめることを目的としています
+非公式を含めた音源情報一般（およびその入手方法）をお求めの方には、外部にある音源購入情報のほうをおすすめします
+公式音源  †
+YouTubeの公式チャンネルおよび音楽配信サービスにて、UNLIMITED STUDiO および Felion Inc. の公式名義で配信されている音源の情報を公開日とともにまとめています
+一般販売されているボイスドラマシリーズ「SEVEN's CODE ZERO」（6作リリース）への収録状況もあわせて扱います
+第三者（作者自身も含む）によるものはすべて無視します
+YouTubeへ投稿されなかった他社IPの音源を除き、基本的に外部提供曲（いわゆる版権曲）かどうかを区別しません
+時間表記が 赤字 のものはYouTube公開音源よりも20%以上尺が長くなっている（いわゆるロング尺とみなせる）音源です
+投稿し直しや、非公開の時期があったものもあるため、実際の公開日と一致させていない場合があります
+音楽配信欄のリンクはBIG UP!で管理されている楽曲ページへそれぞれ張っています
+各ページには実際に配信されているサービスの一覧が掲載されています（サービスによっては音源への個別リンクもあり）
+公開後になくなってしまったページへのリンクは外してあります。ページがなくなった該当曲は後に配信そのものも停止されました
+音楽配信欄の日付はSpotifyから取得した情報をあてはめています。実際に最初に聴くことができた日とは異なる場合があります
+買い切り型での提供もあるため、公式でなされた「サブスクリプション配信」の表現を意識的に扱わないようにしています
+Felion Inc.名義の HALZiNA Weiß 曲は BIG UP!経由の配信ではないので、配信日のみ記載
+#
+タイトル
+アーティスト
+YouTube
+音楽配信
+SC ZERO
+ショート
+ロング
+公開日
+時間
+配信日
+時間
+配信日
+時間
+収録作
+時間
+1
+キミと見た夢
+HALZiNA
+2019/10/24
+2:32
+2020/10/28
+2:31
+2021/01/06
+4:32
+2
+TΗΞ ƧΞVΞИƧ Ͻ∅DΞ
+Feryquitous
+2019/10/24
+2:15
+2020/10/28
+2:14
+Vol.1
+2:17
+3
+迷夢ジェラシー
+すこっぷ feat. 長原つぐみ
+2019/10/24
+1:50
+2020/10/28
+1:48
+2021/01/06
+3:25
+Vol.2
+1:55
+4
+Tie
+おとめ
+2019/11/12
+2:10
+2020/10/28
+2:08
+2021/01/22
+3:58
+Vol.2
+2:15
+5
+Miss You
+RiraN
+2019/11/12
+2:11
+2020/10/28
+2:09
+6
+The Symphony No.9, Op.125
+Classic Remix
+2019/11/13
+2:02
+2020/10/28
+2:00
+2021/01/06
+3:55
+Vol.4
+2:04
+7
+where are u now
+yumiyacchi
+2019/11/12
+2:36
+2020/10/28
+2:34
+Vol.3
+2:40
+8
+Chord Fragments
+siqlo
+2019/11/12
+2:29
+2020/10/28
+2:29
+Vol.5
+2:34
+9
+dissolve in water
+gaburyu feat. 星宮とと
+2019/10/24
+2:11
+2020/10/28
+2:10
+2021/01/22
+4:02
+Vol.5
+2:12
+10
+SEVEN ～漆戒～
+NAOKI feat. 小坂りゆ
+2019/10/24
+2:09
+2020/11/03
+2:08
+2021/01/06
+4:03
+Vol.1
+2:10
+11
+HiT! HiT! HiT!
+Cranky vs HiTECH NINJA
+2019/11/12
+2:09
+2020/10/28
+2:08
+12
+Big Foot
+Yooh
+2019/11/12
+2:10
+2020/10/28
+2:09
+2021/01/06
+3:58
+Vol.5
+2:13
+13
+Ceyx
+xi
+2019/11/12
+2:14
+2020/10/28
+2:13
+Vol.1
+2:15
+14
+Activate
+Polyphonix
+2019/11/12
+2:29
+2020/10/28
+2:28
+15
+Front line
+カヒーナムジカ
+2019/11/15
+2:34
+2020/10/28
+2:33
+16
+掌の虚無
+Mug
+2019/11/12
+2:32
+2020/10/28
+2:31
+Vol.1
+2:35
+17
+This Is A Conversation
+Itaq feat. 箕輪★狂介
+2019/10/24
+2:15
+2020/10/28
+2:14
+2021/01/15
+3:47
+Vol.6
+2:18
+18
+The End Of The World
+GRATEC MOUR グラテックムール
+2019/11/12
+1:54
+2020/10/28
+1:53
+2021/01/06
+3:48
+Vol.1
+1:58
+19
+Turkish March
+Classic Remix
+2019/11/12
+1:55
+2020/10/28
+1:53
+2021/01/06
+4:32
+Vol.6
+1:58
+20
+Minute Waltz
+Classic Remix
+2019/11/15
+2:03
+2020/10/28
+2:01
+2021/01/06
+4:57
+21
+End of desire
+HiTECH NINJA
+2019/11/12
+2:02
+2020/10/28
+2:00
+2021/01/06
+4:45
+Vol.3
+2:06
+22
+Live For Real
+Nakura feat. Arben Berisha
+2019/11/12
+2:22
+2020/10/28
+2:21
+23
+STARBURST
+sylcmyk
+2019/11/12
+2:23
+2020/10/28
+2:22
+24
+Pomp and Circumstance
+Classic Remix
+2019/11/15
+2:02
+2020/10/28
+2:00
+2021/01/06
+4:59
+Vol.1
+2:04
+25
+William Tell Overture
+Classic Remix
+2019/11/15
+1:53
+2020/10/28
+1:52
+2021/01/06
+5:07
+26
+Turandot
+Classic Remix
+2019/11/15
+1:45
+2021/01/06
+1:43
+Vol.1
+1:49
+27
+EMERALD JEALOUSY
+RearDawn
+2019/11/12
+2:30
+2020/12/18
+2:29
+28
+year of the wanter
+hell orbs
+2019/11/12
+2:22
+2020/12/18
+2:21
+Vol.3
+2:25
+29
+Pillar of Fire
+Iris
+2019/11/12
+2:27
+2021/01/15
+2:26
+Vol.3
+2:28
+30
+Be Born
+Maozon
+2019/11/12
+2:02
+2020/12/18
+2:01
+2021/01/06
+3:27
+Vol.4
+2:06
+31
+BurningMan
+Zpinkpong
+2019/11/12
+2:08
+2020/12/18
+2:06
+2021/01/06
+3:30
+Vol.1
+2:11
+32
+シンコペーション
+Yamajet
+2019/11/12
+2:18
+2020/12/18
+2:16
+Vol.2
+2:21
+33
+Transparent ZERO
+Cranky feat. Risa Yuzuki
+2019/11/12
+2:49
+2021/01/05
+2:47
+2021/01/06
+3:59
+Vol.2
+2:49
+34
+Secret Heaven
+Tatsh†RayZY
+2019/11/12
+2:09
+2020/12/18
+2:08
+Vol.1
+2:10
+35
+アンリ アルタ
+sasakure.UK feat. Q.i
+2019/10/24
+2:41
+2020/12/18
+2:40
+Vol.1
+2:39
+36
+More and moRe
+onoken
+2019/11/12
+2:20
+2020/12/18
+2:18
+Vol.2
+2:20
+37
+B.S.G.S.
+sooogood!
+2019/11/15
+2:23
+2020/12/18
+2:22
+38
+Furious judgement
+K Masera feat. yuusa
+2019/11/12
+1:48
+2020/12/19
+1:46
+Vol.2
+1:51
+39
+Sanctify 2.0
+Alkome
+2019/11/12
+2:19
+2020/12/19
+2:17
+2021/01/22
+4:37
+40
+Animus
+Ashrount
+2019/11/12
+2:25
+2020/12/18
+2:23
+2021/01/22
+5:45
+Vol.1
+2:26
+41
+Ничто
+Frums
+2019/11/12
+2:31
+2020/12/19
+2:30
+Vol.5
+2:35
+42
+じゃっじゃっじゃじゃーーーん!
+karato feat. みるの
+2019/11/12
+2:15
+2020/12/19
+2:14
+43
+TESSER4C7 D1V3R
+nmk
+2019/11/12
+2:05
+2020/12/19
+2:04
+2021/01/22
+3:58
+Vol.3
+2:08
+44
+7thPod
+ルゼ
+2019/11/12
+2:35
+2020/12/19
+2:33
+45
+PERMISSION DENIED 700
+ねこみりん feat. 小宮真央
+2019/11/12
+2:19
+2020/12/19
+2:18
+2021/01/22
+4:07
+Vol.3
+2:18
+46
+嫉妬、あるいは衝動に彷徨う者
+ラムシーニ
+2019/11/12
+2:28
+2020/12/19
+2:27
+2021/01/22
+3:58
+47
+Viologic
+polaritia
+2019/11/12
+2:23
+2020/12/19
+2:22
+2021/01/22
+6:17
+Vol.4
+2:25
+48
+鎧兜鎖血
+THE冠
+2019/11/15
+2:28
+49
+Red Parade
+片霧烈火
+2019/11/12
+2:30
+50
+Vital Signs
+MOSAIC.WAV
+2019/11/12
+2:22
+2020/12/19
+2:21
+51
+conflict
+siromaru + cranky
+2019/11/15
+2:33
+2020/12/19
+2:32
+52
+IMPURE
+callasoiled
+2019/11/15
+2:08
+2020/12/19
+2:05
+Vol.1
+2:09
+53
+Solomon's Seal
+Iris feat. LynH
+2019/11/15
+2:25
+2020/12/19
+2:23
+Vol.1
+2:27
+54
+Spit
+SHiNNOSUKE (ROOKiEZ is PUNK'D)
+2019/11/15
+2:15
+2020/12/19
+2:13
+2021/01/06
+3:29
+Vol.6
+2:17
+55
+Amazing Grace
+Classic Remix
+2020/02/07
+2:03
+2020/12/19
+2:02
+2021/01/06
+4:26
+Vol.1
+2:06
+56
+Somewhere
+Luby Sparks
+2020/02/07
+2:33
+57
+Invention No.13, BWV.784
+Classic Remix
+2020/02/07
+1:58
+2020/12/19
+1:57
+2021/01/06
+4:07
+Vol.1
+2:01
+58
+激情
+colorless
+2020/02/07
+2:21
+2020/12/19
+2:20
+Vol.2
+2:25
+59
+REDRAVE
+Tatsh & NAOKI feat. Kent Alexander
+2020/02/07
+2:31
+60
+Halcyon (SEVEN's CODE ver.)
+xi feat. Cranky
+2020/02/07
+2:40
+2020/12/19
+2:38
+61
+Don't Touch Me There
+CYLON
+2019/12/06
+2:09
+2020/12/19
+2:07
+2021/01/06
+4:57
+Vol.5
+2:11
+62
+救済 “salvation”
+TORIENA
+2019/12/06
+2:16
+2020/12/19
+2:14
+Vol.3
+2:16
+63
+KERBEROX
+BlackYooh vs. siromaru
+2019/12/06
+2:32
+2020/12/19
+2:30
+64
+ダンスロボットダンス
+ナユタン星人
+(他社IP)
+(2:32)
+65
+グラーヴェ
+niki
+(2:11)
+66
+キレキャリオン
+ポリスピカデリー
+(2:24)
+67
+バイオレンストリガー
+八王子P
+(2:22)
+68
+L'Inverno
+Classic Remix
+2019/12/20
+1:58
+2020/12/19
+1:56
+2021/01/06
+4:26
+Vol.6
+2:01
+69
+Swan Lake
+Classic Remix
+2019/12/20
+1:43
+2021/01/15
+1:42
+2021/01/06
+4:24
+Vol.2
+1:48
+70
+破壊オルトリズム
+ゆうゆ feat. 薊零
+2019/12/20
+2:03
+2021/01/06
+2:01
+2021/01/06
+3:46
+Vol.4
+2:05
+71
+12
+NAOKI feat. 小坂りゆ
+2019/12/20
+2:34
+2021/01/06
+2:33
+Vol.5
+2:31
+72
+Adventkranz
+VILA
+2020/02/07
+2:29
+2021/01/06
+2:27
+73
+Mind (SEVEN's CODE Ver.)
+mouse on the keys
+2020/01/06
+2:03
+74
+Beginning
+Nothing's Carved In Stone
+2020/01/06
+2:32
+75
+TRUE CODE
+nmk feat. 橘花音
+2020/02/12
+2:08
+2021/01/06
+2:08
+2021/01/22
+4:51
+76
+See No Evil
+yumiyacchi
+2020/02/12
+2:12
+2021/01/06
+2:11
+Vol.2
+2:17
+77
+Party 4U
+Cranky
+2020/02/12
+1:46
+2021/01/06
+1:45
+78
+天使病の少年
+テヅカ
+2020/02/12
+2:39
+2021/01/06
+2:38
+Vol.3
+2:42
+79
+Libera me
+Cranky
+2020/02/07
+2:16
+2021/01/06
+2:22
+80
+INSPION
+サウンド制作スタジオ「INSPION」社歌
+2020/02/07
+2:40
+81
+hacking
+ルゼ
+2020/02/07
+2:12
+2021/01/06
+2:11
+Vol.2
+2:18
+82
+Crimsonate
+BlackY feat. Risa Yuzuki
+2020/04/28
+1:58
+83
+AMATERAS SYSTEM -the fifth force-
+Morrigan feat. Noriko Mitose and Lily
+2020/02/07
+2:19
+84
+Brain Power
+NOMA
+2020/02/07
+1:57
+85
+SUPER FURY
+REDALiCE
+2020/02/07
+2:20
+2021/01/06
+2:18
+Vol.2
+2:21
+86
+MAX SBY -428-
+Ωr
+2020/04/28
+1:52
+2021/01/06
+1:51
+87
+Unfailing love
+おとめ
+2020/04/27
+2:20
+2021/01/06
+2:19
+2021/01/22
+3:08
+Vol.3
+2:21
+88
+Cross†Destiny
+HyuN
+2020/04/27
+2:05
+2021/01/06
+2:04
+89
+Loop The World
+K (ex.uchuu)
+2020/04/27
+2:25
+90
+Body (SEVEN's CODE Ver.)
+mouse on the keys
+2020/04/27
+2:17
+91
+嫉妬、あるいは衝動に彷徨う者 BOSS REMIX
+ラムシーニ
+2020/04/27
+2:10
+2021/01/06
+2:09
+Vol.2
+2:14
+92
+Eat'em All
+t+pazolite feat. はるの
+2020/04/27
+2:04
+2021/01/06
+2:03
+Vol.5
+2:07
+93
+Fuga G-moll BWV.578
+Classic Remix
+2020/04/27
+1:35
+2021/01/06
+1:34
+2021/01/06
+4:17
+Vol.3
+1:39
+94
+noonday devil
+dendy crew
+2020/04/27
+1:42
+2021/01/06
+1:42
+Vol.3
+1:45
+95
+SAKURA
+Classic Remix
+2020/04/28
+1:53
+2021/01/15
+1:52
+2021/01/06
+4:12
+96
+ななナナ七転び ∞ Get up!!
+ふぃるまーち! Produced by dawn-system
+2020/04/28
+2:38
+2021/02/05
+2:37
+97
+Slapstick Parfait
+t+pazolite
+2020/04/28
+2:00
+98
+Paved Garden
+ginkiha
+2020/04/28
+1:52
+99
+POP SEQUENCE
+Hommarju
+2020/04/28
+2:00
+100
+CROSSING DELTA
+ginkiha x t+pazolite x Hommarju
+2020/04/28
+2:17
+101
+Jesu, joy of man's desiring
+Classic Remix
+2020/04/28
+1:52
+2021/01/06
+1:51
+2021/01/06
+4:33
+Vol.6
+1:56
+102
+Etude“Revolutionary”
+Classic Remix
+2020/04/28
+1:41
+2021/01/06
+1:40
+2021/01/06
+4:12
+Vol.2
+1:46
+103
+be myself
+ラムシーニ feat. ゆっきぃ
+2020/04/28
+2:32
+2021/01/06
+2:31
+Vol.4
+2:23
+104
+MaMMoN
+ゆゆうた
+2020/04/28
+2:08
+2021/01/06
+2:07
+Vol.3
+2:05
+105
+とらぺろ
+くらんきー feat. かなか
+2020/04/28
+2:46
+2021/01/06
+2:46
+106
+Distress
+TECH.
+2020/04/28
+2:27
+107
+PUPA
+モリモリあつし
+2020/04/28
+2:08
+108
+Flute Sonata BWV.1034
+Classic Remix
+2020/04/28
+1:56
+2021/01/06
+1:55
+2021/01/06
+4:13
+Vol.4
+1:59
+109
+わたしのトランジェントルマン
+黒沢ダイスケ feat. Mayumi Morinaga & DJ Genki
+2020/04/28
+2:14
+110
+Secret Mystery
+Da1suke
+2020/04/28
+2:31
+2021/01/06
+2:30
+111
+COMBAT
+WAiKURO
+2020/04/28
+2:22
+Vol.4
+2:25
+112
+urban streams
+saiiko2
+2020/04/28
+2:21
+2021/01/06
+2:20
+Vol.4
+2:24
+113
+サンカヨウ
+ユアミトス
+2020/04/28
+2:18
+2021/01/06
+2:17
+Vol.4
+2:20
+114
+Etude Op.10-3
+Classic Remix
+2020/04/28
+1:40
+2021/01/06
+1:39
+2021/01/06
+4:19
+Vol.4
+1:44
+115
+op13 -type zero- (Zpinkpong Remix)
+riddle
+2020/04/28
+1:49
+2021/01/22
+1:48
+116
+ANNIHILATER
+HARXDistortion VS Hiy
+2020/05/27
+2:07
+2021/01/15
+2:06
+2021/01/22
+3:37
+Vol.4
+2:10
+117
+My Own Way
+RiraN
+2020/05/27
+2:03
+2021/01/15
+2:02
+Vol.3
+2:05
+118
+Gate of Hell
+Alkome
+2020/05/27
+2:09
+2021/01/06
+2:08
+2021/01/22
+4:11
+Vol.5
+2:13
+119
+Demoniac Tetragrammaton Labyrinth
+siqlo feat. DD“ナカタ”Metal
+2020/05/27
+2:23
+2021/01/15
+2:23
+Vol.6
+2:27
+120
+眼前の空想と遥か遠き現実
+Mug
+2020/05/27
+2:27
+2021/01/06
+2:27
+Vol.6
+2:30
+121
+territory
+gaburyu
+2020/05/27
+2:18
+2021/01/06
+2:17
+2021/01/22
+3:42
+Vol.4
+2:20
+122
+Jupiter
+Classic Remix
+2020/05/27
+2:02
+2021/01/06
+2:01
+2021/01/06
+4:17
+123
+fear nothing
+ANNIHILATOR
+2020/05/27
+2:30
+2021/01/06
+2:29
+124
+Gruselig
+おとめ
+2020/05/27
+2:04
+2021/01/06
+2:03
+Vol.4
+2:06
+125
+F
+VILA
+2020/07/06
+2:23
+2021/01/06
+2:22
+126
+paradox -2045弐型-
+NAOKI feat. 小坂りゆ
+2020/07/06
+2:10
+2021/01/06
+2:09
+Vol.5
+2:13
+127
+Blah-blah-blah
+ikaruga_nex feat. 駄々子
+2020/07/06
+2:28
+2021/01/06
+2:27
+Vol.5
+2:31
+128
+The Disease Called Gossip
+テヅカ
+2020/07/06
+3:08
+2021/01/06
+3:08
+129
+R.R.R (Game Ver.)
+RAM
+2020/07/06
+2:16
+130
+TRUST IN DREAM (Game Ver.)
+PP
+2020/07/06
+2:15
+131
+Hypno Beats (Game Ver.)
+Zpinkpong with Kyoko
+2020/07/06
+2:15
+132
+Mobius Ring (Game Ver.)
+SLAKE
+2020/07/06
+2:20
+133
+Out of Time
+Nakura
+2020/07/06
+2:12
+2021/01/06
+2:11
+134
+appearance
+RICO
+2020/07/06
+1:55
+2021/01/06
+1:54
+Vol.2
+2:00
+135
+Piano Sonata “The Tempest”
+Classic Remix
+2020/07/06
+1:51
+2021/01/06
+1:50
+2021/01/06
+4:14
+Vol.5
+1:54
+136
+Song of Truth
+Street feat. 杠葉えりか
+2020/07/06
+2:06
+2021/01/06
+2:06
+Vol.5
+2:09
+137
+Header 'S' Judgement
+CHUBAY
+2020/08/25
+2:16
+2021/01/06
+2:15
+138
+GABRiELLA
+BlackY
+2020/08/25
+2:18
+139
+immaculate
+NAOKI feat. 星野奏子
+2020/08/25
+2:50
+2021/01/06
+2:49
+2021/01/06
+4:57
+Vol.6
+5:02
+140
+prayer
+RICO
+2020/08/25
+2:15
+2021/01/06
+2:14
+Vol.5
+2:17
+141
+Replayer
+黒沢ダイスケ feat. Risa Yuzuki
+2020/08/25
+1:59
+142
+Solitude
+おとめ
+2020/08/25
+1:55
+2021/01/06
+1:54
+143
+The Queen
+よみぃ
+2020/08/25
+2:28
+2021/01/06
+2:28
+Vol.6
+2:30
+144
+Piano Concerto No.2, Op.18
+Classic Remix
+2020/08/25
+1:53
+2021/01/06
+1:52
+2021/01/06
+5:38
+Vol.5
+1:57
+145
+Escapism
+Dolphin
+2020/08/25
+2:19
+2021/01/06
+2:18
+146
+Fate
+Street
+2020/08/25
+2:24
+2021/01/06
+2:24
+Vol.5
+2:25
+147
+swallow SMOKE
+Frums
+2020/08/25
+2:16
+2021/01/06
+2:15
+Vol.4
+2:19
+148
+Vainglory Days
+HyuN
+2020/08/25
+2:31
+2021/01/06
+2:31
+149
+Party!! Party!! Party!! (Game Ver.)
+good-cool feat. 倉先
+2020/10/16
+2:16
+150
+Unknown (Game Ver.)
+Tatsh Assault X
+2020/10/16
+2:17
+151
+SUMMER DREAM (Game Ver.)
+PP
+2020/10/16
+2:11
+152
+PENTAGON (Game Ver.)
+ASLETICS & PP
+2020/10/16
+2:20
+153
+Up to You!
+Ashrount
+2020/10/16
+2:20
+2021/01/15
+2:20
+Vol.2
+2:25
+154
+Falsification Code
+Hiy×HARX feat. りあ
+2020/10/16
+2:13
+2021/01/15
+2:12
+155
+Scherzo No.2, Op.31
+Classic Remix
+2020/10/16
+2:04
+2021/01/06
+2:03
+2021/01/06
+4:13
+Vol.3
+2:06
+156
+Desired Scream
+ikaruga_nex
+2020/10/16
+2:26
+2021/01/06
+2:25
+Vol.6
+2:30
+157
+Aurora
+Cranky
+2020/10/16
+1:56
+2021/01/06
+1:55
+Vol.6
+2:00
+158
+酒池肉林  ※公式MVとして公開
+おもしろ三国志
+2020/08/24
+2:18
+159
+403 Forbidden -滅-
+北柚涼
+2020/10/16
+2:28
+2021/01/15
+2:27
+160
+403 Forbidden -亡-
+伊咲いおり
+2020/10/16
+2:28
+2021/01/15
+2:27
+161
+あなた
+ユアミトス
+2020/10/16
+2:03
+2021/01/06
+2:02
+162
+ETERNITY
+RICO
+2020/10/16
+1:48
+2021/01/06
+1:47
+2021/01/06
+5:48
+Vol.4
+1:47
+163
+Free from the Dark
+polaritia feat. A.Dokuga
+2020/10/16
+2:15
+2021/01/06
+2:14
+2021/01/22
+4:06
+164
+Mission in mind…
+Da1suke
+2020/10/16
+2:34
+2021/01/06
+2:34
+165
+interlinked
+kiraku
+2020/10/16
+2:19
+2021/01/06
+2:18
+166
+La Paresse
+K Masera
+2020/10/16
+2:15
+2021/01/06
+2:14
+Vol.3
+2:19
+167
+Épine rouge
+ユアミトス
+2020/10/16
+2:24
+2021/01/06
+2:24
+168
+Máteria
+r0y
+2020/10/16
+2:34
+2021/01/06
+2:33
+169
+Moonlight Sonata Mvt.3
+Classic Remix
+2020/10/16
+1:55
+2021/01/06
+1:54
+2021/01/06
+5:17
+Vol.6
+1:57
+170
+(the) Judgment Day
+NAOKI feat. 小坂りゆ×北條響
+2020/10/16
+2:04
+2021/01/15
+2:03
+Vol.6
+2:06
+171
+Ēōs
+VILA
+2020/10/16
+2:30
+2021/01/06
+2:29
+Vol.6
+2:30
+172
+メロディーマジック
+HALZiNA Weiß
+2020/10/16
+2:23
+2021/12/10
+3:28
+Vol.4
+3:28
+173
+Venus Dance
+HALZiNA Weiß
+2020/10/16
+2:12
+2021/12/10
+4:37
+Vol.1
+4:37
+174
+四次元BOOM
+HALZiNA Weiß
+2020/10/16
+2:32
+2021/12/10
+4:38
+Vol.2
+4:38
+175
+明日の提灯
+sylcmyk
+2020/10/23
+3:05
+2021/01/06
+3:04
+176
+403 Forbidden -迅-
+KANAKA
+2020/10/23
+2:28
+2021/01/06
+2:27
+177
+403 Forbidden -雷-
+RICO
+2020/10/23
+1:54
+2021/01/06
+1:53
+178
+ONOMATOPIA
+ねこみりん feat. 小宮真央
+2020/10/23
+2:21
+2021/01/06
+2:20
+179
+At My Pleasure
+CHUBAY
+2020/10/23
+2:12
+2021/01/06
+2:11
+180
+J219 (CSP Dub Vocal Mix)
+Cranky feat. カラフル・サウンズ・ポート
+2020/10/23
+2:32
+2021/01/06
+2:31
+181
+GOTCHA
+callasoiled
+2020/10/23
+2:16
+2021/01/06
+2:15
+182
+Dispelling
+VILA feat. Risa Yuzuki
+2020/10/23
+2:27
+2021/01/06
+2:26
+183
+R4U
+NAOKI vs Cranky
+2020/10/23
+2:38
+2021/01/15
+2:37
+184
+DELiVER
+Iris feat. Ruri Matsumura
+2020/10/23
+2:39
+2021/01/06
+2:38
+185
+ALL IS VANITY
+NAOKI Expresser 堀川まり
+2020/10/26
+2:39
+2021/01/06
+2:38
+Vol.6
+2:41
+186
+革命 -Aria on the front line-
+HALZiNA Weiß
+2021/01/13
+2:40
+2021/12/10
+3:46
+Vol.3
+3:46
+187
+Aqua mousse
+HALZiNA Weiß
+2021/01/13
+3:00
+2021/12/10
+4:24
+Vol.5
+4:24
+188
+キミと見た夢 -Weiß Edition-
+HALZiNA Weiß
+2021/01/13
+2:29
+2021/12/10
+4:35
+Vol.6
+4:37
+バージョン違い
+86'
+MAX SBY (428 Secret Vocal Mix)
+Ωr vs. 堀川まり
+(1:54)
+2021/03/05
+1:56
+ストーリーモード 各章ED
+－
+immaculate
+NAOKI feat. 星野奏子
+(1:29)
+－
+immaculate (Reincarnation EDIT)
+NAOKI feat. 星野奏子
+(1:29)
+－
+Eternity
+RICO (music produced by NAOKI MAEDA)
+(1:35)
+－
+ALL IS VANITY
+NAOKI Expresser 堀川まり
+(2:38)
+↑
+SEVEN's CODE Unlimited Collection BGM  †
+プレイアブル楽曲と合わせて、「SEVEN's CODE Unlimited Collection BGM」のタイトルで未ゲーム化BGM音源をまとめたサントラアルバムも配信中
+音源買い切りでの価格設定は¥2,444（moraとiTunes Storeで確認）
+ループ音源として作られたものはフェードアウトも無音部分もなしでの収録（つまり、単曲リピートで再生するとゲーム同様に切れ目なくループさせられる仕様）
+#
+タイトル
+時間
+使用箇所
+1
+Title
+0:33
+タイトル画面
+2
+Terminal
+0:29
+ターミナル（コード入力画面）
+3
+The Launching of D.C. system
+0:32
+メニューBGM
+1章
+4
+The First Judgment / WRATH
+0:25
+2章（原曲: アンリ アルタ）
+5
+The BLACK CIRCUS
+1:07
+3章（原曲: Don't Touch Me There）
+6
+The Revelation of Johannes
+0:41
+4章（原曲: Pillar of Fire）
+7
+The FEAR of Girl's Night
+1:07
+5章（原曲: More and moRe）
+8
+Peek-A-Boo!
+1:02
+6章（原曲: 救済“salvation”）
+9
+Firefly
+0:33
+7章（原曲: サンカヨウ）
+10
+What's Euphoria?
+0:50
+8章（原曲: MaMMoN）
+11
+Revolution
+0:40
+9章（原曲: Big Foot）
+12
+The Prophecy of Johannes
+0:55
+10章（原曲: Be Born）
+13
+The Game
+0:36
+11章（原曲: Transparent ZERO）
+14
+SEVEN's CODE
+0:57
+12章（原曲: キミと見た夢）
+15
+Result
+0:14
+リザルト画面
+16
+Prologue
+1:10
+非プレイアブル
+ストーリーBGM
+初出: 1-1
+17
+A.U.T.H.
+0:27
+初出: 1-2
+18
+Mourning Hollow
+0:50
+初出: 1-5（ゲーム中タイトル表示なし）
+19
+hideout
+0:27
+初出: 2-1
+20
+Ceyx
+0:42
+初出: 2-8（柱最上層。「BOSS REMIX」とされていたもの）
+21
+caretaker:TAKEMIKADUCHI
+2:00
+初出: 5-1
+22
+Terrible
+1:00
+初出: 5-6
+23
+サンカヨウ (Piano)
+1:05
+初出: 7-1（ピアノアレンジ）
+24
+Midnight Walker
+2:22
+初出: 9-2
+25
+Aurora
+2:08
+初出: 10-1（ストリングスアレンジ）
+26
+Sorrow
+0:56
+初出: 10-7
+27
+Symphony No.13 'vermilion'
+1:25
+初出: 11-9
+28
+Collapse
+2:28
+初出: 12-1
+29
+Aurora (Piano)
+1:09
+初出: 12-11（ピアノアレンジ）
+30
+Christmas Special
+0:50
+2019年クリスマス期間メニューBGM
+↑
+公式MV  †
+YouTubeの公式チャンネルに含まれるものだけを対象にします
+↑
+酒池肉林 / おもしろ三国志  †
+https://www.youtube.com/watch?v=dvrUnA9iV1U
+↑
+公式CD  †
+↑
+SEVEN's CODE -Special Music Collection-  †
+2020/1/25に開催のイベント「TOKYO MIX JUICE」にて会場限定で音楽CDリリース
+会場限定 1,500円（通販などによる一般販売の実績なし）
+特記あるもののみロングサイズ収録
+SEVEN ～漆戒～ / NAOKI feat. 小坂りゆ
+TΗΞ ƧΞVΞИƧ Ͻ∅DΞ / Feryquitous
+Transparent ZERO / Cranky feat. Risa Yuzuki ※ロングサイズ
+Secret Heaven / Tatsh†RayZY
+キミと見た夢 / HARZiNA
+アンリ アルタ / sasakure.UK feat. Q.i ※ロングサイズ
+More and moRe / onoken
+Be Born / Maozon ※ロングサイズ
+Pillar of Fire / Iris
+immaculate / NAOKI feat. 星野奏子 ※ロングサイズ
+polytone
+10/17 アップデート
+version 2.6
+今回の追加曲
+収録曲リスト
+（無料/有料）
+↑
+SEVEN's CODE
+サービス終了
+最終収録曲リスト
+公式音源配信
+↑
+CROSS×BEATS
+サービス終了
+最終収録曲リスト
+↑
+crossbeats REV.
+オフライン仕様化
+楽曲残留状況
+仕様変更まとめ
+最終収録曲リスト
+レベル順曲リスト
+↑
+CB共通
+共通収録曲
+CD購入情報
+↑
+音ゲー以外
+こみゅにてぃぽむ
+ときめきの放課後
+けいおん! Shuffle
+765プロサブスク
+杉本理恵楽曲リスト
+最新の20件
+2026-10-17
+polytone/楽曲ジャケット
+polytone/収録曲リスト
+polytone
+MenuBar
+2026-08-08
+けいおん! Shuffle
+2025-11-07
+polytone/Contents
+2025-09-04
+RecentDeleted
+2025-08-17
+polytone/v2移行時譜面変更
+2025-04-26
+polytone/収録曲リスト/v1
+2024-12-04
+CROSS×BEATS/CD購入情報
+2024-03-31
+音楽サブスクリプション提供サービスまとめ
+2023-11-11
+SEVEN's CODE/ストーリー
+2023-06-11
+音楽ゲーム譜面データ
+2023-01-22
+THE IDOLM@STER/GRE@TEST BEST!
+2023-01-01
+服ノ神
+2022-10-01
+SEVEN's CODE
+2022-07-03
+杉本理恵楽曲リスト
+2022-07-02
+SEVEN's CODE/キャラクター
+SEVEN's CODE/イベント履歴など
+2022-06-10
+SEVEN's CODE/Contents
+↑
+Counter
+Total: 9061
+Today: 1
+Yesterday: 2
+↑
+めぷうぃき編集室
+追加プラグインメモ
+Last-modified: 2022-01-03 (月) 12:30:02
+Site admin: Maple Leaves
+PukiWiki 1.5.3 © 2001-2020 PukiWiki Development Team.
+Powered by PHP 5.4.45. HTML convert time: 0.144 sec.
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

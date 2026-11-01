@@ -8,4 +8,6 @@
 - `docs/api-contract.md`：通信契約と日付・帰属などの意味。
 - `docs/implementation-status.md`：実装と確認の記録、次の作業。
 
-現在はローカルの試作。Vercelへの登録・デプロイはまだ行っていない。
+GitFlowは `dev`（開発）→ `alpha`（公開前確認）→ `main`（本番公開）。元の初期コミットからの履歴とブランチを保持する。以前のアプリ用スナップショットは `initial/xi-archive` と `prep/vercel-hosting` に残している。
+
+Vercelでは `site/` だけをビルドする。調査ページの保存内容をサイトへ配信しない。設定と公開後の確認手順は [デプロイ手順](docs/deploy-vercel.md) を参照。

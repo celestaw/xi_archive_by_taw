@@ -1,0 +1,7 @@
+{
+  "url": "https://web.archive.org/cdx/search/cdx?url=capcom.co.jp/smartphone/crossbeats/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey&fl=timestamp,original&filter=urlkey:.*music.*&limit=50",
+  "key": "9b8bf1c7365186b3",
+  "checked_on": "2026-10-25",
+  "status": "failed",
+  "error": "HTTP Error 503: Service Unavailable"
+}

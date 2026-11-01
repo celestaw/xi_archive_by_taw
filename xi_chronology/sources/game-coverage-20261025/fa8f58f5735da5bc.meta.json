@@ -1,0 +1,13 @@
+{
+  "url": "https://pjsekai.sega.jp/master-data/json/music/index.json",
+  "key": "fa8f58f5735da5bc",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://pjsekai.sega.jp/master-data/json/music/index.json",
+  "sha256": "f28eb43307598491b37a42b2c96ab751bc7fecbaeb402985de93c2f05db36e18",
+  "bytes": 9123,
+  "title": "",
+  "links": [],
+  "read_limit_reached": false
+}

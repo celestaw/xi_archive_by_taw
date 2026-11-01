@@ -1,0 +1,418 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="ja-JP"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="ja-JP"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="ja-JP"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie" lang="ja-JP"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="ja-JP"> <!--<![endif]--><head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>グルーヴコースター 4MAX ダイヤモンドギャラクシー（アーケード版）GROOVE COASTER 4MAX DIAMOND GALAXY</title>
+<meta name="description" content="グルーヴコースター 4MAX ダイヤモンドギャラクシー（アーケード版）GROOVE COASTER 4MAX DIAMOND GALAXY - 公式サイト" />
+<meta name="keywords" content="Groove Coaster,グルーヴコースター,NESiCA,ネシカ">
+<meta name="copyright" content="&copy; TAITO CORPORATION 1978,2016,2020 ALL RIGHTS RESERVED.">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<link rel="dns-prefetch" href="//nesica.net">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel="dns-prefetch" href="//facebook.com/">
+<link rel="dns-prefetch" href="//platform.twitter.com">
+
+<meta property="og:title" content="グルーヴコースター 4MAX ダイヤモンドギャラクシー（アーケード版）GROOVE COASTER 4MAX DIAMOND GALAXY">
+<meta property="og:site_name" content="グルーヴコースター 4MAX ダイヤモンドギャラクシー（アーケード版）GROOVE COASTER 4MAX DIAMOND GALAXY">	
+<meta property="og:url" content="https://groovecoaster.jp/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://groovecoaster.jp/common/img/ogp_image_gc4max.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="https://groovecoaster.jp/">
+<meta name="twitter:image" content="https://groovecoaster.jp/common/img/ogp_image_gc4max.jpg">
+<meta property="og:description" content="【新曲】3/29から「グルーヴコースター４」スタート！新曲一挙追加！！"><meta name="viewport" content="width=device-width,user-scalable=yes" />
+<link rel="shortcut icon" href="/common/img/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="/common/img/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon-precomposed" href="/common/img/apple-touch-icon.png">
+<link rel="stylesheet" href="/common/css/normalize.css">
+<link rel="stylesheet" href="/common/css/main_gc4max.css?ver=842125645">
+<link rel="stylesheet" type="text/css" href="/common/fancybox/source/jquery.fancybox.css?v=2.1.5" media="screen" />
+<link rel="stylesheet" href="/font/font.css">
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="/common/js/libs/modernizr-2.5.3.min.js"></script>
+<script src="/common/js/libs/jquery-1.7.1.min.js"></script>
+<script src="/common/js/a.min.js"></script>
+<script src="/common/js/gc.getsocialcount.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5862537-39"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-5862537-39');
+</script>
+</head>
+<body class="gc4ex">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  //js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1";
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+<!-- START HEADER -->
+<header>
+  <div id="header">
+    <div class="inner">
+      <h1 class="logo-4ex"><a href="/"><img src="/img/index_gc4max/hd_logo_gc4max_s.png"></a></h1>
+	  <nav id="hd-nav">
+        <ul>
+          <li><a href="/"><img src="/common/img/hd_nav_top_off.gif" width="58" height="32" alt="TOP"></a></li>
+          <li><a href="/news/"><img src="/common/img/hd_nav_news_off.gif" alt="NEWS" width="58" height="32"></a></li>
+          <!--<li><a href="javascript:EPLIB.newslink();"><img src="/common/img/hd_nav_news_off.gif" alt="NEWS" width="58" height="32"></a></li>-->
+          <li><a href="/about/"><img src="/common/img/hd_nav_about_off.gif" alt="ABOUT" width="83" height="32"></a></li>
+          <li><a href="/about/howtoplay"><img src="/common/img/hd_nav_howtoplay_off.gif" alt="HOWTOPLAY" width="110" height="32"></a></li>
+          <li><a href="/artist"><img src="/common/img/hd_nav_artist_off.gif" alt="ARTIST" width="82" height="32"></a></li>
+          <li><a href="/music"><img src="/common/img/hd_nav_music_off.gif" alt="MUSIC" width="70" height="32"></a></li>
+          <li><a href="/location"><img src="/common/img/hd_nav_location_off.gif" alt="LOCATION" width="106" height="32"></a></li>
+          <li><a href="/special"><img src="/common/img/hd_nav_special_off.gif" alt="SPECIAL" width="94" height="32"></a></li>
+          <li><a href="/ranking"><img src="/common/img/hd_nav_ranking_off.gif" alt="RANKING" width="94" height="32"></a></li>
+          <li><a href="https://mypage.groovecoaster.jp" target="_blank"><img src="/common/img/hd_nav_mypage_off.gif" alt="MYPAGE" width="87" height="32"></a></li>
+        </ul>
+      </nav><!--#EndLibraryItem-->
+	  <div class="sns pc-share">
+        <!--
+        <div id="share">
+          <div id="socialarea_total"><span id="share-count-num">00000</span></div>
+          <a href="javascript:void(0);"><div class="share-img"></div></a>
+              <div id="share-t-f" class="share-t-f hd-img">
+            <a href="https://twitter.com/search?q=https://groovecoaster.jp/" target="_blank"><span id="share-t">00000</span></a>
+                  <span id="share-f">00000</span>
+            <span class="share-t-f-close"></span>
+          </div>
+          <script type="text/javascript">
+            get_social_count("http://groovecoaster.jp", "socialarea_total");
+          </script>
+        </div>
+      	-->
+        <div id="socialarea_tw"> <a href="http://twitter.com/share?url=http%3A%2F%2Fcms.groovecoaster.jp%2Fnews%2F11585.html&text=%5B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC+4MAX+%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC%EF%BC%88%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E7%89%88%EF%BC%89GROOVE+COASTER+4MAX+DIAMOND+GALAXY+-+%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%5D+%E9%9F%B3%E6%A5%BD%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%80%80%E4%BD%93%E9%A8%93%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E5%85%AC%E9%96%8B%E4%B8%AD%EF%BC%81%E3%80%80%23%e3%82%b0%e3%83%ab%e3%82%b3%e3%82%b9&hashtags=NESiCA" target="_blank"><img src="/common/img/pc-share-tw.png" alt="ツイート" width="30" height="21"></a></div>
+        <div id="socialarea_fb">
+          <a href="http://www.facebook.com/sharer.php?u=https://groovecoaster.jp/" target="_blank"><img src="/common/img/pc-share-fb.png" alt="いいね！" width="30" height="21"></a>
+        </div>
+        <div id="socialarea_ln">
+          <span>
+	          <a href="http://line.naver.jp/R/msg/text/?%5B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC+4MAX+%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC%EF%BC%88%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E7%89%88%EF%BC%89GROOVE+COASTER+4MAX+DIAMOND+GALAXY+-+%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%5D+%E9%9F%B3%E6%A5%BD%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%80%80%E4%BD%93%E9%A8%93%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E5%85%AC%E9%96%8B%E4%B8%AD%EF%BC%81%E3%80%80http%3A%2F%2Fcms.groovecoaster.jp%2Fnews%2F11585.html" target="_blank"><img src="/common/img/pc-share-ln.png" alt="LINEで送る" width="30" height="21"></a>
+	      <script type="text/javascript" src="https://media.line.naver.jp/js/line-button.js?v=20130508" ></script>
+	          <script type="text/javascript">
+	            new jp.naver.line.media.LineButton({"pc":false,"lang":"ja","type":"a","text":"testtest","withUrl":true});
+	          </script>
+	        </span>
+	      </div>
+      </div>
+    </div>
+  </div>
+</header>
+<!-- END HEADER -->
+
+<div id="container" class="page-news">
+<div class="wrap-2nd">
+	
+<!-- **Title Area** -->
+<div class="title-2nd block">
+    <div class="inner">
+            <h2 class="gc3_head_title"><span class="gcfont">NEWS</span><span class="sub_title"> ニュース</span></h2>
+    </div>
+  </div>
+<!-- **/Title Area** -->
+  
+<!-- **MainContents** -->
+<section>
+
+
+<div class="news-wrap cfx">
+
+
+<div class="news-section-01">
+<div class="main-content">
+
+
+
+
+<section id="news_11585" class="news_contents cfx">
+<p class="post_date">2018.3.27</p>
+<h2 class="title">【新曲】3/29から「グルーヴコースター４」スタート！新曲一挙追加！！</h2>
+
+<div class="product_photo_contents">
+      <div class="news_img_thmb">
+      <img src="https://groovecoaster.jp/wordpress/wp-content/uploads/2018/03/20180327_news_Rq9hUPxb_thmb.jpg" width="160" height="180" >    </div>
+  <!--//.product_photo_contents--></div>
+
+<div class="news_body">
+3月29日より「グルーヴコースター 4 スターライトロード」稼働開始にあわせて、<br>
+「アニメ・ポップス」「ボーカロイド™」「東方アレンジ」や「ゲーム」「音楽ゲーム」「オリジナル」楽曲などの新曲が一挙に登場！！<br>
+同日より開催の「でんぱ組.inc 宇宙的コラボイベント」にあわせて、「でんぱ組.inc」の4月4日発売の新曲「Ψ発見伝！」も遊べます！<br>
+<br>
+<div style="text-align:center"><img style="width:595px;" src="/wordpress/wp-content/uploads/2018/03/20180327_news_Rq9hUPxb_01.jpg" alt=""></div><br>
+<div style="text-align:center"><img style="width:595px;" src="/wordpress/wp-content/uploads/2018/03/20180327_news_Rq9hUPxb_02.jpg" alt=""></div><br>
+＜3月29日(木) 8:00～　配信＞<br>
+　（アニメ・ポップス）<br>
+　・トラウマレコーダー/豚乙女<br>
+　・Secret Answer/XYZ<br>
+　・fake town baby/UNISON SQUARE GARDEN <br>
+　・Ψ発見伝！/でんぱ組.inc<br>
+<br>
+　（ボーカロイド™）<br>
+　・アンノウン・マザーグース/wowaka feat. 初音ミク<br>
+　・あるいは夢眠ねむという概念へのサクシード/MOSAIC.WAV×夢眠ねむ×夢眠ネム<br>
+　・チュルリラ・チュルリラ・ダッダッダ！/和田たけあき(くらげP) feat. 結月ゆかり<br>
+　・トリノコシティ/40mP feat. 初音ミク<br>
+　・ウミユリ海底譚[EXTRA追加]/n-buna feat. 初音ミク<br>
+<br>
+　（東方アレンジ）<br>
+　・アマノジャック/幽閉サテライト<br>
+　・Treasure/発熱巫女～ず<br>
+　・GROOVE IT LUCKY (グルコス Mix)/A-One<br>
+　・Bad Apple!! feat. nomico [RENEWAL]/Masayoshi Minoshima<br>
+<br>
+　（ゲーム）<br>
+　・ナムコットメドレー/バンダイナムコエンターテインメント<br>
+<br>
+　（オリジナル）<br>
+　・君のStarlight Road/セイネ(CV:河上英里子)<br>
+　・Horizons/M-Project<br>
+　・Wandering One/Maozon<br>
+　・ＦＭ音源黙示録-Apocalypse of FM Tone Generator-/Yu Shimoda<br>
+　・Got more raves? -xiRemix-/xi ※3EXイベント先行報酬（1200EP達成賞取得した方）<br>
+　・Crimson Phoenix/xi vs MASAKI ※4イベント先行配信(1000EP達成賞取得した方)<br>
+<br>
+　＜4月 9日(月) 8:00～　解禁＞<br>
+　(東方アレンジ)・7 days a week/Silver Forest feat. アキ<br>
+　(オリジナル） ・JUMPEE!/D-Cee<br>
+<br>
+　＜4月16日(月) 8:00～　解禁＞<br>
+　(ボーカロイド™)・TODAY THE FUTURE/針原 翼(はりーP) feat. 初音ミク<br>
+　(オリジナル）　 ・Got recover run/E.G.G. ※GC解禁<br>
+<br>
+<br>
+■さらに、スマートフォン向けリズムゲームアプリ「Lanota」の楽曲が『グルーヴコースター 4」に登場。3月29日より、「Lanota」のアプリゲームでも『グルーヴコースター』の楽曲が遊べる交換楽曲によるコラボレーションを開催いたします。<span style="font-size: 72%;">※楽曲の追加は有料になります。</span><br>
+<br>
+<div style="text-align:center"><img style="width:595px;" src="/wordpress/wp-content/uploads/2018/03/20180327_news_Rq9hUPxb_03.jpg" alt=""></div><br>
+「グルーヴコースター4」で遊べる音楽ゲーム「Lanota」の楽曲<br>
+＜3月29日(木) 8:00～　配信＞<br>
+・Cyanine/jioyi<br>
+＜4月 9日(月) 8:00～　解禁＞<br>
+・Frey's Philosophy/Powerless<br>
+＜4月16日(月) 8:00～　解禁＞<br>
+・Specta/Junk<br>
+<br>
+音楽ゲーム「Lanota」で遊べる「グルーヴコースター」の楽曲<br>
+<span style="font-size: 72%;">※楽曲の追加は有料になります。</span><br>
+＜3月29日(木) 配信＞<br>
+・Got more raves?/ E.G.G.<br>
+・FUJIN Rumble/ COSIO<br>
+・Black MInD/ COSIO<br>
+・Scarlet Lance/ MASAKI (ZUNTATA)<br>
+・飛び立て！ドリームパーティー/ユメ (CV: 高橋菜々美)<br>
+<br>
+<div style="text-align:center"><img style="width:595px;" src="/wordpress/wp-content/uploads/2018/03/20180327_news_Rq9hUPxb_04.jpg" alt=""></div><br>
+<br>
+■メンテナンスのお知らせ<br>
+Ver.4.00へのアップデートに伴い、ゲーム及びマイページにてメンテナンスを実施させていただきます。<br>
+・ゲームのメンテナンス：2018年3月29日(木)0:00～8:00<br>
+・マイページのメンテナンス：2018年3月29日(木)0:00～11:00<br>
+<br>
+ゲームのメンテナンス中は、NESiCAを使用したプレイなどオンライン機能を利用したプレイができなくなります。<br>
+マイページのメンテナンス中は、マイページが利用できなくなります。<br>
+<br>
+ご不便おかけすることとなりますが、予めご了承ください。<br>
+<br>
+<br>
+<br>
+今後とも「グルーヴコースター 4　スターライトロード」をよろしくお願いいたします。
+<style>
+sup { height: 0 !important; line-height: 1 !important; vertical-align: baseline !important; _vertical-align: bottom !important; position: relative !important; bottom: 0ex !important;}</style><style>.theme_gc_table {  font-size:86%;  background:#FFF;  font-weight:normal !important;  text-align:left;  line-height:1.2 !important;  width:100%;  margin:0;  padding:0 !important;  border-top:#ddd 1px solid;  border-right:#ddd 1px solid;}.theme_gc_table th {  font-weight:bold !important;  color:#FFF;  background:#3399ff;  text-align:center !important;  padding:5px 3px !important;  border-left:#ddd 1px solid;  border-bottom:#ddd 1px solid;  vertical-align:middle;  white-space: nowrap;}.theme_gc_table td{  font-weight:normal !important;  padding:5px 3px !important;  border-left:#ddd 1px solid;  border-bottom:#ddd 1px solid;  vertical-align:middle;}.theme_gc_table td.gc_gc {  text-align:right !important;}.theme_gc_table .bg_gc { background:#eafbff;} .theme_gc_table .bg_gc_red { background:#ffeaea;}  .theme_gc_table .bg_gc_gray { background:#f2f2f2;} .theme_gc_table .txt_center { text-align:center !important;}</style><style>.theme_gc_table_02 {  font-size:72%;  background:#FFF;  font-weight:normal !important;  text-align:left;  line-height:1.2 !important;  width:100%;  margin:0;  padding:0 !important;  border-top:#ddd 1px solid;  border-right:#ddd 1px solid;}.theme_gc_table_02 th {  font-weight:bold !important;  color:#FFF;  background:#3399ff;  text-align:center !important;  padding:5px 3px !important;  border-left:#ddd 1px solid;  border-bottom:#ddd 1px solid;  vertical-align:middle;  white-space: nowrap;}.theme_gc_table_02 td{  font-weight:normal !important;  padding:5px 3px !important;  border-left:#ddd 1px solid;  border-bottom:#ddd 1px solid;  vertical-align:middle;}.theme_gc_table_02 td.gc_gc {  text-align:right !important;}.theme_gc_table_02 .bg_gc { background:#eafbff;} .theme_gc_table_02 .bg_gc_red { background:#ffeaea;}  .theme_gc_table_02 .bg_gc_gray { background:#f2f2f2;} .theme_gc_table_02 .txt_center { text-align:center !important;}</style><style>.theme_gc_table_none { width:70%; text-align:center; margin:0 auto;  padding:0 !important; } .theme_gc_table_none td{ vertical-align:middle; padding:5px;}</style><style>.theme_gc_table_03,.theme_gc_table_03 th,.theme_gc_table_03 td {  border-collapse: collapse;  border:#ddd 1px solid;}.theme_gc_table_03 {  font-size:86%;  background:#FFF;  font-weight:normal !important;  text-align:left;  line-height:1.2 !important;  width:100%;  margin:0;  padding:0 !important;}.theme_gc_table_03 th {  font-weight:bold !important;  color:#FFF;  background:#3399ff;  text-align:center !important;  padding:5px 3px !important;  vertical-align:middle;  white-space: nowrap;}.theme_gc_table_03 td{  font-weight:normal !important;  padding:5px 3px !important;  vertical-align:middle;}.theme_gc_table_03 td.gc_gc {  text-align:right !important;}.theme_gc_table_03 .bg_gc {  background:#eafbff;}.theme_gc_table_03 .bg_gc_red { background:#ffeaea;}.theme_gc_table_03 .bg_gc_gray {  background:#f2f2f2;}.theme_gc_table_03 .txt_center {  text-align:center !important;} table.ranking tr:nth-child(odd) { background: #EDEDED;}
+</style><!--//.news_body--></div>
+
+
+
+<div id="pagenation" class="cfx">
+		<span class="next-post fader">
+	<a href="https://groovecoaster.jp/news/11541.html" rel="prev"><img src='/img/index_gc3ex/next-btn.png' class='imgHover' /></a>	</span>
+			<span class="prev-post fader">
+  <a href="https://groovecoaster.jp/news/11821.html" rel="next"><img src='/img/index_gc3ex/prev-btn.png' class='imgHover' /></a>	</span>
+	<!-- pagenation --></div>
+
+
+
+
+</section>
+
+
+<!--//.main-content--></div>
+<!--//.news-section-01--></div>
+
+
+
+
+
+
+<div class="sub-content-wrap">
+
+
+<div class="sub-content">
+<h3><span class="gcfont">CATEGORY</span></h3>
+
+<div class="category_nav">
+<ul>
+<li><a href="https://groovecoaster.jp/news/">ニュース記事一覧</a></li>
+<li><a href="https://groovecoaster.jp/event/">イベント記事一覧</a></li>
+</ul>
+</div>
+
+<!--//.sub-content--></div>
+
+
+<div class="sub-content" style="display: none;">
+<h3><span class="gcfont">NEWS LOG</span></h3>
+
+<div class="news_sub_list">
+<dl>
+<dt>
+<div class="product_photo_contents">
+        <a class="img_hover" href="/news/18767.html">
+      <img src="https://groovecoaster.jp/wordpress/wp-content/uploads/2024/01/GC4_127_180.jpg" width="127" height="180" >      </a>
+  </div>
+</dt>
+<dd style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">
+<p class="post_date">2024.3.1</p>
+<a href="/news/18767.html">【お知らせ】ネットワークサービス終了後にプレイできなくなる楽曲について</a></dd>
+</dl>
+
+<!--//.news_sub_list--></div>
+<!--//.sub-content--></div>
+
+
+<div class="sub-content" style="display: none;">
+<h3><span class="gcfont">EVENT LOG</span></h3>
+
+<div class="news_sub_list">
+<dl>
+<dt>
+<div class="product_photo_contents">
+        <a class="img_hover" href="/event/18809.html">
+      <img src="https://groovecoaster.jp/wordpress/wp-content/uploads/2024/01/GC4_20240117_pop_gc-02s.jpg" width="127" height="180" >      </a>
+  </div>
+</dt>
+<dd style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">
+<p class="post_date">2024.4.2</p>
+<a href="/event/18809.html">【イベント】1/24～3/24 まで「アーケード版グルーヴコースター最終オンライン対戦イベント」開催！【4/2追記】</a></dd>
+</dl>
+
+<!--//.news_sub_list--></div>
+<!--//.sub-content--></div>
+
+
+<!--//.sub-content-wrap--></div>
+
+
+<!--//.news-wrap--></div>
+<!--//.wrap-2nd--></div>
+
+
+<!--//.news_contents--></section>
+<!-- **MainContents** -->
+
+<div id="captions">
+<div class="inner">
+
+	
+<!--
+<div class="sns pc-share">
+
+        <div id="share">
+          <div id="socialarea_total"><span id="share-count-num2">00000</span></div>
+          <a href="javascript:void(0);"><div class="share-img"></div></a>
+              <div id="share-t-f" class="share-t-f hd-img">
+            <a href="https://twitter.com/search?q=https://groovecoaster.jp/" target="_blank"><span id="share-t2">00000</span></a>
+                  <span id="share-f2">00000</span>
+            <span class="share-t-f-close"></span>
+          </div>
+          <script type="text/javascript">
+            get_social_count("http://groovecoaster.jp", "socialarea_total");
+          </script>
+        </div>
+
+        <div id="socialarea_tw"> <a href="http://twitter.com/share?url=http%3A%2F%2Fcms.groovecoaster.jp%2Fnews%2F11585.html&text=%5B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC+4MAX+%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC%EF%BC%88%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E7%89%88%EF%BC%89GROOVE+COASTER+4MAX+DIAMOND+GALAXY+-+%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%5D+%E9%9F%B3%E6%A5%BD%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%80%80%E4%BD%93%E9%A8%93%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E5%85%AC%E9%96%8B%E4%B8%AD%EF%BC%81%E3%80%80%23%e3%82%b0%e3%83%ab%e3%82%b3%e3%82%b9&hashtags=NESiCA" target="_blank"><img src="/common/img/pc-share-tw.png" alt="ツイート" width="30" height="21"></a>				</div>
+        <div id="socialarea_fb">
+          <a href="http://www.facebook.com/sharer.php?u=https://groovecoaster.jp/" target="_blank"><img src="/common/img/pc-share-fb.png" alt="いいね！" width="30" height="21"></a>
+        </div>
+        <div id="socialarea_ln">
+          <span>
+          <a href="http://line.naver.jp/R/msg/text/?%5B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC+4MAX+%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC%EF%BC%88%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E7%89%88%EF%BC%89GROOVE+COASTER+4MAX+DIAMOND+GALAXY+-+%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%5D+%E9%9F%B3%E6%A5%BD%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%80%80%E4%BD%93%E9%A8%93%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E5%85%AC%E9%96%8B%E4%B8%AD%EF%BC%81%E3%80%80http%3A%2F%2Fcms.groovecoaster.jp%2Fnews%2F11585.html" target="_blank"><img src="/common/img/pc-share-ln.png" alt="LINEで送る" width="30" height="21"></a>
+		  <script type="text/javascript" src="https://media.line.naver.jp/js/line-button.js?v=20130508" ></script>
+					<script type="text/javascript">
+						new jp.naver.line.media.LineButton({"pc":false,"lang":"ja","type":"a","text":"testtest","withUrl":true});
+          </script>
+        </span>
+  </div>
+  </div>
+-->
+
+
+
+<div class="copyright-box">
+  <p class="taito-logo"><a href="http://www.taito.co.jp/" target="_blank"><img src="/common/img/ft_logo_taito02.png" alt="TAITO" width="72" height="24"></a></p>
+  <p class="copyright">&copy; TAITO CORPORATION 1978,2026 ALL RIGHTS RESERVED.<br>東方Projectのアレンジ楽曲の収録は、原作者ZUN様の許可を頂いております。</p>
+  <p class="ft-link"><a href="/guide.html" class="sub-page">&gt;サイト利用規約</a>&nbsp;&nbsp;&nbsp;<a href="http://www.taito.co.jp/privacy/" target="_blank">&gt;プライバシーポリシー</a>&nbsp;&nbsp;&nbsp;<a href="http://support.taito.co.jp/" target="_blank">&gt;お客様相談センター</a></p>
+</div></div>
+</div>
+</div>
+
+</div>
+<!-- END CONTAINER -->
+
+
+
+<!-- START FOOTER --><footer>
+  <div id="footer">
+    <div class="inner">
+      <nav>
+        <ul id="ft-nav">
+          <li><a href="/"><img src="/common/img/ft_nav_top_off.gif" alt="TOP" width="44" height="41"></a></li>
+          <li><a href="/news/"><img src="/common/img/ft_nav_news_off.gif" alt="NEWS" width="56" height="41"></a></li>
+          <!--<li><a href="javascript:EPLIB.newslink();"><img src="/common/img/ft_nav_news_off.gif" alt="NEWS" width="61" height="41"></a></li>-->
+          <li><a href="/about/"><img src="/common/img/ft_nav_about_off.gif" alt="ABOUT" width="63" height="41"></a></li>
+          <li><a href="/about/howtoplay"><img src="/common/img/ft_nav_howtoplay_off.gif" alt="HOWTOPLAY" width="107" height="41"></a></li>
+          <li><a href="/artist"><img src="/common/img/ft_nav_artist_off.gif" alt="ARTIST" width="72" height="41"></a></li>
+          <li><a href="/music"><img src="/common/img/ft_nav_music_off.gif" alt="MUSIC" width="61" height="41"></a></li>
+          <li><a href="/location"><img src="/common/img/ft_nav_location_off.gif" alt="LOCATION" width="92" height="41"></a></li>
+          <li><a href="/special"><img src="/common/img/ft_nav_special_off.gif" alt="SPECIAL" width="79" height="41"></a></li>
+          <li><a href="/ranking"><img src="/common/img/ft_nav_ranking_off.gif" alt="RANKING" width="83" height="41"></a></li>
+          <li><a href="https://mypage.groovecoaster.jp" target="_blank"><img src="/common/img/ft_nav_mypage_off.gif" alt="MYPAGE" width="73" height="41"></a></li>
+        </ul>
+        <div class="ft-banner">
+          <p><a href="http://nesica.net/" target="_blank"><img src="/common/img/banner_nesica.jpg" width="100" height="35" alt="NESiCA"></a></p>
+          <p><a href="http://groovecoaster.com/apps/" target="_blank"><img src="/common/img/banner_zero.jpg" width="150" height="35" alt=""></a></p>
+        </div>
+      </nav>
+    </div>
+  </div>
+</footer><!-- #EndLibraryItem --><!-- END FOOTER -->
+<script src="/common/js/UserAgent.js"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="/common/js/env.js"></script>
+<script src="/common/js/main.js"></script>
+<script src="/common/js/libs/jquery.easing-1.3.min.js"></script>
+<script src="/common/js/libs/jquery.smoothRollOver.js"></script>
+<script src="/common/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+<script src="/common/fancybox/source/jquery.fancybox.js?v=2.1.5"></script>
+<script src="/common/js/index.js"></script><script src="/common/js/gc.post.detail.js"></script></body>
+</html>
+
+
+

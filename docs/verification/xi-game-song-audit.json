@@ -1,0 +1,216 @@
+{
+  "checked_on": "2026-10-25",
+  "url": "http://127.0.0.1:3210/games",
+  "story": "ゲーム一覧 → 同一オリジンAPI → 調査データ → 曲別出典・候補表示",
+  "games": 32,
+  "relationships": 196,
+  "listing_counts": {
+    "収録候補": 22,
+    "収録": 118,
+    "BMS登録": 14,
+    "公式許諾曲": 40,
+    "追加告知": 1,
+    "大会向け提供": 1
+  },
+  "source_counts": {
+    "secondary": 22,
+    "primary": 173,
+    "primary_reproduction": 1
+  },
+  "api_details": [
+    {
+      "id": "arcaea",
+      "entry_count": 5,
+      "status": 200
+    },
+    {
+      "id": "bms",
+      "entry_count": 14,
+      "status": 200
+    },
+    {
+      "id": "chunithm",
+      "entry_count": 14,
+      "status": 200
+    },
+    {
+      "id": "crossbeats",
+      "entry_count": 2,
+      "status": 200
+    },
+    {
+      "id": "cytus",
+      "entry_count": 7,
+      "status": 200
+    },
+    {
+      "id": "cytus2",
+      "entry_count": 1,
+      "status": 200
+    },
+    {
+      "id": "deemo",
+      "entry_count": 12,
+      "status": 200
+    },
+    {
+      "id": "deemo-reborn",
+      "entry_count": 2,
+      "status": 200
+    },
+    {
+      "id": "deemo2",
+      "entry_count": 2,
+      "status": 200
+    },
+    {
+      "id": "in-falsus",
+      "entry_count": 1,
+      "status": 200
+    },
+    {
+      "id": "music-diver",
+      "entry_count": 4,
+      "status": 200
+    },
+    {
+      "id": "museca",
+      "entry_count": 1,
+      "status": 200
+    },
+    {
+      "id": "paradigm-reboot",
+      "entry_count": 2,
+      "status": 200
+    },
+    {
+      "id": "sevens-code",
+      "entry_count": 1,
+      "status": 200
+    },
+    {
+      "id": "sdvx",
+      "entry_count": 27,
+      "status": 200
+    },
+    {
+      "id": "voez-switch",
+      "entry_count": 1,
+      "status": 200
+    },
+    {
+      "id": "iidx",
+      "entry_count": 8,
+      "status": 200
+    },
+    {
+      "id": "iidx-infinitas",
+      "entry_count": 7,
+      "status": 200
+    },
+    {
+      "id": "crossbeats-rev",
+      "entry_count": 1,
+      "status": 200
+    },
+    {
+      "id": "maimai",
+      "entry_count": 12,
+      "status": 200
+    },
+    {
+      "id": "osu",
+      "entry_count": 40,
+      "status": 200
+    },
+    {
+      "id": "ongeki",
+      "entry_count": 10,
+      "status": 200
+    },
+    {
+      "id": "chrono-circle",
+      "entry_count": 1,
+      "status": 200
+    },
+    {
+      "id": "groove-coaster-switch",
+      "entry_count": 1,
+      "status": 200
+    },
+    {
+      "id": "groove-coaster",
+      "entry_count": 3,
+      "status": 200
+    },
+    {
+      "id": "sdvx-konaste",
+      "entry_count": 8,
+      "status": 200
+    },
+    {
+      "id": "nostalgia-konaste",
+      "entry_count": 1,
+      "status": 200
+    },
+    {
+      "id": "nostalgia",
+      "entry_count": 1,
+      "status": 200
+    },
+    {
+      "id": "project-sekai",
+      "entry_count": 2,
+      "status": 200
+    },
+    {
+      "id": "taiko-pop-tap-beat",
+      "entry_count": 1,
+      "status": 200
+    },
+    {
+      "id": "taiko-dondaful",
+      "entry_count": 3,
+      "status": 200
+    },
+    {
+      "id": "danmaku",
+      "entry_count": 1,
+      "status": 200
+    }
+  ],
+  "work_api_records_match": true,
+  "unknown_game_status": 404,
+  "build": "next build --webpack: passed; TypeScript passed",
+  "api_tests": "25 tests passed",
+  "browser_checks": [
+    {
+      "page": "/games",
+      "result": "32一覧の表示とCROSS×BEATS、REV.、DEEMOへの遷移を確認"
+    },
+    {
+      "page": "/games/crossbeats",
+      "result": "Hesperides・Keraunosの収録候補表示、出典の開閉、資料リンクを確認"
+    },
+    {
+      "page": "/games/crossbeats-rev",
+      "result": "メーカー資料転載・実装日・人物照合の留保を確認。幅390pxで横はみ出しなし"
+    },
+    {
+      "page": "/games/deemo",
+      "result": "候補11曲と公式確認Hypnosを区別、公式試聴リンクを確認"
+    },
+    {
+      "page": "/works/XI-193",
+      "result": "2021-02-04の公式動画公開日、タイムゾーン換算、本人リンクによる帰属、公式試聴を確認"
+    }
+  ],
+  "idempotent_regeneration_files": 6,
+  "source_hashes_verified": 90,
+  "source_retrieval_failures": 2,
+  "dated_work_entries": 146,
+  "undated_work_entries": 105,
+  "browser_console_errors": 0,
+  "csv_verified_rows": 123,
+  "csv_line_endings": "verified: no double CR"
+}

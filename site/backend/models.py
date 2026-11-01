@@ -1,10 +1,18 @@
 """Public contract. Research-only fields never enter these models."""
-from typing import Literal
-from pydantic import BaseModel, ConfigDict, Field, model_validator
+from typing import Annotated, Literal
+from pydantic import AfterValidator, BaseModel, ConfigDict, Field, field_validator, model_validator
+from public_text import check_public_text, public_url
+
+PublicUrl = Annotated[str, AfterValidator(public_url)]
 
 
 class PublicModel(BaseModel):
-    model_config = ConfigDict(extra="forbid")
+    model_config = ConfigDict(extra="forbid", hide_input_in_errors=True)
+
+    @field_validator("*", mode="before")
+    @classmethod
+    def public_text_only(cls, value):
+        return check_public_text(value)
 
 
 class PublicationRecord(PublicModel):
@@ -13,7 +21,7 @@ class PublicationRecord(PublicModel):
     precision: Literal["year", "month", "day"] | None
     kind: str
     medium: str
-    source_url: str
+    source_url: PublicUrl
     evidence: str
     version: str
     checked_on: str
@@ -41,12 +49,28 @@ class Alias(PublicModel):
 
 
 class ListeningLink(PublicModel):
-    url: str
+    url: PublicUrl
     label: str
     version: str
     official_basis: str
-    officialness_source_url: str
+    officialness_source_url: PublicUrl
     availability: str
+
+
+class AudioSource(PublicModel):
+    """A full recording listing; unofficial uploads stay explicitly separate."""
+    origin: Literal["official", "unofficial"]
+    url: PublicUrl
+    label: str
+    version: str
+    evidence: str
+    checked_on: str
+
+
+class AudioSupplement(PublicModel):
+    work_id: str
+    sources: list[AudioSource]
+    records: list[PublicationRecord] = Field(default_factory=list)
 
 
 class Relationship(PublicModel):
@@ -56,24 +80,20 @@ class Relationship(PublicModel):
     evidence_status: str
 
 
-class AttributionSource(PublicModel):
-    kind: Literal["primary", "secondary", "lead", "input"]
+class PublicSource(PublicModel):
+    """Public citation only; no input locators, identity investigation or workflow."""
+    kind: Literal["primary", "secondary"]
     label: str
-    url: str | None
-    locator: str
+    url: PublicUrl
     credit: str | None
-    summary: str
-    identity_note: str
     checked_on: str
 
 
-class AttributionBasis(PublicModel):
-    verdict: Literal["primary_credit", "unverified"]
-    summary: str
-    inclusion: list[AttributionSource]
-    sources: list[AttributionSource]
-    limitations: list[str]
-    reviewed_on: str
+class Genre(PublicModel):
+    label: str
+    medium: str = Field(description="ジャンル表記を確認した媒体。移植先独自のジャンルとは限らない。")
+    source_url: PublicUrl
+    checked_on: str
 
 
 class WorkSummary(PublicModel):
@@ -86,17 +106,27 @@ class WorkSummary(PublicModel):
     earliest_record: PublicationRecord | None
     has_official_listening: bool
     is_variant: bool
+    genre: Genre | None = None
+
+
+class Pronunciation(PublicModel):
+    reading: str = Field(min_length=1)
+    basis: Literal["author_suggestion", "author_confirmed"] = Field(description="作者の読み方案と、作者が確定した読みを区別する。推測読みは含めない。")
+    source_url: PublicUrl
+    source_date: str | None = Field(default=None, description="読みを示した本人投稿の日付。確認できた場合のみYYYY-MM-DDで保持。")
+    checked_on: str
 
 
 class WorkDetail(WorkSummary):
-    attribution_basis: AttributionBasis
+    sources: list[PublicSource]
     comment: str
     records: list[PublicationRecord]
     creation_records: list[PublicationRecord] = Field(description="作曲・リマスター年などの制作記録。公開履歴や年表の並べ替えには使わない。")
     listening: list[ListeningLink]
     relationships: list[Relationship]
-    issues: list[str]
     checked_on: str
+    pronunciation: Pronunciation | None = None
+    audio_sources: list[AudioSource] = Field(default_factory=list, description="追加で確認した全曲音源の掲載先。公式と非公式を区別する。実再生確認を意味しない。")
 
 
 class WorkList(PublicModel):
@@ -104,6 +134,91 @@ class WorkList(PublicModel):
     total: int
     limit: int
     offset: int
+
+
+class TimelineEntry(PublicModel):
+    id: str
+    title: str
+    aliases: list[Alias]
+    attribution: Literal["credited", "unverified"]
+    is_variant: bool
+    preview: PublicationRecord | None
+    release: PublicationRecord | None
+    reference: PublicationRecord | None
+    connect_preview: bool = Field(description="プレビューの期間全体が本公開の期間より前と確認できる場合のみtrue。")
+    audio_status: Literal["available", "unavailable", "unverified"] = "unverified"
+    full_audio_links: list[ListeningLink] = Field(default_factory=list, description="抜粋・クロスフェード・告知を除いた全曲音源の候補。リンクの存在だけで現在の再生可否を確定しない。")
+    audio_note: str = ""
+    full_record: PublicationRecord | None = Field(default=None, description="現在の全曲公開として扱う音源の、確認できた最も早い公開記録。日付を推測して補わない。")
+    audio_sources: list[AudioSource] = Field(default_factory=list)
+    audio_access: Literal["official", "unofficial", "unverified"] = "unverified"
+
+
+class TimelineList(PublicModel):
+    items: list[TimelineEntry]
+    checked_on: str
+    as_of: str = Field(description="グラフ右端の現在日。Asia/Tokyoの年月日。再生確認日とは区別する。")
+
+
+class CollectionSummary(PublicModel):
+    id: str
+    kind: Literal["album", "game"]
+    title: str
+    category: str
+    entry_count: int
+    source_url: PublicUrl
+    release_records: list[PublicationRecord]
+    checked_on: str
+
+
+class CollectionTrack(PublicModel):
+    work_id: str | None
+    title: str
+    credited_name: str
+    role: str
+    attribution: Literal["credited", "unverified"]
+    disc: int | None
+    track_number: int | None
+    source_url: PublicUrl
+    evidence: str
+    checked_on: str
+    listening: ListeningLink | None
+    note: str
+    listing_kind: Literal["収録", "BMS登録", "公式許諾曲", "追加告知", "大会向け提供", "収録候補"] = "収録"
+    edition: str = ""
+    source_kind: Literal["primary", "primary_reproduction", "secondary"] = "primary"
+    source_label: str = ""
+    genre: Genre | None = None
+
+
+class CollectionDetail(CollectionSummary):
+    tracks: list[CollectionTrack]
+    note: str
+
+
+class CollectionList(PublicModel):
+    items: list[CollectionSummary]
+
+
+class WorkCollection(PublicModel):
+    collection: CollectionSummary
+    tracks: list[CollectionTrack]
+
+
+class WorkRemix(PublicModel):
+    title: str
+    work_id: str | None
+    credited_name: str
+    evidence_status: str
+    source_url: PublicUrl | None = None
+    album_id: str | None = None
+    album_title: str | None = None
+
+
+class WorkContext(PublicModel):
+    albums: list[WorkCollection]
+    games: list[WorkCollection]
+    remixes: list[WorkRemix]
 
 
 class ArchiveMeta(PublicModel):
@@ -130,3 +245,12 @@ class ErrorBody(PublicModel):
 
 class ApiError(PublicModel):
     error: ErrorBody
+
+
+class PublicCatalogue(PublicModel):
+    meta: ArchiveMeta
+    works: list[WorkDetail]
+
+
+class PublicCollections(PublicModel):
+    collections: list[CollectionDetail]

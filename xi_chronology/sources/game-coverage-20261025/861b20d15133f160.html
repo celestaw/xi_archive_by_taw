@@ -1,0 +1,100 @@
+$(window).on('load', function(){
+  $.ajax({    
+      url:"/master-data/json/music/index.json", // 通信先のURL
+      type:"GET",        // 使用するHTTPメソッド
+      dataType:"json", // 応答のデータの種類 
+                      // (xml/html/script/json/jsonp/text)
+      timespan:1000,       // 通信のタイムアウトの設定(ミリ秒)
+      success: function(json){
+
+        var all_contents = json.musics
+          for( var i = 0; i < all_contents.length; i++ ){
+            $(".recording-list").append("\
+              <li class=\"recording-list--item "+all_contents[i].unit.toLowerCase()+"\">\
+                <p class=\"recording-list--title\">"+ all_contents[i].title +"</p>\
+                <dl class=\"recording-list--create\">\
+                  <dt>作詞</dt>\
+                  <dd>"+ all_contents[i].lyricist +"</dd></dl>\
+                <dl class=\"recording-list--create\">\
+                  <dt>作曲</dt>\
+                  <dd>"+ all_contents[i].composer +"</dd></dl>\
+                <p class=\"recording-list--attention "+all_contents[i].virtualSinger+"\">※バーチャル・シンガーVer.あり</p>\
+              </li>\
+            ");
+          }
+      }
+  })
+  $.ajax({
+    url:"/master-data/json/music/theme_index.json", // 通信先のURL
+    type:"GET",        // 使用するHTTPメソッド
+    dataType:"json", // 応答のデータの種類 
+                    // (xml/html/script/json/jsonp/text)
+    timespan:1000,       // 通信のタイムアウトの設定(ミリ秒)
+    success: function(json){
+      var theme_contents = json.themeMusics
+      for( var i = 0; i < theme_contents.length; i++ ){
+        $(".song-list"+".theme").append("\
+        <li class=\"song-list--item all\">\
+          <a class=\"js-modal-ajax\" href=\"modal/theme.html\" data-id="+theme_contents[i].id+">\
+            <p class=\"song-list--heading\">"+theme_contents[i].title+"</p>\
+            <div class=\"song-list--name\">\
+              "+theme_contents[i].creatorName+"\
+              <span class=\"song-list--zoom\">\
+                <img src=\"../assets/data/webp/icon/icon_zoom.png.webp\" alt=\"\">\
+              </span>\
+            </div>\
+          </a>\
+        </li>\
+        ");
+      }
+    }
+  })
+  $.ajax({
+    url:"/master-data/json/music/unit_index.json", // 通信先のURL
+    type:"GET",        // 使用するHTTPメソッド
+    dataType:"json", // 応答のデータの種類 
+                    // (xml/html/script/json/jsonp/text)
+    timespan:1000,       // 通信のタイムアウトの設定(ミリ秒)
+    success: function(json){
+      var unit_contents = json.unitMusics
+      for( var i = 0; i < unit_contents.length; i++ ){
+        $(".song-list"+".unit").append("\
+        <li class=\"song-list--item "+unit_contents[i].unit.toLowerCase()+"\">\
+          <a class=\"js-modal-ajax\" href=\"modal/unit.html\" data-id="+unit_contents[i].id+">\
+            <p class=\"song-list--heading\">"+unit_contents[i].title+"</p>\
+            <div class=\"song-list--name\">\
+              "+unit_contents[i].creatorName+"\
+              <span class=\"song-list--zoom\">\
+                <img src=\"../assets/data/webp/icon/icon_zoom.png.webp\" alt=\"\">\
+              </span>\
+            </div>\
+          </a>\
+        </li>\
+        ");
+      }
+    }
+  })
+})
+
+  $(document).ajaxComplete(function() {
+    // DOMがAjaxで構築された後にmagnificPopupを実行する
+      $(".js-modal-ajax").magnificPopup({
+        type: "ajax",
+        mainClass: "mfp-fade",
+        removalDelay: 200,
+        preloader: !1,
+        closeMarkup:
+          '<button title="閉じる" class="popup-close mfp-close"></button>',
+        callbacks: {
+          elementParse: function (item) {
+            var popupaArea = document.getElementsByClassName("mfp-content");
+            // popupaArea[0].setAttribute("id",item.el.attr("data-id"));
+            history.pushState(null, null, "/music/index.html?id="+item.el.attr("data-id"));
+          },
+          close: function () {
+            history.pushState(null, null, "/music/index.html");
+          },
+        }
+        });
+  });
+

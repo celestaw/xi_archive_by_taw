@@ -1,0 +1,381 @@
+{
+  "schema_version": 1,
+  "entries": {
+    "XI-175": {
+      "title": "Chronophobia",
+      "status": "written",
+      "updated_on": "2026-10-26",
+      "source": "このチャットでの利用者本人の感想",
+      "original_text": "え！！？？opI fear titan以来の楽曲が！！？？In　falsusに収録されてたらしい、やる時間なくて知らんかった....サビがだいぶxiな気がする。\nイントロ、サビ後とかはかねこちはるなんじゃないかな最後はめっちゃかねこちはるな気がする\nあと途中めっちゃかねこちはるゾーンあったよね？0:56の部分ななかで聞いたことある気がするんだけど\n1:18とかはめっちゃDOMiNUS_GRAiLを感じる",
+      "text": "え！！？？『Op.I《fear-TITΛN-》』以来の合作曲が！！？？\n『In Falsus』に収録されてたらしい。やる時間なくて知らんかった……。\n\nサビはだいぶxiな気がする。イントロやサビ後はかねこちはるなんじゃないかな。特に最後はめっちゃかねこちはるっぽい。\n\n途中にもめっちゃかねこちはるゾーンあったよね？ 0:56の部分、何かで聴いたことある気がするんだけど。1:18あたりはめっちゃ『DOMiNUS_GRAiL』を感じる。",
+      "approval_note": "清書案をチャットに提示し、2026-10-26に利用者が『OKっす、それで』と承認。提示した本文を変更せず登録。",
+      "approved_on": "2026-10-26",
+      "interpretation_note": "表記・句読点・明らかな誤字のみ整理。制作分担や似ている曲についての記述は利用者の聴取印象であり、クレジット・引用・流用の確定情報ではない。『以来』も利用者の反応として保持し、合作履歴の網羅調査を意味しない。",
+      "listening_url": "https://www.youtube.com/watch?v=_K3LNlaGmY4",
+      "timestamp_notes": [
+        {
+          "time": "0:56",
+          "impression": "何かで聴いたことがある気がする。かねこちはるらしさを感じる。",
+          "reference_work_id": null
+        },
+        {
+          "time": "1:18",
+          "impression": "DOMiNUS_GRAiLを感じる。",
+          "reference_work_id": "XI-158"
+        }
+      ]
+    },
+    "XI-161": {
+      "title": "ULTIM@TE☆BE∀M!!",
+      "status": "written",
+      "updated_on": "2026-10-26",
+      "source": "このチャットでの利用者本人の補足コメント",
+      "original_text": "ULTIMATE BEAM\n史上初のxiのボカロ曲。そもそもxiによる歌曲が異例であるため、まさかないだろうと思っていたがついにプロセカチャンピオンシップで発表された。あの削除の怪獣になりたいにつづくappend38として実装される模様。\nAfterburnerの現代版のような楽曲。Afterburnerの時と異なり、歌唱中もピアノが容赦なく降り注いでいるので譜面がアルティメットになっている。\nXeno gravityあたりから用いだしたグリッサンドも多用し大暴れである。BPMは240~260。\nビームといえば削除のdestroyer, 怪獣になりたいが有名だが、xiはでAragami, Dreadnoughtでビームを放っている。",
+      "text": "xi初のボカロ曲。『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』への書き下ろし楽曲である。そもそもxiによる歌もの自体が珍しく、まさかないだろうと思っていたが、ついに『プロジェクトセカイ Championship 2026』で発表された。削除の『怪獣になりたい』に続くAPPEND Lv.38として実装される模様。\n\n『After Burner』の現代版のような楽曲。ただし『After Burner』のときとは異なり、歌唱中もピアノが容赦なく降り注ぎ、譜面までアルティメットになっている。\n\n『Xeno Gravity』あたりから用い始めたグリッサンドも多用し、大暴れである。BPMは240〜260。細かく見ると、さらにテンポが揺れているらしい。\n\nビームといえば削除の『Destr0yer』や『怪獣になりたい』が有名だが、xiも『Aragami』や『Dreadnought』でビームを放っている。\n\n（余談）\n『maimai』で削除の『PANDORA PARADOXXX』からxiの『Xaleid◆scopiX』へと続いたように、プロセカでも削除の『怪獣になりたい』に続く形で、xiの『ULTIM@TE☆BE∀M!!』が発表された。やっぱりxi削除なんだよね。\n\nしかし、これに続くボス曲の作者は誰なのか？ 個人的には、G2R2018のドリームチーム『除草剤』（削除・xi・LeaF）を思うと、次はLeaFなのではないかと考えている。なお、LeaFのXを見る限り、出る可能性はかなり低そうな気もするが。\n\n（フルサイズ版について）\n突如現れたフルサイズ版。イントロと2番部分が追加されている。\n\n別の作曲者の曲だけど、イントロがCHUBAYの『Vixtory』すぎないか？ とは思った。あと、全体的になんとなくt+pazolite味を感じる気がする。\n\nまあ、確かに『FREEDOM DiVE↓』と『Glorious Crown』にはt+pazoliteのリミックスがあるし……。",
+      "approval_note": "フルサイズ版の清書案を提示し、作者表記CHUBAYの追記・敬称略への修正後、利用者が「次行くよ」と次曲への進行を指示。最終提示版を反映。",
+      "interpretation_note": "曲名と大会名の表記、句読点、明らかな誤字を整理。利用者による補足評論として保存し、帰属・公開履歴・制作工程の根拠には用いない。",
+      "verification_notes": [
+        "BPM 240〜260は利用者提供の数値として清書案に保持。非公式譜面のテンポ・スクロール変速値は楽曲BPMと区別し、公式の数値との照合は未完了。",
+        "xi初のボカロ曲、グリッサンドを用い始めた時期、ビーム表現などは利用者の記述。今回の資料確認で網羅的な制作史・演出史を証明したものではない。",
+        "Destr0yerの正式表記と除草剤のメンバー3名をG2R2018公式登録資料で確認。https://manbow.nothing.sh/event/page/g2r2018/teamlist18/kprof.cgi https://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=353",
+        "Xaleid◆scopiXの表記はSEGA公式映像一覧と既存曲別根拠に合わせた。https://maimai.sega.jp/movie/",
+        "本文の実装予定という表現と整合させ、余談の実装されたは発表されたに整理。",
+        "次のボス曲作者とLeaFのXに関する部分は利用者個人の予想・観察として保持。本人の発言を今回別途確認したものではない。"
+      ],
+      "amendments": [
+        {
+          "date": "2026-10-26",
+          "original_text": "xi初のボカロ曲。プロジェクトセカイカラフルステージ書下ろし楽曲である。そもそもxiによる歌もの自体が珍しく、まさかないだろうと思っていたが、ついに『プロジェクトセカイ Championship 2026』で発表された。削除の『怪獣になりたい』に続くAPPEND Lv.38として実装される模様。\n『After Burner』の現代版のような楽曲。ただし『After Burner』のときとは異なり、歌唱中もピアノが容赦なく降り注ぎ、譜面までアルティメットになっている。\n『Xeno Gravity』あたりから用い始めたグリッサンドも多用し、大暴れである。BPMは240〜260。詳しくみるともっと揺れてるらしい。\nビームといえば削除の『Destroyer』や『怪獣になりたい』が有名だが、xiも『Aragami』や『Dreadnought』でビームを放っている。\n(余談)\nmaimaiでの削除のpandora pradoxxxからのxiのXaleid◇ScopicXよろしく、プロセカでも削除の怪獣になりたいからのxiのULTIM@TE☆BE∀M!!が実装された。やっぱりxi削除なんだよね。\nしかし、これに続くボス曲作者は誰なのか？個人的にはG2R2018のドリームチーム除草剤で次はLeaFなのではないかと考えている（なおLeaFのXを見る限り相当でなさそうな気はするが）"
+        }
+      ],
+      "approved_on": "2026-10-26",
+      "revision_history": [
+        {
+          "approved_on": "2026-10-26",
+          "text": "xi初のボカロ曲。『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』への書き下ろし楽曲である。そもそもxiによる歌もの自体が珍しく、まさかないだろうと思っていたが、ついに『プロジェクトセカイ Championship 2026』で発表された。削除の『怪獣になりたい』に続くAPPEND Lv.38として実装される模様。\n\n『After Burner』の現代版のような楽曲。ただし『After Burner』のときとは異なり、歌唱中もピアノが容赦なく降り注ぎ、譜面までアルティメットになっている。\n\n『Xeno Gravity』あたりから用い始めたグリッサンドも多用し、大暴れである。BPMは240〜260。細かく見ると、さらにテンポが揺れているらしい。\n\nビームといえば削除の『Destr0yer』や『怪獣になりたい』が有名だが、xiも『Aragami』や『Dreadnought』でビームを放っている。\n\n（余談）\n『maimai』で削除の『PANDORA PARADOXXX』からxiの『Xaleid◆scopiX』へと続いたように、プロセカでも削除の『怪獣になりたい』に続く形で、xiの『ULTIM@TE☆BE∀M!!』が発表された。やっぱりxi削除なんだよね。\n\nしかし、これに続くボス曲の作者は誰なのか？ 個人的には、G2R2018のドリームチーム『除草剤』（削除・xi・LeaF）を思うと、次はLeaFなのではないかと考えている。なお、LeaFのXを見る限り、出る可能性はかなり低そうな気もするが。",
+          "approval_note": "追記込みの清書案を提示し、利用者が「Okっす、次行きましょう」と承認。提示本文を変更せず楽曲詳細の補足コメントに反映。Game Size版へ自動で複製しない。"
+        }
+      ],
+      "approved_appendix": {
+        "status": "approved",
+        "submitted_on": "2026-10-26",
+        "original_text": "突如現れたフルサイズ版。イントロと二番部分が増えている。\n違う作曲者だけどイントロがVixtory過ぎないか？とは思った。あと全体的になんとなくt+pazolite味を感じる気がする。\nまあ確かにFREEDOMDiVEとGlorious Crownにはとパぞリミックスがあるし....",
+        "appendix_title": "フルサイズ版について",
+        "appendix_text": "突如現れたフルサイズ版。イントロと2番部分が追加されている。\n\n別の作曲者の曲だけど、イントロがCHUBAYの『Vixtory』すぎないか？ とは思った。あと、全体的になんとなくt+pazolite味を感じる気がする。\n\nまあ、確かに『FREEDOM DiVE↓』と『Glorious Crown』にはt+pazoliteのリミックスがあるし……。",
+        "text": "xi初のボカロ曲。『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』への書き下ろし楽曲である。そもそもxiによる歌もの自体が珍しく、まさかないだろうと思っていたが、ついに『プロジェクトセカイ Championship 2026』で発表された。削除の『怪獣になりたい』に続くAPPEND Lv.38として実装される模様。\n\n『After Burner』の現代版のような楽曲。ただし『After Burner』のときとは異なり、歌唱中もピアノが容赦なく降り注ぎ、譜面までアルティメットになっている。\n\n『Xeno Gravity』あたりから用い始めたグリッサンドも多用し、大暴れである。BPMは240〜260。細かく見ると、さらにテンポが揺れているらしい。\n\nビームといえば削除の『Destr0yer』や『怪獣になりたい』が有名だが、xiも『Aragami』や『Dreadnought』でビームを放っている。\n\n（余談）\n『maimai』で削除の『PANDORA PARADOXXX』からxiの『Xaleid◆scopiX』へと続いたように、プロセカでも削除の『怪獣になりたい』に続く形で、xiの『ULTIM@TE☆BE∀M!!』が発表された。やっぱりxi削除なんだよね。\n\nしかし、これに続くボス曲の作者は誰なのか？ 個人的には、G2R2018のドリームチーム『除草剤』（削除・xi・LeaF）を思うと、次はLeaFなのではないかと考えている。なお、LeaFのXを見る限り、出る可能性はかなり低そうな気もするが。\n\n（フルサイズ版について）\n突如現れたフルサイズ版。イントロと2番部分が追加されている。\n\n別の作曲者の曲だけど、イントロがCHUBAYの『Vixtory』すぎないか？ とは思った。あと、全体的になんとなくt+pazolite味を感じる気がする。\n\nまあ、確かに『FREEDOM DiVE↓』と『Glorious Crown』にはt+pazoliteのリミックスがあるし……。",
+        "approval_note": "この追記案は未承認。承認前は既存のtextとwritten状態を保持し、公開コメントを変更しない。",
+        "interpretation_note": "曲名・アーティスト表記、句読点を整理。Vixtoryやt+pazoliteとの類似は利用者の聴取印象として保持し、制作参加・引用・流用を意味する情報にはしない。",
+        "amendments": [
+          {
+            "date": "2026-10-26",
+            "original_text": "Vixtoryはたしかchubei氏の曲だったのでそれをついk見してほしい",
+            "interpretation": "Vixtoryの作者を正式表記CHUBAYで追記。"
+          }
+        ],
+        "credit_check": {
+          "title": "Vixtory",
+          "credited_name": "CHUBAY",
+          "source_url": "https://music.apple.com/us/song/1633957683",
+          "supporting_source_url": "https://www.tanocstore.net/shopdetail/000000003537/",
+          "checked_on": "2026-10-26"
+        },
+        "style_note": "利用者の敬称略の方針に合わせ、作者名はCHUBAYと表記し、氏は付けない。",
+        "approved_on": "2026-10-26"
+      }
+    },
+    "XI-252": {
+      "title": "Parallax",
+      "status": "skipped_unheard",
+      "updated_on": "2026-10-26",
+      "text": ""
+    },
+    "XI-253": {
+      "title": "Re：End of a Dream (Diceros Bicornis Remix)",
+      "status": "skipped_unheard",
+      "updated_on": "2026-10-26",
+      "text": ""
+    },
+    "XI-208": {
+      "title": "Noctiluca",
+      "status": "written",
+      "updated_on": "2026-10-26",
+      "source": "このチャットでの利用者本人の補足コメント",
+      "original_text": "意味は「夜に輝くもの」月、ランタンとか夜光虫とか。\nここ最近ハチャメチャに暴れていたxiの中でめっちゃくちゃおとなしいやつがきた印象。いや相対的におとなしいだけな気がするけど\nなんとなく往年のxi曲を感じる。具体的にはだいぶIoliteで、2:00~のメロディーはIoliteの1:23あたりのメロディーをなぞっている。盛り上がり方はoverwhelmっぽさがある\n\nこんな感じかな",
+      "text": "タイトルの意味は「夜に輝くもの」。月やランタン、夜光虫など。\n\nここ最近ハチャメチャに暴れていたxiから、めちゃくちゃおとなしい曲が来た印象。いや、相対的におとなしいだけな気もするけど。\n\nなんとなく往年のxi曲を感じる。具体的にはかなり『Iolite』っぽく、2:00あたりからのメロディーは『Iolite』の1:23あたりのメロディーをなぞっている。盛り上がり方には『Overwhelm』っぽさもある。",
+      "approval_note": "清書案を提示し、利用者が「OK」と承認。提示した本文を変更せず楽曲詳細の補足コメントに反映。",
+      "interpretation_note": "曲名の大文字小文字、句読点、明らかな誤字を整理。既存曲との類似は利用者の聴取印象として保持し、引用や流用の確定情報にはしない。語義は利用者提供の説明として保持。",
+      "timestamp_notes": [
+        {
+          "time": "2:00",
+          "impression": "Ioliteの1:23あたりのメロディーをなぞっている。",
+          "reference_time": "1:23",
+          "reference_title": "Iolite"
+        }
+      ],
+      "approved_on": "2026-10-26"
+    },
+    "XI-250": {
+      "title": "泡沫と月",
+      "status": "skipped_unheard",
+      "updated_on": "2026-10-26",
+      "text": "",
+      "note": "利用者が「これパス。まともに聞けてない」と指示。十分に聴けていないためコメントは保留。"
+    },
+    "XI-160": {
+      "title": "変幻自在",
+      "status": "written",
+      "updated_on": "2026-10-26",
+      "source": "このチャットでの利用者本人の補足コメント",
+      "original_text": "AD:PIANO Xで収録。画竜点睛、天衣無縫、疾風怒濤などのような四字熟語シリーズ。なんかでこの曲調聞いたことあるはずなんだけど....覚えてないので思い出したら更新します。\nなんとなくmistrteinとかそのあたりっぽさはあるんだけど....",
+      "text": "『AD:PIANO X』収録。『画竜点睛』『天衣無縫』『疾風怒濤』などに連なる四字熟語シリーズ。\n\nどこかでこの曲調を聴いたことがあるはずなんだけど……。覚えていないので、思い出したら更新します。\n\nなんとなく『Mistilteinn』とか、そのあたりの曲っぽさはあるんだけど……。",
+      "approval_note": "清書案を提示し、利用者が「おっねーそれで乗せて」と掲載を承認。提示本文を変更せず楽曲詳細の補足コメントに反映。",
+      "interpretation_note": "mistrteinは既存台帳のMistilteinn（XI-206）を指すものとして表記を整理し、利用者に確認する。四字熟語シリーズは利用者による分類であり、公式シリーズ名として登録しない。他曲との類似や記憶の曖昧さは利用者の印象として保持。",
+      "verification_notes": [
+        "既存のDiverse System公式Bandcamp曲目データでAD:PIANO X第2曲、xi - 変幻自在を確認。https://diversesystem.bandcamp.com/album/ad-piano-x"
+      ],
+      "approved_on": "2026-10-26"
+    },
+    "XI-062": {
+      "title": "over the top",
+      "status": "written",
+      "updated_on": "2026-10-26",
+      "priority": "publication",
+      "source": "利用者の補足を受けて公式アルバム曲目・発売日・収録時間を照合",
+      "original_text": "over the top、これは他にアルバムがあって、120秒以内るコンピアルバムに収録されているはずでそれが初稿。その後にふるVERがでてるはず。そういう経緯を書きkたい",
+      "text": "もともとは、約2分の楽曲が並ぶコンピレーション『AD:Nearly 120 seconds』（2015年4月26日発売）に収録された曲。このときの収録版は2分5秒。\n\nその後、同年12月31日発売のxiのアルバム『World Fragments』に、4分21秒のフルサイズ版が収録された。短い版が先にあり、後からフルサイズ版が出たという経緯を持つ。",
+      "approval_note": "利用者が「いい。他もこんな感じで反映させていく」と清書案を承認。提示本文を変更せず詳細へ反映。",
+      "verification_notes": [
+        "曲名の公式表記はover the top（小文字）。",
+        "AD:Nearly 120 secondsは120秒以内という厳密な上限ではない。公式Bandcampで当該曲2:05、他曲も2分を超えるものを確認したため約2分と整理。",
+        "公式曲目でAD:Nearly 120 seconds第3曲2:05と2015-04-26発売、World Fragments第5曲4:21と2015-12-31発売を確認。",
+        "原稿はアルバム収録版の公開順を説明する。制作途中の初稿であるとの本人説明や、あらゆる媒体に先行する真の初公開日を確定したものではない。",
+        "音源はダウンロード・聴取しておらず、音源構成の一致を波形などで検証したものではない。"
+      ],
+      "sources": [
+        {
+          "url": "https://diverse.jp/dvsp-0131/",
+          "checked_on": "2026-10-26",
+          "summary": "レーベル公式曲目に第3曲over the top / xi、Release Date 2015/04/26。"
+        },
+        {
+          "url": "https://diversesystem.bandcamp.com/album/ad-nearly-120-seconds",
+          "checked_on": "2026-10-26",
+          "summary": "レーベル公式Bandcamp曲目の第3曲にxi - over the top 02:05、creditsにreleased April 26, 2015。"
+        },
+        {
+          "url": "https://diversesystem.bandcamp.com/album/world-fragments",
+          "checked_on": "2026-10-26",
+          "summary": "レーベル公式Bandcamp曲目の第5曲にxi - over the top 04:21、creditsにreleased December 31, 2015。"
+        }
+      ],
+      "approved_on": "2026-10-26"
+    },
+    "XI-017": {
+      "title": "FREEDOM DiVE↓",
+      "status": "written",
+      "updated_on": "2026-10-27",
+      "source": "このチャットでの利用者本人の補足コメント",
+      "text": "後継曲として語られる楽曲に『Glorious Crown』『Heavenly Blast』がある。頭文字を並べるとFD→GC→HB。最初の文字が一つずつ進み、後ろの文字は一つずつ戻っている。となると、今後「IA」に対応する曲が出る可能性もあるのでは？\n\nBMSでは、初代発狂段位認定Overjoyの最終課題曲として採用された差分『FREEDOM DiVE [FOUR DIMENSIONS]』、通称FDFDが有名。初代・GENOSIDE・GENOSIDE 2018と、構成が変わっても4曲目を務めている。譜面自体の難易度表記は☆24だが、発狂難易度表では★25、Overjoy難易度表では★★5と、表によって表記が異なる。\n\nちなみに、今では「ウイニングラン」と呼ぶ人もいるとか？ 素人目にはそんなわけないと思うんだけど。\n\nリミックスも非常に多い。t+pazoliteの『FREEDOM DiVE (tpz Overcute Remix)』や、cosMo@暴走Pによる『FREEDOM DiVE[METAL†DIMENSIONS]』など、いろいろな姿を見せている。\n\nBPMは222.22。2008年のBMS公開ページでも、xi自身が「表記では222ですが実際は222.22」と説明している。\n\n『CHUNITHM』の『Glorious Crown (tpz over-Over-OVERCUTE REMIX)』や、『maimai』の『FREEDOM DiVE (tpz Overcute Remix)』に登場するスカイフェザーは、配色を見ると『くらんて』を意識しているように思える。なお、『CHUNITHM NEW』以前には『FREEDOM DRiVE』というスキルを持っていた。\n\n音源の版違いもある。2008年のBMSイベント『MAXBEAT』で公開された版に加え、同年3月23日にはHQ版への更新が案内されている。さらに、アルバム『Parousia』にはロング版が収録されている。\n\nアレンジを前提とすれば、人間がピアノで弾くこともできる模様。まらしぃやじゃんぷにが演奏を公開している。じゃんぷにの演奏はテレビでも紹介されている。本人も旧演奏動画の説明文で「テレビで弾いちゃったよ」と触れている。\n\nちなみに、自分もその放送を実際に見ていた……はず。メンサ会員についての特集だったと記憶している。\n\n（余談）\n『昨日に奏でる明日の歌』との類似をめぐる騒動もあった。当事者ではないので詳しい事情までは分からないが、個人的には、xiがこの件で責められる筋合いはないと思っている。",
+      "approval_note": "清書案にテレビ演奏の間接確認と本人の視聴記憶の余談を追加する案を提示し、利用者が2026-10-27に「そんな感じで反映していいよ」と承認。",
+      "verification_notes": [
+        "BPM222.22は2008年の作者自身の説明に存在するため、SDVXで初めて判明したという記述は採用しない。",
+        "初出ページに2008年3月23日のHQ更新記述がある。Parousiaでのリマスターおよび全3種類という分類は未確認。",
+        "Crankyのリミックス、DPの段位採用詳細、地上波初放送という主張は保留。テレビ演奏については転載説明文とxiの投稿保存記録による間接確認を得た。",
+        "FD→GC→HBの並びからIAを予想する部分、キャラクターの配色、ウイニングランの話は利用者の推測・伝聞として扱う。",
+        "類似騒動への評価は利用者の意見として表現。結末・権利判断の断定はしない。"
+      ],
+      "sources": [
+        "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=50&num=15",
+        "https://nekokan.dyndns.info/~lobsak/genoside/grade.html",
+        "https://lr2ir.com/charts/c46a81cb184f5a804c119930d6eba748",
+        "https://diversesystem.bandcamp.com/track/freedom-dive-metal-dimensions",
+        "https://diversesystem.bandcamp.com/album/parousia",
+        "https://www.youtube.com/watch?v=wGMQw8gCbh8",
+        "https://www.nicovideo.jp/watch/sm39135491"
+      ],
+      "television_research": {
+        "checked_on": "2026-10-26",
+        "user_eyewitness": "利用者がメンサ会員に関するテレビ特集で、じゃんぷにのFREEDOM DiVE演奏映像を直接見たと説明。",
+        "findings": [
+          "nicozonに転載された本人の旧演奏動画sm37457277の説明文に「テレビで弾いちゃったよ。」と記載。元のニコニコ動画は取得できず、転載説明文を通じた間接確認。",
+          "ついふぁんに保存されたxiの投稿に「FDが地上波で流れたらしい」。表示日時2020/10/31 22:03:03。投稿日時を放送日時と同一視しない。"
+        ],
+        "unresolved": [
+          "番組名・放送日時・メンサ特集との直接の結びつきは未特定。",
+          "これが楽曲の地上波初放送だったことは未確認。"
+        ],
+        "sources": [
+          "https://www.nicozon.net/tag/FREEDOM%EF%BC%BFDIVE%E2%86%93/v/d",
+          "https://www.nicovideo.jp/watch/sm37457277",
+          "https://twfan.net/user/93572970/new/2"
+        ]
+      },
+      "approved_on": "2026-10-27"
+    },
+    "XI-072": {
+      "title": "ANiMA",
+      "status": "written",
+      "updated_on": "2026-10-27",
+      "source": "このチャットでの利用者本人の補足コメント",
+      "text": "xiといえば、で押さえておきたい曲。ゲームサイズとロングバージョンが存在する。『DEEMO』ver.2.0で初登場し、当時の音ゲーマーを苦しめた。\n\nHard譜面の特徴として、両手→両手→片手と押させる「2-2-1配置」や、ラストの8分と12分の混フレがある。その後、ver.3.0ではExtra譜面が追加された。その難易度表記は、まさかの「xi」。もう本人じゃん、それは。譜面については[Deemo Wiki](https://wikiwiki.jp/deemo/ANiMA)のほうが詳しいよ。\n\n『Cytus II』『DEEMO II』への移植のほか、Rayark以外のゲームでは『DJMAX RESPECT』『太鼓の達人』『maimai』『プロジェクトセカイ』などに収録されている。『DJMAX RESPECT』では2019年7月29日配信のDEEMOパックに収録。その後、『太鼓の達人』では2020年10月8日にNintendo Switch版、同月10日にアーケード版へ追加されている。『maimai』への収録は2026年4月17日、プロセカへの収録は同年6月25日。\n\nプロセカではAPPEND Lv.36として収録され、めちゃくちゃやばい譜面が降ってくる。しかし、その中で一部の人間は予想していた……これは[嵐の前触れ](/works/XI-161)であると。\n\n楽曲の大きな特徴として、ありえない回数の転調がある。個人的にはxiの曲の中でも珍しく感じていて、同じような印象を持つのは、後継曲ともいわれる『PRiMA MATERiA』くらいだろうか。『DOMiNUS_GRAiL』と『MESSiΛH COMPL3X』は分析しきれていないので、転調がどうなっているのかはまだ分からない。\n\nというか、『ANiMA』も『PRiMA MATERiA』もぬるっと転調するから、本当に分からないんだよな……どうなってんの、これ？ だから、あんまりドパガキみたいな転調ではない。ロング版のラスサビはドパれる。\n\n正統な後継曲だと思うのは、Rayarkの15周年を記念して制作された『MESSiΛH COMPL3X』。詳しくは[そちら](/works/XI-203)を参照。",
+      "approval_note": "DJMAX RESPECTを含む時系列への修正後、利用者が「まあこんなもんでしょうかね 次Halcyonにしようかな」と進行を指示したため、清書案を承認済みとして反映。",
+      "verification_notes": [
+        "Deemo Wikiで初出ver.2.0、Extra追加ver.3.0、難易度表記xiを確認。CytusはCytus IIへ表記を修正。",
+        "公式発表よりMESSiΛH COMPL3XはDEEMO15周年ではなくRayark15周年記念楽曲。",
+        "太鼓の達人がRayarkの関与しない最初の収録だったという主張は根拠未確認のため保留。",
+        "転調の回数・稀少性、PRiMA MATERiAやMESSiΛH COMPL3Xとの系譜は利用者の印象・評価として整理し、独自の楽曲分析を行ったとはしない。"
+      ],
+      "comment_links": [
+        {
+          "label": "嵐の前触れ",
+          "work_id": "XI-161"
+        },
+        {
+          "label": "そちら",
+          "work_id": "XI-203"
+        }
+      ],
+      "sources": [
+        "https://wikiwiki.jp/deemo/ANiMA",
+        "https://rayark.com/ja/news/20260908-rayark-15th/",
+        "https://info-maimai.sega.jp/8851/"
+      ],
+      "external_game_research": {
+        "checked_on": "2026-10-27",
+        "conclusion": "指定の3作品の順序は太鼓→maimai→プロセカ。ただし他社作品には2019年のDJMAX RESPECTがあり、他社作品全体で太鼓が初とはしない。各収録はDEEMO等との公式コラボとして発表されているため、Rayark無関与とも書かない。",
+        "timeline": [
+          {
+            "game": "DJMAX RESPECT (PS4)",
+            "announcement_date": "2019-07-29",
+            "release_date": "2019-07-29",
+            "source": "https://www.arcsystemworks.jp/portal/post-13497/",
+            "note": "公式発売告知の検索インデックスで本文と収録曲ANiMAを確認。直接再取得は503。7月25日の公式X投稿へのリンクも告知履歴にあるが、X本文の直接取得には至らず。"
+          },
+          {
+            "game": "太鼓の達人",
+            "announcement_date": "2020-09-16",
+            "release_date": "2020-10-08",
+            "arcade_release_date": "2020-10-10",
+            "source": "https://taiko-ch.net/blog/?p=4883",
+            "switch_source": "https://switch.taiko-ch.net/dlc/pack.php"
+          },
+          {
+            "game": "maimai でらっくす",
+            "announcement_date": "2026-04-16",
+            "release_date": "2026-04-17",
+            "source": "https://info-maimai.sega.jp/8851/"
+          },
+          {
+            "game": "プロジェクトセカイ",
+            "announcement_date": "2026-05-28",
+            "release_date": "2026-06-25",
+            "source": "https://prtimes.jp/main/html/rd/p/000007397.000005397.html",
+            "note": "確認した公式プレスリリースの発表日。初告知日とは断定しない。"
+          }
+        ],
+        "x_evidence_note": "公式Xを検索。太鼓2020-10-02、maimai2026-04-16、プロセカ2026-06-25の投稿転載・保存記録を確認。一次資料は公式サイト・公式プレスリリースで補完し、X原文を全件直接閲覧済みとはしない。"
+      },
+      "approved_on": "2026-10-27"
+    },
+    "XI-026": {
+      "title": "Halcyon",
+      "status": "draft",
+      "updated_on": "2026-10-27",
+      "source": "このチャットでの利用者本人の補足コメント",
+      "original_text": "ゲームサイズとロングバージョンがある。BOFU2010にて初披露。ジャンルは確かハードコアルネッサンスだったはず。当時これにより個人戦、チーム戦、総合でトップだったはず。これはちゃんと調べたい。実はxiのBMS優勝はこれ一回である。かなり多くの音楽ゲームに収録されている。私はグルコスで初めて知った。なんかあんまり書けないか？",
+      "text": "ゲームサイズとロングバージョンがある。2010年のBMSイベント『THE BMS OF FIGHTERS 2010 -The Evolution of War-』、通称BOF2010にて公開された。ジャンルはRENAISSANCE HARDCORE（ルネッサンス・ハードコア）。\n\n大会では個人戦スコア部門で1位を獲得。所属チーム『Lyrical Signal』も、チーム戦スコア部門・中央値部門の両方で1位となった。なお、個人戦中央値部門では2位なので、全部門制覇というわけではない。\n\n2025年大会までの歴代結果では、BOF・BOFU・G2R系列におけるxiの個人戦スコア部門優勝は、この曲の一度だけである。\n\nかなり多くの音楽ゲームに収録されている。自分は『グルーヴコースター』で初めて知った。",
+      "approval_note": "清書案の確認待ち。公開には出力しない。",
+      "verification_notes": [
+        "大会名BOFU2010をBOF2010へ、ジャンルをRENAISSANCE HARDCOREへ修正。",
+        "公式結果：個人戦スコア204325点1位、エース点あり255406点1位、個人戦中央値1000点2位。チームLyrical Signalはスコア526916点1位・中央値998点1位。別建ての総合優勝という表現は採用しない。",
+        "EXTREMEBEATの.357 Magnumにも優勝歴があるため、BMSイベント全体で一度だけ優勝という記述は採用しない。BOF系の個人戦スコア優勝に限定する案は確認候補。",
+        "2026-10-27追確認：BMSまとめの歴代優勝楽曲一覧（2004〜2025、平均・中央値・補正の別を含む）とxi実績一覧を照合。xi名義の個人戦スコア優勝掲載はBOF2010 Halcyonのみ。BOF2010公式結果で当該優勝を一次確認。2026年大会の結果には拡張しない。チーム優勝や別イベントの優勝とは区別。"
+      ],
+      "sources": [
+        "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=65&num=237",
+        "https://www.bmsoffighters.net/bof2010/result.html",
+        "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=61&num=12",
+        "https://diversesystem.bandcamp.com/album/parousia",
+        "https://w.atwiki.jp/laser_bm/pages/86.html",
+        "https://w.atwiki.jp/laser_bm/pages/118.html"
+      ]
+    },
+    "XI-025": {
+      "title": ".357 Magnum",
+      "status": "written",
+      "updated_on": "2026-10-30",
+      "source": "このチャットでの利用者本人の補足コメント",
+      "text": "2010年2〜3月に開催されたBMSイベント『EXTREMEBEAT』で公開され、優勝した曲。同年秋の『Halcyon』によるBOF2010優勝よりも早い、確認できる範囲ではxi初のBMSイベント優勝曲である。\n\nBPMは357。このイベントはBPMが得点計算に掛け合わされる独特のルールであり、この異常な速さも大会の仕組みとかみ合っている。\n\n後の『Sparking Revolver』も同じBPM357で、銃に関係するタイトル、ジャズフュージョンという共通点がある。あちらのMASTER譜面作者名義が「.357 Sukiyaki」であることも含め、この曲を強く意識しているものと思われる。\n\n個人的には、後の『Halcyon』を思わせるフレーズも聴こえる。",
+      "approval_note": "清書案に対し利用者が「まあええかな」と承認し、Solar Stormへ進行。",
+      "verification_notes": [
+        "EXTREMEBEATは2010年2月18日〜3月7日、3月8日に結果公開。2009年とする一部二次資料は採用しない。BMS EVENT LITE・BMS SEARCHと当時のイベントページを照合。",
+        ".357 MagnumがHalcyonより先の優勝であることと、作者全活動中の初優勝であることは別。後者は確認できる範囲という留保を付ける。",
+        "BPMを含む得点計算ルールは確認。xiが得点のために357を選んだという本人の説明までは未確認なので制作動機を断定しない。",
+        "Sparking Revolverの初収録日・MASTER作者名義はCHUNITHM WikiとChuniDBで確認。2018年10月25日の通常開放とは区別。両曲の関係は印象・推測として扱う。",
+        "Halcyonを思わせるフレーズについては利用者の聴感上の指摘として保持し、公式な引用・流用や制作経緯を確認した事実とは扱わない。既存の登録記録は.357 Magnumが2010-02-19、Halcyonが2010-09-24で前後関係に矛盾はないが、真の初公開日・作曲日は未確定。"
+      ],
+      "sources": [
+        "https://hitkey.bms.ms/bmsevt.htm",
+        "https://bmssearch.net/exhibitions/xf5VwWGBg81TYR",
+        "https://manbow.nothing.sh/event/event.cgi?action=List_def&event=61",
+        "https://wikiwiki.jp/chunithmwiki/Sparking%20Revolver",
+        "https://db.chunirec.net/music/Sparking%2BRevolver/462f38b42950cb07",
+        "https://chunithm.sega.jp/news/2018-10-25/"
+      ],
+      "approved_on": "2026-10-27",
+      "amendments": [
+        {
+          "date": "2026-10-30",
+          "original_text": ".357 magnumにその後出るHalcyonっぽいフレーズがあることを追記しておいて",
+          "text": "個人的には、後の『Halcyon』を思わせるフレーズも聴こえる。",
+          "approval_note": "利用者本人による追記の指示を受けて反映。"
+        }
+      ]
+    },
+    "XI-225": {
+      "title": "Sparking Revolver",
+      "status": "written",
+      "updated_on": "2026-10-27",
+      "source": "このチャットでの利用者本人の補足コメント",
+      "text": "2018年3月8日、『CHUNITHM STAR PLUS』に収録。\n\n357という異常なBPMを持つ。これは、同じく銃に関係するタイトルの『.357 Magnum』を強く意識しているものと思われる。BPMだけでなく、ジャズフュージョンという曲調にも共通点がある。\n\nMASTER譜面の制作者は「.357 Sukiyaki」こと、すきやき奉行。譜面作者の名義まで『.357 Magnum』を思わせるものになっている。",
+      "approval_note": "清書案に対し利用者が「まあええかな」と承認し、Solar Stormへ進行。",
+      "verification_notes": [
+        "EXTREMEBEATは2010年2月18日〜3月7日、3月8日に結果公開。2009年とする一部二次資料は採用しない。BMS EVENT LITE・BMS SEARCHと当時のイベントページを照合。",
+        ".357 MagnumがHalcyonより先の優勝であることと、作者全活動中の初優勝であることは別。後者は確認できる範囲という留保を付ける。",
+        "BPMを含む得点計算ルールは確認。xiが得点のために357を選んだという本人の説明までは未確認なので制作動機を断定しない。",
+        "Sparking Revolverの初収録日・MASTER作者名義はCHUNITHM WikiとChuniDBで確認。2018年10月25日の通常開放とは区別。両曲の関係は印象・推測として扱う。"
+      ],
+      "sources": [
+        "https://hitkey.bms.ms/bmsevt.htm",
+        "https://bmssearch.net/exhibitions/xf5VwWGBg81TYR",
+        "https://manbow.nothing.sh/event/event.cgi?action=List_def&event=61",
+        "https://wikiwiki.jp/chunithmwiki/Sparking%20Revolver",
+        "https://db.chunirec.net/music/Sparking%2BRevolver/462f38b42950cb07",
+        "https://chunithm.sega.jp/news/2018-10-25/"
+      ],
+      "approved_on": "2026-10-27"
+    },
+    "XI-223": {
+      "title": "Solar Storm",
+      "status": "written",
+      "updated_on": "2026-10-27",
+      "source": "このチャットでの利用者本人の補足コメント",
+      "text": "ゲームサイズとロングバージョンが存在する。\n\n第2回天下一音ゲ祭のために、『グルーヴコースター』向けに書き下ろされた楽曲。その後、第3回天下一音ゲ祭で『SOUND VOLTEX』にも移植された。参加していた全機種に入ったわけではなく、音ゲ祭での収録先はこの2シリーズだった。\n\nなお、その後も移植がまったくなかったわけではなく、『MUSIC DIVER』にも収録されている。\n\nロング版はアルバム『Evolved Chronicles』に収録。神々しいので、ぜひ聴いてほしい。",
+      "approval_note": "清書案とMUSIC DIVER移植の補足に対し、利用者が「そんな感じで大丈夫」と承認しXaleid◆scopiXへ進行。",
+      "verification_notes": [
+        "第2回音ゲ祭のグルーヴコースター向け書き下ろし、第3回でSDVXへ移植。参加全機種への収録という記述は修正。",
+        "MUSIC DIVER公式公開曲目にも収録を確認済み（catalogue XI-223、GAME-COVERAGE-XI-223-CREDIT）。その後移植なしとはしない。2025年2月1日という追加日は二次資料での確認に留め、本文では省略。",
+        "ロング版を勧める評価は利用者の感想として保持。"
+      ],
+      "sources": [
+        "https://www.taito.co.jp/mob/topics/2579",
+        "https://twfan.net/hashtag/%E5%A4%A9%E4%B8%8B%E4%B8%80%E9%9F%B3%E3%82%B2%E7%A5%AD/new/2",
+        "https://mypage.musicdiver.jp/api/music?lang=ja",
+        "https://diverse.jp/dvsp-0169/",
+        "https://soundvoltex.fandom.com/wiki/Solar_Storm"
+      ],
+      "approved_on": "2026-10-27"
+    }
+  },
+  "selection_order": "user_priority_before_publication"
+}
