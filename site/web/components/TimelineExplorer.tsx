@@ -145,6 +145,7 @@ export function TimelineExplorer() {
   return <section className="timeline-explorer" aria-labelledby="timeline-title">
     <div className="timeline-heading"><h1 id="timeline-title">グラフ年表</h1><Link className="text-link" href="/#chronology">文字の年表を見る ↗</Link></div>
     <p className="timeline-intro">曲が世に出た順に、公開の時期と期間を見渡す。</p>
+    <p className="timeline-review-note"><strong>この年表は現在作成・確認中です。</strong>掲載内容の確認は完了しておらず、日付や情報に誤り・抜けがある可能性があります。</p>
     <ul className="timeline-legend" aria-label="グラフの凡例">
       <li><span className="timeline-symbol" aria-hidden="true" />仮公開・音源未確認</li>
       <li><span className="timeline-symbol is-release" aria-hidden="true" />全曲を聴ける音源あり</li>
