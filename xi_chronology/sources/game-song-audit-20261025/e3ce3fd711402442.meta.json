@@ -1,0 +1,26 @@
+{
+  "url": "https://p.eagate.573.jp/game/nostalgia/op3/news/entrance.html",
+  "key": "e3ce3fd711402442",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://p.eagate.573.jp/game/nostalgia/op3/news/entrance.html",
+  "sha256": "8e631d96722bf348a855c4469a44f7689e5aac505e02891390a2590df5b83b15",
+  "bytes": 13288,
+  "read_limit_reached": false,
+  "title": "\n    NOSTALGIA Op.3\n  ",
+  "links": [
+    "/gate/p/login.html?path=/game/nostalgia/op3/news/entrance.html",
+    "/payment/lead_payment.html",
+    "/gate/dungeon/index.html?h=1",
+    "/etc/faq/p/index.html",
+    "/",
+    "#",
+    "#",
+    "#",
+    "/",
+    "/",
+    "javascript:void(0)",
+    "/game/nostalgia/op3/top/entrance.html"
+  ]
+}

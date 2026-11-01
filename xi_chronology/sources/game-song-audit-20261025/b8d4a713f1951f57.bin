@@ -1,0 +1,439 @@
+<!doctype html>
+<html>
+<head><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MTFWQBD8');</script>
+  <title>
+SOUND VOLTEX ∇
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <meta name="facebook-domain-verification" content="5wqr9cruyjxvhh14878cfm4blqen9g" />
+  <meta name="description" content="「e-amusement」 サイトで、コナミのアミューズメントゲームをもっと楽しく。登録無料。SNS機能無料。ＰＣからでもスマホからでも。SNSでゲーム仲間とコミュニケーションしよう！" />
+  <meta name="keywords" content="e-amusement,e-amusement pass,eAMUSEMENT,e-AMUSEMENT PASS,イーアミューズメントパス,e-AMUSEMENT,イーアミューズメント,データ引き継ぎ,コナミ,konami, AMUSEMENT,アミューズメント,ゲームセンター,アーケードゲーム,KONAMI ID,SNS,ソーシャル,PASELI,パセリ,PC,スマートフォン,携帯,課金,BASEBALL HEROES,ベースボールヒーローズ,G1-HORSEPARK,G1ホースパーク,GuitarFreaks,ギターフリークス,DrumMania,ドラムマニア,Dance Dance Revolution,DDR,ダンスダンスレボリューション,pop'n music,ポップン,ウイニングイレブン, ウィイレ,麻雀格闘倶楽部,beatmania,ビーマニ,QMA,クイズマジックアカデミー,jubeat,ユビート,IIDX,ラブプラス アーケード,REFLEC BEAT,リフレクビート,メダルゲーム,ビデオゲーム,プライズ," />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="SOUND VOLTEX ∇" />
+  <meta property="og:description" content="KONAMIのBEMANIシリーズ「SOUND VOLTEX ∇」の公式サイトです。" />
+  <meta property="og:url" content="https://p.eagate.573.jp/game/sdvx/vii/" />
+  <meta property="og:site_name" content="SOUND VOLTEX ∇" />
+  <meta property="og:image" content="https://p.eagate.573.jp/game/sdvx/vii/images/share.jpg" /><meta http-equiv="content-language" content="ja"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><meta name="format-detection" content="telephone=no, address=no"><meta name="twitter:card" content="summary">
+  <link href="/gate/p/common/tk/ea_common_layout.css?v20180523" rel="stylesheet" type="text/css" />
+  <link rel="apple-touch-icon-precomposed" href="/gate/p/images/common/elogo_114_114.png" />
+  <link rel="shortcut icon" href="/img/p/favicon.ico">
+  <script src="/common/js/jquery-2.0.2.min.js" type="text/javascript"></script>
+  <script src="/gate/p/common/tk/ea_common_header.js?v20260826"></script>
+  <style>
+  footer ul li a {
+    border-left:2px solid #a2aeae;
+  }
+  #wrapper.wrapx header .ea-menu {
+    background:#a2aeae;
+  }
+  #wrapper.wrapx .cl_menu_catgory {
+    background:#a2aeae;
+  }
+  #wrapper.wrapx .main-nav a {
+    background:#a2aeae;
+  }
+  #wrapper.wrapx .main-nav a:hover, .main-nav a:focus {
+    background:linear-gradient(90deg, #a2aeae 10%, #ffffff 180%);
+  }
+  </style>
+  <link href="/css/p/timelineGadget.css?v3" rel="stylesheet" type="text/css" />
+  <script src="/common/js/timelineGadget.js?20190125"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500;800&family=Noto+Sans+JP:wght@500;700;900&display=swap" rel="stylesheet"><link media="screen" type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/sdvx/vii/css/common.css?v5"><link media="screen" type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/sdvx/vii/css/colorbox.css"><link media="screen" type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/sdvx/vii/css/menu/pc.css?v3"><link media="screen" type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/sdvx/vii/css/menu/sp.css?v7"><link type="text/css" rel="stylesheet" href="https://eacache.s.konaminet.jp/game/sdvx/vii/css/music.css?v4">
+  <script type="text/javascript" src="https://eacache.s.konaminet.jp/game/sdvx/vii/js/common.js?v4"></script><script type="text/javascript" src="https://eacache.s.konaminet.jp/game/sdvx/vii/js/menu.js"></script><script type="text/javascript" src="https://eacache.s.konaminet.jp/game/sdvx/vii/js/jquery.colorbox.js"></script><script type="text/javascript" src="https://eacache.s.konaminet.jp/game/sdvx/vii/js/pager.js"></script><script type="text/javascript">
+$(function(){menu_music();});
+$(document).ready(function(){$('.detail_pop').colorbox({opacity:0.5,width:'96%',maxWidth:'800',height:'563',onComplete:function(){$(this).colorbox.resize();}});});
+$(window).resize(function(){$.colorbox.resize({width:'96%'});});
+</script>
+<meta http-equiv="cache-control" content="no-cache" /></head>
+<body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTFWQBD8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <div id="wrapper" class="wrapx">
+    <nav class="main-nav" id="main-nav">
+        <ul>
+          <li class="cl_ea_variable_document" data-id="eavd_side_mypage"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_eamusement"></li>
+          <li class="cl_ea_variable_parent">
+            <a href="/gate/p/login.html?path=/game/sdvx/vii/music/index.html%3fsearch_name%3dQuietus%20Ray" class="cl_ea_variable_document" data-id="eavd_side_login"></a>
+          </li>
+          <li><a href="/payment/lead_payment.html" data-reserve_url>サービス一覧</a></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_facility_search"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_select_course"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_coop"></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_mycharge"></li>
+          <li><a href="/gate/dungeon/index.html?h=1">e-amusement迷宮</a></li>
+          <li><a href="/etc/faq/p/index.html" target="_blank">FAQ</a></li>
+          <li class="cl_ea_variable_document" data-id="eavd_side_help"></li>
+            <li class="cl_ea_variable_document" data-id="eavd_side_setting"></li>
+           <li><a href="/">SITE TOP</a></li>
+            <li class="cl_ea_variable_document" data-id="eavd_side_logout"></li>
+        </ul>
+    </nav>
+    <div id="container" class="page-wrap">
+      <header id="id_nav_menu_1">
+<script>
+        var p = document.getElementsByTagName("header").item(0);
+        if(p) {
+          p.style.position = "relative";
+        } else {
+          p = document.getElementsByTagName("body").item(0);
+        }
+        if (p) {
+          var element = document.createElement('div');
+          element.innerHTML =
+            '<a href="https://www.konami.com/arcadegames/" style="background:transparent;position:absolute;top:0;left:0;z-index:9999;display:block;">'
+            + '<img src="/ci/logo/konami_logo_blur.png" width="130" height="37" style="vertical-align:bottom" /></a>';
+          p.appendChild(element);
+        }
+</script>
+        <div id="id_nav_menu_2" class="common-header ea_common_center">
+          <dl>
+            <dt>
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" width="130" height="10" />
+            </dt>
+            <dd>
+              <ul>
+                  <li><a id="id_ea_header_line" href="#"><img src="/img/btn_line.png" alt="LINE" /></a></li>
+                  <li><a id="id_ea_header_twitter" href="#"><img src="/img/btn_X.png" alt="X" /></a></li>
+                  <li><a id="id_ea_header_facebook" href="#"><img src="/img/btn_facebook.png" alt="Facebook" /></a></li>
+                  <li style="margin-left:30px;margin-right:20px;"><a href="/"><img src="/gate/p/images/common/logo_gate_ss.gif" alt="e-amusement TOP" style="width:45px;height:20px;"></a></li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+        <div id="id_nav_menu_3" class="ea-menu">
+          <div class="ea_common_center">
+            <div class="cl_old_h1"><a href="/"><img src="/img/ea_logo.png" alt="e-amusement" width="137px"></a></div>
+            <p>
+              <span class="cl_ea_variable_document" data-id="eavd_header_konamiid"></span>
+              <span class="cl_nav_menu_span" style="float:left;">
+                <a class="open-menu" href="javascript:void(0)"><img src="/img/icon_menu.png" alt="menu" width="20px"></a>
+              </span>
+            </p>
+          </div>
+        </div>
+        <div id="id_nav_menu_3_dummy"></div>
+      </header>
+      <div id="id_ea_common_content_whole">
+        <div id="id_ea_common_content" class="ea_content_center">
+<div id="bg"></div>
+<nav id="menu">
+  <div id="menu-pc">
+    <div id="title-pc"><a href="/game/sdvx/vii/index.html" target="_top"><img src="https://eacache.s.konaminet.jp/game/sdvx/vii/images/common/logo.png" alt=""></a></div>
+    <div id="menu-main">
+<ul>
+  <li id="menu01"><a href="/game/sdvx/vii/news/index.html" target="_top" class="btn"><p>NEWS</p></a></li>
+  <li id="menu02" class="first-menu">
+    <div class="btn"><p>HOW TO PLAY</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/sdvx/vii/howto/index.html" target="_top">基本の遊び方</a></li>
+        <li><a href="/game/sdvx/vii/howto/game_mode.html" target="_top">ゲームモードを選ぼう！</a></li>
+        <li><a href="/game/sdvx/vii/howto/play.html" target="_top">ゲームプレーを楽しもう！</a></li>
+        <li><a href="/game/sdvx/vii/howto/crew.html" target="_top">ネメシスクルーとは</a></li>
+        <li><a href="/game/sdvx/vii/howto/arena_battle.html" target="_top">アリーナバトルを遊ぼう！</a></li>
+        <li><a href="/game/sdvx/vii/howto/skill.html" target="_top">スキルアナライザーで遊ぼう！</a></li>
+        <li><a href="/game/sdvx/vii/howto/megamix_battle.html" target="_top">メガミックスバトルを遊ぼう！</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu03"><a href="/game/sdvx/vii/music/index.html" target="_top" class="btn"><p>MUSIC</p></a></li>
+  <li id="menu04"><a href="/game/sdvx/vii/chara/index.html" target="_top" class="btn"><p>CHARACTER</p></a></li>
+  <li id="menu05"><a href="/game/sdvx/vii/hitchart/index.html" target="_top" class="btn"><p>HIT CHART</p></a></li>
+  <li id="menu10" class="first-menu">
+    <div class="btn"><p>EVENT</p></div>
+    <div class="second-menu">
+      <ul style="justify-content:center;">
+        <li><a href="/game/sdvx/vii/event/index.html" target="_top">開催中のイベント・キャンペーン</a></li>
+        <li><a href="/game/sdvx/vii/event/variant_gate.html" target="_top">VARIANT GATE</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu06" class="first-menu ea">
+    <div class="btn"><p>PLAY DATA</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/sdvx/vii/playdata/profile/index.html" target="_top">プロフィール</a></li>
+        <li class="icn-b"><a href="/game/sdvx/vii/playdata/musicdata/index.html" target="_top">楽曲データ</a></li>
+        <li class="icn-p long"><a href="/game/sdvx/vii/playdata/download/index.html" target="_top">スコアデータ/<br>CSVダウンロード</a></li>
+        <li class="icn-b"><a href="/game/sdvx/vii/playdata/rival/index.html" target="_top">好敵手</a></li>
+        <li><a href="/game/sdvx/vii/playdata/skill/index.html" target="_top">スキルアナライザー</a></li>
+        <li class="icn-b"><a href="/game/sdvx/vii/playdata/apcard/index.html" target="_top">アピールカード</a></li>
+        <li><a href="/game/sdvx/vii/valgene/index.html" target="_top">ヴァルキリージェネレーター</a></li>
+        <li><a href="/game/sdvx/vii/pregene/index.html" target="_top">プレミアムジェネレーター</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu07" class="first-menu ea">
+    <div class="btn"><p>CUSTOMIZE</p></div>
+    <div class="second-menu">
+      <ul style="justify-content:center;">
+        <li><a href="/game/sdvx/vii/playdata/customize/index.html" target="_top">カスタマイズ</a></li>
+        <li class="icn-b"><a href="/game/sdvx/vii/playdata/profile/namechange.html" target="_top">プレーヤーネーム変更</a></li>
+        <li class="icn-b"><a href="/game/sdvx/vii/playdata/app/index.html" target="_top">アピール称号変更</a></li>
+        <li class="icn-p"><a href="/game/sdvx/vii/playdata/profile/skillchange.html" target="_top">スキル称号変更</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu08" class="first-menu ea">
+    <div class="btn"><p>RANKING</p></div>
+    <div class="second-menu">
+      <ul style="justify-content:center;">
+        <li><a href="/game/sdvx/vii/ranking/index.html" target="_top">スコアランキング</a></li>
+        <li><a href="/game/sdvx/vii/ranking/weekly/index.html" target="_top">ウィークリースコアアタック</a></li>
+        <li><a href="/game/sdvx/vii/ranking/battle/index.html" target="_top">バトルランキング</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu09"><a href="/game/sdvx/sv/p/floor/index.html" target="_blank" class="btn"><p>FLOOR</p></a></li>
+  <li class="search"><a href="/game/facility/search/p/index.html?gkey=SDVX_VM" target="_blank" class="first-menu"><p>設置店舗検索</p></a></li>
+  <li class="sns">
+    <a href="https://x.com/SOUNDVOLTEX573" target="_blank"><img src="https://eacache.s.konaminet.jp/game/sdvx/vii/images/common/icn/x.png"></a>
+    <a href="https://eam.573.jp/app/web/post/?list_type=5&game_id=11" target="_blank"><img src="https://eacache.s.konaminet.jp/game/sdvx/vii/images/common/icn/ea.png"></a>
+  </li>
+</ul>
+    </div>
+  </div>
+  <div id="menu-sp">
+    <div id="bar">
+      <div id="title-sp"><a href="/game/sdvx/vii/index.html" target="_top"><img src="https://eacache.s.konaminet.jp/game/sdvx/vii/images/common/logo.png" alt=""></a></div>
+      <div id="menu-sp-btn"><span></span><span></span><span></span></div>
+    </div>
+<ul>
+  <li id="menu01"><a href="/game/sdvx/vii/news/index.html" target="_top" class="btn"><p>NEWS</p></a></li>
+  <li id="menu02" class="first-menu">
+    <div class="btn"><p>HOW TO PLAY</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/sdvx/vii/howto/index.html" target="_top">基本の遊び方</a></li>
+        <li><a href="/game/sdvx/vii/howto/game_mode.html" target="_top">ゲームモードを選ぼう！</a></li>
+        <li><a href="/game/sdvx/vii/howto/play.html" target="_top">ゲームプレーを楽しもう！</a></li>
+        <li><a href="/game/sdvx/vii/howto/crew.html" target="_top">ネメシスクルーとは</a></li>
+        <li><a href="/game/sdvx/vii/howto/arena_battle.html" target="_top">アリーナバトルを遊ぼう！</a></li>
+        <li><a href="/game/sdvx/vii/howto/skill.html" target="_top">スキルアナライザーで遊ぼう！</a></li>
+        <li><a href="/game/sdvx/vii/howto/megamix_battle.html" target="_top">メガミックスバトルを遊ぼう！</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu03"><a href="/game/sdvx/vii/music/index.html" target="_top" class="btn"><p>MUSIC</p></a></li>
+  <li id="menu04"><a href="/game/sdvx/vii/chara/index.html" target="_top" class="btn"><p>CHARACTER</p></a></li>
+  <li id="menu05"><a href="/game/sdvx/vii/hitchart/index.html" target="_top" class="btn"><p>HIT CHART</p></a></li>
+  <li id="menu10" class="first-menu">
+    <div class="btn"><p>EVENT</p></div>
+    <div class="second-menu">
+      <ul style="justify-content:center;">
+        <li><a href="/game/sdvx/vii/event/index.html" target="_top">開催中のイベント・キャンペーン</a></li>
+        <li><a href="/game/sdvx/vii/event/variant_gate.html" target="_top">VARIANT GATE</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu06" class="first-menu ea">
+    <div class="btn"><p>PLAY DATA</p></div>
+    <div class="second-menu">
+      <ul>
+        <li><a href="/game/sdvx/vii/playdata/profile/index.html" target="_top">プロフィール</a></li>
+        <li class="icn-b"><a href="/game/sdvx/vii/playdata/musicdata/index.html" target="_top">楽曲データ</a></li>
+        <li class="icn-p long"><a href="/game/sdvx/vii/playdata/download/index.html" target="_top">スコアデータ/<br>CSVダウンロード</a></li>
+        <li class="icn-b"><a href="/game/sdvx/vii/playdata/rival/index.html" target="_top">好敵手</a></li>
+        <li><a href="/game/sdvx/vii/playdata/skill/index.html" target="_top">スキルアナライザー</a></li>
+        <li class="icn-b"><a href="/game/sdvx/vii/playdata/apcard/index.html" target="_top">アピールカード</a></li>
+        <li><a href="/game/sdvx/vii/valgene/index.html" target="_top">ヴァルキリージェネレーター</a></li>
+        <li><a href="/game/sdvx/vii/pregene/index.html" target="_top">プレミアムジェネレーター</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu07" class="first-menu ea">
+    <div class="btn"><p>CUSTOMIZE</p></div>
+    <div class="second-menu">
+      <ul style="justify-content:center;">
+        <li><a href="/game/sdvx/vii/playdata/customize/index.html" target="_top">カスタマイズ</a></li>
+        <li class="icn-b"><a href="/game/sdvx/vii/playdata/profile/namechange.html" target="_top">プレーヤーネーム変更</a></li>
+        <li class="icn-b"><a href="/game/sdvx/vii/playdata/app/index.html" target="_top">アピール称号変更</a></li>
+        <li class="icn-p"><a href="/game/sdvx/vii/playdata/profile/skillchange.html" target="_top">スキル称号変更</a></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu08" class="first-menu ea">
+    <div class="btn"><p>RANKING</p></div>
+    <div class="second-menu">
+      <ul style="justify-content:center;">
+        <li><a href="/game/sdvx/vii/ranking/index.html" target="_top">スコアランキング</a></li>
+        <li><a href="/game/sdvx/vii/ranking/weekly/index.html" target="_top">ウィークリースコアアタック</a></li>
+        <li><a href="/game/sdvx/vii/ranking/battle/index.html" target="_top">バトルランキング</a></li>
+        <li class="blank"><p></p></li>
+      </ul>
+    </div>
+  </li>
+  <li id="menu09"><a href="/game/sdvx/sv/p/floor/index.html" target="_blank" class="btn"><p>FLOOR</p></a></li>
+  <li class="search"><a href="/game/facility/search/p/index.html?gkey=SDVX_VM" target="_blank" class="first-menu"><p>設置店舗検索</p></a></li>
+  <li class="sns">
+    <a href="https://x.com/SOUNDVOLTEX573" target="_blank"><img src="https://eacache.s.konaminet.jp/game/sdvx/vii/images/common/icn/x.png"></a>
+    <a href="https://eam.573.jp/app/web/post/?list_type=5&game_id=11" target="_blank"><img src="https://eacache.s.konaminet.jp/game/sdvx/vii/images/common/icn/ea.png"></a>
+  </li>
+</ul>
+  </div>
+</nav>
+<div id="page-top"><a></a></div>
+  <div id="main">
+    <div class="main-inner">
+      <div class="page-title"><p>収録楽曲</p></div>
+      <div class="sub-title"><p>SOUND VOLTEX ∇に収録されている楽曲一覧です</p></div>
+      <div id="music">
+<form name="form_search" method="POST" action="index.html">
+<div id="music-search" style="max-width:800px;">
+  <div class="inner">
+    <div class="cat">
+      <strong>カテゴリ</strong>
+      <div class="search_input">
+        <select name="search_category">
+          <option value=""></option>
+          <option value="1" >POPS&アニメ</option>
+          <option value="2" >東方アレンジ</option>
+          <option value="3" >ボーカロイド</option>
+          <option value="4" >BEMANI</option>
+          <option value="5" >ひなビタ♪/バンめし♪</option>
+          <option value="6" >FLOOR</option>
+          <option value="7" >SDVXオリジナル</option>
+          <option value="8" >その他</option>
+        </select>
+      </div>
+    </div>
+    <div class="cat">
+      <strong>キーワード検索</strong>
+      <div class="search_input">
+        <input type="text" name="search_name" value="Quietus Ray">
+      </div>
+    </div>
+    <div class="cat">
+      <strong>LEVEL</strong>
+      <div class="search_input">
+        <select name="search_level">
+          <option value=""></option>
+          <option value="10" >1</option>
+          <option value="20" >2</option>
+          <option value="30" >3</option>
+          <option value="40" >4</option>
+          <option value="50" >5</option>
+          <option value="60" >6</option>
+          <option value="70" >7</option>
+          <option value="80" >8</option>
+          <option value="90" >9</option>
+          <option value="100" >10</option>
+          <option value="110" >11</option>
+          <option value="120" >12</option>
+          <option value="130" >13</option>
+          <option value="140" >14</option>
+          <option value="150" >15</option>
+          <option value="160" >16</option>
+          <option value="170" >17</option>
+          <option value="175" >17.5</option>
+          <option value="180" >18.0</option>
+          <option value="181" >18.1</option>
+          <option value="182" >18.2</option>
+          <option value="183" >18.3</option>
+          <option value="184" >18.4</option>
+          <option value="185" >18.5</option>
+          <option value="186" >18.6</option>
+          <option value="187" >18.7</option>
+          <option value="188" >18.8</option>
+          <option value="189" >18.9</option>
+          <option value="190" >19.0</option>
+          <option value="191" >19.1</option>
+          <option value="192" >19.2</option>
+          <option value="193" >19.3</option>
+          <option value="194" >19.4</option>
+          <option value="195" >19.5</option>
+          <option value="196" >19.6</option>
+          <option value="197" >19.7</option>
+          <option value="198" >19.8</option>
+          <option value="199" >19.9</option>
+          <option value="200" >20.0</option>
+          <option value="201" >20.1</option>
+          <option value="202" >20.2</option>
+          <option value="203" >20.3</option>
+          <option value="204" >20.4</option>
+          <option value="205" >20.5</option>
+          <option value="206" >20.6</option>
+          <option value="207" >20.7</option>
+          <option value="208" >20.8</option>
+          <option value="209" >20.9</option>
+        </select>
+      </div>
+    </div>
+    <div class="submit">
+      <a href="" class="btn" onclick="this.closest('form').submit(); return false">検索</a>
+      <a href="" class="btn" onclick="this.closest('form').search_category.value = -1; this.closest('form').search_name.value = ''; this.closest('form').search_level.value = -1; if (this.closest('form').querySelector('input[type=checkbox][name=recent]:checked')){ this.closest('form').recent.checked = false; } return false">検索条件をリセット</a>
+    </div>
+  </div>
+</div>
+</form>
+      <div id="music-result">
+        <div class="music">
+          <div style="text-align:left">
+            <div class="genre floor">FLOOR</div>
+            <div class="genre none"></div>
+            <div class="genre none"></div>
+          </div>
+          <div class="cat">
+            <div class="jk"><a href="/game/sdvx/vii/music/detail.html?music_id=dMsb3aB60oyuEhfEL86qDQ" class="detail_pop"><img src="/game/sdvx/vii/common/jacket.html?img=YZa-g2Fq1gQ8g8cYxpxv4A" /></a></div>
+            <div class="inner">
+              <div class="info">
+                <p>Quietus&nbsp;Ray</p>
+                <p>xi</p>
+              </div>
+              <div class="level">
+                <p class="nov ">5</p>
+                <p class="adv ">11</p>
+                <p class="exh ">17.5</p>
+                <p class="hvn ">19.6</p>
+                <p class="mxm none"></p>
+                <p class="ult none"></p>
+              </div>
+            </div>
+          </div>
+          <div></div>
+        </div>
+      </div>
+      </div>
+      <div id="copy"></div>
+    </div>
+  </div>
+          <input type="hidden" id="id_ea_common_content_bottom" value="p.eagate.573.jp">
+        </div>
+      </div>
+              <footer>
+        <ul class="ea_common_center">
+              <li class="cl_ea_variable_document" data-id="eavd_help"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_terms"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_privacy_policy"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_ext_trans"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_specific"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_site_policy"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_manner_rule"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_contact"></li>
+              <li class="cl_ea_variable_document" data-id="eavd_facility_search"></li>
+              <li><a class="ot-sdk-show-settings" style="cursor:pointer;"></a></li>
+        </ul>
+        <p>&copy;2026 Konami Arcade Games</p>
+      </footer>
+    </div>
+    <div id="page-cover"></div>
+  </div>
+  <input id="id_ea_feed" type="hidden" data-msg="" data-path="" data-hashtag />
+  <input id="id_ea_menu_ctrl" type="hidden" value="simplify:notfix">
+  <input id="id_ea_reserve_url" type="hidden" value="" data-reserve_url="/game/sdvx/vii/music/index.html" data-self="/game/sdvx/vii/music/index.html">
+  <script>
+    ea_common_template.context = {
+       top_dir:'/game/sdvx/vii/',
+       this_dir:'/game/sdvx/vii/music/',
+       this_file:'index.html',
+       cache_locator: 'https://eacache.s.konaminet.jp'
+    };
+  </script>
+    <script>ea_common_template.userstatus={"99":{"maintxt":"\u30B7\u30B9\u30C6\u30E0\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002\u7533\u3057\u8A33\u3042\u308A\u307E\u305B\u3093\u304C\u6642\u9593\u3092\u7F6E\u3044\u3066\u518D\u5EA6\u304A\u8A66\u3057\u304F\u3060\u3055\u3044\u3002","path":null,"linktxt":""},"1":{"maintxt":"\u3053\u306E\u30B3\u30F3\u30C6\u30F3\u30C4\u3092\u95B2\u89A7\u3059\u308B\u306B\u306F\u30ED\u30B0\u30A4\u30F3\u3057\u3066\u304F\u3060\u3055\u3044\u3002","path":"/gate/p/login.html?path=/game/sdvx/vii/music/index.html","linktxt":"\u30ED\u30B0\u30A4\u30F3\u3059\u308B\u306B\u306F\u3053\u3061\u3089"},"2":{"maintxt":"\u30D9\u30FC\u30B7\u30C3\u30AF\u30B3\u30FC\u30B9\u3078\u306E\u52A0\u5165\u304C\u5FC5\u8981\u3067\u3059\u3002","path":"/payment/p/select_course.html?course=eaBASIC","linktxt":"\u30B3\u30FC\u30B9\u52A0\u5165\u3059\u308B\u306B\u306F\u3053\u3061\u3089","reserve_url":true},"3":{"maintxt":"\u30D7\u30EC\u30DF\u30A2\u30E0\u30B3\u30FC\u30B9\u3078\u306E\u52A0\u5165\u304C\u5FC5\u8981\u3067\u3059\u3002","path":"/payment/p/select_course.html?course=eaPREMIUM","linktxt":"\u30B3\u30FC\u30B9\u52A0\u5165\u3059\u308B\u306B\u306F\u3053\u3061\u3089","reserve_url":true},"4":{"maintxt":"\u53C2\u7167\u4E2D\u306Ee-amusement pass\u304C\u3042\u308A\u307E\u305B\u3093\u3002","path":"/gate/eapass/menu.html","linktxt":"e-amusement pass\u3092\u53C2\u7167\u4E2D\u306B\u3059\u308B\u306B\u306F","reserve_url":true},"5":{"maintxt":"\u30D7\u30EC\u30FC\u30C7\u30FC\u30BF\u304C\u3042\u308A\u307E\u305B\u3093\u3002","path":"/gate/eapass/menu.html","linktxt":"e-amusement pass\u3092\u5207\u308A\u66FF\u3048\u308B\u306B\u306F","reserve_url":true},"region":"notlogin","state":{"course":{},"eapass":null,"login":false,"playdata":false,"sg":{},"subscription":false}};</script>
+</body>
+</html>

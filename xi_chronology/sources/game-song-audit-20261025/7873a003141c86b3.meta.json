@@ -1,0 +1,13 @@
+{
+  "url": "https://ongeki.sega.jp/assets/json/music/music.json",
+  "key": "7873a003141c86b3",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://ongeki.sega.jp/assets/json/music/music.json",
+  "sha256": "9c58efe20246b9aadb5ffdd1c3eeacdf833ccd9424589d5f2913422f8e39d756",
+  "bytes": 530422,
+  "read_limit_reached": false,
+  "title": "",
+  "links": []
+}

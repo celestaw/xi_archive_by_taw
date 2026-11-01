@@ -1,0 +1,165 @@
+/*
+jsは必要でなければ　このファイルは削除してよい とはいえ　menu の表示にjsが要るので　いるよね。
+*/
+(function(jQuery){
+  
+  var g_cache_locator = '';
+  var g_top_dir = '';
+  var g_options;
+  
+  ea_common_template.initialize = function(p_options) {
+
+    //g_options = p_options;
+    
+    // タブを表示するための記述 start ------------------------------
+    /*
+    var v_call_back_ary = [];
+    
+    var v_tmp_obj = new Object();
+    v_tmp_obj["fnc"] = ea_common_template.ex.set_menu_tag;
+    v_tmp_obj["target_element"] = jQuery("#id_ctpl_menu");
+
+    v_call_back_ary.push(v_tmp_obj);
+    */
+    
+    //スッキリさせました。　この↓　関数が　メニューを司っています。
+    ea_common_template.ex.set_init_tag(p_options,
+     [ { "fnc" : ea_common_template.ex.set_menu_tag, "target_element" : jQuery("#id_ctpl_menu") } ]
+    );
+    
+   
+    //共通のプレーデータを表示するための具
+    //ea_common_template.ex.init_common_pdata(g_options["top_dir"]);
+    
+ 
+
+    init();
+       
+    ea_common_template.content_visible();
+  }
+  
+  function init() {  
+     
+    //ここで画面を作る　js 処理をいっぱい書けばよい。 
+    
+    //全頁一旦非表示
+    //jQuery('.cl_event_page').css('position', 'absolute').css('display', 'none');
+    jQuery('.cl_event_page').css('display', 'none').css('top', '0').css('left', '0');
+    jQuery('.event_box').css('position', 'relative');
+ 
+    window.onhashchange = function(){   
+       disp();
+    };
+
+    disp();
+
+
+    jQuery('.cl_event_page').fadeIn();
+
+/*    
+    //sub menu ないの　a タグに貼り付けているが必要に応じて変更しよう
+    //jQuery('.sub_menu').find('a').on('click',function(){
+    
+     //console.log('hash = ' + location.hash); //この時点ではhash はまだ変わらない。　
+     //console.log('href = ' + jQuery(this).attr('href'));　//これで取ればよい。
+    // disp_page(jQuery(this).attr('href')); 
+     
+    //});
+    
+    //ブラウザバックでも反応して欲しいとのことでこちら
+    window.onhashchange = function(){
+       disp_page(location.hash); 
+    };
+    
+    
+    //初期値のhash をみて切り替える。
+    disp_page(location.hash);
+*/
+  }
+  
+  function disp() {
+
+    jQuery(".cl_read_more .cl_view_all").show();
+
+    var view_all = ea_common_template.ex.news_obj.is_view_all();
+
+    if (view_all === 1) {
+      jQuery(".cl_read_more .cl_view_all").hide();
+    }
+          
+    // view=all なし && hash なしの場合は 
+    // 稼働記念　楽曲交換キャンペーン なので #20170308-01を付加する
+    if (view_all === 0 && location.hash == "") {
+      location.hash = "#20170308-01";
+    } else if (view_all === 1) {
+      location.hash = "";
+    }
+    
+    ea_common_template.ex.news_obj.get('event');
+  }
+  
+/*
+  var last_page = '';
+  var cur_page = '1';
+  function disp_page(h) {
+    var n = '1'; //指定ナシは　#1 扱い
+    
+    if (h && h.slice(0, 1) == '#') {
+      n = h.slice(1);
+    }
+    
+    cur_page = n;
+    
+    //クラスでまとめて消して必要な分だけ　表示という処理だが　ループまわして処理したければどうぞ変更してください。
+    //jQuery('.cl_event_page').css('display', 'none');
+    //jQuery('#id_event_' + n).css('display', 'block');
+    
+    //fadein fadeout させるなら  連続操作を想定してキャンセルかけているけど　ここまでやるくらいならクロスフェードできるように作ったほうがよいね。
+    
+    var found_last_page = false;
+    jQuery('.cl_event_page').each(function() {
+      var id = jQuery(this).attr('id');
+      
+      jQuery(this).stop(false, true);   
+      if (id.slice(0,9) == 'id_event_') {
+        var p = id.slice(9);
+        if (p == last_page) {
+          found_last_page = true;
+          jQuery(this).fadeOut('fast', function() {
+            console.log('call back p:' + p + ' n:' + n + ' cur:'+ cur_page);
+            if (cur_page == n) {
+              jQuery('#id_event_' + cur_page).stop(true,true).fadeIn()
+            }
+          });
+        } else if (p != n) {
+          jQuery(this).css('display', 'none');
+        }
+      }
+    });
+    if (!found_last_page) {
+      jQuery('#id_event_' + cur_page).fadeIn();
+      console.log('no out ' + n + 'in');
+    }
+    
+    //こっちがクロスフェード
+    jQuery('.cl_event_page').each(function() {
+      var id = jQuery(this).attr('id');
+      
+      if (id.slice(0,9) == 'id_event_') {
+        var p = id.slice(9);
+        if (p == n) {
+          if (jQuery(this).css('display') != 'block') {
+             jQuery(this).css('position', 'static').fadeIn();
+          }
+        } else {
+          if (jQuery(this).css('display') != 'none') {
+             jQuery(this).css('position', 'absolute').fadeOut();
+          }
+        }
+      }
+    });
+    
+    last_page = cur_page;
+  }
+*/
+})(jQuery);

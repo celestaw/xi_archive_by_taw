@@ -1,0 +1,290 @@
+Tiferet - Arcaea Wiki*
+ブラウザの JavaScript がオフ（ブロックまたは許可しない）に設定されているため、このページは正常に機能しません。
+[ ホーム | 新規 | 編集 | 添付 ]
+Menu
+新規
+編集
+添付
+一覧
+最終更新
+差分
+バックアップ
+凍結
+複製
+名前変更
+ヘルプ
+> Tiferet
+Tiferet
+Last-modified: 2026-06-28 (日) 07:23:46
+これらのキーワードがハイライトされています：
+Tiferet
+Tone Sphereコラボレーション楽曲 Tone Sphere Wiki(日本語/英語)
+Composer
+xi + Sta
+Artwork
+Sta
+※ゲーム内では記載なし
+Chart
+Designer
+夜浪[Spherical]
+Difficulty
+Past
+Present
+Future
+Level
+4
+7+
+10
+Notes
+450
+720
+1086
+Length
+2:28
+BPM
+140? (78 - 142)
+Pack
+Tone Sphere Collaboration
+Side
+Conflict(対立)
+Update
+Version
+Mobile
+ver.1.8.0
+(18/10/07)
+Switch
+(未収録)
+Requirements
+Past
+-
+Present
+80個の欠片
+Future
+180個の欠片
+Linear Accelerator [FTR] のクリア グレード「A」以上
+Difficulty Changelog
+Difficulty Changelog
+Version
+Past
+Present
+Future
+1.8.0
+4
+7
+9+
+3.0.0
+10
+5.4.0
+7+
+xi氏のアルバム「World Fragments」に収録。
+Tone Sphere公式OST「Tone Sphere Original Soundtrack - Luminous Sun」にも収録されている。
+攻略情報
+全難易度共通
+BPM表記が140?となっているが、この楽曲は拍子やBPMが度々変わるリズム難要素を含む。こちら (Future譜面の拍子分析)の動画を参照。
+Past 譜面定数 : 4.5
+PSTでもソフランがある珍しい譜面だが、譜面は単純であるため落ち着いてやれば特に問題はないはず。
+Present 譜面定数 : 7.8
+ジグザグアークノートの途中で遅くなるため、アークノートが外れやすい。しっかりアークノートの位置を見て指を動かすこと。
+Future 譜面定数 : 10.3
+全体的に片手で処理させる微縦連と階段が多く、苦手だと厄介になることだろう。実装時定数は10.6だったが、ver4.0.0で10.4に、ver6.0.0にて10.3に降格した。前述の通りリズム難要素が多くこの難易度帯としてはややノーツが少ないため、スコアを狙うと難儀する可能性もある。
+2回あるサビの前はソフランが入る。リズムが崩れやすいが、音に合わせているので落ち着いて処理。
+サビではアークを交差させた直後にParty Vinylのような配置が続く。離すべき手は、最初のサビは左手→右手、ラスサビは右手→左手だが、ただの左右反転でないことに注意。
+最後はひたすら24分乱打が降ってくるため、TC狙いならここが勝負。Testify (BYD)の発狂の練習としても活かせるかも。
+試聴/プレイ映像
+SoundCloud公式音源 (Sta / Bit192)
+YouTube公式音源 (Sta / Bit192) : https://www.youtube.com/watch?v=NioQ6Yl6hUE
+YouTube公式音源 (Diverse System) : https://www.youtube.com/watch?v=NfPw-UFGktQ
+Future [PURE MEMORY 10,001,086pts] (理論値)
+Player : higllus
+loading...
+Future [PURE MEMORY 10,001,086pts] (理論値)
+Player : h1r
+loading...
+Future [PURE MEMORY 10,001,009pts] (親指プレイ)
+Player : 7iNLan
+loading...
+その他のプレイ映像
+その他のプレイ映像
+Present [PURE MEMORY 10,000,696pts](親指プレイ)
+Player : kurotanP
+https://youtu.be/5qpeNR-1woA
+Past [PURE MEMORY 10,000,441pts](親指プレイ)
+Player : kurotanP
+https://youtu.be/-1gR3Dw7OQM
+タイミング確認用のHand Clap映像はこちら。
+コメント
+.6のイメージだったけどもう.3まで落ちてたんだ --  2026-01-15 (木) 00:12:55
+これ.3にしようって決めたやつ目ついてんのか？ --  2026-01-15 (木) 00:11:40
+10.6だと思って996まで伸ばしたら定数.3だったんですが --  2025-08-20 (水) 23:16:34
+定数10.4→10.3降格 --  2024-11-21 (木) 15:11:45
+ラストの乱打楽しすぎる --  2024-08-22 (木) 14:49:47
+Tone Sphereパック曲がむずいのが多いな --  2024-04-01 (月) 12:58:33
+初見難易度エグいな。25-4っていう意味わからん結果になった() --  2024-03-17 (日) 15:43:41
+10.4の中では割とゆったりしていてまだ押す余裕があってやり易い曲って感じする。なおラストだけ急に本気出した密度になるもよう --  2024-02-19 (月) 22:07:09
+これに限らずTonesphereパックの曲情報少なすぎやろ
+よくわからん --  2022-10-09 (日) 03:21:54
+クリアは10適正だけどスコアがきちいのよ… --  2022-10-03 (月) 12:54:04
+CONTENTS
+― はじめに ―
+Arcaea Wiki
+ルール
+初心者の方へ
+FAQ
+リズムゲーム用語解説
+― 収録曲 ―
+パック順
+タイトル順
+レベル順
+コンポーザー順
+A～O
+P～Z
+日本語・その他
+ボーカリスト
+イラストレーター順
+アルファベット
+日本語・その他
+ノーツ数順
+演奏時間順
+非公式難易度(PM基準)
+非公式難易度(TC基準)
+― ゲーム関連 ―
+ストーリー
+Main Story Act I
+Main Story Act II
+Side Story
+Archive Story
+パートナー
+恒常
+期間限定
+ワールドモード
+Extra Chapter
+Chapter 1
+Breached
+Chapter 2
+Breached
+Chapter 3
+Breached
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Chapter 9
+Chapter 10
+Lost Chapter
+解放期間終了
+コースモード
+― システム関連 ―
+アップデート履歴
+ver.1.x / ver.2.x
+ver.3.x
+ver.4.x / ver.5.x
+ver.6.x
+ver.7.x
+ポテンシャル研究所
+譜面定数表(Lv.1～7+)
+譜面定数表(Lv.8～12)
+遅延調整報告
+― その他 ―
+人気投票
+譜面制作者
+こぼれ話
+公式サウンドトラック
+管理人への要望
+テンプレート
+楽曲ページ
+Nintendo Switch
+基本情報
+楽曲リスト
+ストーリー
+パートナー
+ワールドモード
+Extra Chapter
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+コースモード
+アップデート履歴
+4,400円
+購入はこちらから
+― More ―
+― More ―
+zawazawa
+サウンドトラック
+詳細はこちら
+Memories of Light
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+メロンブックス
+Apple Music
+YouTube Music
+Spotify
+Memories of Conflict
+(26曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+メロンブックス
+Apple Music
+YouTube Music
+Spotify
+Memories of Realms
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Dreams
+(27曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Wrath
+(25曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Myth
+(27曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+YouTube Music
+Spotify
+Memories of Serenity
+(26曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Amazon
+Apple Music
+Spotify
+Crossing Collection
+(7曲 + パートナー)
+DIVERSE DIRECT
+TANO*C STORE
+Bandcamp
+LINEスタンプ
+250円(100コイン)
+Today : ?
+Yesterday : ?
+Total : ?
+Online : ?
+© 2017-2026 Arcaea Wiki
+レンタルWIKI by WIKIWIKI.jp* /
+Designed by Olivia /
+広告について /
+無料レンタル掲示板 zawazawa

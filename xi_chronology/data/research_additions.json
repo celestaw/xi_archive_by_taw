@@ -293,7 +293,7 @@
   },
   "XI-164": {
     "title": "Aerial Fortress",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -304,6 +304,16 @@
         "summary": "KONAMI公式の曲目一覧で『Aerial Fortress』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Aerial%20Fortress",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Aerial Fortress / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -327,7 +337,7 @@
   },
   "XI-184": {
     "title": "Failnaught",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -338,6 +348,16 @@
         "summary": "KONAMI公式の曲目一覧で『Failnaught』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Failnaught",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Failnaught / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -361,7 +381,7 @@
   },
   "XI-185": {
     "title": "Fiat Lux",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -372,6 +392,16 @@
         "summary": "KONAMI公式の曲目一覧で『Fiat Lux』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Fiat%20Lux",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Fiat Lux / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -395,7 +425,7 @@
   },
   "XI-194": {
     "title": "Inixia",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -406,6 +436,16 @@
         "summary": "KONAMI公式の曲目一覧で『Inixia』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Inixia",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Inixia / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -429,7 +469,7 @@
   },
   "XI-197": {
     "title": "Last Resort",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -440,6 +480,16 @@
         "summary": "KONAMI公式の曲目一覧で『Last Resort』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Last%20Resort",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Last Resort / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -463,7 +513,7 @@
   },
   "XI-234": {
     "title": "Time to Air -Fly High Remix-",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -474,6 +524,16 @@
         "summary": "KONAMI公式の曲目一覧で『Time to Air -Fly High Remix-』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Time%20to%20Air%20-Fly%20High%20Remix-",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Time to Air -Fly High Remix- / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -497,7 +557,7 @@
   },
   "XI-238": {
     "title": "Wish upon Twin Stars",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -508,6 +568,16 @@
         "summary": "KONAMI公式の曲目一覧で『Wish upon Twin Stars』と対応するアーティスト欄xiを確認。コナステ収録を示す資料で、アーケード初収録日は確定しない。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Wish%20upon%20Twin%20Stars",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Wish upon Twin Stars / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -531,7 +601,7 @@
   },
   "XI-195": {
     "title": "Innocent Tempest",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -542,6 +612,26 @@
         "summary": "公式採用ページに曲名とDiceros Bicornis名義があり、xiとBlackYの本人コメントで合作と制作分担を確認。xiはピアノと曲構成、BlackYはそれ以外を主に担当したと説明。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Innocent%20Tempest",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "Diceros Bicornis",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Innocent Tempest / Diceros Bicornis」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "SDVX公式・ЯeviveR採用コメント",
+        "url": "https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/26/index_2.html",
+        "locator": "Innocent Tempest・関連する公式コメント",
+        "credit": "Diceros Bicornis",
+        "summary": "BlackYがInnocent Tempest以来6年ぶりのxiとの合作と説明。Diceros Bicornisとxi・BlackYの対応を補強。",
+        "identity_note": "同じ公式イベント内の作者コメントで名義の対応を補強。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -566,7 +656,7 @@
   },
   "XI-236": {
     "title": "TU-MA-MI△ALL-NIGHTER",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -577,6 +667,16 @@
         "summary": "公式曲目にTU-MA-MI△ALL-NIGHTER／xi undergroundを確認。xi undergroundとxi本人の対応を直接示す資料は追加確認。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=TU-MA-MI%E2%96%B3ALL-NIGHTER",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi underground",
+        "summary": "KONAMI公式曲検索の当該曲結果に「TU-MA-MI△ALL-NIGHTER / xi underground」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [],
@@ -585,7 +685,7 @@
   },
   "XI-166": {
     "title": "Aiolos",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -596,6 +696,26 @@
         "summary": "SEGA運営の曲別ページで『Aiolos』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「Aiolos / xi」を確認。対応する一覧レコード：2432。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "xi",
+        "summary": "SEGA公式maimaiの公開曲目に「Aiolos / xi」を確認。対応する一覧レコード：1335。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -628,7 +748,7 @@
   },
   "XI-192": {
     "title": "Heavenly Blast",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -639,6 +759,16 @@
         "summary": "SEGA運営の曲別ページで『Heavenly Blast』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "xi",
+        "summary": "SEGA公式maimaiの公開曲目に「Heavenly Blast / xi」を確認。対応する一覧レコード：1333。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -671,7 +801,7 @@
   },
   "XI-225": {
     "title": "Sparking Revolver",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -682,6 +812,26 @@
         "summary": "SEGA運営の曲別ページで『Sparking Revolver』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「Sparking Revolver / xi」を確認。対応する一覧レコード：551。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "オンゲキ公式・公開曲目データ",
+        "url": "https://ongeki.sega.jp/assets/json/music/music.json",
+        "locator": "オンゲキ",
+        "credit": "xi",
+        "summary": "SEGA公式オンゲキの公開曲目に「Sparking Revolver / xi」を確認。対応する一覧レコード：520800。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -714,7 +864,7 @@
   },
   "XI-226": {
     "title": "Stargazing Dreamer",
-    "checked_on": "2026-10-24",
+    "checked_on": "2026-10-25",
     "sources": [
       {
         "kind": "primary",
@@ -725,6 +875,26 @@
         "summary": "SEGA運営の曲別ページで『Stargazing Dreamer』とARTIST: xiを確認。ポータルの登録日時をゲーム初収録日に転用しない。",
         "identity_note": "曲別の担当表記と、その資料の音楽ゲーム／同人音楽の文脈を照合。名前の一致だけから他分野の同名人物を取り込んでいない。",
         "checked_on": "2026-10-24"
+      },
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「Stargazing Dreamer / xi」を確認。対応する一覧レコード：2563。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "オンゲキ公式・公開曲目データ",
+        "url": "https://ongeki.sega.jp/assets/json/music/music.json",
+        "locator": "オンゲキ",
+        "credit": "xi",
+        "summary": "SEGA公式オンゲキの公開曲目に「Stargazing Dreamer / xi」を確認。対応する一覧レコード：601217。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
       }
     ],
     "records": [
@@ -1044,5 +1214,1601 @@
     "issues": [],
     "verified_credit": true,
     "credited_name": "xi"
+  },
+  "XI-214": {
+    "title": "Qualia Crystal",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "MUSIC DIVER公式・公開曲目データ",
+        "url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+        "locator": "music_id=5 / music_title / artist_name / artist_id=51",
+        "credit": "xi",
+        "summary": "タイトー公式の公開楽曲一覧データ（music_id=5）に曲名とartist_name: xiを確認。",
+        "identity_note": "公式一覧の同一artist_id=51に既知のFREEDOM DiVE↓・Halcyonと掲載。Qualia Crystalの公式紹介動画は本人xi Officialへリンク。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "タイトー公式MUSIC DIVER楽曲紹介Part3",
+        "url": "https://www.youtube.com/watch?v=_02OtxIa0xM",
+        "locator": "videoDetails / channelId / 使用楽曲・アーティスト・本人リンク",
+        "credit": "xi",
+        "summary": "taitochannelの説明欄に使用楽曲Qualia Crystal、アーティストxiとxi Officialへのリンクを確認。",
+        "identity_note": "説明欄のwww.youtube.com/c/xiOfficialと既知の本人チャンネルを照合。同名表記だけで判断していない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [
+      {
+        "id": "GAME-COVERAGE-XI-214-VIDEO",
+        "date": "2025-04-27",
+        "precision": "day",
+        "kind": "ゲーム運営の紹介動画公開日（初収録日ではない）",
+        "medium": "YouTube（taitochannel / MUSIC DIVER）",
+        "source_url": "https://www.youtube.com/watch?v=_02OtxIa0xM",
+        "evidence": "保存した公式動画メタデータのpublishDate 2025-04-26T20:00:38-07:00を日本時間へ換算。楽曲の初公開日・ゲーム初収録日とは確定しない。",
+        "version": "公式楽曲紹介映像",
+        "checked_on": "2026-10-25",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://www.youtube.com/watch?v=_02OtxIa0xM",
+        "label": "タイトー公式YouTube",
+        "version": "公式楽曲紹介映像",
+        "official_basis": "taitochannelのMUSIC DIVER紹介。説明欄にタイトー著作権表記・ゲーム公式サイト・xi本人チャンネルへのリンク。",
+        "officialness_source_url": "https://musicdiver.jp/",
+        "availability": "紹介映像の掲載を確認。全曲フル尺の公開とはしない。"
+      }
+    ],
+    "issues": [
+      "MUSIC DIVER公開曲目の内部日付2021-01-01は初収録日として不採用。より早い公開記録を追加調査する。"
+    ],
+    "checked_on": "2026-10-25",
+    "verified_credit": true,
+    "credited_name": "xi",
+    "role": "アーティスト表記：xi（個別の制作分担は未確認）"
+  },
+  "XI-223": {
+    "title": "Solar Storm",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "MUSIC DIVER公式・公開曲目データ",
+        "url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+        "locator": "music_id=204 / music_title / artist_name / artist_id=51",
+        "credit": "xi",
+        "summary": "タイトー公式の公開楽曲一覧データ（music_id=204）に曲名とartist_name: xiを確認。",
+        "identity_note": "公式一覧の同一artist_id=51に既知のFREEDOM DiVE↓・Halcyonと掲載。Qualia Crystalの公式紹介動画は本人xi Officialへリンク。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Solar%20Storm",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi「グルーヴコースター 3 リンクフィーバー」より",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Solar Storm / xi「グルーヴコースター 3 リンクフィーバー」より」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [
+      {
+        "id": "GAME-COVERAGE-XI-223-CREDIT",
+        "date": null,
+        "precision": null,
+        "kind": "ゲーム公式曲目への掲載確認（初収録日未確認）",
+        "medium": "MUSIC DIVER",
+        "source_url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+        "evidence": "タイトー公式の公開楽曲一覧データ（music_id=204）に曲名とartist_name: xiを確認。",
+        "version": "ゲーム収録版（他媒体との音源同一性は未同定）",
+        "checked_on": "2026-10-25",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25",
+    "verified_credit": true,
+    "credited_name": "xi",
+    "role": "アーティスト表記：xi（個別の制作分担は未確認）"
+  },
+  "XI-177": {
+    "title": "Crimson Phoenix",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi vs MASAKI「グルーヴコースター」",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「Crimson Phoenix / xi vs MASAKI「グルーヴコースター」」を確認。対応する一覧レコード：2040。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "オンゲキ公式・公開曲目データ",
+        "url": "https://ongeki.sega.jp/assets/json/music/music.json",
+        "locator": "オンゲキ",
+        "credit": "xi vs MASAKI「グルーヴコースター」",
+        "summary": "SEGA公式オンゲキの公開曲目に「Crimson Phoenix / xi vs MASAKI「グルーヴコースター」」を確認。対応する一覧レコード：400570。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-096": {
+    "title": "Longinus",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「Longinus / xi」を確認。対応する一覧レコード：2538。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-059": {
+    "title": "Aragami",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「Aragami / xi」を確認。対応する一覧レコード：144。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式曲検索",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=xi",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式検索の実際の曲目に「Aragami / xi」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-026": {
+    "title": "Halcyon",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「Halcyon / xi」を確認。対応する一覧レコード：173。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "xi",
+        "summary": "SEGA公式maimaiの公開曲目に「Halcyon / xi」を確認。対応する一覧レコード：841。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "オンゲキ公式・公開曲目データ",
+        "url": "https://ongeki.sega.jp/assets/json/music/music.json",
+        "locator": "オンゲキ",
+        "credit": "xi",
+        "summary": "SEGA公式オンゲキの公開曲目に「Halcyon / xi」を確認。対応する一覧レコード：401010, 950128。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式曲検索",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=xi",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式検索の実際の曲目に「Halcyon / xi」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-017": {
+    "title": "FREEDOM DiVE↓",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「FREEDOM DiVE / xi」を確認。対応する一覧レコード：196, 8026。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "オンゲキ公式・公開曲目データ",
+        "url": "https://ongeki.sega.jp/assets/json/music/music.json",
+        "locator": "オンゲキ",
+        "credit": "xi",
+        "summary": "SEGA公式オンゲキの公開曲目に「FREEDOM DiVE / xi」を確認。対応する一覧レコード：400800。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式曲検索",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=xi",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式検索の実際の曲目に「FREEDOM DiVE / xi」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-069": {
+    "title": "Dreadnought",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "Mastermind(xi+nora2r)",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「Dreadnought / Mastermind(xi+nora2r)」を確認。対応する一覧レコード：323。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "Mastermind(xi+nora2r)",
+        "summary": "SEGA公式maimaiの公開曲目に「Dreadnought / Mastermind(xi+nora2r)」を確認。対応する一覧レコード：867。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "オンゲキ公式・公開曲目データ",
+        "url": "https://ongeki.sega.jp/assets/json/music/music.json",
+        "locator": "オンゲキ",
+        "credit": "Mastermind(xi+nora2r)",
+        "summary": "SEGA公式オンゲキの公開曲目に「Dreadnought / Mastermind(xi+nora2r)」を確認。対応する一覧レコード：401020。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式曲検索",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=xi",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "Mastermind(xi+nora2r)",
+        "summary": "KONAMI公式検索の実際の曲目に「Dreadnought / Mastermind(xi+nora2r)」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-034": {
+    "title": "Parousia",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「Parousia / xi」を確認。対応する一覧レコード：678。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式曲検索",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=xi",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式検索の実際の曲目に「Parousia / xi」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "Sony Music提供・PlayStation Store DLC説明",
+        "url": "https://store.playstation.com/en-cz/product/EP2678-CUSA13139_00-DMVRDLC000000006",
+        "locator": "PS4 / Cytus Selection vol.2",
+        "credit": "xi",
+        "summary": "正規PlayStation StoreのCytus Selection vol.2商品説明にParousiaとTV/VR譜面を確認。作曲名義は既存の公式アルバム資料で照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-021": {
+    "title": "Ascension to Heaven",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「Ascension to Heaven / xi」を確認。対応する一覧レコード：978。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "フライハイワークス公式VOEZ曲目",
+        "url": "https://flyhighworks.heteml.net/games_b/gallery/voez",
+        "locator": "Nintendo Switch / Ver1.0以降収録曲",
+        "credit": "xi",
+        "summary": "フライハイワークス公式Nintendo Switch版VOEZの曲目、第116曲にAscension to Heaven / xiを確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-141": {
+    "title": "Titania",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「Titania / xi」を確認。対応する一覧レコード：2171。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "xi",
+        "summary": "SEGA公式maimaiの公開曲目に「Titania / xi」を確認。対応する一覧レコード：1473。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "オンゲキ公式・公開曲目データ",
+        "url": "https://ongeki.sega.jp/assets/json/music/music.json",
+        "locator": "オンゲキ",
+        "credit": "xi",
+        "summary": "SEGA公式オンゲキの公開曲目に「Titania / xi」を確認。対応する一覧レコード：601215。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-158": {
+    "title": "DOMiNUS_GRAiL",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "xi",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「DOMiNUS_GRAiL / xi」を確認。対応する一覧レコード：2950。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-244": {
+    "title": "創 -汝ら新世界へ歩む者なり-",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "CHUNITHM公式・公開曲目データ",
+        "url": "https://chunithm.sega.jp/storage/json/music.json",
+        "locator": "CHUNITHM",
+        "credit": "BlackY VS Yooh VS siromaru VS xi VS モリモリあつし",
+        "summary": "SEGA公式CHUNITHMの公開曲目に「創 -汝ら新世界へ歩む者なり- / BlackY VS Yooh VS siromaru VS xi VS モリモリあつし」を確認。対応する一覧レコード：2891。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-188": {
+    "title": "Glorious Crown",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "xi",
+        "summary": "SEGA公式maimaiの公開曲目に「Glorious Crown / xi」を確認。対応する一覧レコード：1334, 1674。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-198": {
+    "title": "Lunar Mare",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "xi vs sakuzyo",
+        "summary": "SEGA公式maimaiの公開曲目に「Lunar Mare / xi vs sakuzyo」を確認。対応する一覧レコード：842。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-123": {
+    "title": "Mjölnir",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "xi",
+        "summary": "SEGA公式maimaiの公開曲目に「Mjölnir / xi」を確認。対応する一覧レコード：839。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-196": {
+    "title": "KHYMΞXΛ",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "のらねこさい feat.ricono",
+        "summary": "SEGA公式maimaiの公開曲目に「KHYMΞXΛ / のらねこさい feat.ricono」を確認。対応する一覧レコード：1264。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-154": {
+    "title": "Xaleid◆scopiX",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "xi",
+        "summary": "SEGA公式maimaiの公開曲目に「Xaleid◆scopiX / xi」を確認。対応する一覧レコード：1430。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-072": {
+    "title": "ANiMA",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "xi",
+        "summary": "SEGA公式maimaiの公開曲目に「ANiMA / xi」を確認。対応する一覧レコード：724。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "xi本人のANiMA制作意図の投稿",
+        "url": "https://x.com/com_giko_31/status/616629483831865345",
+        "locator": "投稿本文（公式埋め込みで確認）",
+        "credit": "xi（@com_giko_31）",
+        "summary": "DEEMO向けに暗く速い曲を目指し、複雑な和音を避けたクラシック寄りのアプローチ、展開のための多い転調、ピアノ中心のハードルネッサンスについて本人が説明。譜面の難しさは想定以上だったとも述べる。",
+        "identity_note": "利用者提供の転記を手掛かりに、本人アカウントcom_giko_31の公式埋め込み本文と照合。embedの日付は2015-07-02で、日本時間の2015-07-03と区別する。",
+        "checked_on": "2026-10-30"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-30",
+    "comment": "『World Fragments』への収録を確認。DEEMOでの先行公開日を追加調査中。\n\n本人は2015年7月3日（日本時間）の投稿で、DEEMOに暗く速い曲を入れたいという発想から、複雑な和音を避けたクラシック寄りのアプローチを取り、展開を付けるために転調を多くして、ピアノ中心のハードルネッサンスに仕上げたと説明している。譜面があれほど難しくなるとは思わなかったとも述べている。[作者の投稿](https://x.com/com_giko_31/status/616629483831865345)",
+    "user_provided_transcription": {
+      "supplied_post_date": "2015-07-03",
+      "date_timezone": "Asia/Tokyo",
+      "text": "ANiMAはDeemoに暗くて速い曲入れたいな！と思ったので、古典的というか難しい和音を使わず若干クラシック的なアプローチをして、音ゲー的に展開をつけるため転調多めにし、ピアノ中心のハードルネッサンスに仕上げてみました。あと譜面はあんなに難しくなると思いませんでした（",
+      "verification": "公式埋め込みの本文と照合。公開日・作曲日を確定する根拠としては扱わない。"
+    }
+  },
+  "XI-155": {
+    "title": "RE!NCARN4T10N",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "maimai公式・公開曲目データ",
+        "url": "https://maimai.sega.jp/data/maimai_songs.json",
+        "locator": "maimai",
+        "credit": "xi",
+        "summary": "SEGA公式maimaiの公開曲目に「RE!NCARN4T10N / xi」を確認。対応する一覧レコード：710。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-116": {
+    "title": "ナイト・オブ・ナイツ (xi Remix)",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "オンゲキ公式・公開曲目データ",
+        "url": "https://ongeki.sega.jp/assets/json/music/music.json",
+        "locator": "オンゲキ",
+        "credit": "xi",
+        "summary": "SEGA公式オンゲキの公開曲目に「ナイト・オブ・ナイツ (xi Remix) / xi」を確認。対応する一覧レコード：300080。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-209": {
+    "title": "Op.I《fear-TITΛN-》",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "オンゲキ公式・公開曲目データ",
+        "url": "https://ongeki.sega.jp/assets/json/music/music.json",
+        "locator": "オンゲキ",
+        "credit": "xi vs かねこちはる",
+        "summary": "SEGA公式オンゲキの公開曲目に「Op.I《fear-TITΛN-》 / xi vs かねこちはる」を確認。対応する一覧レコード：601220。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-084": {
+    "title": "Got more raves? -xiRemix-",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "オンゲキ公式・公開曲目データ",
+        "url": "https://ongeki.sega.jp/assets/json/music/music.json",
+        "locator": "オンゲキ",
+        "credit": "xi「グルーヴコースター」",
+        "summary": "SEGA公式オンゲキの公開曲目に「Got more raves? -xiRemix- / xi「グルーヴコースター」」を確認。対応する一覧レコード：400620。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-200": {
+    "title": "Masterstroke",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Masterstroke",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Masterstroke / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-173": {
+    "title": "Celestial Conquest",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Celestial%20Conquest",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Celestial Conquest / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-189": {
+    "title": "Golden Rotation",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Golden%20Rotation",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Golden Rotation / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-241": {
+    "title": "XROSS INFECTION -xiRemix-",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=XROSS%20INFECTION%20-xiRemix-",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「XROSS INFECTION -xiRemix- / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-239": {
+    "title": "Xeno Gravity",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Xeno%20Gravity",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Xeno Gravity / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-168": {
+    "title": "APØCALYPSE RAY",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=AP%C3%98CALYPSE%20RAY",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「APØCALYPSE RAY / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-228": {
+    "title": "SuddeИDeath",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Sudde%D0%98Death",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi vs. モリモリあつし",
+        "summary": "KONAMI公式曲検索の当該曲結果に「SuddeИDeath / xi vs. モリモリあつし」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-216": {
+    "title": "Rapsodia d'amore",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Rapsodia%20d%27amore",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Rapsodia d'amore / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-183": {
+    "title": "Elemental Creation -xiRemix-",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Elemental%20Creation%20-xiRemix-",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Elemental Creation -xiRemix- / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-099": {
+    "title": "Bad Elixir",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Bad%20Elixir",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Bad Elixir / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-190": {
+    "title": "Grand Chariot",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Grand%20Chariot",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Grand Chariot / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "INFINITAS公式・楽曲一覧",
+        "url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+        "locator": "beatmania IIDX INFINITAS",
+        "credit": "xi",
+        "summary": "INFINITAS公式曲目のタイトル・アーティスト欄に「Grand Chariot / xi」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-215": {
+    "title": "Quietus Ray",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "SOUND VOLTEX公式・曲別検索結果",
+        "url": "https://p.eagate.573.jp/game/sdvx/vii/music/index.html?search_name=Quietus%20Ray",
+        "locator": "SOUND VOLTEX（アーケード）",
+        "credit": "xi",
+        "summary": "KONAMI公式曲検索の当該曲結果に「Quietus Ray / xi」を確認。検索語だけでなく返された曲別クレジットを照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-167": {
+    "title": "Angel's Ladder",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "IIDX公式・曲別紹介",
+        "url": "https://p.eagate.573.jp/game/2dx/29/newsong/song09.html",
+        "locator": "beatmania IIDX 29",
+        "credit": "xi",
+        "summary": "KONAMI公式IIDX 29の曲別紹介に「Angel's Ladder / xi」と制作コメントを確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "INFINITAS公式・楽曲一覧",
+        "url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+        "locator": "beatmania IIDX INFINITAS",
+        "credit": "xi",
+        "summary": "INFINITAS公式曲目のタイトル・アーティスト欄に「Angel's Ladder / xi」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-221": {
+    "title": "Silver Bullet",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "IIDX公式・曲別紹介",
+        "url": "https://p.eagate.573.jp/game/2dx/29/newsong/song32.html",
+        "locator": "beatmania IIDX 29",
+        "credit": "xi",
+        "summary": "KONAMI公式IIDX 29の曲別紹介に「Silver Bullet / xi」と制作コメントを確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "INFINITAS公式・楽曲一覧",
+        "url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+        "locator": "beatmania IIDX INFINITAS",
+        "credit": "xi",
+        "summary": "INFINITAS公式曲目のタイトル・アーティスト欄に「Silver Bullet / xi」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-171": {
+    "title": "Beyond Evolution",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "IIDX公式・曲別紹介",
+        "url": "https://p.eagate.573.jp/game/2dx/30/newsong/song44.html",
+        "locator": "beatmania IIDX 30",
+        "credit": "Hekatoncheir",
+        "summary": "KONAMI公式IIDX 30の曲別紹介に「Beyond Evolution / Hekatoncheir」と制作コメントを確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [
+      "IIDX公式のBeyond Evolution名義はHekatoncheir。対象xi本人との対応を示す一次資料は未取得。"
+    ],
+    "checked_on": "2026-10-25",
+    "credited_name": "Hekatoncheir"
+  },
+  "XI-249": {
+    "title": "響花水月",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "IIDX公式・曲別紹介",
+        "url": "https://p.eagate.573.jp/game/2dx/30/newsong/song09.html",
+        "locator": "beatmania IIDX 30",
+        "credit": "xi feat. Risa Yuzuki",
+        "summary": "KONAMI公式IIDX 30の曲別紹介に「響花水月 / xi feat. Risa Yuzuki」と制作コメントを確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "INFINITAS公式・楽曲一覧",
+        "url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+        "locator": "beatmania IIDX INFINITAS",
+        "credit": "xi feat. Risa Yuzuki",
+        "summary": "INFINITAS公式曲目のタイトル・アーティスト欄に「響花水月 / xi feat. Risa Yuzuki」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-245": {
+    "title": "夢縁",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "IIDX公式・曲別紹介",
+        "url": "https://p.eagate.573.jp/game/2dx/31/newsong/song24.html",
+        "locator": "beatmania IIDX 31",
+        "credit": "xi feat. Risa Yuzuki",
+        "summary": "KONAMI公式IIDX 31の曲別紹介に「夢縁 / xi feat. Risa Yuzuki」と制作コメントを確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "INFINITAS公式・楽曲一覧",
+        "url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+        "locator": "beatmania IIDX INFINITAS",
+        "credit": "xi feat. Risa Yuzuki",
+        "summary": "INFINITAS公式曲目のタイトル・アーティスト欄に「夢縁 / xi feat. Risa Yuzuki」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-219": {
+    "title": "Satellite Burst",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "IIDX公式・曲別紹介",
+        "url": "https://p.eagate.573.jp/game/2dx/32/newsong/song19.html",
+        "locator": "beatmania IIDX 32",
+        "credit": "xi",
+        "summary": "KONAMI公式IIDX 32の曲別紹介に「Satellite Burst / xi」と制作コメントを確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "INFINITAS公式・楽曲一覧",
+        "url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+        "locator": "beatmania IIDX INFINITAS",
+        "credit": "xi",
+        "summary": "INFINITAS公式曲目のタイトル・アーティスト欄に「Satellite Burst / xi」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-242": {
+    "title": "ιgniЯRuina",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "IIDX公式・曲別紹介",
+        "url": "https://p.eagate.573.jp/game/2dx/33/newsong/song23.html",
+        "locator": "beatmania IIDX 33",
+        "credit": "xi feat. Risa Yuzuki",
+        "summary": "KONAMI公式IIDX 33の曲別紹介に「ιgniЯRuina / xi feat. Risa Yuzuki」と制作コメントを確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-250": {
+    "title": "泡沫と月",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "xi Official・作曲者プレイ動画",
+        "url": "https://www.youtube.com/watch?v=phiCv9e4fZA",
+        "locator": "beatmania IIDX 34 ZINRAI",
+        "credit": "xi feat. Risa Yuzuki",
+        "summary": "本人xi Officialの作曲者プレイ動画・説明欄にIIDX 34 ZINRAI書き下ろし、曲名・名義を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-224": {
+    "title": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "INFINITAS公式・楽曲一覧",
+        "url": "https://p.eagate.573.jp/game/infinitas/2/music/index.html",
+        "locator": "beatmania IIDX INFINITAS",
+        "credit": "Remixed by xi",
+        "summary": "INFINITAS公式曲目のタイトル・アーティスト欄に「SOLID STATE SQUAD -RISEN RELIC REMIX- / Remixed by xi」を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-205": {
+    "title": "Minerva",
+    "sources": [
+      {
+        "kind": "secondary",
+        "label": "カプコン配布資料の転載（ファミ通）",
+        "url": "https://www.famitsu.com/news/201701/05124256.html",
+        "locator": "crossbeats REV. SUNRISE / REV.SHOP",
+        "credit": "xi",
+        "summary": "メーカー原資料の転載。ファミ通記事の「以下、リリースより。」以降のカプコン配布資料にMinerva / xi、実装日2017年1月5日4:00〜を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [
+      {
+        "id": "GAME-AUDIT-XI-205",
+        "date": "2017-01-05",
+        "precision": "day",
+        "kind": "ゲーム楽曲実装日（メーカー資料転載）",
+        "medium": "crossbeats REV. SUNRISE",
+        "source_url": "https://www.famitsu.com/news/201701/05124256.html",
+        "evidence": "ファミ通記事の「以下、リリースより。」以降のカプコン配布資料にMinerva / xi、実装日2017年1月5日4:00〜を確認。",
+        "version": "Minerva",
+        "checked_on": "2026-10-25",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [
+      "確認できたゲームの公開記録。作曲日・真の初公開日、先行試聴の有無は未確認。"
+    ],
+    "checked_on": "2026-10-25"
+  },
+  "XI-174": {
+    "title": "Ceyx",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "【公式】SEVEN's CODE ーセブンスコードー・公式動画",
+        "url": "https://www.youtube.com/watch?v=8Lo6ZH2NKUc",
+        "locator": "SEVEN’s CODE",
+        "credit": "xi",
+        "summary": "公式動画「SEVEN’s CODE「Ceyx／xi」」の曲名・制作クレジットを説明欄まで確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "Felion Sounds公式サウンドトラック案内",
+        "url": "https://felion-e.jp/svczero/discography/",
+        "locator": "Ceyx・関連する公式コメント",
+        "credit": "xi",
+        "summary": "Ceyx / xiと公式チャンネルへのリンクを確認。サントラ配信開始日をゲーム収録日へ転用しない。",
+        "identity_note": "同じ公式イベント内の作者コメントで名義の対応を補強。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [
+      {
+        "id": "GAME-VIDEO-XI-174",
+        "date": "2019-11-12",
+        "precision": "day",
+        "kind": "公式動画公開日（日本時間）",
+        "medium": "SEVEN’s CODE・公式YouTube",
+        "source_url": "https://www.youtube.com/watch?v=8Lo6ZH2NKUc",
+        "evidence": "公式曲別動画のpublishDate=2019-11-12T02:02:40-08:00を日本時間に換算。曲別のクレジット・公式公開元も照合。ゲームの初収録日は未確認。",
+        "version": "Ceyx",
+        "checked_on": "2026-10-25",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://www.youtube.com/watch?v=8Lo6ZH2NKUc",
+        "label": "【公式】SEVEN's CODE ーセブンスコードー公式YouTube",
+        "version": "公式公開音源",
+        "official_basis": "ゲーム公式サイト・開発元へのリンクに加え、Felion Soundsの公式サウンドトラック案内が同じYouTubeチャンネルへリンク。",
+        "officialness_source_url": "https://www.youtube.com/watch?v=8Lo6ZH2NKUc",
+        "availability": "動画ページと公式公開の根拠を確認。音声の聴取は未実施。"
+      }
+    ],
+    "issues": [
+      "動画公開日をゲーム初収録日・作曲日・真の初公開日とはしない。先行公開の有無は未確認。"
+    ],
+    "checked_on": "2026-10-25"
+  },
+  "XI-163": {
+    "title": "Abyssgazer",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "TunerGames・公式動画",
+        "url": "https://www.youtube.com/watch?v=XLRzISm_Y18",
+        "locator": "Paradigm: Reboot",
+        "credit": "xi VS Sakuzyo",
+        "summary": "公式動画「【Paradigm: Reboot】xi VS Sakuzyo - Abyssgazer」の曲名・制作クレジットを説明欄まで確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [
+      {
+        "id": "GAME-VIDEO-XI-163",
+        "date": "2024-12-14",
+        "precision": "day",
+        "kind": "公式動画公開日（日本時間）",
+        "medium": "Paradigm: Reboot・公式YouTube",
+        "source_url": "https://www.youtube.com/watch?v=XLRzISm_Y18",
+        "evidence": "公式曲別動画のpublishDate=2024-12-14T02:00:34-08:00を日本時間に換算。曲別のクレジット・公式公開元も照合。ゲームの初収録日は未確認。",
+        "version": "Abyssgazer",
+        "checked_on": "2026-10-25",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://www.youtube.com/watch?v=XLRzISm_Y18",
+        "label": "TunerGames公式YouTube",
+        "version": "公式公開音源",
+        "official_basis": "開発元TunerGamesの動画。ゲームの著作権表記・正規アプリへのリンクを確認。Noctilucaでは本人com_giko_31への直接リンクも確認。",
+        "officialness_source_url": "https://www.youtube.com/watch?v=XLRzISm_Y18",
+        "availability": "動画ページと公式公開の根拠を確認。音声の聴取は未実施。"
+      }
+    ],
+    "issues": [
+      "動画公開日をゲーム初収録日・作曲日・真の初公開日とはしない。先行公開の有無は未確認。"
+    ],
+    "checked_on": "2026-10-25"
+  },
+  "XI-208": {
+    "title": "Noctiluca",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "TunerGames・公式動画",
+        "url": "https://www.youtube.com/watch?v=sWUyYtR1gCc",
+        "locator": "Paradigm: Reboot",
+        "credit": "xi",
+        "summary": "公式動画「【Paradigm: Reboot】xi - Noctiluca」の曲名・制作クレジットを説明欄まで確認。",
+        "identity_note": "Noctilucaの説明欄にxi Official Xとしてcom_giko_31への直接リンク。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [
+      {
+        "id": "GAME-VIDEO-XI-208",
+        "date": "2026-09-19",
+        "precision": "day",
+        "kind": "公式動画公開日（日本時間）",
+        "medium": "Paradigm: Reboot・公式YouTube",
+        "source_url": "https://www.youtube.com/watch?v=sWUyYtR1gCc",
+        "evidence": "公式曲別動画のpublishDate=2026-09-19T03:00:31-07:00を日本時間に換算。曲別のクレジット・公式公開元も照合。ゲームの初収録日は未確認。",
+        "version": "Noctiluca",
+        "checked_on": "2026-10-25",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://www.youtube.com/watch?v=sWUyYtR1gCc",
+        "label": "TunerGames公式YouTube",
+        "version": "公式公開音源",
+        "official_basis": "開発元TunerGamesの動画。ゲームの著作権表記・正規アプリへのリンクを確認。Noctilucaでは本人com_giko_31への直接リンクも確認。",
+        "officialness_source_url": "https://www.youtube.com/watch?v=sWUyYtR1gCc",
+        "availability": "動画ページと公式公開の根拠を確認。音声の聴取は未実施。"
+      }
+    ],
+    "issues": [
+      "動画公開日をゲーム初収録日・作曲日・真の初公開日とはしない。先行公開の有無は未確認。"
+    ],
+    "checked_on": "2026-10-25",
+    "verified_credit": true,
+    "credited_name": "xi",
+    "role": "作曲：xi"
+  },
+  "XI-232": {
+    "title": "The Dynamics of an Asteroid",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "ノスタルジア公式・2021-12-22告知",
+        "url": "https://p.eagate.573.jp/game/nostalgia/op3/news/news.html",
+        "locator": "ノスタルジア Op.3 / 絢爛なるピアノの調べ",
+        "credit": "xi",
+        "summary": "公式ニュースdata-date=20211222-02で、12月23日(木)10:00よりイベント特典として解禁可能、The Dynamics of an Asteroid / xiと明記。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "コナステ ノスタルジア公式・楽曲一覧",
+        "url": "https://p.eagate.573.jp/game/eacnostalgia/op3/info/music.html",
+        "locator": "コナステ ノスタルジア / 楽曲パック vol.7",
+        "credit": "xi",
+        "summary": "コナステ公式曲目「楽曲パック vol.7」のタイトル・アーティスト欄でThe Dynamics of an Asteroid / xiを確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [
+      {
+        "id": "GAME-AUDIT-XI-232",
+        "date": "2021-12-23",
+        "precision": "day",
+        "kind": "ゲームイベント解禁開始日",
+        "medium": "ノスタルジア Op.3",
+        "source_url": "https://p.eagate.573.jp/game/nostalgia/op3/news/news.html",
+        "evidence": "公式ニュースdata-date=20211222-02で、12月23日(木)10:00よりイベント特典として解禁可能、The Dynamics of an Asteroid / xiと明記。",
+        "version": "The Dynamics of an Asteroid",
+        "checked_on": "2026-10-25",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [],
+    "issues": [
+      "確認できたゲームの公開記録。作曲日・真の初公開日、先行試聴の有無は未確認。"
+    ],
+    "checked_on": "2026-10-25"
+  },
+  "XI-143": {
+    "title": "疾風怒濤",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "太鼓ミュージックパス公式曲目",
+        "url": "https://dondafulfestival-20th.taiko-ch.net/music/musicpass_list.php",
+        "locator": "Nintendo Switch / 太鼓ミュージックパス",
+        "credit": "xi",
+        "summary": "バンダイナムコ公式ミュージックパス曲目の「疾風怒濤」と同じ曲枠にxiを含む名義を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-247": {
+    "title": "狂瀾怒濤",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "太鼓ミュージックパス公式曲目",
+        "url": "https://dondafulfestival-20th.taiko-ch.net/music/musicpass_list.php",
+        "locator": "Nintendo Switch / 太鼓ミュージックパス",
+        "credit": "xi",
+        "summary": "バンダイナムコ公式ミュージックパス曲目の「狂瀾怒濤」と同じ曲枠にxiを含む名義を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      },
+      {
+        "kind": "primary",
+        "label": "Pop Tap Beat公式曲目",
+        "url": "https://poptapbeat.taiko-ch.net/list/",
+        "locator": "Apple Arcade / Pop Tap Beat",
+        "credit": "xi",
+        "summary": "バンダイナムコ公式Pop Tap Beat曲目に狂瀾怒濤 / xiを確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-248": {
+    "title": "超絶技巧系少女",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "太鼓ミュージックパス公式曲目",
+        "url": "https://dondafulfestival-20th.taiko-ch.net/music/musicpass_list.php",
+        "locator": "Nintendo Switch / 太鼓ミュージックパス",
+        "credit": "ねこかぶりサイクロン(xi＋ねこみりん)",
+        "summary": "バンダイナムコ公式ミュージックパス曲目の「超絶技巧系少女」と同じ曲枠にxiを含む名義を確認。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-193": {
+    "title": "Hypnos",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "Diverse System・公式動画",
+        "url": "https://www.youtube.com/watch?v=_r2zheyqHT8",
+        "locator": "DEEMO / xi Collection",
+        "credit": "xi",
+        "summary": "公式動画「[Official] Hypnos / xi [DEEMO 4.0 - xi Collection]」の曲名・制作クレジットを説明欄まで確認。",
+        "identity_note": "レーベルDiverse Systemの曲別動画がArtist xiとして本人com_giko_31へ直接リンク。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [
+      {
+        "id": "GAME-VIDEO-XI-193",
+        "date": "2021-02-04",
+        "precision": "day",
+        "kind": "公式動画公開日（日本時間）",
+        "medium": "DEEMO / xi Collection・公式YouTube",
+        "source_url": "https://www.youtube.com/watch?v=_r2zheyqHT8",
+        "evidence": "公式曲別動画のpublishDate=2021-02-03T23:42:11-08:00を日本時間に換算。曲別のクレジット・公式公開元も照合。ゲームの初収録日は未確認。",
+        "version": "Hypnos",
+        "checked_on": "2026-10-25",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://www.youtube.com/watch?v=_r2zheyqHT8",
+        "label": "Diverse System公式YouTube",
+        "version": "公式公開音源",
+        "official_basis": "Diverse System公式チャンネル。公式サイト・レーベルBandcamp、Artist xi本人のcom_giko_31へリンク、Rayark / DEEMO著作権表記。",
+        "officialness_source_url": "https://www.youtube.com/watch?v=_r2zheyqHT8",
+        "availability": "動画ページと公式公開の根拠を確認。音声の聴取は未実施。"
+      }
+    ],
+    "issues": [
+      "動画公開日をゲーム初収録日・作曲日・真の初公開日とはしない。先行公開の有無は未確認。"
+    ],
+    "checked_on": "2026-10-25",
+    "verified_credit": true,
+    "credited_name": "xi",
+    "role": "作曲者表記：xi"
+  },
+  "XI-051": {
+    "title": "Niflheimr",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "Sony Music提供・PlayStation Store DLC説明",
+        "url": "https://store.playstation.com/en-cz/product/EP2678-CUSA13139_00-DMVRDLC000000006",
+        "locator": "PS4 / Cytus Selection vol.2",
+        "credit": "xi",
+        "summary": "正規PlayStation StoreのCytus Selection vol.2商品説明にNiflheimrとTV/VR譜面を確認。作曲名義は既存の公式アルバム資料で照合。",
+        "identity_note": "公式の曲別名義を確認。対象xi本人への帰属は別に判定し、未確認の別名義を自動昇格させない。",
+        "checked_on": "2026-10-25"
+      }
+    ],
+    "records": [],
+    "listening": [],
+    "issues": [],
+    "checked_on": "2026-10-25"
+  },
+  "XI-252": {
+    "title": "Parallax",
+    "checked_on": "2026-10-26",
+    "verified_credit": true,
+    "credited_name": "xi vs. ak+q (lowiro)",
+    "role": "合作：xi・ak+q (lowiro)。個別の制作工程は未確認。",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "Arcaea公式 X",
+        "url": "https://x.com/arcaea_jp/status/2113786378047619133",
+        "locator": "曲別告知・2026年10月24日 9:15（日本時間）",
+        "credit": "xi vs. ak+q (lowiro)",
+        "summary": "公式投稿に曲名Parallaxとxi vs. ak+q (lowiro)名義を掲載。",
+        "identity_note": "xi本人または公式運営の曲別告知を照合。合作の制作工程の内訳は推測しない。",
+        "checked_on": "2026-10-26"
+      },
+      {
+        "kind": "primary",
+        "label": "xi本人 X",
+        "url": "https://x.com/com_giko_31/status/2113806371250643454",
+        "locator": "合作提供の告知・2026年10月24日",
+        "credit": "xi vs. ak+q (lowiro)",
+        "summary": "本人がak+qとの合作を提供したことと、パックの10月29日配信予定を告知。",
+        "identity_note": "xi本人または公式運営の曲別告知を照合。合作の制作工程の内訳は推測しない。",
+        "checked_on": "2026-10-26"
+      }
+    ],
+    "records": [
+      {
+        "id": "NEW-XI-252-1",
+        "date": "2026-10-24",
+        "precision": "day",
+        "kind": "プレビュー公開日（X告知・初公開、利用者確認）",
+        "medium": "Arcaea",
+        "source_url": "https://x.com/arcaea_jp/status/2113786378047619133",
+        "evidence": "Arcaea公式Xの曲別告知日を確認。告知日と初公開日が同日であるとの利用者補足（USER-20261026-001）に基づき、初公開日として登録。",
+        "version": "Parallax",
+        "checked_on": "2026-10-26",
+        "true_first_publication_confirmed": true
+      }
+    ],
+    "listening": [],
+    "issues": [
+      "ゲーム配信は2026年10月29日予定。確認日現在は追加告知として保持し、ゲーム実装済みとは扱わない。"
+    ]
+  },
+  "XI-253": {
+    "title": "Re：End of a Dream (Diceros Bicornis Remix)",
+    "checked_on": "2026-10-26",
+    "verified_credit": true,
+    "credited_name": "Diceros Bicornis (xi + BlackY)",
+    "role": "リミックス合作：xi・BlackY（Diceros Bicornis）。原曲：uma vs. モリモリあつし。",
+    "sources": [
+      {
+        "kind": "primary",
+        "label": "xi本人 X",
+        "url": "https://x.com/com_giko_31/status/2113637093142605951",
+        "locator": "Tr. 04・曲名・BlackYとの合作表明・2026年10月23日 23:22（日本時間）",
+        "credit": "Diceros Bicornis",
+        "summary": "本人が第4曲のリミックス参加とBlackYとの合作を明記。",
+        "identity_note": "xi本人または公式運営の曲別告知を照合。合作の制作工程の内訳は推測しない。",
+        "checked_on": "2026-10-26"
+      },
+      {
+        "kind": "primary",
+        "label": "モリモリあつし公式 X",
+        "url": "https://x.com/ats024/status/2113631686579953892",
+        "locator": "アルバム告知・2026年10月23日 23:00（日本時間）",
+        "credit": "Astral Sky vs. 非可逆リズム",
+        "summary": "Re：End of DreamerZの公式告知に2026.10.25 Releaseと記載。動画の添付を確認。",
+        "identity_note": "xi本人または公式運営の曲別告知を照合。合作の制作工程の内訳は推測しない。",
+        "checked_on": "2026-10-26"
+      }
+    ],
+    "records": [
+      {
+        "id": "NEW-XI-253-1",
+        "date": "2026-10-23",
+        "precision": "day",
+        "kind": "クロスフェード公開日（X告知・初公開、利用者確認）",
+        "medium": "Re：End of DreamerZ",
+        "source_url": "https://x.com/com_giko_31/status/2113637093142605951",
+        "evidence": "xi本人の参加告知と同日付のアルバム公式動画告知を照合。告知日と初公開日が同日であるとの利用者補足（USER-20261026-001）に基づき、初公開日として登録。",
+        "version": "Re：End of a Dream (Diceros Bicornis Remix)",
+        "checked_on": "2026-10-26",
+        "true_first_publication_confirmed": true
+      },
+      {
+        "id": "NEW-XI-253-2",
+        "date": "2026-10-25",
+        "precision": "day",
+        "kind": "アルバム発売日（公式告知）",
+        "medium": "Re：End of DreamerZ",
+        "source_url": "https://x.com/com_giko_31/status/2113637093142605951",
+        "evidence": "本人の第4曲参加告知が引用するアルバム公式告知に2026.10.25 Releaseと記載。初公開日の10月23日とは分離。",
+        "version": "Re：End of a Dream (Diceros Bicornis Remix)",
+        "checked_on": "2026-10-26",
+        "true_first_publication_confirmed": false
+      }
+    ],
+    "listening": [
+      {
+        "url": "https://x.com/ats024/status/2113631686579953892",
+        "label": "アルバム公式X・告知動画",
+        "version": "アルバム告知動画。曲全編の公開ではない。",
+        "official_basis": "アルバム頒布元の公式アカウントによる動画付き告知。xi本人の参加告知が引用。",
+        "officialness_source_url": "https://x.com/com_giko_31/status/2113637093142605951",
+        "availability": "動画の添付は確認。ブラウザーでは再生できず、音声は未聴取。"
+      }
+    ],
+    "issues": [
+      "原曲はこのアーカイブに未登録。xi・BlackYによるリミックスであり、xiの新規原曲として数えない。"
+    ]
   }
 }

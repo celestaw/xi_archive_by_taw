@@ -1,0 +1,173 @@
+{
+  "note": "BMS登録ページ・パッケージ公式曲紹介・原作BGAの作者表記、BMS SEARCH掲載の譜面メタデータ、IIDX公式曲紹介のジャンル欄を確認。作者のジャンル表記を維持する。同じ作品IDの移植曲には原出典の表記を参照表示する。FLOOR等の収録カテゴリ、曲調からの推測、別バージョンへの自動継承は採用しない。2026-10-27追加分の確認範囲はbms_genre_findings.jsonを参照。",
+  "entries": {
+    "XI-017": {
+      "label": "HAPPY HARDCORE",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=50&num=15",
+      "checked_on": "2026-10-23"
+    },
+    "XI-018": {
+      "label": "House",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=54&num=97",
+      "checked_on": "2026-10-23"
+    },
+    "XI-019": {
+      "label": "postrock",
+      "medium": "BMS譜面",
+      "source_url": "https://bmssearch.net/bmses/1fin_jjOpwzHJc",
+      "checked_on": "2026-10-27"
+    },
+    "XI-021": {
+      "label": "ARTCORE",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=60&num=32",
+      "checked_on": "2026-10-23"
+    },
+    "XI-022": {
+      "label": "PROGRESSIVE FUSION",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=60&num=31",
+      "checked_on": "2026-10-23"
+    },
+    "XI-023": {
+      "label": "HAPPY",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=60&num=16",
+      "checked_on": "2026-10-23"
+    },
+    "XI-025": {
+      "label": "JAZZ FUSION",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=61&num=12",
+      "checked_on": "2026-10-27"
+    },
+    "XI-026": {
+      "label": "RENAISSANCE HARDCORE",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=65&num=237",
+      "checked_on": "2026-10-23"
+    },
+    "XI-028": {
+      "label": "DRUM'N'BASS",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=67&num=19",
+      "checked_on": "2026-10-23"
+    },
+    "XI-033": {
+      "label": "マジックジャズ",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=69&num=4",
+      "checked_on": "2026-10-27"
+    },
+    "XI-034": {
+      "label": "APOCALYPSIS JOHANNIS",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=74&num=281",
+      "checked_on": "2026-10-23"
+    },
+    "XI-037": {
+      "label": "SYMPHONIC SCHRANZ",
+      "medium": "BMS",
+      "source_url": "https://www.youtube.com/watch?v=MWXSR3wAk7k",
+      "checked_on": "2026-10-27"
+    },
+    "XI-041": {
+      "label": "NORSE MYTHOLOGY",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=83&num=365",
+      "checked_on": "2026-10-23"
+    },
+    "XI-059": {
+      "label": "LIFE STREAM",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=96&num=211",
+      "checked_on": "2026-10-23"
+    },
+    "XI-068": {
+      "label": "BRAVE",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=104&num=430",
+      "checked_on": "2026-10-23"
+    },
+    "XI-069": {
+      "label": "Breakthrough",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=104&num=410",
+      "checked_on": "2026-10-23"
+    },
+    "XI-083": {
+      "label": "LIFE STREAM",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=536",
+      "checked_on": "2026-10-23"
+    },
+    "XI-099": {
+      "label": "IDEALISM",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=316",
+      "checked_on": "2026-10-23"
+    },
+    "XI-167": {
+      "label": "PIANO TECH",
+      "medium": "beatmania IIDX",
+      "source_url": "https://p.eagate.573.jp/game/2dx/29/newsong/song09.html",
+      "checked_on": "2026-10-25"
+    },
+    "XI-169": {
+      "label": "DARKSTEP MIX",
+      "medium": "BMSパッケージ",
+      "source_url": "https://nekokan.dyndns.info/~ndk/ndkbms_002/",
+      "checked_on": "2026-10-27"
+    },
+    "XI-171": {
+      "label": "CULMINATION",
+      "medium": "beatmania IIDX",
+      "source_url": "https://p.eagate.573.jp/game/2dx/30/newsong/song44.html",
+      "checked_on": "2026-10-25"
+    },
+    "XI-186": {
+      "label": "ANTHEM SPEEDCORE",
+      "medium": "BMSイベント",
+      "source_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=75&num=18",
+      "checked_on": "2026-10-27"
+    },
+    "XI-210": {
+      "label": "無調音楽",
+      "medium": "BMSイベント",
+      "source_url": "https://colosseo.nekokan.dyndns.info/c02_shuffle/detail.php?n=53",
+      "checked_on": "2026-10-27"
+    },
+    "XI-219": {
+      "label": "HARD SYMPHONIC",
+      "medium": "beatmania IIDX",
+      "source_url": "https://p.eagate.573.jp/game/2dx/32/newsong/song19.html",
+      "checked_on": "2026-10-25"
+    },
+    "XI-221": {
+      "label": "PIANO CONCERTINO + JAZZ FUSION",
+      "medium": "beatmania IIDX",
+      "source_url": "https://p.eagate.573.jp/game/2dx/29/newsong/song32.html",
+      "checked_on": "2026-10-25"
+    },
+    "XI-242": {
+      "label": "PSALMS OF ASHES",
+      "medium": "beatmania IIDX",
+      "source_url": "https://p.eagate.573.jp/game/2dx/33/newsong/song23.html",
+      "checked_on": "2026-10-25"
+    },
+    "XI-245": {
+      "label": "JUVENILE PIANO ROCK",
+      "medium": "beatmania IIDX",
+      "source_url": "https://p.eagate.573.jp/game/2dx/31/newsong/song24.html",
+      "checked_on": "2026-10-25"
+    },
+    "XI-249": {
+      "label": "HEROIC DRUM & BASS",
+      "medium": "beatmania IIDX",
+      "source_url": "https://p.eagate.573.jp/game/2dx/30/newsong/song09.html",
+      "checked_on": "2026-10-25"
+    }
+  }
+}

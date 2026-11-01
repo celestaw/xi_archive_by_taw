@@ -1,0 +1,7 @@
+{
+  "url": "https://chrono-circle.com/page/sub3_1.php",
+  "key": "95696f9c082ad91a",
+  "checked_on": "2026-10-25",
+  "status": "failed",
+  "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+}

@@ -1,0 +1,33 @@
+{
+  "checked_on": "2026-10-26",
+  "limitations": [
+    "追加告知と実装済みの収録を区別する。将来の配信予定日を公開済みの記録へ昇格しない。"
+  ],
+  "candidates": [],
+  "games": [
+    {
+      "id": "arcaea",
+      "title": "Arcaea",
+      "note": "曲ごとに収録・追加告知・収録候補を表示。Parallaxは2026年10月29日配信予定の追加告知。",
+      "tracks": [
+        {
+          "work_id": "XI-252",
+          "title": "Parallax",
+          "credited_name": "xi vs. ak+q (lowiro)",
+          "role": "合作：xi・ak+q (lowiro)。個別の制作工程は未確認。",
+          "source_url": "https://x.com/arcaea_jp/status/2113786378047619133",
+          "evidence": "Arcaea公式の曲別告知とxi本人の合作提供告知を確認。パックは2026年10月29日配信予定。",
+          "checked_on": "2026-10-26",
+          "source_kind": "primary",
+          "source_label": "Arcaea公式・xi本人 X",
+          "edition": "Arcaea・Diverse System Collaboration",
+          "note": "2026年10月24日初公開（告知日と同日との利用者確認）。ゲームは10月29日配信予定。",
+          "listing_kind": "追加告知",
+          "listening": null,
+          "identity_note": "本人がak+qとの合作を明記。",
+          "extra_sources": []
+        }
+      ]
+    }
+  ]
+}

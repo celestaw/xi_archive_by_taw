@@ -1,0 +1,502 @@
+beatmania IIDX 32 Pinky Crush
+サービス一覧
+e-amusement迷宮
+FAQ
+SITE TOP
+IIDXの遊び方や収録楽曲の紹介、各種ランキングの閲覧ができます
+ご利用にはe-amusementへのログインが必要です
+HOW TO PLAY
+遊び方について
+ゲームの開始
+ゲーム画面詳細
+ゲームオプション
+ハイスピードオプション
+テンキーオプション
+スコアグラフ
+エフェクター
+カメラ機能
+LIGHTNING MODEL
+専用機能
+プレミアムエリア
+ランダムレーンチケット
+プレー録画機能
+カジュアル大会機能
+段位認定 -極-
+BPLバトルモード
+ゲームモード
+スタンダード
+ステップアップ
+段位認定
+プレミアムフリー
+e-amusement passを
+使用した遊び方
+e-amusement pass
+プレーデータ
+ライバル挑戦状
+PASELI
+ロボライバル
+師弟システム
+辻斬りバトル
+e-amusementアプリ
+新機能一覧
+選曲画面リニューアル
+ナビゲート機能
+マイアクティビティ機能
+サブライバル機能
+プレミアムエリア強化
+2人プレー機能強化
+NEW SONG
+RANKING
+行脚王RANKING
+WEEKLY RANKING
+WEEKLY RANKING
+レーティングRANKING
+プレーヤーノーツレーダー
+RANKING
+アリーナクラス
+TOP RANKER RANKING
+アリーナキューブ
+RANKING
+TOP RANKER
+EVENT
+ARENAモード
+WORLD TOURISM
+ピンキージャンプアップ！
+ピンキーアンダーグラウンド
+CARD CONNECT
+DJ DATA
+ステータス
+行脚
+段位認定
+楽曲データ/マイベスト
+楽曲データ/シリーズ
+楽曲データ/曲名
+楽曲データ/難易度別
+楽曲データ/最近プレー
+ARENAモード
+WEEKLY RANKING
+辻斬りバトル
+プレー録画機能
+ランダムレーンチケット
+IIDXタワー
+勲章
+ピンキージャンプアップ！
+プレーデータ
+CSVダウンロード
+ULTIMATE MOBILE連動
+フォロー&ライバル
+フォローリスト
+フォロワーリスト
+ライバルリスト
+プレーヤー検索
+逆ライバル情報
+ロボライバル
+ライバル挑戦状
+師弟システム
+カスタマイズ
+クプロカスタマイズ
+公開設定
+プレーカスタマイズ
+DJ NAME変更
+SHOP
+プラチナメンバーズカード
+クプロパーツ
+爆発
+ターンテーブル
+レーンカバー /
+グラフエリア / LIFT
+判定文字
+ノーツ
+キービーム
+フルコンボ
+秘蔵のレコード
+クプロパーツメーカー
+プレミアム
+カスタマイズメーカー
+設置店舗検索
+TOPにもどる
+HOW TO PLAY
+遊び方について
+ゲームの開始
+ゲーム画面詳細
+ゲームオプション
+ハイスピードオプション
+テンキーオプション
+スコアグラフ
+エフェクター
+カメラ機能
+LIGHTNING MODEL
+専用機能
+プレミアムエリア
+ランダムレーンチケット
+プレー録画機能
+カジュアル大会機能
+段位認定 -極-
+BPLバトルモード
+ゲームモード
+スタンダード
+ステップアップ
+段位認定
+プレミアムフリー
+e-amusement passを
+使用した遊び方
+e-amusement pass
+プレーデータ
+ライバル挑戦状
+PASELI
+ロボライバル
+師弟システム
+辻斬りバトル
+e-amusementアプリ
+新機能一覧
+選曲画面リニューアル
+ナビゲート機能
+マイアクティビティ機能
+サブライバル機能
+プレミアムエリア強化
+2人プレー機能強化
+NEW SONG
+RANKING
+行脚王RANKING
+WEEKLY RANKING
+WEEKLY RANKING
+レーティングRANKING
+プレーヤーノーツレーダー
+RANKING
+アリーナクラス
+TOP RANKER RANKING
+アリーナキューブ
+RANKING
+TOP RANKER
+EVENT
+ARENAモード
+WORLD TOURISM
+ピンキージャンプアップ！
+ピンキーアンダーグラウンド
+CARD CONNECT
+DJ DATA
+ステータス
+行脚
+段位認定
+楽曲データ/マイベスト
+楽曲データ/シリーズ
+楽曲データ/曲名
+楽曲データ/難易度別
+楽曲データ/最近プレー
+ARENAモード
+WEEKLY RANKING
+辻斬りバトル
+プレー録画機能
+ランダムレーンチケット
+IIDXタワー
+勲章
+ピンキージャンプアップ！
+プレーデータ
+CSVダウンロード
+ULTIMATE MOBILE連動
+フォロー&ライバル
+フォローリスト
+フォロワーリスト
+ライバルリスト
+プレーヤー検索
+逆ライバル情報
+ロボライバル
+ライバル挑戦状
+師弟システム
+カスタマイズ
+クプロカスタマイズ
+公開設定
+プレーカスタマイズ
+DJ NAME変更
+SHOP
+プラチナメンバーズカード
+クプロパーツ
+爆発
+ターンテーブル
+レーンカバー /
+グラフエリア / LIFT
+判定文字
+ノーツ
+キービーム
+フルコンボ
+秘蔵のレコード
+クプロパーツメーカー
+プレミアム
+カスタマイズメーカー
+設置店舗検索
+TOPにもどる
+コミュニティニックネーム
+---
+DJ NAME
+---
+NEW SONG
+スキッテイエェエエェ!!!!
+Hi-ラブコメPOP
+cosMo＠暴走P & BEMANI Sound Team "L.E.D.-G"
+NOIXIA
+STYLISH ELECTRO
+BEMANI Sound Team "HuΣeR"
+Pinky Happy Crazy
+HAPPY
+BEMANI Sound Team "Risk Junk"
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Other
+ADAMANT
+HARDCORE
+BEMANI Sound Team "L.E.D.-G"
+Aqvion
+AQUATIC TECHCORE
+lapix
+Bang-Boo Bumble
+BANGIN' TECHNO
+二代目白虎
+Bling-Bang-Bang-Born
+IIDX EDITION
+Covered by uno(IOSYS) feat. Fra
+Bring The Fire
+SPEED RAVE
+kors k
+CHAOTIC SUNBIRD
+ULTRA SAM-BASS
+Tanchiky
+Chasing After YOU ～夢の欠片～ ft. 小林マナ
+Y2K 2000 J-pop Dance
+Xceon
+Constellation
+UPLIFTING TRANCE
+Maozon
+destination
+TRANCECORE
+One Round Rabbits
+Digital Radiance
+COLOUR TECH
+BEMANI Sound Team "Sota Fujimori" feat. S.B.Z.
+DIVINE JUDGEMENT
+SYMPHONIC BREAK BEATS
+OSTER project
+Dreamship
+ELECTRO POP
+Nhato feat. Kanae Asaba
+Drop Syndicate
+MOOMBAHCORE / DRUM'N BASS
+Seventhrun × nora2r
+Eleanor
+UNNAMED FIESTA
+satella feat. nayuta
+ELYSIUM
+RANDOM ACCESS MEMORIES
+Snail's House
+everlastingeuphoria:
+HYPERTRANCE
+crayvxn
+FERMI♡PARADOX
+COSMIC HAPPY TUNE
+BlackY feat. Risa Yuzuki
+Fiery Stallion
+80'S SYNTHWAVE ROCK
+Dirty Androids
+Flämingo
+PASSIONATE RAVE
+CANVAS feat. Quimär
+FlyAway
+HARD DANCE
+Blacklolita
+Galaxy Collapse
+MULTIGENRE
+BEMANI Sound Team "めめめ”
+get set mind
+TORIENA LAND
+TORIENA
+God Mind
+NEO HARD RENAISSANCE
+Tatsunoshin
+Here We Go Now
+HARD PSY
+Whac-A-Me
+KOTONOHA ft. Kotoha
+EMOISM FUTURE POP
+EmoCosine × BEMANI Sound Team "HuΣeR"
+lowercase lifetime
+HYPERFLIP
+BEMANI Sound Team "ZAQUVA"
+MARLIN
+DRUM'N'BASS
+Zekk
+Mid-Corner (Magic Maker)
+HARD DANCE
+REMO-CON
+Mighty Cutie
+HAPPY HARDCORE
+KARUT
+MVP
+HARD TRAP
+PRIDASK
+NOIXIA
+STYLISH ELECTRO
+BEMANI Sound Team "HuΣeR"
+ＰＡＳＴＥＬＩＳＭ
+KAWAII FUTURE BASS
+Snail's House
+PERFECT HUMAN
+IIDX EDITION
+Remixed by Ryu☆ feat. BEMANI Sound Team “PON”
+PopなEDEN
+J-POP
+YASUHIRO(康寛) feat.橘田ほのか
+Pinky Happy Crazy
+HAPPY
+BEMANI Sound Team "Risk Junk"
+PIT A PAT
+NEO CANDY RAVE
+Zekk
+Raspberry Potion (feat.あれたん♡ & ぎゃるのしん☆)
+LOVE♡CORE
+Tatsunoshin & 藍良あれれ
+RAVE SYNDROME
+REVERSE BASS
+Yuta Imai
+Roar of Chronos
+DIAMOND CORE
+BEMANI Sound Team "KE!JU"
+Satellite Burst
+HARD SYMPHONIC
+xi
+Secret Rouge
+DIGITAL J-POP
+ハレトキドキ
+Shirdal
+CHAOTIC METAL BREAKCORE
+Dirty Androids
+Show Me All Your Love
+NEORAVE
+Hommarju
+Skratch Education Lv-1
+DJ BATTLE
+DJ Mass MAD Izm*
+Slumber☆Party
+MULTIGENRE
+BEMANI Sound Team "めめめ"
+Space In Time
+FUTURE ‘N’ BASS
+Masayoshi Iimori
+Stargazing Trip ～星 探す旅～ ft. 小林マナ
+ANIME-STYLE DRUM AND BASS
+Xceon
+SµG@R RU$#
+H4P9Y H@RI>C0RE
+Yuta Imai
+TECHNO RUMBLE
+SPED UP SCHRANZ
+Qlarabelle
+u gotta beat
+TECHCORE
+KARUT
+Uaigh Gealaí
+NEURO FUNK / CEILTEACH DORCHA
+かめりあ
+Vibing! Shake it!
+SOCA/HARD DANCE
+らっぷびと Prod. by RoughSketch & NUE
+Without Heaven
+VARIABLE ORIENTAL CORE
+BEMANI Sound Team "ZAQUVA"
+アラビアン ハイパー ナイト
+ARABIC TRAP CORE
+BEMANI Sound Team "マックス ステロイ度！"
+えだまめカレークッキング
+ZUNTSUMU TEETEE
+OSTER project feat. ずんだもん ＆ 春日部つむぎ
+オッド♡ラヴィ
+LOVELY TECHCORE
+lapix feat. PANXI
+きみのせかい
+8-BIT MIXTURE
+Nhato
+最強頂戴girl♡
+TWINKLE POP
+BEMANI Sound Team "TATSUYA" feat. ななひら
+灼熱 Lost Summer Dayz
+DRUM'N'BASS
+DJ Mass MAD Izm* feat.すみはね
+消極的セツナイズム
+ROCK
+Pizuya's Cell
+スキッテイエェエエェ!!!!
+Hi-ラブコメPOP
+cosMo＠暴走P & BEMANI Sound Team "L.E.D.-G"
+スパークリング☆彡ハイパーチューン！！
+EUROBEAT
+Machico
+断罪の一花
+J-POP
+Len feat.mochari
+天使のカンタータ -Cantata of Angels-
+ANTHEM
+BEMANI Sound Team "Cuvelia"
+ドリムチウ
+HARDCORE TECHNO
+TORIENA
+爆ぜりゃんせ
+繚乱呂句
+敦姫
+ハルイロメロディー
+AOHARU MELODY
+月乃 ＆ BEMANI Sound Team "劇団レコード"
+Concept of Pinky Crush
+side:SOUND by IIDX Sound Team
+ビビッドでピュアなイメージカラーの「Pink」と、IIDXらしいラディカルなイメージの「Crush」の組み合わせとなる、“beatmania IIDX 32 Pinky Crush”
+これまでも、ダンスミュージックのトレンドの流れと共に、HAPPYやEUPHORICなイメージのコンセプトを打ち出したバージョンが存在しましたが、今回のコンセプトではさらに突き抜けたイメージの高揚感、プレイする皆さんがbeatmania IIDXを通して1つの大型ミュージックフェスティバルに参加しているかのような高揚感を体感して頂けるイメージでお送りしています。
+今回、参加して頂いたコンポーザーの皆さんには全体的に明るくハイテンションなイメージで制作をお願いしつつ、個々に得意とされるスタイルを加味し様々な形で制作をご依頼しました。
+わかりやすいコンセプトを前面に出しつつも、様々な形のハイテンション、跳躍するような躍動感、これから行われるショーへの期待感、ひたすらパワフルに突進する疾走感、等々様々な形でのハイテンション感をイメージした楽曲をコンパイルしています。 （時にはその様な気分ではない事もあるかと思いますので、IIDXらしいクールで「Crush」な楽曲もご用意しております！）
+また、今回もbeatmania IIDXのコンセプトにマッチした、リスニングでも、プレイしても楽しい話題の人気曲を多数ラインナップしました。
+それではbeatmania IIDX 32 Pinky Crushのテンションを体感して下さい。
+Concept of Pinky Crush
+side:VISUAL by IIDX Designers
+ピンキークラッシュ！
+色鮮やかで刺激的！ピンクカラーのIIDXが誕生しました！
+IIDXチームでは、スタッフ全員がアイデアを持ち寄り、自由に発言する開発会議をしております。
+今作では、まず最初に「ピンク」というメインカラーが決まりました。
+過去のIIDXシリーズの中にも、色を主軸としたものはいくつかありました。
+ゲーム画面の色合いで言えば、beatmania IIDX 16 EMPRESSが近いかも知れません。
+ですが今作のテーマコンセプトは今までにない、全く新しいものとなっています。
+前作のbeatmania IIDX 31 EPOLISでは、少し大人向けなスタイリッシュさや、近未来都市という都会的な雰囲気をテーマにお送りしました。
+今作のbeatmania IIDX 32 Pinky Crushではがらりと変わり、矢印のように「跳ねる！」「ジャンプ！」「上昇する！」といった、明るく、若さ溢れるエネルギッシュなテーマで取り組んでおります。
+「Pinky」。これは勿論、直球な色の意味もあるのですが、ピンクという色には「幸福」や「若さ」といった意味もあります。
+「Crush」。これは意味合いが幅広く、日本では「砕く」「押しつぶす」といった破壊的イメージを最初に想像してしまいがちです。
+しかし、この単語には「片思い」「憧れ」などの表現や、趣味などの物事に「夢中になる」という意味でもよく使われます。音楽に夢中になる。これもまた「crush on」「crushing on」という言い方でよく使用されます。
+これらのテーマやサブタイトルのイメージから、ゲーム画面のグラフィックなどを含めたアイデアが練りこまれ、最終的な今作の世界観としては、巨大なエンタテインメントイベントが行われている会場「Pinky Crush」と成りました！
+日本でも世界中でも、毎年様々なエンタテインメントイベントが行われています。皆さんも1度は参加された事があるかもしれません。
+ライブやフェスもあれば、ゲーム総合展示会、即売会、他にも各種スポーツや、趣味など開催規模の大小問わず、多種多様なイベントの数々。
+そして、それらの空間に無くてはならないもの、それはテンションの上がる音楽ではないでしょうか。
+エンタテインメントイベントに参加した方ならわかると思います。
+参加前からワクワクとした高揚感、未知への期待が膨らみ、そして、参加してからのハイテンション。
+達成感、満足感。得られる感じ方は人それぞれですが、何かは自分の中に残る。想い出や、自己の経験値が溜まる。
+エンタテインメントイベント会場「Pinky Crush」では、サウンド、プログラム、デザインの三本の矢が、それら全てが詰まったような、矢印の如く突き進んで跳ね上がる、エネルギーに溢れた、新しい楽曲やゲームをお届けして参ります！
+この「beatmania IIDX 32 Pinky Crush」をプレーして参加入場して頂き、是非ゲームでクリアをした達成感で「幸せ＆夢中」なエンタテインメント会場を感じて貰えましたら嬉しく思います！
+宜しくお願い申し上げます！
+©2026 Konami Arcade Games

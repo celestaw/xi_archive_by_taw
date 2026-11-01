@@ -1,0 +1,391 @@
+{
+  "checked_on": "2026-10-25",
+  "games": [
+    {
+      "id": "music-diver",
+      "title": "MUSIC DIVER",
+      "note": "公式公開曲目から確認した4曲。初収録日は未確認です。",
+      "tracks": [
+        {
+          "work_id": "XI-017",
+          "title": "FREEDOM DiVE↓",
+          "credited_name": "xi",
+          "role": "",
+          "source_url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+          "evidence": "タイトー公式の公開楽曲一覧データ（music_id=89）に曲名とartist_name: xiを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "",
+          "listening": null,
+          "identity_note": "公式一覧の同一artist_id=51に既知のFREEDOM DiVE↓・Halcyonと掲載。Qualia Crystalの公式紹介動画は本人xi Officialへリンク。",
+          "source_label": "MUSIC DIVER公式・公開曲目データ",
+          "note": "全収録曲ページが参照する公開API。deliver_start_dateには2021-01-01等の内部値があるため、初収録日に採用しない。"
+        },
+        {
+          "work_id": "XI-026",
+          "title": "Halcyon",
+          "credited_name": "xi",
+          "role": "",
+          "source_url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+          "evidence": "タイトー公式の公開楽曲一覧データ（music_id=203）に曲名とartist_name: xiを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "",
+          "listening": null,
+          "identity_note": "公式一覧の同一artist_id=51に既知のFREEDOM DiVE↓・Halcyonと掲載。Qualia Crystalの公式紹介動画は本人xi Officialへリンク。",
+          "source_label": "MUSIC DIVER公式・公開曲目データ",
+          "note": "全収録曲ページが参照する公開API。deliver_start_dateには2021-01-01等の内部値があるため、初収録日に採用しない。"
+        },
+        {
+          "work_id": "XI-214",
+          "title": "Qualia Crystal",
+          "credited_name": "xi",
+          "role": "",
+          "source_url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+          "evidence": "タイトー公式の公開楽曲一覧データ（music_id=5）に曲名とartist_name: xiを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "",
+          "listening": {
+            "url": "https://www.youtube.com/watch?v=_02OtxIa0xM",
+            "label": "タイトー公式YouTube",
+            "version": "公式楽曲紹介映像",
+            "official_basis": "taitochannelのMUSIC DIVER紹介。説明欄にタイトー著作権表記・ゲーム公式サイト・xi本人チャンネルへのリンク。",
+            "officialness_source_url": "https://musicdiver.jp/",
+            "availability": "紹介映像の掲載を確認。全曲フル尺の公開とはしない。"
+          },
+          "identity_note": "公式一覧の同一artist_id=51に既知のFREEDOM DiVE↓・Halcyonと掲載。Qualia Crystalの公式紹介動画は本人xi Officialへリンク。",
+          "source_label": "MUSIC DIVER公式・公開曲目データ",
+          "note": "全収録曲ページが参照する公開API。deliver_start_dateには2021-01-01等の内部値があるため、初収録日に採用しない。",
+          "credit_source_url": "https://www.youtube.com/watch?v=_02OtxIa0xM"
+        },
+        {
+          "work_id": "XI-223",
+          "title": "Solar Storm",
+          "credited_name": "xi",
+          "role": "",
+          "source_url": "https://mypage.musicdiver.jp/api/music?lang=ja",
+          "evidence": "タイトー公式の公開楽曲一覧データ（music_id=204）に曲名とartist_name: xiを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "",
+          "listening": null,
+          "identity_note": "公式一覧の同一artist_id=51に既知のFREEDOM DiVE↓・Halcyonと掲載。Qualia Crystalの公式紹介動画は本人xi Officialへリンク。",
+          "source_label": "MUSIC DIVER公式・公開曲目データ",
+          "note": "全収録曲ページが参照する公開API。deliver_start_dateには2021-01-01等の内部値があるため、初収録日に採用しない。"
+        }
+      ]
+    },
+    {
+      "id": "cytus",
+      "title": "Cytus",
+      "note": "公式試聴一覧と日本公式サウンドトラック案内で確認した曲を掲載。ほかの曲は照合中です。",
+      "tracks": [
+        {
+          "work_id": "XI-026",
+          "title": "Halcyon",
+          "credited_name": "Xi",
+          "role": "",
+          "source_url": "https://rayark.com/g/cytus/mobile/pv.html",
+          "evidence": "Rayark公式Cytus Song Preview ListでHalcyon / by Xiを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "Cytus（モバイル版）",
+          "listening": {
+            "url": "https://youtu.be/laTdlSCf7mc",
+            "label": "Rayark公式サイト掲載の試聴",
+            "version": "Cytus公式紹介映像",
+            "official_basis": "Rayark公式Song Preview ListのHalcyon項目から直接リンク。",
+            "officialness_source_url": "https://rayark.com/g/cytus/mobile/pv.html",
+            "availability": "公式サイト上のリンク掲載を確認。現在の再生可否は未検証。"
+          },
+          "identity_note": "",
+          "source_label": "Rayark公式Cytus試聴一覧",
+          "note": ""
+        },
+        {
+          "work_id": "XI-227",
+          "title": "Storia",
+          "credited_name": "xi vs sakuzyo",
+          "role": "合作（名義：xi vs sakuzyo）。個別の分担は未確認。",
+          "source_url": "https://cytusjapan.com/music/",
+          "evidence": "Cytus日本公式のChapter M-MILLION全10曲を含むサウンドトラック案内にStoria / xi vs sakuzyoを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "Cytus / Chapter M-MILLION",
+          "listening": null,
+          "identity_note": "",
+          "source_label": "Cytus日本公式・M-MILLION案内",
+          "note": "CD発売日をゲーム初収録日に使わない。店別CD特典の曲目はゲーム収録の証拠にしていない。"
+        }
+      ]
+    },
+    {
+      "id": "cytus2",
+      "title": "Cytus II",
+      "note": "開発元提供の更新履歴で確認した曲を掲載。Cytusとの収録関係は別に扱います。",
+      "tracks": [
+        {
+          "work_id": "XI-203",
+          "title": "MESSiΛH COMPL3X",
+          "credited_name": "xi",
+          "role": "",
+          "source_url": "https://apps.apple.com/jp/app/cytus-ii/id1290687550",
+          "evidence": "RayarkのApp Store掲載更新履歴「Rayark 15th Anniversary Update」に無料追加曲MESSiΛH COMPL3X / xiを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "Cytus II（iOS版）",
+          "listening": null,
+          "identity_note": "",
+          "source_label": "Cytus II・開発元提供のApp Store更新履歴",
+          "note": "更新履歴の告知と初収録日は別に調べる。Cytus初代への収録を意味しない。"
+        }
+      ]
+    },
+    {
+      "id": "chrono-circle",
+      "title": "クロノサークル",
+      "note": "公式BGAで曲名と作曲者を確認。公式曲目ページは取得できず、ほかの収録曲は照合中です。",
+      "tracks": [
+        {
+          "work_id": "XI-201",
+          "title": "MEGALØDON",
+          "credited_name": "xi",
+          "role": "作曲（Composer）：xi。映像：yusi.",
+          "source_url": "https://www.youtube.com/watch?v=qZm9hZgEqWk",
+          "evidence": "CHRONO CIRCLE OFFICIALのBGA説明にTitle - MEGALØDON、Composer - xi、ver.1.270 Updated Songを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "",
+          "listening": null,
+          "identity_note": "公式ゲームの曲別Composer欄と、提供リストのChrono Circle項目を照合。本人への直接リンクによる再照合は未完了。",
+          "source_label": "CHRONO CIRCLE公式BGA",
+          "note": "公式チャンネルの表示名・Andamiro著作権表記・公式ドメインへのリンクを確認。動画公開日を初収録日にしない。"
+        }
+      ]
+    },
+    {
+      "id": "arcaea",
+      "title": "Arcaea",
+      "note": "現在の確認範囲はNintendo Switch版の追加パック。モバイル版とほかの曲は照合中です。",
+      "tracks": [
+        {
+          "work_id": "XI-135",
+          "title": "Overwhelm",
+          "credited_name": "xi",
+          "role": "",
+          "source_url": "https://www.nintendo.com/us/store/products/esoteric-order-pack-70050000030010-switch/",
+          "evidence": "Nintendo公式ストアのArcaea「Esoteric Order Pack」内容にOverwhelm by xiを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "Nintendo Switch / Esoteric Order Pack",
+          "listening": null,
+          "identity_note": "",
+          "source_label": "Nintendo公式ストア・Arcaea追加パック",
+          "note": "Switch版のパック収録根拠。モバイル版の収録日や、アルバムのLong Versionとは混同しない。"
+        }
+      ]
+    },
+    {
+      "id": "groove-coaster",
+      "title": "グルーヴコースター（アプリ版）",
+      "note": "アプリ版の公式曲目を照合。AC表記はアプリ内アーケードモードへの対応を表します。",
+      "tracks": [
+        {
+          "work_id": "XI-026",
+          "title": "Halcyon",
+          "credited_name": "xi",
+          "role": "",
+          "source_url": "https://groovecoaster.com/apps/music.html",
+          "evidence": "タイトーのアプリ版公式曲目にHalcyon / xiを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "iOS / Android アプリ版",
+          "listening": null,
+          "identity_note": "",
+          "source_label": "グルーヴコースター・アプリ版公式曲目",
+          "note": "このページのACはアプリのアーケードモード対応という意味。筐体版の収録根拠へ読み替えない。"
+        },
+        {
+          "work_id": "XI-041",
+          "title": "Valhalla",
+          "credited_name": "xi",
+          "role": "",
+          "source_url": "https://groovecoaster.com/apps/music.html",
+          "evidence": "タイトーのアプリ版公式曲目にValhalla / xiを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "iOS / Android アプリ版",
+          "listening": null,
+          "identity_note": "",
+          "source_label": "グルーヴコースター・アプリ版公式曲目",
+          "note": "このページのACはアプリのアーケードモード対応という意味。筐体版の収録根拠へ読み替えない。"
+        },
+        {
+          "work_id": "XI-223",
+          "title": "Solar Storm",
+          "credited_name": "xi",
+          "role": "",
+          "source_url": "https://groovecoaster.com/apps/music.html",
+          "evidence": "タイトーのアプリ版公式曲目にSolar Storm / xiを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "iOS / Android アプリ版",
+          "listening": null,
+          "identity_note": "",
+          "source_label": "グルーヴコースター・アプリ版公式曲目",
+          "note": "このページのACはアプリのアーケードモード対応という意味。筐体版の収録根拠へ読み替えない。"
+        }
+      ]
+    },
+    {
+      "id": "groove-coaster-switch",
+      "title": "グルーヴコースター ワイワイパーティー!!!!",
+      "note": "Nintendo Switch版の公式DLC案内で確認した曲を掲載。ほかのパックも照合中です。",
+      "tracks": [
+        {
+          "work_id": "XI-223",
+          "title": "Solar Storm",
+          "credited_name": "xi",
+          "role": "",
+          "source_url": "https://groovecoaster.com/switch/dlc.html",
+          "evidence": "タイトー公式DLC「オリジナル パック8（アーケードメモリアル特集）」の説明と収録曲目にSolar Storm / xiを確認。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "収録",
+          "edition": "Nintendo Switch / オリジナル パック8",
+          "listening": null,
+          "identity_note": "",
+          "source_label": "ワイワイパーティー!!!!公式DLC案内",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "project-sekai",
+      "title": "プロジェクトセカイ",
+      "note": "ANiMAの追加告知と大会向け提供を掲載。通常配信の実施日・現状は別途確認中です。",
+      "tracks": [
+        {
+          "work_id": "XI-072",
+          "title": "ANiMA",
+          "credited_name": "xi",
+          "role": "作曲：xi",
+          "source_url": "https://prtimes.jp/main/html/rd/p/000007397.000005397.html",
+          "evidence": "セガ発表のDEEMO×Cytusタイアップ追加予定にANiMA（作曲：xi）を確認。予定日は2026年6月25日。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "追加告知",
+          "edition": "",
+          "listening": null,
+          "identity_note": "",
+          "source_label": "株式会社セガ・タイアップ発表",
+          "note": "追加予定の一次発表を確認。実装済みとする二次報道もあるが、実施日を確定する一次資料は追加確認。6月23日は同発表のSaikaでありANiMAの日付ではない。"
+        },
+        {
+          "work_id": "XI-161",
+          "title": "ULTIM@TE☆BE∀M!!",
+          "credited_name": "xi feat. 初音ミク",
+          "role": "作詞・作曲等：xi。歌唱：初音ミク",
+          "source_url": "https://www.youtube.com/watch?v=VNK8leVFy-g",
+          "evidence": "保存済みのxi本人動画タイトル・説明欄にプロジェクトセカイChampionship 2026決勝向け書き下ろしと記載。",
+          "checked_on": "2026-10-25",
+          "listing_kind": "大会向け提供",
+          "edition": "",
+          "listening": null,
+          "identity_note": "",
+          "source_label": "xi Official・大会向け本人MV",
+          "note": "大会向け提供の根拠。通常ゲーム内配信とその開始日は未確認。"
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "game": "Cytus",
+      "original": "Parousia",
+      "input_id": "NOTE-150",
+      "source_url": "https://note.com/taw_fr0mug/n/nff07ee8d5758",
+      "status": "一次資料の追加照合が必要"
+    },
+    {
+      "game": "Cytus",
+      "original": "Zauberkugel",
+      "input_id": "NOTE-151",
+      "source_url": "https://note.com/taw_fr0mug/n/nff07ee8d5758",
+      "status": "一次資料の追加照合が必要"
+    },
+    {
+      "game": "Cytus",
+      "original": "Niflheimr",
+      "input_id": "NOTE-152",
+      "source_url": "https://note.com/taw_fr0mug/n/nff07ee8d5758",
+      "status": "一次資料の追加照合が必要"
+    },
+    {
+      "game": "Cytus",
+      "original": "REVOLUXIONIST",
+      "input_id": "NOTE-153",
+      "source_url": "https://note.com/taw_fr0mug/n/nff07ee8d5758",
+      "status": "一次資料の追加照合が必要"
+    },
+    {
+      "game": "Arcaea",
+      "original": "Halcyon",
+      "source_url": "https://wikiwiki.jp/arcaea/",
+      "status": "Wikiは探索用。曲別のゲーム運営一次資料を追加照合。radio editをアルバム版と同一音源にしない。"
+    },
+    {
+      "game": "Arcaea",
+      "original": "Tiferet",
+      "source_url": "https://wikiwiki.jp/arcaea/",
+      "status": "Wikiは探索用。曲別のゲーム運営一次資料を追加照合。radio editをアルバム版と同一音源にしない。"
+    },
+    {
+      "game": "Arcaea",
+      "original": "Dreadnought",
+      "source_url": "https://wikiwiki.jp/arcaea/",
+      "status": "Wikiは探索用。曲別のゲーム運営一次資料を追加照合。radio editをアルバム版と同一音源にしない。"
+    },
+    {
+      "game": "Arcaea",
+      "original": "World Fragments III(radio edit)",
+      "source_url": "https://wikiwiki.jp/arcaea/",
+      "status": "Wikiは探索用。曲別のゲーム運営一次資料を追加照合。radio editをアルバム版と同一音源にしない。"
+    },
+    {
+      "game": "Arcaea",
+      "original": "Parallax",
+      "source_url": "https://wikiwiki.jp/arcaea/",
+      "status": "Wikiは探索用。曲別のゲーム運営一次資料を追加照合。radio editをアルバム版と同一音源にしない。"
+    },
+    {
+      "game": "クロノサークル",
+      "original": "Aragami",
+      "source_url": "https://vgost.fandom.com/wiki/Xi",
+      "status": "二次資料の探索候補。公式曲目ページはSSOへの転送で取得できず。"
+    },
+    {
+      "game": "クロノサークル",
+      "original": "FREEDOM DiVE↓",
+      "source_url": "https://vgost.fandom.com/wiki/Xi",
+      "status": "二次資料の探索候補。公式曲目ページはSSOへの転送で取得できず。"
+    },
+    {
+      "game": "クロノサークル",
+      "original": "Halcyon",
+      "source_url": "https://vgost.fandom.com/wiki/Xi",
+      "status": "二次資料の探索候補。公式曲目ページはSSOへの転送で取得できず。"
+    },
+    {
+      "game": "クロノサークル",
+      "original": "Qualia Crystal",
+      "source_url": "https://vgost.fandom.com/wiki/Xi",
+      "status": "二次資料の探索候補。公式曲目ページはSSOへの転送で取得できず。"
+    }
+  ],
+  "limitations": [
+    "挙げられた機種の一次資料を追加照合した途中成果であり、全収録曲の調査完了ではない。",
+    "プロセカ公式楽曲JSONは65曲のみでANiMA等を含まず、現行全曲一覧とは扱わない。",
+    "Arcaeaの探索先ALbxibB7X0Qは個人プレイ動画だったため、公式試聴・一次資料には採用しない。",
+    "その他の元リスト機種（太鼓、DEEMO、SEVENS CODE、Crossbeats等）も今後の調査対象。"
+  ]
+}

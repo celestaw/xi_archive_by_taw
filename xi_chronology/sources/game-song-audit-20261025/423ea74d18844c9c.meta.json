@@ -1,0 +1,13 @@
+{
+  "url": "https://maimai.sega.jp/data/maimai_songs.json",
+  "key": "423ea74d18844c9c",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://maimai.sega.jp/data/maimai_songs.json",
+  "sha256": "f512e97e9e9ddf0c1131da8bd8f83a6affb6c03786e2d9c106c230f866b04131",
+  "bytes": 476363,
+  "read_limit_reached": false,
+  "title": "",
+  "links": []
+}

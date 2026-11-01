@@ -1,0 +1,16 @@
+{
+  "url": "https://taiko-ch.net/blog/?m=20220818",
+  "key": "a369745a31ae291e",
+  "checked_on": "2026-10-25",
+  "status": "retrieved",
+  "http_status": 200,
+  "final_url": "https://maintenance.bn-am.net:443/index.html",
+  "sha256": "cbcb7dcd2199dd88d7d11e3dcd3df1e305d699a366da0202280a287b9e5c513c",
+  "bytes": 5418,
+  "read_limit_reached": false,
+  "title": "メンテナンスのお知らせ | バンダイナムコアミューズメント",
+  "links": [
+    "./",
+    "./"
+  ]
+}
