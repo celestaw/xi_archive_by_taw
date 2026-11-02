@@ -9,7 +9,7 @@ import { layoutTimeline, PLOT_PADDING, ROW_HEIGHT, type TimelineRow } from "@/li
 
 const loadTimeline = (signal: AbortSignal) => api.timeline(signal);
 const normalize = (value: string) => value.normalize("NFKC").toLocaleLowerCase("ja");
-const accessLabel = (entry: TimelineRow["entry"]) => entry.audio_access === "official" ? "公式音源・アルバムあり" : entry.audio_access === "unofficial" ? "非公式投稿で聴取可能（リンク非掲載）" : "音源未確認";
+const accessLabel = (entry: TimelineRow["entry"]) => entry.audio_access === "official" ? "公式音源・アルバムあり" : entry.audio_access === "unofficial" ? "聴取可能" : "音源未確認";
 
 export function TimelineExplorer() {
   const { data, pending, error, retry } = useResource(loadTimeline);
@@ -154,7 +154,7 @@ export function TimelineExplorer() {
     </ul>
     <div className="timeline-controls">
       <div className="search-form timeline-search"><span className="search-icon" aria-hidden="true" /><label htmlFor="timeline-search" className="sr-only">グラフの曲名・別名で検索</label><input id="timeline-search" type="search" placeholder="曲名・別名で探す" value={query} maxLength={120} onChange={event => setQuery(event.target.value)} /></div>
-      <label>表示する作品<select value={filter} onChange={event => setFilter(event.target.value)}><option value="all">すべて</option><option value="preview">仮公開の記録あり</option><option value="available">聴ける音源あり</option><option value="official">公式音源・アルバムあり</option><option value="unofficial">非公式投稿のみ確認</option><option value="unverified">音源未確認</option></select></label>
+      <label>表示する作品<select value={filter} onChange={event => setFilter(event.target.value)}><option value="all">すべて</option><option value="preview">仮公開の記録あり</option><option value="available">聴ける音源あり</option><option value="official">公式音源・アルバムあり</option><option value="unverified">音源未確認</option></select></label>
       <label>横軸の縮尺<select value={scale} onChange={event => setScale(event.target.value)}><option value="overview">全期間を見渡す</option><option value="standard">横に広く表示</option><option value="year">さらに拡大</option><option value="month">月を大きく表示</option></select></label>
       <label>行の間隔<select value={rowHeight} onChange={event => setRowHeight(Number(event.target.value))}><option value={16}>コンパクト</option><option value={24}>標準</option><option value={32}>広め</option></select></label>
       <label>年へ移動<select value="" onChange={event => jumpToYear(event.target.value)} disabled={!layout.years.length}><option value="">年を選ぶ</option>{layout.years.map(year => <option key={year} value={year}>{year}年</option>)}</select></label>
@@ -186,7 +186,7 @@ export function TimelineExplorer() {
             </div>
           </div>
         </div>
-        <p id="timeline-date-note" className="timeline-date-note">YouTube・アルバム・SoundCloudなどに全曲の掲載があるものは、現在も聴ける扱いです。公式・非公式はポップアップで区別し、非公式投稿のリンクは掲載しません。音源未確認の曲は白丸と点線で現在まで表示します。ゲーム収録歴だけでは聴取可能と判定しません。実再生・地域制限、過去からの連続公開は未検証。月日不明の点は既知期間の中央に配置します。</p>
+        <p id="timeline-date-note" className="timeline-date-note">YouTube・アルバム・SoundCloudなどに全曲の掲載があるものは、現在も聴ける扱いです。音源未確認の曲は白丸と点線で現在まで表示します。ゲーム収録歴だけでは聴取可能と判定しません。実再生・地域制限、過去からの連続公開は未検証。月日不明の点は既知期間の中央に配置します。</p>
       </> : entries.length === 0 && <div className="empty-state"><h2>該当する記録がありません。</h2><p>曲名の一部で探すか、表示する作品を変えてみてください。</p>{(query || filter !== "all") && <button className="text-link" onClick={() => { setQuery(""); setFilter("all"); }}>条件をクリア</button>}</div>}
       {undated.length > 0 && (deferredQuery || !layout.rows.length
         ? <section className="timeline-undated" aria-labelledby="timeline-undated-title"><h2 id="timeline-undated-title">日付未確認の作品 {undated.length}曲</h2><p>公開時期の記録がないため、グラフには配置していません。曲名から作品の記録を開けます。</p>{undatedList}</section>

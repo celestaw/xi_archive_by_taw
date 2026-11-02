@@ -54,7 +54,8 @@ class PublicBoundaryTests(unittest.TestCase):
             detail = self.client.get(f'/api/v1/works/{work_id}').json()
             self.assertTrue(detail['has_unofficial_audio'])
             self.assertEqual(entries[work_id]['audio_status'], 'available')
-            self.assertIn('リンク非掲載', entries[work_id]['audio_note'])
+            self.assertTrue(entries[work_id]['audio_note'].startswith('聴取可能。'))
+            self.assertNotIn('非公式', entries[work_id]['audio_note'])
         urls = ['/api/v1/timeline', '/api/v1/works?limit=100',
                 '/api/v1/works?limit=100&offset=100', '/api/v1/works?limit=100&offset=200']
         urls += [f'/api/v1/works/{work_id}{suffix}' for work_id in by_id for suffix in ['', '/context']]
