@@ -41,9 +41,9 @@ def audio_state(work: WorkDetail):
         *(AudioSource(origin="official", url=record.source_url, label=record.medium, version=record.version,
             evidence="発売・頒布済みアルバムへの収録記録。アルバムにあるものは聴ける扱い。", checked_on=record.checked_on) for record in albums)]
     sources = list({(source.origin, source.url): source for source in sources}.values())
-    if sources:
+    if sources or work.has_unofficial_audio:
         access = "official" if any(source.origin == "official" for source in sources) else "unofficial"
-        note = "公式の全曲音源・アルバムの掲載あり。" if access == "official" else "非公式投稿の全曲音源あり。公式の全曲掲載先は未確認。"
+        note = "公式の全曲音源・アルバムの掲載あり。" if access == "official" else "非公式投稿で聴取可能（リンク非掲載）。公式の全曲掲載先は未確認。"
         return "available", links, note + "掲載情報に基づき聴取可能として表示。実再生・地域制限、過去からの連続公開は未検証。", sources, access
     if candidates and all(any(term in link.availability for term in UNAVAILABLE_AUDIO_TERMS) for link in candidates):
         return "unavailable", [], "確認した全曲音源は公開終了。他の公開先・終了日は未確認。", [], "unverified"

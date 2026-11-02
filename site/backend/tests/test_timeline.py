@@ -229,7 +229,7 @@ class TimelineTests(unittest.TestCase):
 
     def test_game_listing_alone_is_not_current_audio(self):
         original = by_id['XI-205']
-        historical = original.model_copy(update={'audio_sources': [], 'listening': []})
+        historical = original.model_copy(update={'audio_sources': [], 'listening': [], 'has_unofficial_audio': False})
         self.assertEqual(timeline_entry(historical).audio_status, 'unverified')
         self.assertIn('ゲーム収録歴だけ', timeline_entry(historical).audio_note)
 
@@ -242,7 +242,8 @@ class TimelineTests(unittest.TestCase):
                 self.assertEqual(entry.audio_access, 'unofficial')
                 self.assertEqual(work.listening, [])
                 self.assertFalse(work.has_official_listening)
-                self.assertTrue(all(source.origin == 'unofficial' for source in entry.audio_sources))
+                self.assertEqual(entry.audio_sources, [])
+                self.assertTrue(work.has_unofficial_audio)
 
     def test_official_cd_and_label_videos_are_current_audio(self):
         for work_id in ['XI-239', 'XI-252', 'XI-192']:
@@ -276,11 +277,17 @@ class TimelineTests(unittest.TestCase):
                 self.assertEqual(entry.audio_status, 'available')
                 self.assertEqual(entry.audio_access, origin)
                 host = 'music.youtube.com' if work_id == 'XI-162' else 'www.youtube.com'
-                self.assertEqual([(s.origin, s.url) for s in entry.audio_sources],
-                                 [(origin, f'https://{host}/watch?v={video_id}')])
                 detail = client.get(f'/api/v1/works/{work_id}').json()
-                self.assertEqual(detail['audio_sources'][0]['origin'], origin)
-                self.assertIn('未実施', detail['audio_sources'][0]['evidence'])
+                if origin == 'unofficial':
+                    self.assertEqual(entry.audio_sources, [])
+                    self.assertEqual(detail['audio_sources'], [])
+                    self.assertTrue(detail['has_unofficial_audio'])
+                    self.assertNotIn(video_id, str(detail))
+                else:
+                    self.assertEqual([(s.origin, s.url) for s in entry.audio_sources],
+                                     [(origin, f'https://{host}/watch?v={video_id}')])
+                    self.assertEqual(detail['audio_sources'][0]['origin'], origin)
+                    self.assertIn('未実施', detail['audio_sources'][0]['evidence'])
         long_version = timeline_entry(by_id['XI-108'])
         self.assertEqual(long_version.title, 'After Burner (Long Version)')
         self.assertTrue(by_id['XI-108'].is_variant)
@@ -296,7 +303,7 @@ class TimelineTests(unittest.TestCase):
                 work = by_id[work_id]
                 self.assertTrue(any(link.url == 'https://osu.ppy.sh/beatmaps/artists/727'
                                     for link in work.listening))
-                preview_only = work.model_copy(update={'audio_sources': []})
+                preview_only = work.model_copy(update={'audio_sources': [], 'has_unofficial_audio': False})
                 self.assertEqual(timeline_entry(preview_only).audio_status, 'unverified')
 
     def test_official_alea_short_edit_is_preserved_without_full_album_promotion(self):

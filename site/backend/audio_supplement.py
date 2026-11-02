@@ -16,10 +16,13 @@ def apply_audio_supplements(works: list[WorkDetail], path: Path) -> list[WorkDet
         if not extra:
             result.append(work)
             continue
-        records = [*work.records, *(record for record in extra.records if record.id not in {r.id for r in work.records})]
+        hidden_urls = {source.url for source in extra.sources if source.origin == "unofficial"}
+        records = [record for record in [*work.records, *(record for record in extra.records if record.id not in {r.id for r in work.records})]
+                   if record.source_url not in hidden_urls]
         earliest = min((r for r in records if r.date), key=lambda r: (r.date, r.id), default=None)
         result.append(work.model_copy(update={"records": records, "earliest_record": earliest,
-            "audio_sources": extra.sources,
+            "audio_sources": [source for source in extra.sources if source.origin == "official"],
+            "has_unofficial_audio": work.has_unofficial_audio or bool(hidden_urls),
             "checked_on": max([work.checked_on, *(source.checked_on for source in extra.sources),
                                *(record.checked_on for record in extra.records)]),
             "has_official_listening": work.has_official_listening or any(source.origin == "official" for source in extra.sources)}))

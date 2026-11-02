@@ -1643,6 +1643,12 @@
               }
             ]
           },
+          "has_unofficial_audio": {
+            "type": "boolean",
+            "title": "Has Unofficial Audio",
+            "description": "非公式投稿で全曲音源の掲載を確認。投稿先URLは公開しない。",
+            "default": false
+          },
           "audio_sources": {
             "items": {
               "$ref": "#/components/schemas/AudioSource"

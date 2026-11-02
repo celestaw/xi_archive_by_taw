@@ -41,6 +41,29 @@ class PublicBoundaryTests(unittest.TestCase):
     def setUpClass(cls):
         cls.client = TestClient(app)
 
+    def test_unofficial_audio_stays_available_without_public_upload_urls(self):
+        audio = json.loads((BACKEND / "data/audio_sources.json").read_text(encoding="utf-8"))
+        hidden = {source['url'] for item in audio for source in item['sources']
+                  if source['origin'] == 'unofficial'}
+        timeline = self.client.get('/api/v1/timeline').json()
+        entries = {entry['id']: entry for entry in timeline['items']}
+        for item in audio:
+            if not any(source['origin'] == 'unofficial' for source in item['sources']):
+                continue
+            work_id = item['work_id']
+            detail = self.client.get(f'/api/v1/works/{work_id}').json()
+            self.assertTrue(detail['has_unofficial_audio'])
+            self.assertEqual(entries[work_id]['audio_status'], 'available')
+            self.assertIn('リンク非掲載', entries[work_id]['audio_note'])
+        urls = ['/api/v1/timeline', '/api/v1/works?limit=100',
+                '/api/v1/works?limit=100&offset=100', '/api/v1/works?limit=100&offset=200']
+        urls += [f'/api/v1/works/{work_id}{suffix}' for work_id in by_id for suffix in ['', '/context']]
+        for url in urls:
+            response = self.client.get(url)
+            self.assertEqual(response.status_code, 200)
+            for hidden_url in hidden:
+                self.assertNotIn(hidden_url, response.text, url)
+
     def test_every_api_response_has_only_public_fields(self):
         urls = ["/api/v1/health", "/api/v1/meta", "/api/v1/timeline", "/api/v1/openapi.json",
                 "/api/v1/works?limit=100", "/api/v1/works?limit=100&offset=100",

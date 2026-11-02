@@ -126,6 +126,7 @@ class WorkDetail(WorkSummary):
     relationships: list[Relationship]
     checked_on: str
     pronunciation: Pronunciation | None = None
+    has_unofficial_audio: bool = Field(default=False, description="非公式投稿で全曲音源の掲載を確認。投稿先URLは公開しない。")
     audio_sources: list[AudioSource] = Field(default_factory=list, description="追加で確認した全曲音源の掲載先。公式と非公式を区別する。実再生確認を意味しない。")
 
 

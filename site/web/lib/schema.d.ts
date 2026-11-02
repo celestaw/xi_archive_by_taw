@@ -587,6 +587,12 @@ export interface components {
             checked_on: string;
             pronunciation?: components["schemas"]["Pronunciation"] | null;
             /**
+             * Has Unofficial Audio
+             * @description 非公式投稿で全曲音源の掲載を確認。投稿先URLは公開しない。
+             * @default false
+             */
+            has_unofficial_audio: boolean;
+            /**
              * Audio Sources
              * @description 追加で確認した全曲音源の掲載先。公式と非公式を区別する。実再生確認を意味しない。
              */
